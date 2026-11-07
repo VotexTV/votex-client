@@ -11,7 +11,7 @@ This policy describes the proposed signing scope, build process, and release aut
 - Project: Votex Client — Windows launcher and Minecraft Fabric core
 - License: MIT, see [LICENSE](LICENSE); no commercial dual licensing, no proprietary components
 - Source repository: this repository; it is the only source of signed builds
-- Maintainer and release approver: Lasse Wieting
+- Maintainer and release approver: Lasse Wieting (lassewieting@gmail.com)
 
 ## Team roles
 
@@ -74,4 +74,4 @@ This program will not transfer any information to other networked systems unless
 
 ## Reporting a problem
 
-If you believe a Votex Client binary was signed incorrectly or is being distributed by an unauthorized party, contact the maintainer through GitHub. A compromised signing identity leads to revoking the affected release and publishing a new version.
+If you believe a Votex Client binary was signed incorrectly or is being distributed by an unauthorized party, contact lassewieting@gmail.com. A compromised signing identity leads to revoking the affected release and publishing a new version.
