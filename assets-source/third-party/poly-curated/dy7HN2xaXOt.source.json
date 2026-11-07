@@ -1,0 +1,50 @@
+{
+  "Title": "Butterfly",
+  "Description": "#butterfly #insect #wings #fluttering",
+  "UploadDate": "2017-10-10T20:03:29.473Z",
+  "ResourceID": "d338322e-4377-4011-a130-26298ba434b9",
+  "PublicID": "dy7HN2xaXOt",
+  "Likes": 0,
+  "CommentCount": 0,
+  "Tris": 416,
+  "Views": 245,
+  "Downloads": 42,
+  "Creator": {
+    "Username": "jeremy",
+    "DPURL": "https://static.poly.pizza/dp%2Fa5e02278-d16e-4cbc-a709-114f417fe8ef.jpg",
+    "Socials": {
+      "Twitter": "astackofpaper",
+      "Instagram": "jedelblut",
+      "Website": "https://jeremy.toys"
+    }
+  },
+  "Category": "Animals",
+  "Tags": [
+    "butterfly",
+    "insect",
+    "wings",
+    "fluttering"
+  ],
+  "Orbit": {
+    "phi": "1.31884",
+    "radius": "110%",
+    "theta": "0.87089"
+  },
+  "Background": {
+    "one": "#039be5",
+    "two": "hsl(200deg, 97%, 15%)",
+    "type": "Radial"
+  },
+  "Visibility": "Public",
+  "Type": "obj",
+  "Licence": "CC-BY 3.0",
+  "Animated": false,
+  "sourceUrl": "https://poly.pizza/m/dy7HN2xaXOt",
+  "downloadUrl": "https://static.poly.pizza/d338322e-4377-4011-a130-26298ba434b9.glb",
+  "sha256": "39a6903a9a2d1a7433261460301edfd3ff60bbe4709227aec75c559cc414e312",
+  "sourcePageSha256": "e32ec721ba2d2822ef98ce04bd9ae5ba6fb45e76382241007bce9d82ad2cc39a",
+  "retrieved": "2026-10-22T11:06:49.549Z",
+  "sourcePageRetrieved": "2026-10-22T11:06:49.311Z",
+  "verifiedAt": "2026-10-22T11:21:06.188Z",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/"
+}

@@ -1,0 +1,48 @@
+{
+  "Title": "Alpaking",
+  "UploadDate": "2022-10-23T01:01:38.539Z",
+  "ResourceID": "acb0f155-4a8a-4084-a2a8-9c17cbff7d21",
+  "PublicID": "AQ8zbFoDln",
+  "Likes": 1,
+  "CommentCount": 0,
+  "Tris": 2140,
+  "Views": 468,
+  "Downloads": "3.51k",
+  "Creator": {
+    "Username": "Quaternius",
+    "DPURL": "https://static.poly.pizza/dp%2Ff63b655a-051c-4c4b-8dcc-3b346a39ece0.jpg",
+    "Socials": {
+      "Twitter": "quaternius",
+      "Pateron": "quaternius",
+      "Website": "https://quaternius.com/"
+    }
+  },
+  "Category": "Objects",
+  "Tags": [
+    "Flying",
+    "Enemy",
+    "Monster"
+  ],
+  "Orbit": {
+    "phi": "1.37207",
+    "radius": "100%",
+    "theta": "-0.03153"
+  },
+  "Background": {
+    "one": "#5e35b1",
+    "two": "hsl(260deg, 54%, 15%)",
+    "type": "Radial"
+  },
+  "Visibility": "Public",
+  "Type": "FBX",
+  "Licence": "CC0 1.0",
+  "Animated": true,
+  "sourceUrl": "https://poly.pizza/m/AQ8zbFoDln",
+  "downloadUrl": "https://static.poly.pizza/acb0f155-4a8a-4084-a2a8-9c17cbff7d21.glb",
+  "sha256": "f1a7a128256db5fede6018a715d4a92d8e2841bbddb3a49e390ce8da3f647ca7",
+  "sourcePageSha256": "7996b7d725418e2d0e50b1e283ef15755c1a3af44889880a798b2dcd2c5d1c04",
+  "retrieved": "2026-10-22T11:01:06.012Z",
+  "sourcePageRetrieved": "2026-10-22T11:01:05.452Z",
+  "verifiedAt": "2026-10-22T11:21:05.898Z",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+}

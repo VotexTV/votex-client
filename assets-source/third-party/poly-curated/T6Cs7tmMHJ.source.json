@@ -1,0 +1,48 @@
+{
+  "Title": "Deer",
+  "UploadDate": "2021-09-07T03:23:23.572Z",
+  "ResourceID": "4b6c2a41-43c7-404c-ae37-e8c4645ff93b",
+  "PublicID": "T6Cs7tmMHJ",
+  "Likes": 24,
+  "CommentCount": 1,
+  "Tris": 1892,
+  "Views": "4.27k",
+  "Downloads": "5.58k",
+  "Creator": {
+    "Username": "Quaternius",
+    "DPURL": "https://static.poly.pizza/dp%2Ff63b655a-051c-4c4b-8dcc-3b346a39ece0.jpg",
+    "Socials": {
+      "Twitter": "quaternius",
+      "Pateron": "quaternius",
+      "Website": "https://quaternius.com/"
+    }
+  },
+  "Category": "Animals",
+  "Tags": [
+    "Deer",
+    "Wildlife",
+    "Animal"
+  ],
+  "Orbit": {
+    "phi": "1.21439",
+    "radius": "100%",
+    "theta": "0.85142"
+  },
+  "Background": {
+    "one": "#039be5",
+    "two": "hsl(200deg, 97%, 15%)",
+    "type": "Radial"
+  },
+  "Visibility": "Public",
+  "Type": "FBX",
+  "Licence": "CC0 1.0",
+  "Animated": true,
+  "sourceUrl": "https://poly.pizza/m/T6Cs7tmMHJ",
+  "downloadUrl": "https://static.poly.pizza/4b6c2a41-43c7-404c-ae37-e8c4645ff93b.glb",
+  "sha256": "fabf360b22eaccccd056ee99d698a9562d15aa245821f96e4fbad6db3751604e",
+  "sourcePageSha256": "f5d7186561e0283c33ad912b13ac70157a1b7cd2aee95bf58419aad3ff8dcc8b",
+  "retrieved": "2026-10-22T11:02:42.792Z",
+  "sourcePageRetrieved": "2026-10-22T11:02:42.612Z",
+  "verifiedAt": "2026-10-22T11:21:05.990Z",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+}

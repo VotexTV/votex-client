@@ -1,0 +1,46 @@
+{
+  "Title": "Scythe",
+  "UploadDate": "2021-08-30T11:01:39.902Z",
+  "ResourceID": "99977274-4591-4a0c-8326-0d441264cffe",
+  "PublicID": "yE9TKCewO8",
+  "Likes": 6,
+  "CommentCount": 0,
+  "Tris": 0,
+  "Views": 832,
+  "Downloads": "2.99k",
+  "Creator": {
+    "Username": "Quaternius",
+    "DPURL": "https://static.poly.pizza/dp%2Ff63b655a-051c-4c4b-8dcc-3b346a39ece0.jpg",
+    "Socials": {
+      "Twitter": "quaternius",
+      "Pateron": "quaternius",
+      "Website": "https://quaternius.com/"
+    }
+  },
+  "Category": "Weapons",
+  "Tags": [
+    "Scythe"
+  ],
+  "Orbit": {
+    "phi": "1.29323",
+    "radius": "100%",
+    "theta": "-0.03942"
+  },
+  "Background": {
+    "one": "#546e7a",
+    "two": "hsl(199deg, 18%, 15%)",
+    "type": "Radial"
+  },
+  "Visibility": "Public",
+  "Type": "FBX",
+  "Licence": "CC0 1.0",
+  "Animated": false,
+  "sourceUrl": "https://poly.pizza/m/yE9TKCewO8",
+  "downloadUrl": "https://static.poly.pizza/99977274-4591-4a0c-8326-0d441264cffe.glb",
+  "sha256": "e3c710901b23224e5dd7b6555e40d2c3e6f044f1c67e5cd0afe66549408a198b",
+  "sourcePageSha256": "671d6316c6dfbf3b6a1492ed8f026db12d3807ac1c861dbcb19fdf44494e20ef",
+  "retrieved": "2026-10-22T11:04:03.067Z",
+  "sourcePageRetrieved": "2026-10-22T11:04:02.853Z",
+  "verifiedAt": "2026-10-22T11:21:06.066Z",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+}

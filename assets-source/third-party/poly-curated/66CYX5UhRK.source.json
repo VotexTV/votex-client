@@ -1,0 +1,49 @@
+{
+  "Title": "Cactoro",
+  "UploadDate": "2022-10-23T01:01:36.981Z",
+  "ResourceID": "625862f9-590e-4fbd-88bc-9056047885dd",
+  "PublicID": "66CYX5UhRK",
+  "Likes": 2,
+  "CommentCount": 0,
+  "Tris": 2020,
+  "Views": 715,
+  "Downloads": "3.57k",
+  "Creator": {
+    "Username": "Quaternius",
+    "DPURL": "https://static.poly.pizza/dp%2Ff63b655a-051c-4c4b-8dcc-3b346a39ece0.jpg",
+    "Socials": {
+      "Twitter": "quaternius",
+      "Pateron": "quaternius",
+      "Website": "https://quaternius.com/"
+    }
+  },
+  "Category": "Animals",
+  "Tags": [
+    "Sombrero",
+    "Hat",
+    "Cactus",
+    "Monster"
+  ],
+  "Orbit": {
+    "phi": "1.37207",
+    "radius": "100%",
+    "theta": "-0.03153"
+  },
+  "Background": {
+    "one": "#5e35b1",
+    "two": "hsl(260deg, 54%, 15%)",
+    "type": "Radial"
+  },
+  "Visibility": "Public",
+  "Type": "FBX",
+  "Licence": "CC0 1.0",
+  "Animated": true,
+  "sourceUrl": "https://poly.pizza/m/66CYX5UhRK",
+  "downloadUrl": "https://static.poly.pizza/625862f9-590e-4fbd-88bc-9056047885dd.glb",
+  "sha256": "2291a31287306ab430ad4c001dff5fbedba5c79854ad19ddc1c64d5fffc506ab",
+  "sourcePageSha256": "d63520918022d5129d06d26e7b1531cb591ea0dd08687254eca40f7601360c0e",
+  "retrieved": "2026-10-22T11:01:12.096Z",
+  "sourcePageRetrieved": "2026-10-22T11:01:12.037Z",
+  "verifiedAt": "2026-10-22T11:21:05.905Z",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+}

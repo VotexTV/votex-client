@@ -1,0 +1,44 @@
+{
+  "Title": "Backpack",
+  "Description": "Perfect for on the go!",
+  "UploadDate": "2022-08-25T22:54:47.521Z",
+  "ResourceID": "babbf624-fdea-49ed-9f35-1d2b721393bc",
+  "PublicID": "uRRsiIZKHG",
+  "Likes": 5,
+  "CommentCount": 0,
+  "Tris": 746,
+  "Views": "1.19k",
+  "Downloads": "1.3k",
+  "Creator": {
+    "Username": "J-Toastie",
+    "DPURL": "https://static.poly.pizza/dp%2F2a18493e-a521-40ff-8c30-f7cfcdb513dd.jpg",
+    "Socials": {}
+  },
+  "Category": "Other",
+  "Tags": [
+    "Storage",
+    "Backpack"
+  ],
+  "Orbit": {
+    "phi": "1.40794",
+    "radius": "2.3289933439305064",
+    "theta": "-0.75035"
+  },
+  "Background": {
+    "one": "#039be5",
+    "two": "hsl(200deg, 97%, 15%)",
+    "type": "Radial"
+  },
+  "Visibility": "Public",
+  "Type": "OBJ",
+  "Licence": "CC-BY 3.0",
+  "Animated": false,
+  "sourceUrl": "https://poly.pizza/m/uRRsiIZKHG",
+  "downloadUrl": "https://static.poly.pizza/babbf624-fdea-49ed-9f35-1d2b721393bc.glb",
+  "sha256": "99cb012fb69c54cd88d9c967d1cc994462201c21fd40dec80ae0ccc9c0384c51",
+  "sourcePageSha256": "f130c995e5cd03bf81ed2351332551b673b3a33512d25921b4f8509762228600",
+  "retrieved": "2026-10-22T11:04:57.818Z",
+  "sourcePageRetrieved": "2026-10-22T11:04:57.561Z",
+  "verifiedAt": "2026-10-22T11:21:06.113Z",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/"
+}

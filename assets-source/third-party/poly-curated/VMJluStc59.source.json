@@ -1,0 +1,48 @@
+{
+  "Title": "Cowfish",
+  "UploadDate": "2022-06-20T13:20:16.592Z",
+  "ResourceID": "d4a8d818-d508-446b-ad9c-11e24aec0b6b",
+  "PublicID": "VMJluStc59",
+  "Likes": 2,
+  "CommentCount": 0,
+  "Tris": 1390,
+  "Views": 353,
+  "Downloads": "2.06k",
+  "Creator": {
+    "Username": "Quaternius",
+    "DPURL": "https://static.poly.pizza/dp%2Ff63b655a-051c-4c4b-8dcc-3b346a39ece0.jpg",
+    "Socials": {
+      "Twitter": "quaternius",
+      "Pateron": "quaternius",
+      "Website": "https://quaternius.com/"
+    }
+  },
+  "Category": "Animals",
+  "Tags": [
+    "Animal",
+    "Sea Life",
+    "Fish"
+  ],
+  "Orbit": {
+    "phi": "1.29325",
+    "radius": "100%",
+    "theta": "0.86610"
+  },
+  "Background": {
+    "one": "#039be5",
+    "two": "hsl(200deg, 97%, 15%)",
+    "type": "Radial"
+  },
+  "Visibility": "Public",
+  "Type": "FBX",
+  "Licence": "CC0 1.0",
+  "Animated": true,
+  "sourceUrl": "https://poly.pizza/m/VMJluStc59",
+  "downloadUrl": "https://static.poly.pizza/d4a8d818-d508-446b-ad9c-11e24aec0b6b.glb",
+  "sha256": "4c5c9d0644c7f2d338e4912b980ef8bc8b5eb3914f6e8521ce034b893c3c746e",
+  "sourcePageSha256": "d0cdb27a1d7cef5b8b9c356fa8202225c86781b82cf39e202d0d15dcb64558f6",
+  "retrieved": "2026-10-22T11:01:56.835Z",
+  "sourcePageRetrieved": "2026-10-22T11:01:56.386Z",
+  "verifiedAt": "2026-10-22T11:21:05.943Z",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+}

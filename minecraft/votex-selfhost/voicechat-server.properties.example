@@ -1,0 +1,11 @@
+port=24454
+bind_address=127.0.0.1
+voice_host=PUBLIC_VOICE_HOST
+max_voice_distance=48.0
+whisper_distance=24.0
+codec=VOIP
+mtu_size=1024
+keep_alive=1000
+enable_groups=true
+allow_recording=false
+force_voice_chat=false

@@ -1,0 +1,49 @@
+{
+  "Title": "Armabee Evolved",
+  "UploadDate": "2022-10-23T01:01:38.427Z",
+  "ResourceID": "fb7d7a9e-5584-4e0b-a1bf-251fc9946696",
+  "PublicID": "GcttdvsqsQ",
+  "Likes": 1,
+  "CommentCount": 0,
+  "Tris": 1768,
+  "Views": 554,
+  "Downloads": "3.5k",
+  "Creator": {
+    "Username": "Quaternius",
+    "DPURL": "https://static.poly.pizza/dp%2Ff63b655a-051c-4c4b-8dcc-3b346a39ece0.jpg",
+    "Socials": {
+      "Twitter": "quaternius",
+      "Pateron": "quaternius",
+      "Website": "https://quaternius.com/"
+    }
+  },
+  "Category": "Animals",
+  "Tags": [
+    "Animal",
+    "Flying",
+    "Bee",
+    "Insect"
+  ],
+  "Orbit": {
+    "phi": "1.37207",
+    "radius": "100%",
+    "theta": "-0.03153"
+  },
+  "Background": {
+    "one": "#5e35b1",
+    "two": "hsl(260deg, 54%, 15%)",
+    "type": "Radial"
+  },
+  "Visibility": "Public",
+  "Type": "FBX",
+  "Licence": "CC0 1.0",
+  "Animated": true,
+  "sourceUrl": "https://poly.pizza/m/GcttdvsqsQ",
+  "downloadUrl": "https://static.poly.pizza/fb7d7a9e-5584-4e0b-a1bf-251fc9946696.glb",
+  "sha256": "61a48cfba610e46abba0c98f5371d331f60ed087a55a335580cbf27ba4b3d190",
+  "sourcePageSha256": "58f649c3692c52bf2a2d8c219fa2f3d3cf4bb483cac3abfd1b525af5c6ef679f",
+  "retrieved": "2026-10-22T11:01:07.124Z",
+  "sourcePageRetrieved": "2026-10-22T11:01:07.046Z",
+  "verifiedAt": "2026-10-22T11:21:05.900Z",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+}

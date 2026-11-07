@@ -1,0 +1,147 @@
+.installation-feedback {
+  position: fixed;
+  right: 24px;
+  bottom: 52px;
+  z-index: 1200;
+  display: grid;
+  gap: 10px;
+  width: min(410px, calc(100vw - 32px));
+  pointer-events: none;
+}
+.installation-card {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+  padding: 19px 20px;
+  border: 1px solid color-mix(in srgb, var(--accent) 32%, transparent);
+  border-radius: var(--radius, 18px);
+  background: color-mix(in srgb, var(--bg) 92%, transparent);
+  backdrop-filter: blur(min(var(--blur), 18px));
+  box-shadow:
+    0 18px 60px #0005,
+    inset 0 1px 0 #ffffff13;
+  color: var(--text);
+  pointer-events: auto;
+  position: relative;
+  overflow: hidden;
+}
+.installation-emblem {
+  height: 48px;
+  width: 48px;
+  flex: 0 0 48px;
+  display: grid;
+  place-items: center;
+  color: var(--accent);
+  position: relative;
+  border-radius: 50%;
+  background: color-mix(in srgb, var(--accent) 12%, transparent);
+}
+.installation-orbit {
+  position: absolute;
+  inset: 0;
+  width: 48px;
+  height: 48px;
+  fill: none;
+  stroke: currentColor;
+  stroke-width: 1.7;
+  stroke-dasharray: 38 95;
+  animation: install-orbit 1.6s linear infinite;
+}
+.installation-copy {
+  min-width: 0;
+  flex: 1;
+}
+.installation-copy strong {
+  font-size: 14px;
+  font-weight: 600;
+}
+.installation-copy p {
+  margin: 5px 0 10px;
+  color: var(--muted);
+  font-size: 12px;
+  line-height: 1.45;
+  overflow-wrap: anywhere;
+}
+.installation-copy small {
+  display: block;
+  margin-top: 5px;
+  color: var(--muted);
+  font-size: 10px;
+}
+.installation-track {
+  height: 4px;
+  border-radius: 8px;
+  background: color-mix(in srgb, var(--text) 9%, transparent);
+  overflow: hidden;
+}
+.installation-track span {
+  display: block;
+  height: 100%;
+  border-radius: inherit;
+  background: var(--accent);
+  transition: width 0.25s ease;
+}
+.installation-track.indeterminate span {
+  animation: install-sweep 1.3s ease-in-out infinite;
+}
+.installation-card.success .installation-emblem {
+  color: #6ee7bd;
+}
+.installation-card.success .installation-track span {
+  background: #6ee7bd;
+}
+.installation-card:not(.working) .installation-orbit {
+  animation: none;
+  stroke-dasharray: 132 0;
+  opacity: 0.5;
+}
+.installation-check {
+  animation: install-check 0.45s cubic-bezier(0.2, 1.5, 0.5, 1);
+}
+.installation-card.warning .installation-emblem,
+.installation-card.error .installation-emblem {
+  color: #ffbc83;
+}
+.installation-dismiss {
+  align-self: flex-start;
+  padding: 2px !important;
+  min-width: 22px !important;
+  min-height: 22px !important;
+}
+@keyframes install-orbit {
+  to {
+    transform: rotate(360deg);
+  }
+}
+@keyframes install-sweep {
+  from {
+    transform: translateX(-110%);
+  }
+  to {
+    transform: translateX(420%);
+  }
+}
+@keyframes install-check {
+  from {
+    transform: scale(0.3);
+    opacity: 0;
+  }
+  to {
+    transform: scale(1);
+    opacity: 1;
+  }
+}
+.installation-card[data-reduced="true"] * {
+  animation: none !important;
+  transition: none !important;
+}
+.installation-card[data-reduced="true"] .indeterminate span {
+  width: 100% !important;
+  opacity: 0.45;
+}
+@media (prefers-reduced-motion: reduce) {
+  .installation-card * {
+    animation: none !important;
+    transition: none !important;
+  }
+}

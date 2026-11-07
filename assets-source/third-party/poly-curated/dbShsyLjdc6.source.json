@@ -1,0 +1,46 @@
+{
+  "Title": "Antler",
+  "Description": "#horn #deer #moose ",
+  "UploadDate": "2017-10-23T02:20:45.805Z",
+  "ResourceID": "f3a368f3-a3ea-497a-83b8-0b92480d6499",
+  "PublicID": "dbShsyLjdc6",
+  "Likes": 0,
+  "CommentCount": 0,
+  "Tris": 1064,
+  "Views": 537,
+  "Downloads": 48,
+  "Creator": {
+    "Username": "Poly by Google",
+    "DPURL": "https://static.poly.pizza/dp%2Fpolygoogle.jpg",
+    "Socials": {}
+  },
+  "Category": "Nature",
+  "Tags": [
+    "horn",
+    "deer",
+    "moose",
+    ""
+  ],
+  "Orbit": {
+    "phi": "1.31884",
+    "radius": "110%",
+    "theta": "0.87089"
+  },
+  "Background": {
+    "one": "#d81b60",
+    "two": "hsl(338deg, 78%, 15%)",
+    "type": "Radial"
+  },
+  "Visibility": "Public",
+  "Type": "obj",
+  "Licence": "CC-BY 3.0",
+  "Animated": false,
+  "sourceUrl": "https://poly.pizza/m/dbShsyLjdc6",
+  "downloadUrl": "https://static.poly.pizza/f3a368f3-a3ea-497a-83b8-0b92480d6499.glb",
+  "sha256": "aa6999dade026051eca4dba695cc09d6063e2f798350c7f582d19f5f0c6508a2",
+  "sourcePageSha256": "da07bdf06a3715e76cc6cf00e346a60887f97ac51d9e7c1224099c4954ba39b2",
+  "retrieved": "2026-10-22T11:06:00.878Z",
+  "sourcePageRetrieved": "2026-10-22T11:06:00.643Z",
+  "verifiedAt": "2026-10-22T11:21:06.162Z",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/"
+}

@@ -1,0 +1,94 @@
+{
+  "emoteBefore": {
+    "java": "27",
+    "iterations": 500000,
+    "runs": [
+      {
+        "nsPerStep": 426.9946,
+        "bytesPerStep": 1680.134752
+      },
+      {
+        "nsPerStep": 374.3936,
+        "bytesPerStep": 1680.120224
+      },
+      {
+        "nsPerStep": 369.9878,
+        "bytesPerStep": 1680.068032
+      }
+    ]
+  },
+  "emoteAfter": {
+    "java": "27",
+    "iterations": 500000,
+    "runs": [
+      {
+        "nsPerStep": 167.8132,
+        "bytesPerStep": 0.13544
+      },
+      {
+        "nsPerStep": 167.9068,
+        "bytesPerStep": 0.121776
+      },
+      {
+        "nsPerStep": 166.086,
+        "bytesPerStep": 0.06872
+      }
+    ]
+  },
+  "fontWidth": {
+    "kind": "font-width-microbenchmark-not-FPS",
+    "sink": 82335000,
+    "results": [
+      {
+        "repetition": 1,
+        "bytesPerLookup": 48.01568,
+        "hits": 0,
+        "nsPerLookup": 193.279,
+        "cached": false,
+        "misses": 0
+      },
+      {
+        "repetition": 1,
+        "bytesPerLookup": 0.00016,
+        "hits": 109996,
+        "nsPerLookup": 12.709,
+        "cached": true,
+        "misses": 4
+      },
+      {
+        "repetition": 2,
+        "bytesPerLookup": 48.00016,
+        "hits": 0,
+        "nsPerLookup": 162.214,
+        "cached": false,
+        "misses": 0
+      },
+      {
+        "repetition": 2,
+        "bytesPerLookup": 0.00016,
+        "hits": 109996,
+        "nsPerLookup": 11.703,
+        "cached": true,
+        "misses": 4
+      },
+      {
+        "repetition": 3,
+        "bytesPerLookup": 48.00016,
+        "hits": 0,
+        "nsPerLookup": 159.071,
+        "cached": false,
+        "misses": 0
+      },
+      {
+        "repetition": 3,
+        "bytesPerLookup": 0.00016,
+        "hits": 109996,
+        "nsPerLookup": 10.197,
+        "cached": true,
+        "misses": 4
+      }
+    ]
+  },
+  "fpsComparisonValid": false,
+  "fpsLimitation": "Background throttle changed between runs; no comparative FPS claim."
+}

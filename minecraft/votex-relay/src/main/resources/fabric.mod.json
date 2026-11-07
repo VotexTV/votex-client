@@ -1,0 +1,11 @@
+{
+ "schemaVersion": 1,
+ "id": "votex_social_relay",
+ "version": "${version}",
+ "name": "Votex Social Relay",
+ "description": "Optional same-server appearance, emote and consent handshake relay for Votex clients.",
+ "environment": "server",
+ "license": "MIT",
+ "entrypoints": {"main": ["dev.votex.relay.RelayInitializer"]},
+ "depends": {"fabricloader": ">=0.19.5", "minecraft": "26.2", "java": ">=25", "fabric-api": "*"}
+}

@@ -1,0 +1,47 @@
+{
+  "Title": "Clownfish",
+  "UploadDate": "2022-06-20T13:20:16.944Z",
+  "ResourceID": "f28280ed-888d-4d9b-9d13-af2baf36b749",
+  "PublicID": "769fHo3eEB",
+  "Likes": 8,
+  "CommentCount": 0,
+  "Tris": 1530,
+  "Views": "1.17k",
+  "Downloads": "2.34k",
+  "Creator": {
+    "Username": "Quaternius",
+    "DPURL": "https://static.poly.pizza/dp%2Ff63b655a-051c-4c4b-8dcc-3b346a39ece0.jpg",
+    "Socials": {
+      "Twitter": "quaternius",
+      "Pateron": "quaternius",
+      "Website": "https://quaternius.com/"
+    }
+  },
+  "Category": "Animals",
+  "Tags": [
+    "Outdoors",
+    "Fish"
+  ],
+  "Orbit": {
+    "phi": "1.29325",
+    "radius": "100%",
+    "theta": "0.86610"
+  },
+  "Background": {
+    "one": "#039be5",
+    "two": "hsl(200deg, 97%, 15%)",
+    "type": "Radial"
+  },
+  "Visibility": "Public",
+  "Type": "FBX",
+  "Licence": "CC0 1.0",
+  "Animated": true,
+  "sourceUrl": "https://poly.pizza/m/769fHo3eEB",
+  "downloadUrl": "https://static.poly.pizza/f28280ed-888d-4d9b-9d13-af2baf36b749.glb",
+  "sha256": "d1d0b1f83848337299ef163b7ec5b207b5c34e3933da1367000e1dcd6d856bf1",
+  "sourcePageSha256": "15f666708b6a7874ad689417e005271c792de0015a00f3940f6d72d40940fc5d",
+  "retrieved": "2026-10-22T11:01:53.278Z",
+  "sourcePageRetrieved": "2026-10-22T11:01:53.060Z",
+  "verifiedAt": "2026-10-22T11:21:05.940Z",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+}

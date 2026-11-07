@@ -1,0 +1,46 @@
+{
+  "Title": "Necklace",
+  "UploadDate": "2021-08-26T12:55:44.712Z",
+  "ResourceID": "2afce515-0123-40df-9740-23e5b97725e4",
+  "PublicID": "Jvhs8DCNDZ",
+  "Likes": 3,
+  "CommentCount": 0,
+  "Tris": 0,
+  "Views": 322,
+  "Downloads": "2.69k",
+  "Creator": {
+    "Username": "Quaternius",
+    "DPURL": "https://static.poly.pizza/dp%2Ff63b655a-051c-4c4b-8dcc-3b346a39ece0.jpg",
+    "Socials": {
+      "Twitter": "quaternius",
+      "Pateron": "quaternius",
+      "Website": "https://quaternius.com/"
+    }
+  },
+  "Category": "Objects",
+  "Tags": [
+    "jewelry"
+  ],
+  "Orbit": {
+    "phi": "1.41937",
+    "radius": "100%",
+    "theta": "-0.02365"
+  },
+  "Background": {
+    "one": "#546e7a",
+    "two": "hsl(199deg, 18%, 15%)",
+    "type": "Radial"
+  },
+  "Visibility": "Public",
+  "Type": "FBX",
+  "Licence": "CC0 1.0",
+  "Animated": false,
+  "sourceUrl": "https://poly.pizza/m/Jvhs8DCNDZ",
+  "downloadUrl": "https://static.poly.pizza/2afce515-0123-40df-9740-23e5b97725e4.glb",
+  "sha256": "37ea8faac1315ae920a0d3536e5352be4894491a42fceaa59fa5c4873b79710a",
+  "sourcePageSha256": "42e18f64740102163e4603eaf10de02fdcad59b09422b6a5289895cd32b7454a",
+  "retrieved": "2026-10-22T11:04:36.916Z",
+  "sourcePageRetrieved": "2026-10-22T11:04:36.687Z",
+  "verifiedAt": "2026-10-22T11:21:06.098Z",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+}

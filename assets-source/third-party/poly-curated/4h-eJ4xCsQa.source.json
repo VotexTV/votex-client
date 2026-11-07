@@ -1,0 +1,46 @@
+{
+  "Title": "Headphones",
+  "Description": "#speakers #portable #sound #audio\n",
+  "UploadDate": "2017-10-23T01:15:57.991Z",
+  "ResourceID": "1bcb9801-6be5-482b-9f2b-3f363d01697a",
+  "PublicID": "4h-eJ4xCsQa",
+  "Likes": 1,
+  "CommentCount": 0,
+  "Tris": 1032,
+  "Views": 622,
+  "Downloads": 36,
+  "Creator": {
+    "Username": "Poly by Google",
+    "DPURL": "https://static.poly.pizza/dp%2Fpolygoogle.jpg",
+    "Socials": {}
+  },
+  "Category": "Other",
+  "Tags": [
+    "speakers",
+    "portable",
+    "sound",
+    "audio\n"
+  ],
+  "Orbit": {
+    "phi": "1.31884",
+    "radius": "110%",
+    "theta": "0.87089"
+  },
+  "Background": {
+    "one": "#c0ca33",
+    "two": "hsl(64deg, 60%, 15%)",
+    "type": "Radial"
+  },
+  "Visibility": "Public",
+  "Type": "obj",
+  "Licence": "CC-BY 3.0",
+  "Animated": false,
+  "sourceUrl": "https://poly.pizza/m/4h-eJ4xCsQa",
+  "downloadUrl": "https://static.poly.pizza/1bcb9801-6be5-482b-9f2b-3f363d01697a.glb",
+  "sha256": "f2ce520adac56166c20460f976b0fc3ad85d654f9b5bdd29cbb6d6310db5de03",
+  "sourcePageSha256": "df345f017f4452a852a31a6e6c70b3a6be46e5a170d763d9c15a5e88aa375ba6",
+  "retrieved": "2026-10-22T11:05:30.066Z",
+  "sourcePageRetrieved": "2026-10-22T11:05:29.700Z",
+  "verifiedAt": "2026-10-22T11:21:06.144Z",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/"
+}

@@ -1,0 +1,43 @@
+{
+  "Title": "Hat Stylised",
+  "Description": "This is a hat... just a hat man don't stress it.",
+  "UploadDate": "2021-12-17T08:31:55.410Z",
+  "ResourceID": "5f6f5355-664d-4763-b1f6-71474caf2d52",
+  "PublicID": "lNN3PlrjSa",
+  "Likes": 1,
+  "CommentCount": 0,
+  "Tris": 956,
+  "Views": 514,
+  "Downloads": 221,
+  "Creator": {
+    "Username": "hat_my_guy",
+    "DPURL": "https://static.poly.pizza/dp%2Fdf6fe29f-eec4-4028-83ef-80c179e6920d.jpg",
+    "Socials": {}
+  },
+  "Category": "Objects",
+  "Tags": [
+    "hat"
+  ],
+  "Orbit": {
+    "phi": "1.37111",
+    "radius": "4.472830330386567",
+    "theta": "-0.37377"
+  },
+  "Background": {
+    "one": "#039be5",
+    "two": "hsl(200deg, 97%, 15%)",
+    "type": "Radial"
+  },
+  "Visibility": "Public",
+  "Type": "FBX",
+  "Licence": "CC0 1.0",
+  "Animated": false,
+  "sourceUrl": "https://poly.pizza/m/lNN3PlrjSa",
+  "downloadUrl": "https://static.poly.pizza/5f6f5355-664d-4763-b1f6-71474caf2d52.glb",
+  "sha256": "e74ba2d994f9baf0f4b33a2abfb5eaf0452ff4c831a66fbbee92c7da3bf187e9",
+  "sourcePageSha256": "9504949bd4cfc0708db46c4af5e4a81ec42eeb488d12a8772a3dc5f734478d2c",
+  "retrieved": "2026-10-22T11:06:32.660Z",
+  "sourcePageRetrieved": "2026-10-22T11:06:32.295Z",
+  "verifiedAt": "2026-10-22T11:21:06.175Z",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+}

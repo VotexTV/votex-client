@@ -1,0 +1,46 @@
+{
+  "Title": "Fish",
+  "UploadDate": "2022-10-23T01:01:35.331Z",
+  "ResourceID": "f7d91eb6-da8e-405d-a647-18ff54b97752",
+  "PublicID": "7V4gaDMQV8",
+  "Likes": 2,
+  "CommentCount": 0,
+  "Tris": 3296,
+  "Views": 958,
+  "Downloads": "3.53k",
+  "Creator": {
+    "Username": "Quaternius",
+    "DPURL": "https://static.poly.pizza/dp%2Ff63b655a-051c-4c4b-8dcc-3b346a39ece0.jpg",
+    "Socials": {
+      "Twitter": "quaternius",
+      "Pateron": "quaternius",
+      "Website": "https://quaternius.com/"
+    }
+  },
+  "Category": "Animals",
+  "Tags": [
+    "Monster"
+  ],
+  "Orbit": {
+    "phi": "1.37207",
+    "radius": "100%",
+    "theta": "-0.03153"
+  },
+  "Background": {
+    "one": "#5e35b1",
+    "two": "hsl(260deg, 54%, 15%)",
+    "type": "Radial"
+  },
+  "Visibility": "Public",
+  "Type": "FBX",
+  "Licence": "CC0 1.0",
+  "Animated": true,
+  "sourceUrl": "https://poly.pizza/m/7V4gaDMQV8",
+  "downloadUrl": "https://static.poly.pizza/f7d91eb6-da8e-405d-a647-18ff54b97752.glb",
+  "sha256": "1fdc84f17ce6f69e5812989788dec6f14860e48e281afbdb6a9b26cf0540d569",
+  "sourcePageSha256": "035bba24314e39e92469cbbaad18aa74a0902a4989012b8767ba54f3ac7e2e19",
+  "retrieved": "2026-10-22T11:01:19.105Z",
+  "sourcePageRetrieved": "2026-10-22T11:01:18.857Z",
+  "verifiedAt": "2026-10-22T11:21:05.913Z",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+}

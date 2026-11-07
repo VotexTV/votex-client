@@ -1,0 +1,48 @@
+{
+  "Title": "Whale",
+  "UploadDate": "2021-08-17T12:40:46.837Z",
+  "ResourceID": "7300e697-2543-4a9a-a77d-dedf29251fd7",
+  "PublicID": "JGFwp6xWgk",
+  "Likes": 15,
+  "CommentCount": 0,
+  "Tris": 447,
+  "Views": "2.99k",
+  "Downloads": "2.75k",
+  "Creator": {
+    "Username": "Quaternius",
+    "DPURL": "https://static.poly.pizza/dp%2Ff63b655a-051c-4c4b-8dcc-3b346a39ece0.jpg",
+    "Socials": {
+      "Twitter": "quaternius",
+      "Pateron": "quaternius",
+      "Website": "https://quaternius.com/"
+    }
+  },
+  "Category": "Animals",
+  "Tags": [
+    "Sea Life",
+    "Animal",
+    "Dolphin"
+  ],
+  "Orbit": {
+    "phi": "1.18286",
+    "radius": "100%",
+    "theta": "1.03274"
+  },
+  "Background": {
+    "one": "#039be5",
+    "two": "hsl(200deg, 97%, 15%)",
+    "type": "Radial"
+  },
+  "Visibility": "Public",
+  "Type": "FBX",
+  "Licence": "CC0 1.0",
+  "Animated": false,
+  "sourceUrl": "https://poly.pizza/m/JGFwp6xWgk",
+  "downloadUrl": "https://static.poly.pizza/7300e697-2543-4a9a-a77d-dedf29251fd7.glb",
+  "sha256": "153d6814c67039378fce22d4c347ed35d7febf2bedac866de91cf9b5dd7945f2",
+  "sourcePageSha256": "5de04e6ffd6e84577180d889eb05a01ad0d344eabcfa52a628bcd1cb5fbd8e40",
+  "retrieved": "2026-10-22T11:03:17.092Z",
+  "sourcePageRetrieved": "2026-10-22T11:03:17.000Z",
+  "verifiedAt": "2026-10-22T11:21:06.021Z",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+}

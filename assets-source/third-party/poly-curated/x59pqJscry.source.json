@@ -1,0 +1,47 @@
+{
+  "Title": "Glub",
+  "UploadDate": "2022-10-23T01:01:39.042Z",
+  "ResourceID": "f64d32a9-c1da-4978-8f83-158130703e6c",
+  "PublicID": "x59pqJscry",
+  "Likes": 0,
+  "CommentCount": 0,
+  "Tris": 672,
+  "Views": 435,
+  "Downloads": "3.49k",
+  "Creator": {
+    "Username": "Quaternius",
+    "DPURL": "https://static.poly.pizza/dp%2Ff63b655a-051c-4c4b-8dcc-3b346a39ece0.jpg",
+    "Socials": {
+      "Twitter": "quaternius",
+      "Pateron": "quaternius",
+      "Website": "https://quaternius.com/"
+    }
+  },
+  "Category": "Objects",
+  "Tags": [
+    "Flying",
+    "Enemy"
+  ],
+  "Orbit": {
+    "phi": "1.37207",
+    "radius": "100%",
+    "theta": "-0.03153"
+  },
+  "Background": {
+    "one": "#5e35b1",
+    "two": "hsl(260deg, 54%, 15%)",
+    "type": "Radial"
+  },
+  "Visibility": "Public",
+  "Type": "FBX",
+  "Licence": "CC0 1.0",
+  "Animated": true,
+  "sourceUrl": "https://poly.pizza/m/x59pqJscry",
+  "downloadUrl": "https://static.poly.pizza/f64d32a9-c1da-4978-8f83-158130703e6c.glb",
+  "sha256": "afa0ae7178b047cd3c210fd864aebc8b64e5608a951efc4f073bf538cb04929c",
+  "sourcePageSha256": "c670a18f51a440419a3518ffb5f206f7e84a98b03df27202432b131ec28e324b",
+  "retrieved": "2026-10-21T21:14:06.078Z",
+  "sourcePageRetrieved": "2026-10-21T21:14:06.034Z",
+  "verifiedAt": "2026-10-22T11:21:05.893Z",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+}

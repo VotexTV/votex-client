@@ -1,0 +1,48 @@
+{
+  "Title": "Mushnub Evolved",
+  "UploadDate": "2022-10-23T01:01:33.490Z",
+  "ResourceID": "84bc88a5-22d8-44e6-af9b-58f8465eb238",
+  "PublicID": "0SZyA6MV51",
+  "Likes": 5,
+  "CommentCount": 0,
+  "Tris": 2336,
+  "Views": 506,
+  "Downloads": "3.54k",
+  "Creator": {
+    "Username": "Quaternius",
+    "DPURL": "https://static.poly.pizza/dp%2Ff63b655a-051c-4c4b-8dcc-3b346a39ece0.jpg",
+    "Socials": {
+      "Twitter": "quaternius",
+      "Pateron": "quaternius",
+      "Website": "https://quaternius.com/"
+    }
+  },
+  "Category": "Animals",
+  "Tags": [
+    "Teeth",
+    "Mouth",
+    "Lip"
+  ],
+  "Orbit": {
+    "phi": "1.37207",
+    "radius": "100%",
+    "theta": "-0.03153"
+  },
+  "Background": {
+    "one": "#5e35b1",
+    "two": "hsl(260deg, 54%, 15%)",
+    "type": "Radial"
+  },
+  "Visibility": "Public",
+  "Type": "FBX",
+  "Licence": "CC0 1.0",
+  "Animated": true,
+  "sourceUrl": "https://poly.pizza/m/0SZyA6MV51",
+  "downloadUrl": "https://static.poly.pizza/84bc88a5-22d8-44e6-af9b-58f8465eb238.glb",
+  "sha256": "fe364b07af250c48073c319c0b4460239ca39daab37269a4e23217be46a3331c",
+  "sourcePageSha256": "ef412f8698b9bddb6bfeb6d08a89e08950391ba7140b98a91c4a0720e0d50e6d",
+  "retrieved": "2026-10-22T11:01:24.282Z",
+  "sourcePageRetrieved": "2026-10-22T11:01:23.996Z",
+  "verifiedAt": "2026-10-22T11:21:05.917Z",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+}

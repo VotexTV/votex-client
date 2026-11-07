@@ -1,0 +1,34 @@
+# Native starter-pack launch and recovery repair — 2026-10-24
+
+This checkpoint advances the active in-game objective. It is not a final release, a new preview handoff or public deployment. Physical audio remains deferred by the user.
+
+## Findings and production changes
+
+The previously authorized desktop test used immutable Preview 2 and `work/ingame-goal/ui-resume-isolated-20261024`. Its own logs prove Minecraft reached a private singleplayer world and saved all dimensions on exit. It loaded an older Core (SHA256 `c243a5906934bd3f54201986d907c62f4fb1612f0dfdd52ef8bef06d5ccece4e`), not the current Core. Right-Shift menu behavior was not verified before the user stopped Computer Use with Escape. That window automation was not resumed in this checkpoint.
+
+That log exposed AppleSkin's broken ModMenuApi configuration factory: Cloth Config was absent. Selecting the SMP AppleSkin package now also prepares Cloth Config before AppleSkin. Deselecting AppleSkin omits that support choice. Both have independent normal receipts, so later explicit removal/disable is respected. The launcher report names the support package. This does not install every optional upstream dependency.
+
+The failed primary Java download no longer requires a manual runtime path. The resolver tries Eclipse Temurin first, then official Azul Zulu CA metadata/CDN. Both require an approved HTTPS distribution path, SHA256, a bounded ZIP and a matching Java major before committing the extracted runtime. Azul details must additionally match the package UUID, Windows x64 JRE, GA/CA and TCK fields. This fallback was exercised by an actual failed Temurin download followed by a verified Azul Java25 download. Cache reuse then passed. System Java/security settings were not changed. Official API reference: https://docs.azul.com/core/install/metadata-api.
+
+The first current-Core package test revealed a production recovery failure after reaching the title screen: the initial launch snapshot had been pruned while the many mod installations created their own snapshots. `recovery::validate` then failed with `Snapshot not found`. The live launch now holds process-local leases on its pre-change and prepared snapshots; pruning and explicit deletion honor those leases. Leases release on every normal/error return without leaving permanent pending flags on disk.
+
+The prepared snapshot is created after queued changes, downloads, loader selection and options application. It therefore confirms the actual launched pack, rather than marking pre-install files as known working. Ordinary-launch recovery-confirmation failure reports a warning while retaining game monitoring/settings sync. Log setup and minimize preference reads happen before process creation. The opt-in startup test stops its title-screen process before validating recovery, so a failed assertion cannot leave that test child running.
+
+## Executed checks
+
+- Current regular Rust suite: **91 passed, 0 failed, 14 explicit opt-in skips**. The new large-install regression uses retention2,18 install snapshots and additional snapshots while both live leases are held; the pre-change point survives, the19-file prepared pack is confirmed, and leases release while the last known working point remains protected. Log: `work/ingame-goal/runtime-recovery-current-tests-20261024.log`.
+- Separate actual HTTPS runtime test: **passed**. Temurin failed in this run; Azul downloaded, SHA256 and Java25 execution were verified, and a second resolve reused the receipt. No Minecraft or microphone was opened. Log: `runtime-repair-https-20261024.log`.
+- Separate actual HTTPS starter test: **passed**,16 preparation choices: four basics, three Performance mods, six SMP mods, Cloth Config support and two shader archives.18 actual non-Core mod records include required dependencies. Every mod/shader file matched publisher SHA512; pinned Voice, Zoomify's compatible Fabric graph, later removal/disable, and the user's Iris selection were preserved. Log: `starter-config-support-https-20261024.log`.
+- TypeScript `tsc --noEmit`: **passed** after the report label change. No frontend interaction behavior changed in this checkpoint.
+- Actual current-Core offline launch: `package-startup-repair-run02-20261024/native-title-screen-proof.json`, **passed**, one real Java25/Fabric26.2 process (PID25148),19 enabled mod files including Core, both shader archives prepared, title-screen nonce stable10seconds. AppleSkin's broken ModMenuApi error is absent. The test then stopped only its own title-screen process; it created no world and claims no normal game-exit/world-save evidence.
+- That production launch monitor imported Minecraft's actual saved FPS slider normalization143→140. The profile and shared Performance class both contained140 afterward; GUI2/FOV90 were preserved. The confirmed recovery manifest SHA512s match every actual installed mod file, and the Store's live lease set is empty after return. This is launcher-backend orchestration with no desktop AppHandle, not a rendered frontend refresh or a player changing controls in-world.
+
+The successful native run used the exact current Core SHA256 `12ec941d8de7b7fbab71155d19b82a51c1f33133b793e9ed96337a3207c7ed9c`. Its read-only cache seed came from the preceding private failed attempt; production cached/downloaded files still underwent the normal publisher checksum checks. All new profile/config/mod data remained under the named isolated QA roots.
+
+The failed first attempt is preserved as `package-startup-repair-20261024`; its title-screen proof is real, but its Rust test failed during recovery confirmation. Its own process PID24580 was stopped at the title screen after the failure. No world had been opened. It is not counted as a passing integration run. A Windows Application Control4551 refusal also occurred for an intermediate test executable; the subsequently compiled final source executed and passed. No security policy or file trust attributes were changed to achieve this.
+
+The native-client tally is now **45**, including the earlier isolated Preview2 world and these two package attempts, following the prior42. The current two package processes are both stopped. The existing preview folders/EXEs, real profiles and website have not been replaced.
+
+## Remaining acceptance
+
+The successful title screen proves the current downloaded combination loads and backend synchronization/recovery works. It does not repeat every in-world optional-mod/emote/cosmetic interaction, visually verify an updated packaged desktop wizard/IPC refresh, render either shader in a world, measure performance, exercise a Microsoft-authenticated social session, establish public hosting or test physical audio. Existing broader native/paired evidence remains in the referenced goal audit; these explicit boundaries remain open as applicable. The full goal stays active.

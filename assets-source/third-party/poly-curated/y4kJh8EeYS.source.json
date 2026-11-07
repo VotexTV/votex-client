@@ -1,0 +1,47 @@
+{
+  "Title": "Green Blob",
+  "UploadDate": "2022-10-23T01:01:34.829Z",
+  "ResourceID": "64ab590e-1f77-4678-b357-78c430fd73bf",
+  "PublicID": "y4kJh8EeYS",
+  "Likes": 2,
+  "CommentCount": 0,
+  "Tris": 1496,
+  "Views": 722,
+  "Downloads": "3.57k",
+  "Creator": {
+    "Username": "Quaternius",
+    "DPURL": "https://static.poly.pizza/dp%2Ff63b655a-051c-4c4b-8dcc-3b346a39ece0.jpg",
+    "Socials": {
+      "Twitter": "quaternius",
+      "Pateron": "quaternius",
+      "Website": "https://quaternius.com/"
+    }
+  },
+  "Category": "Animals",
+  "Tags": [
+    "Slime",
+    "Monster"
+  ],
+  "Orbit": {
+    "phi": "1.37207",
+    "radius": "100%",
+    "theta": "-0.03153"
+  },
+  "Background": {
+    "one": "#5e35b1",
+    "two": "hsl(260deg, 54%, 15%)",
+    "type": "Radial"
+  },
+  "Visibility": "Public",
+  "Type": "FBX",
+  "Licence": "CC0 1.0",
+  "Animated": true,
+  "sourceUrl": "https://poly.pizza/m/y4kJh8EeYS",
+  "downloadUrl": "https://static.poly.pizza/64ab590e-1f77-4678-b357-78c430fd73bf.glb",
+  "sha256": "31c46edd6306e4ab21bec4608b41003baa74f430f27d357b90c9b6401d88a584",
+  "sourcePageSha256": "0f7011c539d3fcd6286835fb53242993a541bb8562f969e9c008ef6e4ceb32c7",
+  "retrieved": "2026-10-22T11:01:21.074Z",
+  "sourcePageRetrieved": "2026-10-22T11:01:20.861Z",
+  "verifiedAt": "2026-10-22T11:21:05.915Z",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+}

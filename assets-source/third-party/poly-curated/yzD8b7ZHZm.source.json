@@ -1,0 +1,49 @@
+{
+  "Title": "Manta ray",
+  "UploadDate": "2021-08-17T12:40:46.815Z",
+  "ResourceID": "32b4e08e-4605-4356-8bd3-e0cf32335a0f",
+  "PublicID": "yzD8b7ZHZm",
+  "Likes": 14,
+  "CommentCount": 0,
+  "Tris": 696,
+  "Views": "1.22k",
+  "Downloads": "1.99k",
+  "Creator": {
+    "Username": "Quaternius",
+    "DPURL": "https://static.poly.pizza/dp%2Ff63b655a-051c-4c4b-8dcc-3b346a39ece0.jpg",
+    "Socials": {
+      "Twitter": "quaternius",
+      "Pateron": "quaternius",
+      "Website": "https://quaternius.com/"
+    }
+  },
+  "Category": "Animals",
+  "Tags": [
+    "Sea Life",
+    "Animal",
+    "Airplane",
+    "Fish"
+  ],
+  "Orbit": {
+    "phi": "1.18286",
+    "radius": "100%",
+    "theta": "1.03274"
+  },
+  "Background": {
+    "one": "#039be5",
+    "two": "hsl(200deg, 97%, 15%)",
+    "type": "Radial"
+  },
+  "Visibility": "Public",
+  "Type": "FBX",
+  "Licence": "CC0 1.0",
+  "Animated": false,
+  "sourceUrl": "https://poly.pizza/m/yzD8b7ZHZm",
+  "downloadUrl": "https://static.poly.pizza/32b4e08e-4605-4356-8bd3-e0cf32335a0f.glb",
+  "sha256": "32597a7752bac30dfceec15d2702e1fe4065f1f5cccc7ddd8e8196cb6fc2d51b",
+  "sourcePageSha256": "aea56c0a9cf01dbaf30507e495ef03ce9320df8b10c5aeb3904335749a2ebacd",
+  "retrieved": "2026-10-22T11:03:19.130Z",
+  "sourcePageRetrieved": "2026-10-22T11:03:18.701Z",
+  "verifiedAt": "2026-10-22T11:21:06.023Z",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+}

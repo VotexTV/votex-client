@@ -1,0 +1,47 @@
+{
+  "Title": "Open Book",
+  "Description": " ",
+  "UploadDate": "2021-08-26T12:55:45.140Z",
+  "ResourceID": "caca50d9-dc62-46d1-a3ac-939219bfef9d",
+  "PublicID": "1A07aI9j2d",
+  "Likes": 3,
+  "CommentCount": 0,
+  "Tris": 0,
+  "Views": 471,
+  "Downloads": "2.59k",
+  "Creator": {
+    "Username": "Quaternius",
+    "DPURL": "https://static.poly.pizza/dp%2Ff63b655a-051c-4c4b-8dcc-3b346a39ece0.jpg",
+    "Socials": {
+      "Twitter": "quaternius",
+      "Pateron": "quaternius",
+      "Website": "https://quaternius.com/"
+    }
+  },
+  "Category": "Clutter",
+  "Tags": [
+    "book"
+  ],
+  "Orbit": {
+    "phi": "0.57489",
+    "radius": "1.565610045135544",
+    "theta": "-0.24031"
+  },
+  "Background": {
+    "one": "#546e7a",
+    "two": "hsl(199deg, 18%, 15%)",
+    "type": "Radial"
+  },
+  "Visibility": "Public",
+  "Type": "FBX",
+  "Licence": "CC0 1.0",
+  "Animated": false,
+  "sourceUrl": "https://poly.pizza/m/1A07aI9j2d",
+  "downloadUrl": "https://static.poly.pizza/caca50d9-dc62-46d1-a3ac-939219bfef9d.glb",
+  "sha256": "015d6c9254f8046182474903554faca8d27cd646b3fde6326aa08f5243ec0d3b",
+  "sourcePageSha256": "8bbae3e32915e74fe3746b6b22556774d83e9fdbaf647ee000b212aaacbd0f2f",
+  "retrieved": "2026-10-22T11:04:31.995Z",
+  "sourcePageRetrieved": "2026-10-22T11:04:31.722Z",
+  "verifiedAt": "2026-10-22T11:21:06.094Z",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+}

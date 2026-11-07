@@ -1,0 +1,47 @@
+{
+  "Title": "Bunny",
+  "UploadDate": "2022-10-23T10:14:03.064Z",
+  "ResourceID": "084b5ebe-c3eb-4e64-9b17-06e2d1e3da5d",
+  "PublicID": "irZjWFARyl",
+  "Likes": 7,
+  "CommentCount": 1,
+  "Tris": 5948,
+  "Views": "2.89k",
+  "Downloads": "3.89k",
+  "Creator": {
+    "Username": "Quaternius",
+    "DPURL": "https://static.poly.pizza/dp%2Ff63b655a-051c-4c4b-8dcc-3b346a39ece0.jpg",
+    "Socials": {
+      "Twitter": "quaternius",
+      "Pateron": "quaternius",
+      "Website": "https://quaternius.com/"
+    }
+  },
+  "Category": "Animals",
+  "Tags": [
+    "Animal",
+    "Rabbit"
+  ],
+  "Orbit": {
+    "phi": "1.30900",
+    "radius": "100%",
+    "theta": "0.00000"
+  },
+  "Background": {
+    "one": "#5e35b1",
+    "two": "hsl(260deg, 54%, 15%)",
+    "type": "Radial"
+  },
+  "Visibility": "Public",
+  "Type": "FBX",
+  "Licence": "CC0 1.0",
+  "Animated": true,
+  "sourceUrl": "https://poly.pizza/m/irZjWFARyl",
+  "downloadUrl": "https://static.poly.pizza/084b5ebe-c3eb-4e64-9b17-06e2d1e3da5d.glb",
+  "sha256": "4a71eb8a80a573560fd93b39cd3c547c978d54ddd288b63000667df757dd50a2",
+  "sourcePageSha256": "f2a7006f36c41bfd2ef7f9bde940bcaf8b3f8dd4d11c10745de9a8c613f8c0c9",
+  "retrieved": "2026-10-21T21:14:03.750Z",
+  "sourcePageRetrieved": "2026-10-21T21:14:03.556Z",
+  "verifiedAt": "2026-10-22T11:21:05.849Z",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+}

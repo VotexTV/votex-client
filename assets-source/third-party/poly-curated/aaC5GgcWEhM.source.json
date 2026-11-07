@@ -1,0 +1,46 @@
+{
+  "Title": "Baseball cap",
+  "Description": "#hat #cap #clothing #accessory",
+  "UploadDate": "2017-10-11T00:31:09.154Z",
+  "ResourceID": "a219ef96-7e9b-47f1-8801-8d4509f51d09",
+  "PublicID": "aaC5GgcWEhM",
+  "Likes": 13,
+  "CommentCount": 0,
+  "Tris": 416,
+  "Views": "3.68k",
+  "Downloads": "1.86k",
+  "Creator": {
+    "Username": "Poly by Google",
+    "DPURL": "https://static.poly.pizza/dp%2Fpolygoogle.jpg",
+    "Socials": {}
+  },
+  "Category": "Objects",
+  "Tags": [
+    "hat",
+    "cap",
+    "clothing",
+    "accessory"
+  ],
+  "Orbit": {
+    "phi": "1.31884",
+    "radius": "110%",
+    "theta": "0.87089"
+  },
+  "Background": {
+    "one": "#c0ca33",
+    "two": "hsl(64deg, 60%, 15%)",
+    "type": "Radial"
+  },
+  "Visibility": "Public",
+  "Type": "obj",
+  "Licence": "CC-BY 3.0",
+  "Animated": false,
+  "sourceUrl": "https://poly.pizza/m/aaC5GgcWEhM",
+  "downloadUrl": "https://static.poly.pizza/a219ef96-7e9b-47f1-8801-8d4509f51d09.glb",
+  "sha256": "fef98d1bfd0066297e03c99b348c5e59e3598d04d043edecd0632e191ad6c2be",
+  "sourcePageSha256": "766d3ce5411a21d36844e3f24170b846b9a0a15abcfa7a2fbb21674ccdd2fd3c",
+  "retrieved": "2026-10-22T11:05:24.711Z",
+  "sourcePageRetrieved": "2026-10-22T11:05:24.441Z",
+  "verifiedAt": "2026-10-22T11:21:06.140Z",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/"
+}

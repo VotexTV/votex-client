@@ -1,0 +1,50 @@
+{
+  "Title": "Frog",
+  "UploadDate": "2022-10-23T10:14:01.413Z",
+  "ResourceID": "9018566d-c4e9-4f20-9c99-964622a6e674",
+  "PublicID": "37wofOCOzG",
+  "Likes": 5,
+  "CommentCount": 0,
+  "Tris": 4280,
+  "Views": "2.35k",
+  "Downloads": "4.05k",
+  "Creator": {
+    "Username": "Quaternius",
+    "DPURL": "https://static.poly.pizza/dp%2Ff63b655a-051c-4c4b-8dcc-3b346a39ece0.jpg",
+    "Socials": {
+      "Twitter": "quaternius",
+      "Pateron": "quaternius",
+      "Website": "https://quaternius.com/"
+    }
+  },
+  "Category": "Animals",
+  "Tags": [
+    "Animal",
+    "Wildlife",
+    "Amphibian",
+    "Enemy",
+    "Monster"
+  ],
+  "Orbit": {
+    "phi": "1.30900",
+    "radius": "100%",
+    "theta": "0.00000"
+  },
+  "Background": {
+    "one": "#5e35b1",
+    "two": "hsl(260deg, 54%, 15%)",
+    "type": "Radial"
+  },
+  "Visibility": "Public",
+  "Type": "FBX",
+  "Licence": "CC0 1.0",
+  "Animated": true,
+  "sourceUrl": "https://poly.pizza/m/37wofOCOzG",
+  "downloadUrl": "https://static.poly.pizza/9018566d-c4e9-4f20-9c99-964622a6e674.glb",
+  "sha256": "e649e23848548c74f22a22071ebcd5ddcf78254a9f4ce94417078a7431482309",
+  "sourcePageSha256": "a5189daca96606d90cc39bdcc8dff3303246bb20aa922763a937f7632ec5a704",
+  "retrieved": "2026-10-21T21:14:03.914Z",
+  "sourcePageRetrieved": "2026-10-21T21:14:03.683Z",
+  "verifiedAt": "2026-10-22T11:21:05.851Z",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+}

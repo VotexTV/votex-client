@@ -1,0 +1,47 @@
+{
+  "Title": "Alien",
+  "UploadDate": "2022-10-23T10:13:55.184Z",
+  "ResourceID": "b048d82a-7fc2-4631-b859-4bde0ed19b59",
+  "PublicID": "RRliSQBP7r",
+  "Likes": 6,
+  "CommentCount": 0,
+  "Tris": 6020,
+  "Views": "1.22k",
+  "Downloads": "3.67k",
+  "Creator": {
+    "Username": "Quaternius",
+    "DPURL": "https://static.poly.pizza/dp%2Ff63b655a-051c-4c4b-8dcc-3b346a39ece0.jpg",
+    "Socials": {
+      "Twitter": "quaternius",
+      "Pateron": "quaternius",
+      "Website": "https://quaternius.com/"
+    }
+  },
+  "Category": "Objects",
+  "Tags": [
+    "Monster",
+    "Enemy"
+  ],
+  "Orbit": {
+    "phi": "1.30900",
+    "radius": "100%",
+    "theta": "0.00000"
+  },
+  "Background": {
+    "one": "#5e35b1",
+    "two": "hsl(260deg, 54%, 15%)",
+    "type": "Radial"
+  },
+  "Visibility": "Public",
+  "Type": "FBX",
+  "Licence": "CC0 1.0",
+  "Animated": true,
+  "sourceUrl": "https://poly.pizza/m/RRliSQBP7r",
+  "downloadUrl": "https://static.poly.pizza/b048d82a-7fc2-4631-b859-4bde0ed19b59.glb",
+  "sha256": "746d9caf75897297dfd76678c55dc3dfe84e5b9e6ce816276db300cea11c27bb",
+  "sourcePageSha256": "f35c9f9570e81f390c0cccbbbf8e19a3e43d3e0419c10d0969df1448bbc4e3dd",
+  "retrieved": "2026-10-21T21:14:04.907Z",
+  "sourcePageRetrieved": "2026-10-21T21:14:04.629Z",
+  "verifiedAt": "2026-10-22T11:21:05.869Z",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+}

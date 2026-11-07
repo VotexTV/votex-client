@@ -1,0 +1,54 @@
+plugins { id 'net.fabricmc.fabric-loom' version "${loom_version}" }
+version = project.mod_version
+group = 'dev.votex'
+base { archivesName = 'votex-client-core' }
+loom { splitEnvironmentSourceSets(); mods { 'votex_client' { sourceSet sourceSets.main; sourceSet sourceSets.client } } }
+repositories { mavenCentral(); maven { name = 'Modrinth'; url = 'https://api.modrinth.com/maven'; content { includeGroup 'maven.modrinth' } } }
+dependencies {
+ minecraft "com.mojang:minecraft:${project.minecraft_version}"
+ implementation "net.fabricmc:fabric-loader:${project.loader_version}"
+ implementation "net.fabricmc.fabric-api:fabric-api:${project.fabric_api_version}"
+ // Optional adapter only. Never bundle SVC or load its plugin classes without the mod installed.
+ clientCompileOnly 'maven.modrinth:simple-voice-chat:Ls232EsW'
+ // Pure Java WebP decoding for catalogue thumbnails. Explicit nested runtime modules
+ // avoid relying on ImageIO's global plugin scan or optional mods' class loaders.
+ ['imageio:imageio-webp','imageio:imageio-core','imageio:imageio-metadata',
+  'common:common-lang','common:common-io','common:common-image'].each { module ->
+  def bits = module.split(':')
+  def coordinate = "com.twelvemonkeys.${bits[0]}:${bits[1]}:3.15.3"
+  implementation(coordinate) { transitive = false }
+  include(coordinate) { transitive = false }
+ }
+ testImplementation platform('org.junit:junit-bom:5.13.4')
+ testImplementation 'org.junit.jupiter:junit-jupiter'
+ testImplementation 'com.google.code.gson:gson:2.13.2'
+ testRuntimeOnly 'org.junit.platform:junit-platform-launcher'
+}
+tasks.withType(JavaCompile).configureEach { options.release = 25 }
+java { sourceCompatibility = JavaVersion.VERSION_25; targetCompatibility = JavaVersion.VERSION_25; withSourcesJar() }
+tasks.named('jar') { from sourceSets.client.output }
+tasks.named('sourcesJar') { from sourceSets.client.allSource }
+def modVersion = project.version.toString()
+tasks.named('processResources') { inputs.property 'version',modVersion; filesMatching('fabric.mod.json') { expand 'version':modVersion } }
+test { useJUnitPlatform() }
+
+// An isolated development test world; this source set is never included in the distributed Core JAR.
+fabricApi {
+ configureTests {
+  createSourceSet = true
+  modId = 'votex_client_test'
+  enableGameTests = false
+  enableClientGameTests = true
+  eula = true
+ }
+}
+sourceSets.gametest.compileClasspath += sourceSets.client.output
+sourceSets.gametest.runtimeClasspath += sourceSets.client.output
+dependencies {
+ gametestCompileOnly 'maven.modrinth:simple-voice-chat:Ls232EsW'
+ // The isolated microphone-permission test always installs an independent device veto.
+ // SVC is never a bundled dependency or a runtime dependency for ordinary Core tests.
+ if (System.getenv('VOTEX_VOICE_CONSENT_TEST') == '1') {
+  gametestRuntimeOnly 'maven.modrinth:simple-voice-chat:Ls232EsW'
+ }
+}

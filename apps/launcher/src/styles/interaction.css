@@ -1,0 +1,351 @@
+/* Scrolling stays available by wheel, touch and keyboard; no system scrollbars. */
+.app-shell *, .select-popover {
+  scrollbar-width: none;
+}
+.app-shell *::-webkit-scrollbar, .select-popover::-webkit-scrollbar {
+  display: none;
+}
+.page-region {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  min-height: 0;
+  min-width: 0;
+}
+.liquid-scroll-rail {
+  position: absolute;
+  right: 5px;
+  top: 18px;
+  bottom: 18px;
+  width: 10px;
+  border-radius: 999px;
+  background: color-mix(in srgb, var(--text) 4%, transparent);
+  opacity: 0;
+  transition: opacity 220ms;
+  z-index: 10;
+  touch-action: none;
+  outline: none;
+}
+.liquid-scroll-rail.active,
+.liquid-scroll-rail:hover,
+.liquid-scroll-rail:focus-visible {
+  opacity: 1;
+}
+.liquid-scroll-rail span {
+  position: absolute;
+  left: 1px;
+  right: 1px;
+  border-radius: 999px;
+  min-height: 24px;
+  border: 1px solid color-mix(in srgb, var(--accent) 35%, #fff4);
+  background: linear-gradient(
+    110deg,
+    #ffffff55,
+    color-mix(in srgb, var(--accent) 45%, #ffffff24)
+  );
+  box-shadow:
+    inset 1px 0 #ffffff66,
+    0 0 12px color-mix(in srgb, var(--accent) 15%, transparent);
+  backdrop-filter: blur(12px);
+  transition:
+    width 180ms,
+    background 180ms;
+}
+.liquid-scroll-rail:active span {
+  left: -2px;
+  right: -2px;
+  background: color-mix(in srgb, var(--accent) 65%, white);
+}
+.wizard-body .catalog-tools {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(150px, 200px);
+  align-items: center;
+  gap: 12px;
+}
+.wizard-body .catalog-tools .search-input {
+  min-width: 0;
+  width: 100%;
+  height: 44px;
+  padding-left: 12px;
+  margin: 0;
+}
+.wizard-body .catalog-tools .search-input input {
+  min-width: 0;
+  flex: 1;
+  width: 0;
+  padding: 12px 8px;
+}
+.wizard-body .catalog-tools .search-input svg {
+  flex: none;
+}
+.wizard-body .catalog-tools .select-field {
+  min-width: 0;
+  width: 100%;
+}
+.installed-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 12px;
+  container-type: inline-size;
+}
+.installed-grid .installed-row {
+  display: grid;
+  grid-template-columns: 48px minmax(0, 1fr) auto 30px;
+  gap: 13px;
+  align-items: center;
+  margin: 0;
+  padding: 18px;
+  min-width: 0;
+  min-height: 100px;
+  border-radius: var(--radius, 18px);
+}
+.installed-icon,
+.installed-fallback {
+  width: 48px;
+  height: 48px;
+  object-fit: contain;
+  border-radius: 12px;
+  flex: none;
+}
+.installed-fallback {
+  display: grid;
+  place-items: center;
+  color: var(--accent);
+  font-size: 17px;
+  background: color-mix(in srgb, var(--accent) 12%, var(--surface));
+  border: 1px solid var(--hairline);
+}
+.installed-description {
+  min-width: 0;
+}
+.installed-description h3 {
+  font-size: 13px;
+  line-height: 1.5;
+  overflow-wrap: anywhere;
+  margin: 0 0 6px;
+}
+.installed-description small {
+  display: block;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.installed-grid .toggle-row {
+  gap: 8px;
+  font-size: 10px;
+  padding: 0;
+}
+.installed-grid .icon-button {
+  width: 30px;
+  min-width: 30px;
+}
+.installed-grid .toggle {
+  flex: none;
+}
+.precision-timeline {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  padding: 14px 10px;
+  border: 1px solid var(--hairline);
+  border-radius: 16px;
+  background: var(--surface);
+  min-width: 0;
+}
+.timeline-timecode {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 82px;
+  gap: 12px;
+}
+.timeline-timecode label {
+  display: flex;
+  flex-direction: column;
+  gap: 7px;
+  color: var(--muted);
+  font-size: 10px;
+}
+.timeline-timecode label > span {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+.timeline-timecode input {
+  width: 100%;
+  min-width: 0;
+  font-variant-numeric: tabular-nums;
+  padding: 9px;
+}
+.timeline-timecode .select-trigger {
+  min-height: 34px;
+  padding: 7px;
+}
+.timeline-scroll {
+  overflow-x: auto;
+  overflow-y: hidden;
+  min-width: 0;
+  padding: 0 12px;
+  scrollbar-width: thin;
+  scrollbar-color: color-mix(in srgb, var(--accent) 45%, transparent)
+    transparent;
+}
+.timeline-scroll::-webkit-scrollbar {
+  display: block;
+  height: 4px;
+}
+.timeline-scroll::-webkit-scrollbar-thumb {
+  background: var(--accent);
+  border-radius: 10px;
+}
+.timeline-track {
+  position: relative;
+  height: 108px;
+  touch-action: none;
+  cursor: crosshair;
+}
+.timeline-line {
+  position: absolute;
+  left: 0;
+  right: 0;
+  height: 2px;
+  top: 63px;
+  background: var(--hairline);
+}
+.timeline-tick {
+  position: absolute;
+  top: 8px;
+  bottom: 12px;
+  border-left: 1px solid color-mix(in srgb, var(--text) 9%, transparent);
+  pointer-events: none;
+}
+.timeline-tick > span {
+  position: absolute;
+  white-space: nowrap;
+  left: 3px;
+  color: var(--muted);
+  font-size: 9px;
+}
+.timeline-tick:last-of-type > span {
+  left: auto;
+  right: 3px;
+}
+.timeline-playhead {
+  position: absolute;
+  top: 28px;
+  bottom: 8px;
+  width: 1px;
+  background: var(--secondary);
+  box-shadow: 0 0 9px color-mix(in srgb, var(--secondary) 35%, transparent);
+  pointer-events: none;
+  z-index: 3;
+}
+.timeline-playhead > i {
+  position: absolute;
+  left: -4px;
+  top: 0;
+  width: 9px;
+  height: 9px;
+  background: var(--secondary);
+  clip-path: polygon(0 0, 100% 0, 50% 100%);
+}
+.timeline-key {
+  position: absolute;
+  top: 45px;
+  transform: translateX(-50%);
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  gap: 10px;
+  width: 24px;
+  height: 52px;
+  padding: 11px 0 0;
+  touch-action: none;
+  background: none;
+  color: var(--muted);
+  cursor: ew-resize;
+  z-index: 4;
+}
+.timeline-key > i {
+  width: 12px;
+  height: 12px;
+  transform: rotate(45deg);
+  border: 1px solid var(--accent);
+  border-radius: 3px;
+  background: var(--surface-raised);
+}
+.timeline-key > span {
+  font-size: 9px;
+  opacity: 0;
+}
+.timeline-key.selected > i {
+  background: var(--accent);
+  box-shadow: 0 0 12px color-mix(in srgb, var(--accent) 45%, transparent);
+}
+.timeline-key.selected > span,
+.timeline-key:hover > span {
+  opacity: 1;
+}
+.timeline-key:focus-visible {
+  outline: 1px solid var(--secondary);
+  border-radius: 6px;
+}
+.precision-timeline p {
+  font-size: 10px !important;
+  line-height: 1.65 !important;
+  color: var(--muted);
+  margin: 0;
+}
+.precision-timeline .timeline-add {
+  white-space: normal;
+  line-height: 1.5;
+  min-height: 40px;
+  font-size: 10px;
+}
+.modal {
+  animation: none !important;
+}
+.modal-backdrop.leaving > .modal {
+  animation: none !important;
+}
+html[data-hover="false"] .btn.primary:hover {
+  background: color-mix(in srgb, var(--accent) 60%, var(--text));
+  color: var(--bg);
+}
+html[data-hover="true"] .btn.primary:hover {
+  color: var(--bg);
+  background: color-mix(in srgb, var(--accent) 45%, var(--text));
+}
+html[data-reduced="false"] details {
+  overflow-anchor: none;
+}
+summary {
+  list-style: none;
+}
+summary::-webkit-details-marker {
+  display: none;
+}
+details>summary::after{content:'⌄';display:inline-block;margin-left:auto;padding-left:10px;color:var(--muted);transition:transform 280ms;}
+details[open]>summary::after{transform:rotate(180deg);}
+@container page (max-width:760px) {
+  .installed-grid {
+    grid-template-columns: 1fr;
+  }
+}
+.page-content {
+  container-type: inline-size;
+  container-name: page;
+}
+@media (max-width: 800px) {
+  .installed-grid {
+    grid-template-columns: 1fr;
+  }
+  .wizard-body .catalog-tools {
+    grid-template-columns: 1fr;
+  }
+  .installed-grid .installed-row {
+    padding: 12px;
+    gap: 8px;
+  }
+}
+
+.engine-center{margin-top:24px;padding:26px}.engine-center .section-head{display:flex;align-items:flex-start;justify-content:space-between;gap:20px}.engine-center h2{display:flex;align-items:center;gap:10px}.engine-center p{color:var(--muted);line-height:1.6}.engine-modules{display:grid;gap:12px;max-width:800px;margin:22px 0}.engine-empty{padding:30px;border:1px solid var(--border);border-radius:var(--radius);display:grid;gap:12px}.engine-center .game-overview{margin:20px 0}

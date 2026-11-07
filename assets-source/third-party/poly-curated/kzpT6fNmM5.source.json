@@ -1,0 +1,47 @@
+{
+  "Title": "Enemy Flying",
+  "UploadDate": "2023-03-13T04:23:58.660Z",
+  "ResourceID": "45d716f2-a942-404f-82f6-73c24e013a27",
+  "PublicID": "kzpT6fNmM5",
+  "Likes": 2,
+  "CommentCount": 0,
+  "Tris": 3820,
+  "Views": "1.07k",
+  "Downloads": "4.2k",
+  "Creator": {
+    "Username": "Quaternius",
+    "DPURL": "https://static.poly.pizza/dp%2Ff63b655a-051c-4c4b-8dcc-3b346a39ece0.jpg",
+    "Socials": {
+      "Twitter": "quaternius",
+      "Pateron": "quaternius",
+      "Website": "https://quaternius.com/"
+    }
+  },
+  "Category": "Objects",
+  "Tags": [
+    "Green",
+    "Alien"
+  ],
+  "Orbit": {
+    "phi": "1.42710",
+    "radius": "100%",
+    "theta": "0.69288"
+  },
+  "Background": {
+    "one": "#5e35b1",
+    "two": "hsl(260deg, 54%, 15%)",
+    "type": "Radial"
+  },
+  "Visibility": "Public",
+  "Type": "FBX",
+  "Licence": "CC0 1.0",
+  "Animated": true,
+  "sourceUrl": "https://poly.pizza/m/kzpT6fNmM5",
+  "downloadUrl": "https://static.poly.pizza/45d716f2-a942-404f-82f6-73c24e013a27.glb",
+  "sha256": "3819a4914bb8216c60cbd51df63893c5975c0786f99f9b35dfb2bdec07caa25a",
+  "sourcePageSha256": "3fa5bf116846053bd3b365a0e37a222f96d17a3eee661a1ac39d146b12468013",
+  "retrieved": "2026-10-21T21:14:12.390Z",
+  "sourcePageRetrieved": "2026-10-21T21:14:11.907Z",
+  "verifiedAt": "2026-10-22T11:21:06.043Z",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+}

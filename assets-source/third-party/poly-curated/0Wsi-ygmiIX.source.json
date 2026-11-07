@@ -1,0 +1,43 @@
+{
+  "Title": "Aviator sunglasses",
+  "Description": "#glasses",
+  "UploadDate": "2017-09-25T20:12:25.375Z",
+  "ResourceID": "f06bb790-a71c-4739-ad2d-f658fc625bc0",
+  "PublicID": "0Wsi-ygmiIX",
+  "Likes": 5,
+  "CommentCount": 0,
+  "Tris": 6648,
+  "Views": "2.02k",
+  "Downloads": 293,
+  "Creator": {
+    "Username": "Poly by Google",
+    "DPURL": "https://static.poly.pizza/dp%2Fpolygoogle.jpg",
+    "Socials": {}
+  },
+  "Category": "Objects",
+  "Tags": [
+    "glasses"
+  ],
+  "Orbit": {
+    "phi": "1.31884",
+    "radius": "110%",
+    "theta": "0.87089"
+  },
+  "Background": {
+    "one": "#00897b",
+    "two": "hsl(174deg, 100%, 15%)",
+    "type": "Radial"
+  },
+  "Visibility": "Public",
+  "Type": "obj",
+  "Licence": "CC-BY 3.0",
+  "Animated": false,
+  "sourceUrl": "https://poly.pizza/m/0Wsi-ygmiIX",
+  "downloadUrl": "https://static.poly.pizza/f06bb790-a71c-4739-ad2d-f658fc625bc0.glb",
+  "sha256": "1bc69281b6fc0d142a138f9fc953cf26e7753745722506d696a7e4286b3043f4",
+  "sourcePageSha256": "6e323f821b4cc4979cbd59b645d6ac946e3ae664e2f24aec1eeaf68d893aaa8b",
+  "retrieved": "2026-10-22T11:05:37.275Z",
+  "sourcePageRetrieved": "2026-10-22T11:05:36.729Z",
+  "verifiedAt": "2026-10-22T11:21:06.148Z",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/"
+}

@@ -1,0 +1,47 @@
+{
+  "Title": "Ghost",
+  "UploadDate": "2022-10-23T01:01:42.045Z",
+  "ResourceID": "810f60a2-6e45-4c4e-a0d5-da91cd7288bd",
+  "PublicID": "Iip30bDHmu",
+  "Likes": 10,
+  "CommentCount": 0,
+  "Tris": 2056,
+  "Views": "2.29k",
+  "Downloads": "3.84k",
+  "Creator": {
+    "Username": "Quaternius",
+    "DPURL": "https://static.poly.pizza/dp%2Ff63b655a-051c-4c4b-8dcc-3b346a39ece0.jpg",
+    "Socials": {
+      "Twitter": "quaternius",
+      "Pateron": "quaternius",
+      "Website": "https://quaternius.com/"
+    }
+  },
+  "Category": "Objects",
+  "Tags": [
+    "Enemy",
+    "Monster"
+  ],
+  "Orbit": {
+    "phi": "1.37207",
+    "radius": "100%",
+    "theta": "-0.03153"
+  },
+  "Background": {
+    "one": "#5e35b1",
+    "two": "hsl(260deg, 54%, 15%)",
+    "type": "Radial"
+  },
+  "Visibility": "Public",
+  "Type": "FBX",
+  "Licence": "CC0 1.0",
+  "Animated": true,
+  "sourceUrl": "https://poly.pizza/m/Iip30bDHmu",
+  "downloadUrl": "https://static.poly.pizza/810f60a2-6e45-4c4e-a0d5-da91cd7288bd.glb",
+  "sha256": "4ed7656e2155d47b7d5fe08f31a7e764d79255f477d90040e4472552d7d5ac68",
+  "sourcePageSha256": "ebd59ee157a438dafe96ab23eba5d1cc020b0f68cf0915eaf365a1a7be3be763",
+  "retrieved": "2026-10-21T21:14:05.412Z",
+  "sourcePageRetrieved": "2026-10-21T21:14:05.363Z",
+  "verifiedAt": "2026-10-22T11:21:05.882Z",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+}

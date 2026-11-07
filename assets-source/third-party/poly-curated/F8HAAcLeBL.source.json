@@ -1,0 +1,47 @@
+{
+  "Title": "Horse",
+  "UploadDate": "2021-08-17T12:56:00.469Z",
+  "ResourceID": "30b503df-69cf-4086-b323-f1dcbb95a7c4",
+  "PublicID": "F8HAAcLeBL",
+  "Likes": 1,
+  "CommentCount": 0,
+  "Tris": 690,
+  "Views": "1.13k",
+  "Downloads": "2.23k",
+  "Creator": {
+    "Username": "Quaternius",
+    "DPURL": "https://static.poly.pizza/dp%2Ff63b655a-051c-4c4b-8dcc-3b346a39ece0.jpg",
+    "Socials": {
+      "Twitter": "quaternius",
+      "Pateron": "quaternius",
+      "Website": "https://quaternius.com/"
+    }
+  },
+  "Category": "Animals",
+  "Tags": [
+    "Horse",
+    "Animal"
+  ],
+  "Orbit": {
+    "phi": "1.20194",
+    "radius": "100%",
+    "theta": "0.92230"
+  },
+  "Background": {
+    "one": "#00acc1",
+    "two": "hsl(187deg, 100%, 15%)",
+    "type": "Radial"
+  },
+  "Visibility": "Public",
+  "Type": "FBX",
+  "Licence": "CC0 1.0",
+  "Animated": false,
+  "sourceUrl": "https://poly.pizza/m/F8HAAcLeBL",
+  "downloadUrl": "https://static.poly.pizza/30b503df-69cf-4086-b323-f1dcbb95a7c4.glb",
+  "sha256": "d769d28a914ed81be404e0b094e19897b0f8f872d31e68b1b926f02efc893d89",
+  "sourcePageSha256": "d0f578f7735f6df9da694c7c4fcb9b9efd9629c0e65426b9b94b84c68891adb9",
+  "retrieved": "2026-10-22T11:03:08.072Z",
+  "sourcePageRetrieved": "2026-10-22T11:03:08.027Z",
+  "verifiedAt": "2026-10-22T11:21:06.015Z",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+}

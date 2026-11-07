@@ -1,0 +1,46 @@
+{
+  "Title": "Claymore",
+  "UploadDate": "2021-08-30T11:01:39.968Z",
+  "ResourceID": "91388f84-ac26-48b5-9d7f-6c4b0181a830",
+  "PublicID": "BBhN1O6TOL",
+  "Likes": 5,
+  "CommentCount": 0,
+  "Tris": 0,
+  "Views": 474,
+  "Downloads": "2.65k",
+  "Creator": {
+    "Username": "Quaternius",
+    "DPURL": "https://static.poly.pizza/dp%2Ff63b655a-051c-4c4b-8dcc-3b346a39ece0.jpg",
+    "Socials": {
+      "Twitter": "quaternius",
+      "Pateron": "quaternius",
+      "Website": "https://quaternius.com/"
+    }
+  },
+  "Category": "Weapons",
+  "Tags": [
+    "Blade"
+  ],
+  "Orbit": {
+    "phi": "1.29323",
+    "radius": "100%",
+    "theta": "-0.03942"
+  },
+  "Background": {
+    "one": "#546e7a",
+    "two": "hsl(199deg, 18%, 15%)",
+    "type": "Radial"
+  },
+  "Visibility": "Public",
+  "Type": "FBX",
+  "Licence": "CC0 1.0",
+  "Animated": false,
+  "sourceUrl": "https://poly.pizza/m/BBhN1O6TOL",
+  "downloadUrl": "https://static.poly.pizza/91388f84-ac26-48b5-9d7f-6c4b0181a830.glb",
+  "sha256": "a3ea019a6ac39dfdffd90f115e480122deffea802a120a5a842c165085f5be89",
+  "sourcePageSha256": "3f9c27b45e0f9c15de5db9e20ae72276d3c26ab5410f6b85be5e949b18ecc0f1",
+  "retrieved": "2026-10-22T11:04:01.277Z",
+  "sourcePageRetrieved": "2026-10-22T11:04:01.042Z",
+  "verifiedAt": "2026-10-22T11:21:06.065Z",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+}

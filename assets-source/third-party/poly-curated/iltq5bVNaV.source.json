@@ -1,0 +1,48 @@
+{
+  "Title": "Rat",
+  "UploadDate": "2021-08-19T13:01:08.578Z",
+  "ResourceID": "64cb7150-8031-44ab-a0c9-e1529a572b23",
+  "PublicID": "iltq5bVNaV",
+  "Likes": 8,
+  "CommentCount": 0,
+  "Tris": 0,
+  "Views": "3.39k",
+  "Downloads": "2.25k",
+  "Creator": {
+    "Username": "Quaternius",
+    "DPURL": "https://static.poly.pizza/dp%2Ff63b655a-051c-4c4b-8dcc-3b346a39ece0.jpg",
+    "Socials": {
+      "Twitter": "quaternius",
+      "Pateron": "quaternius",
+      "Website": "https://quaternius.com/"
+    }
+  },
+  "Category": "Animals",
+  "Tags": [
+    "Animal",
+    "Wildlife",
+    "mouse"
+  ],
+  "Orbit": {
+    "phi": "1.16709",
+    "radius": "100%",
+    "theta": "0.81989"
+  },
+  "Background": {
+    "one": "#5e35b1",
+    "two": "hsl(260deg, 54%, 15%)",
+    "type": "Radial"
+  },
+  "Visibility": "Public",
+  "Type": "FBX",
+  "Licence": "CC0 1.0",
+  "Animated": true,
+  "sourceUrl": "https://poly.pizza/m/iltq5bVNaV",
+  "downloadUrl": "https://static.poly.pizza/64cb7150-8031-44ab-a0c9-e1529a572b23.glb",
+  "sha256": "68f67077981102e957059fd00aaf3799e6867c269de900bd52c9f12cec1d5f56",
+  "sourcePageSha256": "4f10e5b2580bc87603c45f490b99855c47f56ffefc5c72dbb7861da241340306",
+  "retrieved": "2026-10-22T11:02:47.765Z",
+  "sourcePageRetrieved": "2026-10-22T11:02:47.713Z",
+  "verifiedAt": "2026-10-22T11:21:05.995Z",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+}

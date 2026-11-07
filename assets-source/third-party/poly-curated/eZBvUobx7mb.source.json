@@ -1,0 +1,46 @@
+{
+  "Title": "Butterfly",
+  "Description": "#insect #wings #bug #garden",
+  "UploadDate": "2017-09-29T01:39:32.651Z",
+  "ResourceID": "ea2ebf96-b003-475c-a15f-b5a08037ecda",
+  "PublicID": "eZBvUobx7mb",
+  "Likes": 0,
+  "CommentCount": 0,
+  "Tris": 528,
+  "Views": "1.15k",
+  "Downloads": 89,
+  "Creator": {
+    "Username": "Poly by Google",
+    "DPURL": "https://static.poly.pizza/dp%2Fpolygoogle.jpg",
+    "Socials": {}
+  },
+  "Category": "Animals",
+  "Tags": [
+    "insect",
+    "wings",
+    "bug",
+    "garden"
+  ],
+  "Orbit": {
+    "phi": "1.31884",
+    "radius": "110%",
+    "theta": "0.87089"
+  },
+  "Background": {
+    "one": "#039be5",
+    "two": "hsl(200deg, 97%, 15%)",
+    "type": "Radial"
+  },
+  "Visibility": "Public",
+  "Type": "obj",
+  "Licence": "CC-BY 3.0",
+  "Animated": false,
+  "sourceUrl": "https://poly.pizza/m/eZBvUobx7mb",
+  "downloadUrl": "https://static.poly.pizza/ea2ebf96-b003-475c-a15f-b5a08037ecda.glb",
+  "sha256": "a055784709ee4ce3ccce382bd83daf23d7ec9adc284b8d56e33ddf5a3028671d",
+  "sourcePageSha256": "fffaf02d05b2c067992d360bd947011ac42fd5ce36165529f08959a0f269ec9a",
+  "retrieved": "2026-10-22T11:06:48.029Z",
+  "sourcePageRetrieved": "2026-10-22T11:06:47.684Z",
+  "verifiedAt": "2026-10-22T11:21:06.186Z",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/"
+}

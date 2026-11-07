@@ -1,0 +1,48 @@
+{
+  "Title": "Robot Enemy Large",
+  "UploadDate": "2022-08-28T11:13:58.965Z",
+  "ResourceID": "86da7c34-9196-43b3-975d-db2325c83a65",
+  "PublicID": "mPDR0L5uKx",
+  "Likes": 9,
+  "CommentCount": 0,
+  "Tris": 4256,
+  "Views": "1.15k",
+  "Downloads": "1.66k",
+  "Creator": {
+    "Username": "Quaternius",
+    "DPURL": "https://static.poly.pizza/dp%2Ff63b655a-051c-4c4b-8dcc-3b346a39ece0.jpg",
+    "Socials": {
+      "Twitter": "quaternius",
+      "Pateron": "quaternius",
+      "Website": "https://quaternius.com/"
+    }
+  },
+  "Category": "People & Characters",
+  "Tags": [
+    "Robot",
+    "Enemy",
+    "Large"
+  ],
+  "Orbit": {
+    "phi": "1.31687",
+    "radius": "100%",
+    "theta": "-0.20472"
+  },
+  "Background": {
+    "one": "#5e35b1",
+    "two": "hsl(260deg, 54%, 15%)",
+    "type": "Radial"
+  },
+  "Visibility": "Public",
+  "Type": "FBX",
+  "Licence": "CC0 1.0",
+  "Animated": true,
+  "sourceUrl": "https://poly.pizza/m/mPDR0L5uKx",
+  "downloadUrl": "https://static.poly.pizza/86da7c34-9196-43b3-975d-db2325c83a65.glb",
+  "sha256": "1d21ee204a8080897623171baadcd3b4b10fd24c9c959eae2a94c0042a5462d7",
+  "sourcePageSha256": "b3c2d7a23961b4c084b363a09500b657d229f81e83d28915b61a442ae6aa9fd4",
+  "retrieved": "2026-10-21T21:14:12.276Z",
+  "sourcePageRetrieved": "2026-10-21T21:14:11.906Z",
+  "verifiedAt": "2026-10-22T11:21:06.047Z",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+}

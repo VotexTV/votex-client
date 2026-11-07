@@ -1,0 +1,49 @@
+{
+  "Title": "Shark",
+  "UploadDate": "2021-08-17T12:40:45.497Z",
+  "ResourceID": "d2d374ea-eb1d-4659-8cc7-816a83b82470",
+  "PublicID": "AyHTK3zUSG",
+  "Likes": 9,
+  "CommentCount": 0,
+  "Tris": 644,
+  "Views": "1.74k",
+  "Downloads": "1.82k",
+  "Creator": {
+    "Username": "Quaternius",
+    "DPURL": "https://static.poly.pizza/dp%2Ff63b655a-051c-4c4b-8dcc-3b346a39ece0.jpg",
+    "Socials": {
+      "Twitter": "quaternius",
+      "Pateron": "quaternius",
+      "Website": "https://quaternius.com/"
+    }
+  },
+  "Category": "Objects",
+  "Tags": [
+    "Shark",
+    "Fish",
+    "Sea Life",
+    "Great White Shark"
+  ],
+  "Orbit": {
+    "phi": "1.18286",
+    "radius": "100%",
+    "theta": "1.03274"
+  },
+  "Background": {
+    "one": "#039be5",
+    "two": "hsl(200deg, 97%, 15%)",
+    "type": "Radial"
+  },
+  "Visibility": "Public",
+  "Type": "FBX",
+  "Licence": "CC0 1.0",
+  "Animated": true,
+  "sourceUrl": "https://poly.pizza/m/AyHTK3zUSG",
+  "downloadUrl": "https://static.poly.pizza/d2d374ea-eb1d-4659-8cc7-816a83b82470.glb",
+  "sha256": "6d5cf3cd7ea749583b622a306cfcae4de85432efcc74a1ec6f52e5430cf13aff",
+  "sourcePageSha256": "7bed710da5f546e7eb2cedc41ab8078e46457f884c5ba35d542b458b48c3c4cf",
+  "retrieved": "2026-10-22T11:03:20.402Z",
+  "sourcePageRetrieved": "2026-10-22T11:03:20.109Z",
+  "verifiedAt": "2026-10-22T11:21:06.025Z",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+}

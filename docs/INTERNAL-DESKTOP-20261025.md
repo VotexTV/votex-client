@@ -1,0 +1,17 @@
+# Current-source internal desktop checkpoint
+
+The later [CURRENT-REVIEW-20261025.md](CURRENT-REVIEW-20261025.md) identifies the prepared EXE containing the newer tested installation-ribbon Core. The user postponed its window test; it remains unstarted. Earlier initialization claims below apply only to the retained earlier artifact.
+
+Later source note: [HOVER-PARITY-20261025.md](HOVER-PARITY-20261025.md) supersedes the source/staging state below. This retained internal EXE and its copied resources remain unchanged; they do not contain the subsequent hover/effect changes. The hashes and initialization evidence below identify that earlier checkpoint only.
+
+Status: internal build and process/frontend initialization passed. This is not an installer, public preview, packaged Minecraft launch or final visual acceptance.
+
+The optimized Tauri `build --no-bundle` completed successfully with the current frontend and staged Core. Log: `work/ingame-goal/internal-desktop-build-20261025.log`. TypeScript/Vite completed; the existing large-chunk warning and two unused Rust function warnings remain visible in that log. Frontend97 tests passed with zero failures (`frontend-current-20261025.json`). Both Core installation/update-preservation tests passed. The explicit actual-JAR microphone-guard check ran once and passed; its retained log is `current-core-guard-20261025.log`.
+
+The internal app was copied to `work/ingame-goal/internal-desktop-20261025/app/` with an explicit `resources/` directory. The copied Core, staging Core, built Core and successful `workspace-flow-run-02` Core all have SHA256 `6c7a7c236ac95abe415678d81e1e4a28473c7951df898461011ec6d0e7f12f59`. That native run matched all153 production classes and exited0. The internal EXE SHA256 is `0430ecefa2e6968b3597cb77436dc292af620d7686ea080a4c8435d733ee75f7`.
+
+`smoke-internal-current-20261025.py` launched only that exact EXE with `--votex-data-dir` pointing at its new private `data/` directory. PID30236 stayed alive through initialization and wrote valid schema1 configuration with one default profile. Source inspection confirms that `Store::new` creates directories without writing `launcher.json`; the configuration is written by the `save_state` IPC command called by `useApp`. Thus the receipt proves that the embedded frontend executed and reached native settings IPC. It does not prove a correctly rendered screen or the full set of IPC actions.
+
+The receipt is `work/ingame-goal/internal-desktop-20261025/result.json`; it retains EXE/Core/embedded frontend asset hashes, test root and process identity. The script stopped only its captured test process afterward. It performed no account login, microphone action or Minecraft launch, and did not write to existing preview folders, real profiles or the website. Windows executed this fresh internal build without changing security policy. Distributed download/installer trust behavior is outside this local initialization check.
+
+The current-source packaged frontend-to-profile preparation/Minecraft launch/reverse-settings workflow still needs its own final acceptance. Existing private backend startup/reverse-sync and native-world proofs keep their earlier exact hashes and scope. Public/authenticated/community services remain separate; the user continues to defer physical audio testing. The overall objective remains active, and this internal folder is not a preview handoff.

@@ -1,0 +1,49 @@
+{
+  "Title": "Apatosaurus",
+  "UploadDate": "2021-08-18T11:39:54.128Z",
+  "ResourceID": "7b873860-f23f-4266-b341-5c5e6770cfa0",
+  "PublicID": "fvo0x8Zk3z",
+  "Likes": 4,
+  "CommentCount": 0,
+  "Tris": 1438,
+  "Views": 767,
+  "Downloads": "2.16k",
+  "Creator": {
+    "Username": "Quaternius",
+    "DPURL": "https://static.poly.pizza/dp%2Ff63b655a-051c-4c4b-8dcc-3b346a39ece0.jpg",
+    "Socials": {
+      "Twitter": "quaternius",
+      "Pateron": "quaternius",
+      "Website": "https://quaternius.com/"
+    }
+  },
+  "Category": "Animals",
+  "Tags": [
+    "Lizard",
+    "Animal",
+    "Reptile",
+    "Dinosaur"
+  ],
+  "Orbit": {
+    "phi": "1.34053",
+    "radius": "100%",
+    "theta": "0.95391"
+  },
+  "Background": {
+    "one": "#5e35b1",
+    "two": "hsl(260deg, 54%, 15%)",
+    "type": "Radial"
+  },
+  "Visibility": "Public",
+  "Type": "FBX",
+  "Licence": "CC0 1.0",
+  "Animated": false,
+  "sourceUrl": "https://poly.pizza/m/fvo0x8Zk3z",
+  "downloadUrl": "https://static.poly.pizza/7b873860-f23f-4266-b341-5c5e6770cfa0.glb",
+  "sha256": "b0fc50a2d7c973c2a14b7889156ff8e63b02e5c352af3728981d77c29c6f7b31",
+  "sourcePageSha256": "243ab2cd7ae0ba707179c26e0b995d0a1a8247bed05038a54a7a15d276c7b950",
+  "retrieved": "2026-10-22T11:02:54.594Z",
+  "sourcePageRetrieved": "2026-10-22T11:02:54.539Z",
+  "verifiedAt": "2026-10-22T11:21:06.003Z",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+}

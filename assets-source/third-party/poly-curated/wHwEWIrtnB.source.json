@@ -1,0 +1,44 @@
+{
+  "Title": "Frog",
+  "Description": "missing a few fingers, but eh they'll be alright.",
+  "UploadDate": "2024-02-25T23:23:16.670Z",
+  "ResourceID": "5e605d2c-10e7-4698-b3a9-45500edeaf0c",
+  "PublicID": "wHwEWIrtnB",
+  "Likes": 2,
+  "CommentCount": 0,
+  "Tris": 616,
+  "Views": 369,
+  "Downloads": 53,
+  "Creator": {
+    "Username": "J-Toastie",
+    "DPURL": "https://static.poly.pizza/dp%2F2a18493e-a521-40ff-8c30-f7cfcdb513dd.jpg",
+    "Socials": {}
+  },
+  "Category": "Animals",
+  "Tags": [
+    "Frog",
+    "Amphibian"
+  ],
+  "Orbit": {
+    "phi": "1.31597",
+    "radius": "0.4509584646338648",
+    "theta": "0.64157"
+  },
+  "Background": {
+    "one": "#7cb342",
+    "two": "hsl(89deg, 46%, 15%)",
+    "type": "Radial"
+  },
+  "Visibility": "Public",
+  "Type": "FBX",
+  "Licence": "CC-BY 3.0",
+  "Animated": false,
+  "sourceUrl": "https://poly.pizza/m/wHwEWIrtnB",
+  "downloadUrl": "https://static.poly.pizza/5e605d2c-10e7-4698-b3a9-45500edeaf0c.glb",
+  "sha256": "37c218d560c2879de874fdfdb090e946b34b2801534979016e54543872294cec",
+  "sourcePageSha256": "ef58b0b9ace9e3c8fa4ea538c007f9ae756ea87332fe58e9ef3f71eeff27b988",
+  "retrieved": "2026-10-22T11:05:00.807Z",
+  "sourcePageRetrieved": "2026-10-22T11:05:00.571Z",
+  "verifiedAt": "2026-10-22T11:21:06.116Z",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/"
+}

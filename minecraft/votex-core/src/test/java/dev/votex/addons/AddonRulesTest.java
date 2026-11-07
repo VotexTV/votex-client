@@ -1,0 +1,9 @@
+package dev.votex.addons;
+import org.junit.jupiter.api.Test;
+import static org.junit.jupiter.api.Assertions.*;
+class AddonRulesTest {
+ @Test void acceptsNormalUnicodeNamesButRejectsTraversalWindowsDevicesAndAlternateStreams(){assertEquals("Sodium 26.2.jar",AddonRules.filename("Sodium 26.2.jar"));assertEquals("Schöne-Welt.zip",AddonRules.filename("Schöne-Welt.zip"));for(String bad:new String[]{"../escape.jar","x\\escape.jar","CON.jar","LPT9.zip","secret:stream.jar","foo.jar ","foo.jar.","",".","a\n.jar"})assertThrows(IllegalArgumentException.class,()->AddonRules.filename(bad));}
+ @Test void requiresExactHttpsCdnWithoutCredentialPortOrForeignRedirectTarget(){assertEquals("cdn.modrinth.com",AddonRules.cdn("https://cdn.modrinth.com/data/abc/versions/def/mod.jar").getHost());for(String bad:new String[]{"http://cdn.modrinth.com/a","https://cdn.modrinth.com.evil.test/a","https://evil.test/a","https://user@cdn.modrinth.com/a","https://cdn.modrinth.com:444/a","file:///mods/a.jar","/relative"})assertThrows(IllegalArgumentException.class,()->AddonRules.cdn(bad));}
+ @Test void onlyCompleteSha512AndKnownFoldersAreAccepted(){assertEquals("a".repeat(128),AddonRules.hash("A".repeat(128)));assertThrows(IllegalArgumentException.class,()->AddonRules.hash("a".repeat(127)));assertThrows(IllegalArgumentException.class,()->AddonRules.hash("x".repeat(128)));assertEquals("resourcepacks",AddonRules.folder("resourcepack"));assertThrows(IllegalArgumentException.class,()->AddonRules.folder("../../"));}
+ @Test void pngHeadersBoundNativeImageAllocation(){byte[] bytes=new byte[24];byte[] signature={(byte)137,80,78,71,13,10,26,10};System.arraycopy(signature,0,bytes,0,8);java.nio.ByteBuffer.wrap(bytes,16,8).putInt(64).putInt(64);assertTrue(AddonRules.png(bytes));java.nio.ByteBuffer.wrap(bytes,16,8).putInt(32768).putInt(32768);assertFalse(AddonRules.png(bytes));assertFalse(AddonRules.png(new byte[20]));}
+}

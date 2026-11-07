@@ -1,0 +1,48 @@
+{
+  "Title": "Stegosaurus",
+  "UploadDate": "2021-08-18T11:39:45.181Z",
+  "ResourceID": "6f8f4ac6-f9e8-488d-97a8-220b9b2fd02a",
+  "PublicID": "eFcNbOlpvl",
+  "Likes": 6,
+  "CommentCount": 0,
+  "Tris": 2282,
+  "Views": 949,
+  "Downloads": "2.24k",
+  "Creator": {
+    "Username": "Quaternius",
+    "DPURL": "https://static.poly.pizza/dp%2Ff63b655a-051c-4c4b-8dcc-3b346a39ece0.jpg",
+    "Socials": {
+      "Twitter": "quaternius",
+      "Pateron": "quaternius",
+      "Website": "https://quaternius.com/"
+    }
+  },
+  "Category": "Animals",
+  "Tags": [
+    "Reptile",
+    "Animal",
+    "Dinosaur"
+  ],
+  "Orbit": {
+    "phi": "1.34053",
+    "radius": "100%",
+    "theta": "0.95391"
+  },
+  "Background": {
+    "one": "#5e35b1",
+    "two": "hsl(260deg, 54%, 15%)",
+    "type": "Radial"
+  },
+  "Visibility": "Public",
+  "Type": "FBX",
+  "Licence": "CC0 1.0",
+  "Animated": false,
+  "sourceUrl": "https://poly.pizza/m/eFcNbOlpvl",
+  "downloadUrl": "https://static.poly.pizza/6f8f4ac6-f9e8-488d-97a8-220b9b2fd02a.glb",
+  "sha256": "a3dff577342e98f847d1ec4985f28d594c47d2e7d9b05cab78ae8aecf2272f35",
+  "sourcePageSha256": "d110c1e233f2061a99cdd3b6b212ca9120827596d214b615dec72ae026499fb3",
+  "retrieved": "2026-10-22T11:02:59.931Z",
+  "sourcePageRetrieved": "2026-10-22T11:02:59.568Z",
+  "verifiedAt": "2026-10-22T11:21:06.007Z",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+}

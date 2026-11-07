@@ -1,0 +1,46 @@
+{
+  "Title": "Cat",
+  "Description": "Moo, or something like that.\nRigged and animated low poly cat 🐈",
+  "UploadDate": "2023-10-29T19:42:08.612Z",
+  "ResourceID": "8b3fc8b2-7eae-4b19-8084-d2fbd725bc58",
+  "PublicID": "DJ9rpAhrh3",
+  "Likes": 2,
+  "CommentCount": 0,
+  "Tris": 1856,
+  "Views": "1.29k",
+  "Downloads": 133,
+  "Creator": {
+    "Username": "J-Toastie",
+    "DPURL": "https://static.poly.pizza/dp%2F2a18493e-a521-40ff-8c30-f7cfcdb513dd.jpg",
+    "Socials": {}
+  },
+  "Category": "Animals",
+  "Tags": [
+    "Cat",
+    "Kitty",
+    "Kitten",
+    "Feral"
+  ],
+  "Orbit": {
+    "phi": "1.46939",
+    "radius": "6.944307067000862",
+    "theta": "13.54964"
+  },
+  "Background": {
+    "one": "#039be5",
+    "two": "hsl(200deg, 97%, 15%)",
+    "type": "Radial"
+  },
+  "Visibility": "Public",
+  "Type": "FBX",
+  "Licence": "CC-BY 3.0",
+  "Animated": true,
+  "sourceUrl": "https://poly.pizza/m/DJ9rpAhrh3",
+  "downloadUrl": "https://static.poly.pizza/8b3fc8b2-7eae-4b19-8084-d2fbd725bc58.glb",
+  "sha256": "2ed030946f552f2b46433294391628a37583ae74a496d3164c003e1f95b24e4e",
+  "sourcePageSha256": "0e7185b24ca23fa4c30b79ee5a3e80aec6f8bdfbce14920acef7876a30d9a610",
+  "retrieved": "2026-10-22T11:05:02.765Z",
+  "sourcePageRetrieved": "2026-10-22T11:05:02.474Z",
+  "verifiedAt": "2026-10-22T11:21:06.117Z",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/"
+}

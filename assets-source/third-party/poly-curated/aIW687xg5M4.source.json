@@ -1,0 +1,43 @@
+{
+  "Title": "Crown",
+  "Description": "#royalty",
+  "UploadDate": "2017-10-23T04:18:41.977Z",
+  "ResourceID": "0bcc7245-7e31-4d9a-8b6d-352d55179123",
+  "PublicID": "aIW687xg5M4",
+  "Likes": 3,
+  "CommentCount": 0,
+  "Tris": 7980,
+  "Views": "1.43k",
+  "Downloads": 741,
+  "Creator": {
+    "Username": "Poly by Google",
+    "DPURL": "https://static.poly.pizza/dp%2Fpolygoogle.jpg",
+    "Socials": {}
+  },
+  "Category": "Objects",
+  "Tags": [
+    "royalty"
+  ],
+  "Orbit": {
+    "phi": "1.31884",
+    "radius": "110%",
+    "theta": "0.87089"
+  },
+  "Background": {
+    "one": "#00acc1",
+    "two": "hsl(187deg, 100%, 15%)",
+    "type": "Radial"
+  },
+  "Visibility": "Public",
+  "Type": "obj",
+  "Licence": "CC-BY 3.0",
+  "Animated": false,
+  "sourceUrl": "https://poly.pizza/m/aIW687xg5M4",
+  "downloadUrl": "https://static.poly.pizza/0bcc7245-7e31-4d9a-8b6d-352d55179123.glb",
+  "sha256": "c197c3c1c2d96909c13a119b95048853e405cfc0029aa45dea28903b8b259fc8",
+  "sourcePageSha256": "607167457b2badf33aa7f81849e1da4cb96b2f5ab1bc2d1594d4f1fe324bab95",
+  "retrieved": "2026-10-22T11:05:11.252Z",
+  "sourcePageRetrieved": "2026-10-22T11:05:10.910Z",
+  "verifiedAt": "2026-10-22T11:21:06.127Z",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/"
+}

@@ -1,0 +1,45 @@
+{
+  "Title": "Boots",
+  "Description": "#shoe #footwear",
+  "UploadDate": "2017-10-20T03:40:42.728Z",
+  "ResourceID": "888317ad-20f0-4b0d-ba01-0bdd017adfd8",
+  "PublicID": "7HbqG8RwRcA",
+  "Likes": 3,
+  "CommentCount": 0,
+  "Tris": 154,
+  "Views": 863,
+  "Downloads": 264,
+  "Creator": {
+    "Username": "Poly by Google",
+    "DPURL": "https://static.poly.pizza/dp%2Fpolygoogle.jpg",
+    "Socials": {}
+  },
+  "Category": "Objects",
+  "Tags": [
+    "Footwear",
+    "Shoe",
+    "Clothing"
+  ],
+  "Orbit": {
+    "phi": "1.31884",
+    "radius": "110%",
+    "theta": "0.87089"
+  },
+  "Background": {
+    "one": "#546e7a",
+    "two": "hsl(199deg, 18%, 15%)",
+    "type": "Radial"
+  },
+  "Visibility": "Public",
+  "Type": "obj",
+  "Licence": "CC-BY 3.0",
+  "Animated": false,
+  "sourceUrl": "https://poly.pizza/m/7HbqG8RwRcA",
+  "downloadUrl": "https://static.poly.pizza/888317ad-20f0-4b0d-ba01-0bdd017adfd8.glb",
+  "sha256": "4fa4372d9af01c2cd0e67462c9afdd3eba86feccdb8fe3fef3f71fb51b7cca94",
+  "sourcePageSha256": "58061f4409f3b35fa4b6153972286d7848680da9752523d3c0ec87776418f1a5",
+  "retrieved": "2026-10-22T11:05:44.513Z",
+  "sourcePageRetrieved": "2026-10-22T11:05:44.287Z",
+  "verifiedAt": "2026-10-22T11:21:06.157Z",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/"
+}

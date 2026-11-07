@@ -1,0 +1,47 @@
+{
+  "Title": "Backpack",
+  "UploadDate": "2021-08-26T12:55:45.331Z",
+  "ResourceID": "2eb5178b-0c98-4a0d-b0ea-ad8925525d1e",
+  "PublicID": "vF7TuXCPDH",
+  "Likes": 13,
+  "CommentCount": 0,
+  "Tris": 0,
+  "Views": "2.84k",
+  "Downloads": "3.55k",
+  "Creator": {
+    "Username": "Quaternius",
+    "DPURL": "https://static.poly.pizza/dp%2Ff63b655a-051c-4c4b-8dcc-3b346a39ece0.jpg",
+    "Socials": {
+      "Twitter": "quaternius",
+      "Pateron": "quaternius",
+      "Website": "https://quaternius.com/"
+    }
+  },
+  "Category": "Objects",
+  "Tags": [
+    "Bag",
+    "Backpack"
+  ],
+  "Orbit": {
+    "phi": "1.41937",
+    "radius": "100%",
+    "theta": "-0.02365"
+  },
+  "Background": {
+    "one": "#546e7a",
+    "two": "hsl(199deg, 18%, 15%)",
+    "type": "Radial"
+  },
+  "Visibility": "Public",
+  "Type": "FBX",
+  "Licence": "CC0 1.0",
+  "Animated": false,
+  "sourceUrl": "https://poly.pizza/m/vF7TuXCPDH",
+  "downloadUrl": "https://static.poly.pizza/2eb5178b-0c98-4a0d-b0ea-ad8925525d1e.glb",
+  "sha256": "404af15a4bc0a955d9d8133d16de7a4b900663f3a11f5364624ab8e7e9b6f68a",
+  "sourcePageSha256": "b3d7d450cc0037360e31cd96f5f2255b735dc5afe0162bcf0677944c6799fe6e",
+  "retrieved": "2026-10-22T11:04:23.693Z",
+  "sourcePageRetrieved": "2026-10-22T11:04:23.283Z",
+  "verifiedAt": "2026-10-22T11:21:06.084Z",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+}

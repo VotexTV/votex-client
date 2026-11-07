@@ -1,0 +1,210 @@
+# Individually licensed model adaptations
+
+Original authors retain the listed source licenses. These models are not original Votex artwork. The Votex software license does not replace the asset licenses.
+
+Changes: original static/rest-pose geometry converted, fitted and attached to the Minecraft player; source skin weights baked where present, UV/colors preserved, texture containers converted to bounded PNG where needed. Source animation clips are not Votex emotes.
+
+- **Bunny** (creator-poly-9ea8db73a359) — Quaternius; [CC0](https://creativecommons.org/publicdomain/zero/1.0/); [original model](https://poly.pizza/m/irZjWFARyl).
+- **Frog** (creator-poly-06c745199ebe) — Quaternius; [CC0](https://creativecommons.org/publicdomain/zero/1.0/); [original model](https://poly.pizza/m/37wofOCOzG).
+- **Fish** (creator-poly-cad749305ca8) — Quaternius; [CC0](https://creativecommons.org/publicdomain/zero/1.0/); [original model](https://poly.pizza/m/ypEYhCImAB).
+- **Blue Demon** (creator-poly-fe589aff7e5d) — Quaternius; [CC0](https://creativecommons.org/publicdomain/zero/1.0/); [original model](https://poly.pizza/m/S7jYW6Amye).
+- **Dino** (creator-poly-1fc95b460dcd) — Quaternius; [CC0](https://creativecommons.org/publicdomain/zero/1.0/); [original model](https://poly.pizza/m/wuerCFCWNR).
+- **Monkroose** (creator-poly-88c0a93f214a) — Quaternius; [CC0](https://creativecommons.org/publicdomain/zero/1.0/); [original model](https://poly.pizza/m/j4rVPvxyLg).
+- **Ninja** (creator-poly-8251496033a7) — Quaternius; [CC0](https://creativecommons.org/publicdomain/zero/1.0/); [original model](https://poly.pizza/m/xGYmeDpfTu).
+- **Mushroom King** (creator-poly-db98a47f0325) — Quaternius; [CC0](https://creativecommons.org/publicdomain/zero/1.0/); [original model](https://poly.pizza/m/grnFTziU8u).
+- **Yeti** (creator-poly-cc25d88bd3d3) — Quaternius; [CC0](https://creativecommons.org/publicdomain/zero/1.0/); [original model](https://poly.pizza/m/ceRHrn8HHE).
+- **Orc** (creator-poly-bbb0ca1e52c3) — Quaternius; [CC0](https://creativecommons.org/publicdomain/zero/1.0/); [original model](https://poly.pizza/m/5vO2YJsPEf).
+- **Demon** (creator-poly-fcb53102e956) — Quaternius; [CC0](https://creativecommons.org/publicdomain/zero/1.0/); [original model](https://poly.pizza/m/LnfIziKv4o).
+- **Alien** (creator-poly-0ca1fc709f29) — Quaternius; [CC0](https://creativecommons.org/publicdomain/zero/1.0/); [original model](https://poly.pizza/m/RRliSQBP7r).
+- **Cactoro** (creator-poly-1e85904150f7) — Quaternius; [CC0](https://creativecommons.org/publicdomain/zero/1.0/); [original model](https://poly.pizza/m/IGn9lhdama).
+- **Glub Evolved** (creator-poly-3bf84b6f4da5) — Quaternius; [CC0](https://creativecommons.org/publicdomain/zero/1.0/); [original model](https://poly.pizza/m/Z9lddNpM1M).
+- **Goleling** (creator-poly-f890a25feabd) — Quaternius; [CC0](https://creativecommons.org/publicdomain/zero/1.0/); [original model](https://poly.pizza/m/71gomWolax).
+- **Wizard** (creator-poly-eb8f7508df25) — Quaternius; [CC0](https://creativecommons.org/publicdomain/zero/1.0/); [original model](https://poly.pizza/m/o87Upt5uHX).
+- **Goleling Evolved** (creator-poly-9eca076127ed) — Quaternius; [CC0](https://creativecommons.org/publicdomain/zero/1.0/); [original model](https://poly.pizza/m/iHEuXiH6Aj).
+- **Yeti** (creator-poly-1c89ac2d5a40) — Quaternius; [CC0](https://creativecommons.org/publicdomain/zero/1.0/); [original model](https://poly.pizza/m/S1E7idPFhe).
+- **Ghost Skull** (creator-poly-cf9de93760b8) — Quaternius; [CC0](https://creativecommons.org/publicdomain/zero/1.0/); [original model](https://poly.pizza/m/TX8r9WBXpe).
+- **Ghost** (creator-poly-3d61c6b62d5e) — Quaternius; [CC0](https://creativecommons.org/publicdomain/zero/1.0/); [original model](https://poly.pizza/m/Iip30bDHmu).
+- **Demon** (creator-poly-aa0ee79a410b) — Quaternius; [CC0](https://creativecommons.org/publicdomain/zero/1.0/); [original model](https://poly.pizza/m/Mo2ky6vkf8).
+- **Hywirl** (creator-poly-14a9f34c3425) — Quaternius; [CC0](https://creativecommons.org/publicdomain/zero/1.0/); [original model](https://poly.pizza/m/zjr7CmWGER).
+- **Dragon Evolved** (creator-poly-b2453c920903) — Quaternius; [CC0](https://creativecommons.org/publicdomain/zero/1.0/); [original model](https://poly.pizza/m/LlwD0QNUPj).
+- **Tribal** (creator-poly-20f47fb480dd) — Quaternius; [CC0](https://creativecommons.org/publicdomain/zero/1.0/); [original model](https://poly.pizza/m/t91lDHaqRW).
+- **Squidle** (creator-poly-fa7a14f906b6) — Quaternius; [CC0](https://creativecommons.org/publicdomain/zero/1.0/); [original model](https://poly.pizza/m/54QyRcsogk).
+- **Pink Slime** (creator-poly-1c1e84edde23) — Quaternius; [CC0](https://creativecommons.org/publicdomain/zero/1.0/); [original model](https://poly.pizza/m/AyP8sQmDLh).
+- **Glub** (creator-poly-d9d7742a5c70) — Quaternius; [CC0](https://creativecommons.org/publicdomain/zero/1.0/); [original model](https://poly.pizza/m/x59pqJscry).
+- **Pigeon** (creator-poly-d53f294c5b6a) — Quaternius; [CC0](https://creativecommons.org/publicdomain/zero/1.0/); [original model](https://poly.pizza/m/9NGlBTpDEr).
+- **Alien** (creator-poly-7989bccf8a9b) — Quaternius; [CC0](https://creativecommons.org/publicdomain/zero/1.0/); [original model](https://poly.pizza/m/sUTLXji0aL).
+- **Alpaking Evolved** (creator-poly-35a1c3481195) — Quaternius; [CC0](https://creativecommons.org/publicdomain/zero/1.0/); [original model](https://poly.pizza/m/UdJudob66v).
+- **Alpaking** (creator-poly-253f69390ece) — Quaternius; [CC0](https://creativecommons.org/publicdomain/zero/1.0/); [original model](https://poly.pizza/m/AQ8zbFoDln).
+- **Armabee Evolved** (creator-poly-5bd58ec46c23) — Quaternius; [CC0](https://creativecommons.org/publicdomain/zero/1.0/); [original model](https://poly.pizza/m/GcttdvsqsQ).
+- **Armabee** (creator-poly-ecf4251968e8) — Quaternius; [CC0](https://creativecommons.org/publicdomain/zero/1.0/); [original model](https://poly.pizza/m/42djT5zJnx).
+- **Birb** (creator-poly-658070122005) — Quaternius; [CC0](https://creativecommons.org/publicdomain/zero/1.0/); [original model](https://poly.pizza/m/gZ2ExU9OAB).
+- **Cactoro** (creator-poly-3e828ae18ed0) — Quaternius; [CC0](https://creativecommons.org/publicdomain/zero/1.0/); [original model](https://poly.pizza/m/66CYX5UhRK).
+- **Cat** (creator-poly-8fd53f3520cf) — Quaternius; [CC0](https://creativecommons.org/publicdomain/zero/1.0/); [original model](https://poly.pizza/m/2f54vbV0In).
+- **Chicken** (creator-poly-a8290c765e47) — Quaternius; [CC0](https://creativecommons.org/publicdomain/zero/1.0/); [original model](https://poly.pizza/m/ineV9pU5VL).
+- **Dragon** (creator-poly-0ae1ad091b99) — Quaternius; [CC0](https://creativecommons.org/publicdomain/zero/1.0/); [original model](https://poly.pizza/m/3rUm1cN3yp).
+- **Fish** (creator-poly-be81c8ed616c) — Quaternius; [CC0](https://creativecommons.org/publicdomain/zero/1.0/); [original model](https://poly.pizza/m/7V4gaDMQV8).
+- **Green Blob** (creator-poly-c56c5b3dbc80) — Quaternius; [CC0](https://creativecommons.org/publicdomain/zero/1.0/); [original model](https://poly.pizza/m/y4kJh8EeYS).
+- **Green Spiky Blob** (creator-poly-5815fce2e920) — Quaternius; [CC0](https://creativecommons.org/publicdomain/zero/1.0/); [original model](https://poly.pizza/m/IoWG5F9WUc).
+- **Mushnub Evolved** (creator-poly-cf289e79bbbb) — Quaternius; [CC0](https://creativecommons.org/publicdomain/zero/1.0/); [original model](https://poly.pizza/m/0SZyA6MV51).
+- **Mushnub** (creator-poly-d92c774ff1c9) — Quaternius; [CC0](https://creativecommons.org/publicdomain/zero/1.0/); [original model](https://poly.pizza/m/LWKmS30Xxl).
+- **Ninja** (creator-poly-f30768ba5722) — Quaternius; [CC0](https://creativecommons.org/publicdomain/zero/1.0/); [original model](https://poly.pizza/m/mCNoqcqpvC).
+- **Tuna** (creator-poly-3798f77b2ae2) — Quaternius; [CC0](https://creativecommons.org/publicdomain/zero/1.0/); [original model](https://poly.pizza/m/1tycAcvSVW).
+- **Turbot** (creator-poly-fe705dd52323) — Quaternius; [CC0](https://creativecommons.org/publicdomain/zero/1.0/); [original model](https://poly.pizza/m/E8NjhhdvSU).
+- **Yellow Tang** (creator-poly-9c6975c95b46) — Quaternius; [CC0](https://creativecommons.org/publicdomain/zero/1.0/); [original model](https://poly.pizza/m/CrDlkPLon0).
+- **Zebra Clown Fish** (creator-poly-35481c6f5959) — Quaternius; [CC0](https://creativecommons.org/publicdomain/zero/1.0/); [original model](https://poly.pizza/m/6jO6q4uCdh).
+- **Tetra** (creator-poly-0940e41270f6) — Quaternius; [CC0](https://creativecommons.org/publicdomain/zero/1.0/); [original model](https://poly.pizza/m/l6AhogdZHe).
+- **Anglerfish** (creator-poly-c957b71514bb) — Quaternius; [CC0](https://creativecommons.org/publicdomain/zero/1.0/); [original model](https://poly.pizza/m/MRjSlwCjHM).
+- **Armored Catfish** (creator-poly-123ddbb524d7) — Quaternius; [CC0](https://creativecommons.org/publicdomain/zero/1.0/); [original model](https://poly.pizza/m/mtd9QK5yCe).
+- **Betta** (creator-poly-e2e85ff0deb5) — Quaternius; [CC0](https://creativecommons.org/publicdomain/zero/1.0/); [original model](https://poly.pizza/m/Vg8IlYjdZi).
+- **Black Lion Fish** (creator-poly-6f42b96143cd) — Quaternius; [CC0](https://creativecommons.org/publicdomain/zero/1.0/); [original model](https://poly.pizza/m/4k2s68UrSg).
+- **Blobfish** (creator-poly-d95a6ac71d1a) — Quaternius; [CC0](https://creativecommons.org/publicdomain/zero/1.0/); [original model](https://poly.pizza/m/7Jh8vsARfN).
+- **Blue Goldfish** (creator-poly-1f6b5b6a4126) — Quaternius; [CC0](https://creativecommons.org/publicdomain/zero/1.0/); [original model](https://poly.pizza/m/imxZBHZ1yS).
+- **Blue Tang** (creator-poly-b07e6c0ad58f) — Quaternius; [CC0](https://creativecommons.org/publicdomain/zero/1.0/); [original model](https://poly.pizza/m/TQaMo8GTJl).
+- **Butterfly Fish** (creator-poly-949a2b82d410) — Quaternius; [CC0](https://creativecommons.org/publicdomain/zero/1.0/); [original model](https://poly.pizza/m/s2MkBeSzGy).
+- **Cardinal Fish** (creator-poly-7e6e646530a0) — Quaternius; [CC0](https://creativecommons.org/publicdomain/zero/1.0/); [original model](https://poly.pizza/m/YyZyVhg2Jq).
+- **Clownfish** (creator-poly-0ecf0dfe1ad9) — Quaternius; [CC0](https://creativecommons.org/publicdomain/zero/1.0/); [original model](https://poly.pizza/m/769fHo3eEB).
+- **Coral Grouper** (creator-poly-769ec653ae66) — Quaternius; [CC0](https://creativecommons.org/publicdomain/zero/1.0/); [original model](https://poly.pizza/m/Q2GNw9TRzF).
+- **Cowfish** (creator-poly-5df9f4d68eca) — Quaternius; [CC0](https://creativecommons.org/publicdomain/zero/1.0/); [original model](https://poly.pizza/m/VMJluStc59).
+- **Flatfish** (creator-poly-d4c29e8560da) — Quaternius; [CC0](https://creativecommons.org/publicdomain/zero/1.0/); [original model](https://poly.pizza/m/X5EjEA6fMF).
+- **Flower Horn** (creator-poly-03ebe6e38829) — Quaternius; [CC0](https://creativecommons.org/publicdomain/zero/1.0/); [original model](https://poly.pizza/m/ExfO0SGWmf).
+- **Goblin Shark** (creator-poly-39db259968d0) — Quaternius; [CC0](https://creativecommons.org/publicdomain/zero/1.0/); [original model](https://poly.pizza/m/JQrBevTzgD).
+- **Humphead** (creator-poly-bd4c65dbcc95) — Quaternius; [CC0](https://creativecommons.org/publicdomain/zero/1.0/); [original model](https://poly.pizza/m/iawvpwugzX).
+- **Koi** (creator-poly-f8c1cdb5d267) — Quaternius; [CC0](https://creativecommons.org/publicdomain/zero/1.0/); [original model](https://poly.pizza/m/qyGtRmhgzl).
+- **Lionfish** (creator-poly-76129aef4fd9) — Quaternius; [CC0](https://creativecommons.org/publicdomain/zero/1.0/); [original model](https://poly.pizza/m/czsz9Baw86).
+- **Mandarin Fish** (creator-poly-052963a23865) — Quaternius; [CC0](https://creativecommons.org/publicdomain/zero/1.0/); [original model](https://poly.pizza/m/h6M5zlF5Yx).
+- **Moorish Idol** (creator-poly-560f0c33c99e) — Quaternius; [CC0](https://creativecommons.org/publicdomain/zero/1.0/); [original model](https://poly.pizza/m/M0UX3rVvNX).
+- **Parrot Fish** (creator-poly-1771ac45c3f2) — Quaternius; [CC0](https://creativecommons.org/publicdomain/zero/1.0/); [original model](https://poly.pizza/m/lj0WFfJkbb).
+- **Piranha** (creator-poly-9e6359f687b2) — Quaternius; [CC0](https://creativecommons.org/publicdomain/zero/1.0/); [original model](https://poly.pizza/m/F7bCnF1BFf).
+- **Puffer** (creator-poly-98bbebc4e27d) — Quaternius; [CC0](https://creativecommons.org/publicdomain/zero/1.0/); [original model](https://poly.pizza/m/UKHtgpxTOk).
+- **Red Snapper** (creator-poly-14c2344a44b8) — Quaternius; [CC0](https://creativecommons.org/publicdomain/zero/1.0/); [original model](https://poly.pizza/m/BRKfDKwPTv).
+- **Royal Gramma** (creator-poly-72000982bc7e) — Quaternius; [CC0](https://creativecommons.org/publicdomain/zero/1.0/); [original model](https://poly.pizza/m/e8u2OQ9Quz).
+- **Shark** (creator-poly-771fe46283f8) — Quaternius; [CC0](https://creativecommons.org/publicdomain/zero/1.0/); [original model](https://poly.pizza/m/sZR8AMLMz5).
+- **Sunfish** (creator-poly-e0d87f2683e8) — Quaternius; [CC0](https://creativecommons.org/publicdomain/zero/1.0/); [original model](https://poly.pizza/m/UpDxLf8yue).
+- **Swordfish** (creator-poly-8a247b86cbf2) — Quaternius; [CC0](https://creativecommons.org/publicdomain/zero/1.0/); [original model](https://poly.pizza/m/7hMOlBjln0).
+- **Horse** (creator-poly-834e84d3bf5b) — Quaternius; [CC0](https://creativecommons.org/publicdomain/zero/1.0/); [original model](https://poly.pizza/m/qvTrSG9pZF).
+- **Stag** (creator-poly-163ee1fa8465) — Quaternius; [CC0](https://creativecommons.org/publicdomain/zero/1.0/); [original model](https://poly.pizza/m/tQdzbZ1Cmw).
+- **Husky** (creator-poly-3a7ba3edaee7) — Quaternius; [CC0](https://creativecommons.org/publicdomain/zero/1.0/); [original model](https://poly.pizza/m/wcWiuEqwzq).
+- **Wolf** (creator-poly-6302205e49cd) — Quaternius; [CC0](https://creativecommons.org/publicdomain/zero/1.0/); [original model](https://poly.pizza/m/P1gU3Qkr9r).
+- **Shiba Inu** (creator-poly-a50e1b0912ba) — Quaternius; [CC0](https://creativecommons.org/publicdomain/zero/1.0/); [original model](https://poly.pizza/m/y4wdQpg767).
+- **Alpaca** (creator-poly-063bc11c6754) — Quaternius; [CC0](https://creativecommons.org/publicdomain/zero/1.0/); [original model](https://poly.pizza/m/bCVFD48i2l).
+- **Donkey** (creator-poly-f331ca70e5bf) — Quaternius; [CC0](https://creativecommons.org/publicdomain/zero/1.0/); [original model](https://poly.pizza/m/qmX6nhnvp7).
+- **Bull** (creator-poly-b802346a7903) — Quaternius; [CC0](https://creativecommons.org/publicdomain/zero/1.0/); [original model](https://poly.pizza/m/a8PIIYwF7r).
+- **Deer** (creator-poly-70998be994b4) — Quaternius; [CC0](https://creativecommons.org/publicdomain/zero/1.0/); [original model](https://poly.pizza/m/T6Cs7tmMHJ).
+- **Cow** (creator-poly-ba5702451490) — Quaternius; [CC0](https://creativecommons.org/publicdomain/zero/1.0/); [original model](https://poly.pizza/m/26zM1outCr).
+- **Spider** (creator-poly-54e51ee2395d) — Quaternius; [CC0](https://creativecommons.org/publicdomain/zero/1.0/); [original model](https://poly.pizza/m/yRYJiAJyiM).
+- **Rat** (creator-poly-8ffc8374294b) — Quaternius; [CC0](https://creativecommons.org/publicdomain/zero/1.0/); [original model](https://poly.pizza/m/iltq5bVNaV).
+- **Frog** (creator-poly-5aa49abd0a9f) — Quaternius; [CC0](https://creativecommons.org/publicdomain/zero/1.0/); [original model](https://poly.pizza/m/9Z2V8fpazF).
+- **Snake** (creator-poly-a8be8b46beb6) — Quaternius; [CC0](https://creativecommons.org/publicdomain/zero/1.0/); [original model](https://poly.pizza/m/x9x0viZs8V).
+- **Apatosaurus** (creator-poly-6b79f0c2e0f3) — Quaternius; [CC0](https://creativecommons.org/publicdomain/zero/1.0/); [original model](https://poly.pizza/m/fvo0x8Zk3z).
+- **Triceratops** (creator-poly-ffc30d6db267) — Quaternius; [CC0](https://creativecommons.org/publicdomain/zero/1.0/); [original model](https://poly.pizza/m/IGvrUqGrRM).
+- **Velociraptor** (creator-poly-2a91f8b947d4) — Quaternius; [CC0](https://creativecommons.org/publicdomain/zero/1.0/); [original model](https://poly.pizza/m/cnlGH2UcDd).
+- **Stegosaurus** (creator-poly-97416294c8f2) — Quaternius; [CC0](https://creativecommons.org/publicdomain/zero/1.0/); [original model](https://poly.pizza/m/eFcNbOlpvl).
+- **T-Rex** (creator-poly-df92d2a47d0c) — Quaternius; [CC0](https://creativecommons.org/publicdomain/zero/1.0/); [original model](https://poly.pizza/m/UYtneO5FpF).
+- **Parasaurolophus** (creator-poly-baaafe5e12a5) — Quaternius; [CC0](https://creativecommons.org/publicdomain/zero/1.0/); [original model](https://poly.pizza/m/KeeQrrouRK).
+- **Zebra** (creator-poly-9d0bd70c3616) — Quaternius; [CC0](https://creativecommons.org/publicdomain/zero/1.0/); [original model](https://poly.pizza/m/iclPBR6SBZ).
+- **Cow** (creator-poly-54fbfd72fcda) — Quaternius; [CC0](https://creativecommons.org/publicdomain/zero/1.0/); [original model](https://poly.pizza/m/5XSc2Fka3F).
+- **Horse** (creator-poly-6e29fcc95149) — Quaternius; [CC0](https://creativecommons.org/publicdomain/zero/1.0/); [original model](https://poly.pizza/m/F8HAAcLeBL).
+- **Sheep** (creator-poly-bfe019ce468e) — Quaternius; [CC0](https://creativecommons.org/publicdomain/zero/1.0/); [original model](https://poly.pizza/m/C39AUXUUes).
+- **Pug** (creator-poly-365cb22fa90b) — Quaternius; [CC0](https://creativecommons.org/publicdomain/zero/1.0/); [original model](https://poly.pizza/m/1gXKv15ik8).
+- **Pig** (creator-poly-f7ffae8fde5a) — Quaternius; [CC0](https://creativecommons.org/publicdomain/zero/1.0/); [original model](https://poly.pizza/m/TNvG3QUFlp).
+- **Llama** (creator-poly-f16599d9f024) — Quaternius; [CC0](https://creativecommons.org/publicdomain/zero/1.0/); [original model](https://poly.pizza/m/JxVJ9rfWGy).
+- **Whale** (creator-poly-f6d1e09ee799) — Quaternius; [CC0](https://creativecommons.org/publicdomain/zero/1.0/); [original model](https://poly.pizza/m/JGFwp6xWgk).
+- **Manta ray** (creator-poly-65a49b60f233) — Quaternius; [CC0](https://creativecommons.org/publicdomain/zero/1.0/); [original model](https://poly.pizza/m/yzD8b7ZHZm).
+- **Shark** (creator-poly-a862c0a0aeac) — Quaternius; [CC0](https://creativecommons.org/publicdomain/zero/1.0/); [original model](https://poly.pizza/m/AyHTK3zUSG).
+- **Dolphin** (creator-poly-904ab3542f50) — Quaternius; [CC0](https://creativecommons.org/publicdomain/zero/1.0/); [original model](https://poly.pizza/m/3LzFgI3GLO).
+- **Fish** (creator-poly-464662858a59) — Quaternius; [CC0](https://creativecommons.org/publicdomain/zero/1.0/); [original model](https://poly.pizza/m/XWl86YFtpF).
+- **Fish** (creator-poly-db0659ef4959) — Quaternius; [CC0](https://creativecommons.org/publicdomain/zero/1.0/); [original model](https://poly.pizza/m/Ymu8ftrmuT).
+- **Fish** (creator-poly-4b75a41c7860) — Quaternius; [CC0](https://creativecommons.org/publicdomain/zero/1.0/); [original model](https://poly.pizza/m/BEcU9rjiAq).
+- **Mech** (creator-poly-03acaf14be8f) — Quaternius; [CC0](https://creativecommons.org/publicdomain/zero/1.0/); [original model](https://poly.pizza/m/o3Ps8z8ByP).
+- **Mech** (creator-poly-739e16526351) — Quaternius; [CC0](https://creativecommons.org/publicdomain/zero/1.0/); [original model](https://poly.pizza/m/tLs9mFVCSU).
+- **Mech** (creator-poly-63d0010a5bd7) — Quaternius; [CC0](https://creativecommons.org/publicdomain/zero/1.0/); [original model](https://poly.pizza/m/D5wW2jDO42).
+- **Spaceship** (creator-poly-7718bad8c27d) — Quaternius; [CC0](https://creativecommons.org/publicdomain/zero/1.0/); [original model](https://poly.pizza/m/Jqfed124pQ).
+- **Spaceship** (creator-poly-eff01a107061) — Quaternius; [CC0](https://creativecommons.org/publicdomain/zero/1.0/); [original model](https://poly.pizza/m/uCeLfsdmNP).
+- **Spaceship** (creator-poly-a51f75f4ae64) — Quaternius; [CC0](https://creativecommons.org/publicdomain/zero/1.0/); [original model](https://poly.pizza/m/VSxUAFhzbA).
+- **Robot Enemy** (creator-poly-d585450ababb) — Quaternius; [CC0](https://creativecommons.org/publicdomain/zero/1.0/); [original model](https://poly.pizza/m/1gNo5ezvmr).
+- **Robot Enemy Flying** (creator-poly-294fdc876048) — Quaternius; [CC0](https://creativecommons.org/publicdomain/zero/1.0/); [original model](https://poly.pizza/m/lF3jeRJwiH).
+- **Robot Enemy Large** (creator-poly-6449eb2cd6d4) — Quaternius; [CC0](https://creativecommons.org/publicdomain/zero/1.0/); [original model](https://poly.pizza/m/mPDR0L5uKx).
+- **Animated Robot** (creator-poly-1ea519421d86) — Quaternius; [CC0](https://creativecommons.org/publicdomain/zero/1.0/); [original model](https://poly.pizza/m/QCm7qe9uNJ).
+- **Spaceship** (creator-poly-dd6159ed52fc) — Quaternius; [CC0](https://creativecommons.org/publicdomain/zero/1.0/); [original model](https://poly.pizza/m/xNbtFQwirO).
+- **Spaceship** (creator-poly-1fe0347515a2) — Quaternius; [CC0](https://creativecommons.org/publicdomain/zero/1.0/); [original model](https://poly.pizza/m/htfBk9vPfw).
+- **Spaceship** (creator-poly-8bcbc9be725f) — Quaternius; [CC0](https://creativecommons.org/publicdomain/zero/1.0/); [original model](https://poly.pizza/m/DbGajMHrvp).
+- **Spaceship** (creator-poly-161e541d61e7) — Quaternius; [CC0](https://creativecommons.org/publicdomain/zero/1.0/); [original model](https://poly.pizza/m/PQzePrvBCD).
+- **Spaceship** (creator-poly-f3b606a39e49) — Quaternius; [CC0](https://creativecommons.org/publicdomain/zero/1.0/); [original model](https://poly.pizza/m/H4OXkd9lWz).
+- **Axe** (creator-poly-50cf1f89db7e) — Quaternius; [CC0](https://creativecommons.org/publicdomain/zero/1.0/); [original model](https://poly.pizza/m/oJt9naOvKW).
+- **Spear** (creator-poly-f28ee8a62e6e) — Quaternius; [CC0](https://creativecommons.org/publicdomain/zero/1.0/); [original model](https://poly.pizza/m/3zA9NtYBEi).
+- **Sword** (creator-poly-0f8524c00a48) — Quaternius; [CC0](https://creativecommons.org/publicdomain/zero/1.0/); [original model](https://poly.pizza/m/cDsobPucFA).
+- **Dagger** (creator-poly-4964d6ff8992) — Quaternius; [CC0](https://creativecommons.org/publicdomain/zero/1.0/); [original model](https://poly.pizza/m/NDdZB7zIGW).
+- **Axe** (creator-poly-2e5eb1f989af) — Quaternius; [CC0](https://creativecommons.org/publicdomain/zero/1.0/); [original model](https://poly.pizza/m/FkzZ6I1zjT).
+- **Sword** (creator-poly-987cd9a5b464) — Quaternius; [CC0](https://creativecommons.org/publicdomain/zero/1.0/); [original model](https://poly.pizza/m/Ds2bJiNI5w).
+- **Spear** (creator-poly-87e2ff447a9d) — Quaternius; [CC0](https://creativecommons.org/publicdomain/zero/1.0/); [original model](https://poly.pizza/m/fH1zmvjPNx).
+- **Claymore** (creator-poly-58c7f5d5b33b) — Quaternius; [CC0](https://creativecommons.org/publicdomain/zero/1.0/); [original model](https://poly.pizza/m/BBhN1O6TOL).
+- **Scythe** (creator-poly-23645452b32b) — Quaternius; [CC0](https://creativecommons.org/publicdomain/zero/1.0/); [original model](https://poly.pizza/m/yE9TKCewO8).
+- **Sword** (creator-poly-b367decb0c84) — Quaternius; [CC0](https://creativecommons.org/publicdomain/zero/1.0/); [original model](https://poly.pizza/m/9lLmH8Et4K).
+- **Axe Double** (creator-poly-9ba49889eb9b) — Quaternius; [CC0](https://creativecommons.org/publicdomain/zero/1.0/); [original model](https://poly.pizza/m/uHXdfMmO8g).
+- **Axe Small** (creator-poly-09da0b4acfa2) — Quaternius; [CC0](https://creativecommons.org/publicdomain/zero/1.0/); [original model](https://poly.pizza/m/o54NXjRI4V).
+- **Dagger** (creator-poly-36279fc6f5b4) — Quaternius; [CC0](https://creativecommons.org/publicdomain/zero/1.0/); [original model](https://poly.pizza/m/kSMpR711Y2).
+- **Doublesided Hammer** (creator-poly-e195c93d9bd8) — Quaternius; [CC0](https://creativecommons.org/publicdomain/zero/1.0/); [original model](https://poly.pizza/m/UIXvQ73DS1).
+- **Sword** (creator-poly-b408ae1b62cf) — Quaternius; [CC0](https://creativecommons.org/publicdomain/zero/1.0/); [original model](https://poly.pizza/m/ajOJ2NLz5m).
+- **Staff** (creator-poly-d2e84f27b75f) — Quaternius; [CC0](https://creativecommons.org/publicdomain/zero/1.0/); [original model](https://poly.pizza/m/PnGRvO4Lwd).
+- **Wooden Bow** (creator-poly-4b033b2bd1b0) — Quaternius; [CC0](https://creativecommons.org/publicdomain/zero/1.0/); [original model](https://poly.pizza/m/QnpqjLSKFU).
+- **Shield Round** (creator-poly-e0e52aea211c) — Quaternius; [CC0](https://creativecommons.org/publicdomain/zero/1.0/); [original model](https://poly.pizza/m/lWajrVXcnA).
+- **Shield Celtic Golden** (creator-poly-b4aa79466bc4) — Quaternius; [CC0](https://creativecommons.org/publicdomain/zero/1.0/); [original model](https://poly.pizza/m/neNWPt8WAx).
+- **Shield** (creator-poly-58997b6b1115) — Quaternius; [CC0](https://creativecommons.org/publicdomain/zero/1.0/); [original model](https://poly.pizza/m/srN1KGAO7f).
+- **Shield** (creator-poly-14f44d8fc5c3) — Quaternius; [CC0](https://creativecommons.org/publicdomain/zero/1.0/); [original model](https://poly.pizza/m/xoHSnOjsBG).
+- **Shield Round** (creator-poly-584287b0c554) — Quaternius; [CC0](https://creativecommons.org/publicdomain/zero/1.0/); [original model](https://poly.pizza/m/UKXj8qjiF8).
+- **Backpack** (creator-poly-90ac14363090) — Quaternius; [CC0](https://creativecommons.org/publicdomain/zero/1.0/); [original model](https://poly.pizza/m/2g9Jm7kvIU).
+- **Backpack** (creator-poly-6299b7161af8) — Quaternius; [CC0](https://creativecommons.org/publicdomain/zero/1.0/); [original model](https://poly.pizza/m/vF7TuXCPDH).
+- **Bag** (creator-poly-ddf3d8c8c925) — Quaternius; [CC0](https://creativecommons.org/publicdomain/zero/1.0/); [original model](https://poly.pizza/m/Wq1JPPqHZS).
+- **Open Book** (creator-poly-678279dc7957) — Quaternius; [CC0](https://creativecommons.org/publicdomain/zero/1.0/); [original model](https://poly.pizza/m/JEDMpG0UIR).
+- **Book** (creator-poly-944f752b7981) — Quaternius; [CC0](https://creativecommons.org/publicdomain/zero/1.0/); [original model](https://poly.pizza/m/LC0w7VI75u).
+- **Open Book** (creator-poly-e13f788f4dd8) — Quaternius; [CC0](https://creativecommons.org/publicdomain/zero/1.0/); [original model](https://poly.pizza/m/FsCIGEfTEs).
+- **Book** (creator-poly-18a7db44e2ea) — Quaternius; [CC0](https://creativecommons.org/publicdomain/zero/1.0/); [original model](https://poly.pizza/m/h3Wh4fxSQX).
+- **Book Open** (creator-poly-58a79a843c15) — Quaternius; [CC0](https://creativecommons.org/publicdomain/zero/1.0/); [original model](https://poly.pizza/m/JO0bV6osMQ).
+- **Book** (creator-poly-70ed8f144612) — Quaternius; [CC0](https://creativecommons.org/publicdomain/zero/1.0/); [original model](https://poly.pizza/m/Qkvcgg5tpj).
+- **Open Book** (creator-poly-bf50e993ad8c) — Quaternius; [CC0](https://creativecommons.org/publicdomain/zero/1.0/); [original model](https://poly.pizza/m/1A07aI9j2d).
+- **Crown** (creator-poly-d26f03e65b0a) — Quaternius; [CC0](https://creativecommons.org/publicdomain/zero/1.0/); [original model](https://poly.pizza/m/i0PZVuVlYv).
+- **Witch Hat** (creator-poly-3f06d7d09171) — J-Toastie; [CC-BY-3.0](https://creativecommons.org/licenses/by/3.0/); [original model](https://poly.pizza/m/fy1Elzr3nl).
+- **Cowboy Hat** (creator-poly-35545b62432c) — J-Toastie; [CC-BY-3.0](https://creativecommons.org/licenses/by/3.0/); [original model](https://poly.pizza/m/jcXfae4GiZ).
+- **Cap** (creator-poly-5d6283b30c1e) — J-Toastie; [CC-BY-3.0](https://creativecommons.org/licenses/by/3.0/); [original model](https://poly.pizza/m/aWxhfEnYwl).
+- **Top Hat** (creator-poly-ef3575bfca45) — J-Toastie; [CC-BY-3.0](https://creativecommons.org/licenses/by/3.0/); [original model](https://poly.pizza/m/a6B0wtVteV).
+- **Pizza Hat** (creator-poly-3e949cf9498d) — J-Toastie; [CC-BY-3.0](https://creativecommons.org/licenses/by/3.0/); [original model](https://poly.pizza/m/7DkwsO3vro).
+- **Santa Hat** (creator-poly-5a787d6a8ddb) — J-Toastie; [CC-BY-3.0](https://creativecommons.org/licenses/by/3.0/); [original model](https://poly.pizza/m/84MpXMAPNQ).
+- **Heart Glasses** (creator-poly-2cbc13940cb1) — J-Toastie; [CC-BY-3.0](https://creativecommons.org/licenses/by/3.0/); [original model](https://poly.pizza/m/6B6ijFF01X).
+- **Sunglasses** (creator-poly-620b2943bd95) — J-Toastie; [CC-BY-3.0](https://creativecommons.org/licenses/by/3.0/); [original model](https://poly.pizza/m/jfVp7cW8E5).
+- **Clown Mask** (creator-poly-3d72c75b9058) — J-Toastie; [CC-BY-3.0](https://creativecommons.org/licenses/by/3.0/); [original model](https://poly.pizza/m/6VYnWsnVeh).
+- **Mask** (creator-poly-c865eaafd81b) — J-Toastie; [CC-BY-3.0](https://creativecommons.org/licenses/by/3.0/); [original model](https://poly.pizza/m/RqJn2J53Sd).
+- **Backpack** (creator-poly-76af1764764a) — J-Toastie; [CC-BY-3.0](https://creativecommons.org/licenses/by/3.0/); [original model](https://poly.pizza/m/N2wKlicUau).
+- **Backpack** (creator-poly-b605d45f5020) — J-Toastie; [CC-BY-3.0](https://creativecommons.org/licenses/by/3.0/); [original model](https://poly.pizza/m/uRRsiIZKHG).
+- **Cat** (creator-poly-61267e8eeb5c) — J-Toastie; [CC-BY-3.0](https://creativecommons.org/licenses/by/3.0/); [original model](https://poly.pizza/m/8GJbfM8R1A).
+- **Frog** (creator-poly-9da68c8a80fe) — J-Toastie; [CC-BY-3.0](https://creativecommons.org/licenses/by/3.0/); [original model](https://poly.pizza/m/wHwEWIrtnB).
+- **Cat** (creator-poly-da75af927be1) — J-Toastie; [CC-BY-3.0](https://creativecommons.org/licenses/by/3.0/); [original model](https://poly.pizza/m/DJ9rpAhrh3).
+- **Graduation cap** (creator-poly-39708411f010) — Poly by Google; [CC-BY-3.0](https://creativecommons.org/licenses/by/3.0/); [original model](https://poly.pizza/m/4v0sRFH6PN9).
+- **Wizard hat** (creator-poly-d09def2e18db) — Poly by Google; [CC-BY-3.0](https://creativecommons.org/licenses/by/3.0/); [original model](https://poly.pizza/m/7VVumyY7L_u).
+- **Crown** (creator-poly-0d0e141d5453) — Poly by Google; [CC-BY-3.0](https://creativecommons.org/licenses/by/3.0/); [original model](https://poly.pizza/m/aIW687xg5M4).
+- **Cowboy hat** (creator-poly-5864f8830d02) — Poly by Google; [CC-BY-3.0](https://creativecommons.org/licenses/by/3.0/); [original model](https://poly.pizza/m/aWzUlZtGLC0).
+- **Top hat** (creator-poly-83f53484456b) — Poly by Google; [CC-BY-3.0](https://creativecommons.org/licenses/by/3.0/); [original model](https://poly.pizza/m/1PP65IsuNwv).
+- **Pirate hat** (creator-poly-e69d65c2a01d) — Poly by Google; [CC-BY-3.0](https://creativecommons.org/licenses/by/3.0/); [original model](https://poly.pizza/m/73a4yE7VyqD).
+- **Sheriff Hat** (creator-poly-bd8d9b9cc8f1) — Poly by Google; [CC-BY-3.0](https://creativecommons.org/licenses/by/3.0/); [original model](https://poly.pizza/m/ayNYjI4jcW4).
+- **Pirate hat** (creator-poly-cdf28d12954d) — Poly by Google; [CC-BY-3.0](https://creativecommons.org/licenses/by/3.0/); [original model](https://poly.pizza/m/9QEds6cYAy6).
+- **Baseball cap** (creator-poly-c427024910b4) — Poly by Google; [CC-BY-3.0](https://creativecommons.org/licenses/by/3.0/); [original model](https://poly.pizza/m/aaC5GgcWEhM).
+- **Crown** (creator-poly-0cfc4b5ba8ce) — Poly by Google; [CC-BY-3.0](https://creativecommons.org/licenses/by/3.0/); [original model](https://poly.pizza/m/0seQ0mn72s5).
+- **Hard hat** (creator-poly-8911fcba823c) — Poly by Google; [CC-BY-3.0](https://creativecommons.org/licenses/by/3.0/); [original model](https://poly.pizza/m/9AMKar2NlkX).
+- **Headphones** (creator-poly-38434d1732a2) — Poly by Google; [CC-BY-3.0](https://creativecommons.org/licenses/by/3.0/); [original model](https://poly.pizza/m/4h-eJ4xCsQa).
+- **Aviator sunglasses** (creator-poly-d22e1b9aba1c) — Poly by Google; [CC-BY-3.0](https://creativecommons.org/licenses/by/3.0/); [original model](https://poly.pizza/m/0Wsi-ygmiIX).
+- **Bunny ears** (creator-poly-87cfd59dc642) — Poly by Google; [CC-BY-3.0](https://creativecommons.org/licenses/by/3.0/); [original model](https://poly.pizza/m/8JXxwJPbL6K).
+- **Halo** (creator-poly-f250e54bf8c9) — Poly by Google; [CC-BY-3.0](https://creativecommons.org/licenses/by/3.0/); [original model](https://poly.pizza/m/5jiuuz7sOV_).
+- **Antlers** (creator-poly-e02e70e3af74) — Poly by Google; [CC-BY-3.0](https://creativecommons.org/licenses/by/3.0/); [original model](https://poly.pizza/m/9oH6TjelO-W).
+- **Antler** (creator-poly-397439ce22c3) — Poly by Google; [CC-BY-3.0](https://creativecommons.org/licenses/by/3.0/); [original model](https://poly.pizza/m/bZJwq9J1glX).
+- **Antler** (creator-poly-f861ffab5ba3) — Poly by Google; [CC-BY-3.0](https://creativecommons.org/licenses/by/3.0/); [original model](https://poly.pizza/m/dbShsyLjdc6).
+- **Halo** (creator-poly-46771809a93b) — jeremy; [CC-BY-3.0](https://creativecommons.org/licenses/by/3.0/); [original model](https://poly.pizza/m/dH-rlE_jGFc).
+- **SM - Anon Mask** (creator-poly-f98358a0258b) — Scott Marshall; [CC-BY-3.0](https://creativecommons.org/licenses/by/3.0/); [original model](https://poly.pizza/m/2_N0mh67_Xu).
+- **Hat Stylised** (creator-poly-c5677f26434b) — hat_my_guy; [CC0](https://creativecommons.org/publicdomain/zero/1.0/); [original model](https://poly.pizza/m/lNN3PlrjSa).
+- **Top Hat / Magician's Hat** (creator-poly-0ae7c63af36f) — Olivia Wynn; [CC-BY-3.0](https://creativecommons.org/licenses/by/3.0/); [original model](https://poly.pizza/m/5D_ieYZ0HUp).
+- **Propeller hat** (creator-poly-f8caad7ddec7) — jeremy; [CC-BY-3.0](https://creativecommons.org/licenses/by/3.0/); [original model](https://poly.pizza/m/0vAOG_PcdNb).
+- **Baseball cap** (creator-poly-416ebeb9b3cb) — jeremy; [CC-BY-3.0](https://creativecommons.org/licenses/by/3.0/); [original model](https://poly.pizza/m/dzfCdDABuiQ).
+- **Top Hat** (creator-poly-c80d8730d341) — Jarlan Perez; [CC-BY-3.0](https://creativecommons.org/licenses/by/3.0/); [original model](https://poly.pizza/m/cKVNEpmNy36).
+- **Baseball Cap** (creator-poly-72920a5f8786) — Jarlan Perez; [CC-BY-3.0](https://creativecommons.org/licenses/by/3.0/); [original model](https://poly.pizza/m/2uKEHjO_QL0).
+- **Security Hat** (creator-poly-310afd9e60c5) — Casey Tumbers; [CC-BY-3.0](https://creativecommons.org/licenses/by/3.0/); [original model](https://poly.pizza/m/46Bl5Ook_xw).
+- **Jetpack** (creator-poly-d93d5bf0d2ae) — Poly by Google; [CC-BY-3.0](https://creativecommons.org/licenses/by/3.0/); [original model](https://poly.pizza/m/a19dX3Vgo3S).
+- **Butterfly** (creator-poly-331c2d654a68) — Poly by Google; [CC-BY-3.0](https://creativecommons.org/licenses/by/3.0/); [original model](https://poly.pizza/m/eZBvUobx7mb).
+- **Butterfly** (creator-poly-59d72d9de617) — jeremy; [CC-BY-3.0](https://creativecommons.org/licenses/by/3.0/); [original model](https://poly.pizza/m/dy7HN2xaXOt).

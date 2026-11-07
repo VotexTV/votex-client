@@ -1,0 +1,47 @@
+{
+  "Title": "Anglerfish",
+  "UploadDate": "2022-06-20T13:20:17.872Z",
+  "ResourceID": "0c4802f0-32f9-4a2a-90a5-56b94c33e37e",
+  "PublicID": "MRjSlwCjHM",
+  "Likes": 11,
+  "CommentCount": 0,
+  "Tris": 1830,
+  "Views": "1.37k",
+  "Downloads": "2.66k",
+  "Creator": {
+    "Username": "Quaternius",
+    "DPURL": "https://static.poly.pizza/dp%2Ff63b655a-051c-4c4b-8dcc-3b346a39ece0.jpg",
+    "Socials": {
+      "Twitter": "quaternius",
+      "Pateron": "quaternius",
+      "Website": "https://quaternius.com/"
+    }
+  },
+  "Category": "Animals",
+  "Tags": [
+    "Animal",
+    "Fish"
+  ],
+  "Orbit": {
+    "phi": "1.29325",
+    "radius": "100%",
+    "theta": "0.86610"
+  },
+  "Background": {
+    "one": "#039be5",
+    "two": "hsl(200deg, 97%, 15%)",
+    "type": "Radial"
+  },
+  "Visibility": "Public",
+  "Type": "FBX",
+  "Licence": "CC0 1.0",
+  "Animated": true,
+  "sourceUrl": "https://poly.pizza/m/MRjSlwCjHM",
+  "downloadUrl": "https://static.poly.pizza/0c4802f0-32f9-4a2a-90a5-56b94c33e37e.glb",
+  "sha256": "cf839231b3e84a88ca9b57163c9e67183ba8ff12ef3823638137ddfda37434c0",
+  "sourcePageSha256": "61d370d75db204c728d9c0551c09fa53dc0c0b44ea557ebadf2e92897abd21ce",
+  "retrieved": "2026-10-22T11:01:37.953Z",
+  "sourcePageRetrieved": "2026-10-22T11:01:37.631Z",
+  "verifiedAt": "2026-10-22T11:21:05.928Z",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+}

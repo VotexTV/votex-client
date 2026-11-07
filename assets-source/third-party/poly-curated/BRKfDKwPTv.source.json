@@ -1,0 +1,46 @@
+{
+  "Title": "Red Snapper",
+  "UploadDate": "2022-06-20T13:20:13.920Z",
+  "ResourceID": "05418682-2314-4b64-aa8e-fc4fcd212be8",
+  "PublicID": "BRKfDKwPTv",
+  "Likes": 3,
+  "CommentCount": 0,
+  "Tris": 1416,
+  "Views": 250,
+  "Downloads": "2.05k",
+  "Creator": {
+    "Username": "Quaternius",
+    "DPURL": "https://static.poly.pizza/dp%2Ff63b655a-051c-4c4b-8dcc-3b346a39ece0.jpg",
+    "Socials": {
+      "Twitter": "quaternius",
+      "Pateron": "quaternius",
+      "Website": "https://quaternius.com/"
+    }
+  },
+  "Category": "Animals",
+  "Tags": [
+    "Fish"
+  ],
+  "Orbit": {
+    "phi": "1.29325",
+    "radius": "100%",
+    "theta": "0.86610"
+  },
+  "Background": {
+    "one": "#039be5",
+    "two": "hsl(200deg, 97%, 15%)",
+    "type": "Radial"
+  },
+  "Visibility": "Public",
+  "Type": "FBX",
+  "Licence": "CC0 1.0",
+  "Animated": true,
+  "sourceUrl": "https://poly.pizza/m/BRKfDKwPTv",
+  "downloadUrl": "https://static.poly.pizza/05418682-2314-4b64-aa8e-fc4fcd212be8.glb",
+  "sha256": "0d73784e52fd3c1c5a12a91f8926707697ae4ac2768d5035e3f51100c4859c17",
+  "sourcePageSha256": "95bed7266cdfbe8d906b69e3d3c7bfc9708f24102ac91f9cfd9da30ea500b09f",
+  "retrieved": "2026-10-22T11:02:18.835Z",
+  "sourcePageRetrieved": "2026-10-22T11:02:18.603Z",
+  "verifiedAt": "2026-10-22T11:21:05.961Z",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+}

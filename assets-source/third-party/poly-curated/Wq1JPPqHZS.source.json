@@ -1,0 +1,48 @@
+{
+  "Title": "Bag",
+  "UploadDate": "2021-08-26T12:55:45.248Z",
+  "ResourceID": "2bc244a8-c709-4cb1-aba1-1f24beb6b9c5",
+  "PublicID": "Wq1JPPqHZS",
+  "Likes": 5,
+  "CommentCount": 0,
+  "Tris": 0,
+  "Views": 708,
+  "Downloads": "2.69k",
+  "Creator": {
+    "Username": "Quaternius",
+    "DPURL": "https://static.poly.pizza/dp%2Ff63b655a-051c-4c4b-8dcc-3b346a39ece0.jpg",
+    "Socials": {
+      "Twitter": "quaternius",
+      "Pateron": "quaternius",
+      "Website": "https://quaternius.com/"
+    }
+  },
+  "Category": "Objects",
+  "Tags": [
+    "Pouch",
+    "Satchel",
+    "Belt"
+  ],
+  "Orbit": {
+    "phi": "1.41937",
+    "radius": "100%",
+    "theta": "-0.02365"
+  },
+  "Background": {
+    "one": "#546e7a",
+    "two": "hsl(199deg, 18%, 15%)",
+    "type": "Radial"
+  },
+  "Visibility": "Public",
+  "Type": "FBX",
+  "Licence": "CC0 1.0",
+  "Animated": false,
+  "sourceUrl": "https://poly.pizza/m/Wq1JPPqHZS",
+  "downloadUrl": "https://static.poly.pizza/2bc244a8-c709-4cb1-aba1-1f24beb6b9c5.glb",
+  "sha256": "23e88aee3b14b9763555e242a95679957fa4334917c9f87d222b7ea390589c58",
+  "sourcePageSha256": "7feb8d1b87ef6a8fc5b2402376c2670a5ad9666f108f4898cbf4571940ae0515",
+  "retrieved": "2026-10-22T11:04:24.991Z",
+  "sourcePageRetrieved": "2026-10-22T11:04:24.751Z",
+  "verifiedAt": "2026-10-22T11:21:06.085Z",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+}

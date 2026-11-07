@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "id": "votex_client",
+  "version": "${version}",
+  "name": "Votex Client Core",
+  "description": "Votex: lokales HUD, Design, Garderobe und acht Emotes.",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "dev.votex.client.VotexClient"
+    ],
+    "voicechat": [
+      "dev.votex.client.voice.VoiceConsentPlugin"
+    ]
+  },
+  "license": "MIT",
+  "depends": {
+    "fabricloader": ">=0.19.5",
+    "minecraft": "26.2",
+    "java": ">=25",
+    "fabric-api": "*"
+  },
+  "suggests": {
+    "lootbrain": "*"
+  },
+  "mixins": [
+    "votex-client.mixins.json"
+  ]
+}

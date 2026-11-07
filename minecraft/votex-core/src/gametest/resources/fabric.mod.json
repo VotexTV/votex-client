@@ -1,0 +1,9 @@
+{
+  "schemaVersion": 1,
+  "id": "votex_client_test",
+  "version": "1.0.0",
+  "name": "Votex isolated rendering test",
+  "environment": "client",
+  "mixins": ["votex-client-test.mixins.json"],
+  "entrypoints": {"fabric-client-gametest": ["dev.votex.client.VotexRenderGameTest"],"voicechat":["dev.votex.client.VoiceNoCaptureTestPlugin"]}
+}

@@ -1,0 +1,47 @@
+{
+  "Title": "Sheep",
+  "UploadDate": "2021-08-17T12:55:54.642Z",
+  "ResourceID": "a4bd2c4e-fe71-4dbd-9881-cf3ac8a00bbf",
+  "PublicID": "C39AUXUUes",
+  "Likes": 13,
+  "CommentCount": 0,
+  "Tris": 610,
+  "Views": "2.37k",
+  "Downloads": "2.9k",
+  "Creator": {
+    "Username": "Quaternius",
+    "DPURL": "https://static.poly.pizza/dp%2Ff63b655a-051c-4c4b-8dcc-3b346a39ece0.jpg",
+    "Socials": {
+      "Twitter": "quaternius",
+      "Pateron": "quaternius",
+      "Website": "https://quaternius.com/"
+    }
+  },
+  "Category": "Animals",
+  "Tags": [
+    "Animal",
+    "Cattle"
+  ],
+  "Orbit": {
+    "phi": "1.20194",
+    "radius": "100%",
+    "theta": "0.92230"
+  },
+  "Background": {
+    "one": "#00acc1",
+    "two": "hsl(187deg, 100%, 15%)",
+    "type": "Radial"
+  },
+  "Visibility": "Public",
+  "Type": "FBX",
+  "Licence": "CC0 1.0",
+  "Animated": false,
+  "sourceUrl": "https://poly.pizza/m/C39AUXUUes",
+  "downloadUrl": "https://static.poly.pizza/a4bd2c4e-fe71-4dbd-9881-cf3ac8a00bbf.glb",
+  "sha256": "91aedec323b54d42b802b065b2f5005daea527b0a379a9f3fe90f3258f3c2382",
+  "sourcePageSha256": "47098b82c54e300e342739a5a6b1e194c8e63d1cfdeea46f02f8cc8baaee9b38",
+  "retrieved": "2026-10-22T11:03:10.042Z",
+  "sourcePageRetrieved": "2026-10-22T11:03:09.884Z",
+  "verifiedAt": "2026-10-22T11:21:06.016Z",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+}

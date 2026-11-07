@@ -1,0 +1,44 @@
+{
+  "Title": "Fly Rollers",
+  "Description": "Gubskiy Roman, 11 yers old\nJuniorit.org",
+  "UploadDate": "2018-04-10T16:09:12.722Z",
+  "ResourceID": "0e86a787-6052-4cea-a38e-b41626cf1c66",
+  "PublicID": "27WamEeVLfo",
+  "Likes": 1,
+  "CommentCount": 0,
+  "Tris": 5126,
+  "Views": 146,
+  "Downloads": 12,
+  "Creator": {
+    "Username": "Junior IT",
+    "DPURL": "",
+    "Socials": {}
+  },
+  "Category": "Objects",
+  "Tags": [
+    "shoe",
+    "wings"
+  ],
+  "Orbit": {
+    "phi": "1.24849",
+    "radius": "13.556145448135576",
+    "theta": "-1.07197"
+  },
+  "Background": {
+    "one": "#6d4c41",
+    "two": "hsl(15deg, 25%, 15%)",
+    "type": "Radial"
+  },
+  "Visibility": "Public",
+  "Type": "obj",
+  "Licence": "CC-BY 3.0",
+  "Animated": false,
+  "sourceUrl": "https://poly.pizza/m/27WamEeVLfo",
+  "downloadUrl": "https://static.poly.pizza/0e86a787-6052-4cea-a38e-b41626cf1c66.glb",
+  "sha256": "63bc9fcfc8b318aa864162b0e56033b3638abc68bb882e1bc1971157268533d2",
+  "sourcePageSha256": "f7cd0ca4f3de0b0c39a0d40bae47191ed27563df284f0f696e4967233167b1ba",
+  "retrieved": "2026-10-22T11:06:30.792Z",
+  "sourcePageRetrieved": "2026-10-22T11:06:30.507Z",
+  "verifiedAt": "2026-10-22T11:21:06.173Z",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/"
+}

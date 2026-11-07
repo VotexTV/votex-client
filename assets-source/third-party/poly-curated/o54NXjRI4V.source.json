@@ -1,0 +1,46 @@
+{
+  "Title": "Axe Small",
+  "UploadDate": "2021-08-26T12:55:45.474Z",
+  "ResourceID": "654d4ee5-e217-4c23-b8e1-92e16226b21a",
+  "PublicID": "o54NXjRI4V",
+  "Likes": 4,
+  "CommentCount": 0,
+  "Tris": 0,
+  "Views": "1.02k",
+  "Downloads": "3.05k",
+  "Creator": {
+    "Username": "Quaternius",
+    "DPURL": "https://static.poly.pizza/dp%2Ff63b655a-051c-4c4b-8dcc-3b346a39ece0.jpg",
+    "Socials": {
+      "Twitter": "quaternius",
+      "Pateron": "quaternius",
+      "Website": "https://quaternius.com/"
+    }
+  },
+  "Category": "Weapons",
+  "Tags": [
+    "Hatchet"
+  ],
+  "Orbit": {
+    "phi": "1.41937",
+    "radius": "100%",
+    "theta": "-0.02365"
+  },
+  "Background": {
+    "one": "#546e7a",
+    "two": "hsl(199deg, 18%, 15%)",
+    "type": "Radial"
+  },
+  "Visibility": "Public",
+  "Type": "FBX",
+  "Licence": "CC0 1.0",
+  "Animated": false,
+  "sourceUrl": "https://poly.pizza/m/o54NXjRI4V",
+  "downloadUrl": "https://static.poly.pizza/654d4ee5-e217-4c23-b8e1-92e16226b21a.glb",
+  "sha256": "b4eedc707dabb98883f0e18a096953dbea164b9d2d40a657bd44805886f33b8d",
+  "sourcePageSha256": "f04c3b8f2efbcbe0950b1b076ba988a1dc9a0eac44dffbfa6a7df8f861b5f49e",
+  "retrieved": "2026-10-22T11:04:07.943Z",
+  "sourcePageRetrieved": "2026-10-22T11:04:07.713Z",
+  "verifiedAt": "2026-10-22T11:21:06.070Z",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+}

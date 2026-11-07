@@ -1,0 +1,47 @@
+{
+  "Title": "Cow",
+  "UploadDate": "2021-08-17T12:56:00.498Z",
+  "ResourceID": "48c5f4af-07d6-4493-a261-0919967afe85",
+  "PublicID": "5XSc2Fka3F",
+  "Likes": 14,
+  "CommentCount": 0,
+  "Tris": 796,
+  "Views": "2.17k",
+  "Downloads": "2.88k",
+  "Creator": {
+    "Username": "Quaternius",
+    "DPURL": "https://static.poly.pizza/dp%2Ff63b655a-051c-4c4b-8dcc-3b346a39ece0.jpg",
+    "Socials": {
+      "Twitter": "quaternius",
+      "Pateron": "quaternius",
+      "Website": "https://quaternius.com/"
+    }
+  },
+  "Category": "Animals",
+  "Tags": [
+    "Cow",
+    "Cattle"
+  ],
+  "Orbit": {
+    "phi": "1.20194",
+    "radius": "100%",
+    "theta": "0.92230"
+  },
+  "Background": {
+    "one": "#00acc1",
+    "two": "hsl(187deg, 100%, 15%)",
+    "type": "Radial"
+  },
+  "Visibility": "Public",
+  "Type": "FBX",
+  "Licence": "CC0 1.0",
+  "Animated": false,
+  "sourceUrl": "https://poly.pizza/m/5XSc2Fka3F",
+  "downloadUrl": "https://static.poly.pizza/48c5f4af-07d6-4493-a261-0919967afe85.glb",
+  "sha256": "5bdb18da23e114c717a8739e7defc75b6bf3d1dd54e928c141a0286bf14aa4a8",
+  "sourcePageSha256": "99d7a9f166142aee3f8165b175d8615ad8307375936896d17262bbda412378e7",
+  "retrieved": "2026-10-22T11:03:06.524Z",
+  "sourcePageRetrieved": "2026-10-22T11:03:06.469Z",
+  "verifiedAt": "2026-10-22T11:21:06.013Z",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+}

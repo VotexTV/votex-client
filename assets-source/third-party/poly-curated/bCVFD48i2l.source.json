@@ -1,0 +1,47 @@
+{
+  "Title": "Alpaca",
+  "UploadDate": "2021-09-07T03:23:36.128Z",
+  "ResourceID": "444228bb-745d-49b2-89ef-cc12805deaa8",
+  "PublicID": "bCVFD48i2l",
+  "Likes": 12,
+  "CommentCount": 0,
+  "Tris": 1998,
+  "Views": "1.83k",
+  "Downloads": "5.01k",
+  "Creator": {
+    "Username": "Quaternius",
+    "DPURL": "https://static.poly.pizza/dp%2Ff63b655a-051c-4c4b-8dcc-3b346a39ece0.jpg",
+    "Socials": {
+      "Twitter": "quaternius",
+      "Pateron": "quaternius",
+      "Website": "https://quaternius.com/"
+    }
+  },
+  "Category": "Animals",
+  "Tags": [
+    "Animal",
+    "Wildlife"
+  ],
+  "Orbit": {
+    "phi": "1.21439",
+    "radius": "100%",
+    "theta": "0.85142"
+  },
+  "Background": {
+    "one": "#039be5",
+    "two": "hsl(200deg, 97%, 15%)",
+    "type": "Radial"
+  },
+  "Visibility": "Public",
+  "Type": "FBX",
+  "Licence": "CC0 1.0",
+  "Animated": true,
+  "sourceUrl": "https://poly.pizza/m/bCVFD48i2l",
+  "downloadUrl": "https://static.poly.pizza/444228bb-745d-49b2-89ef-cc12805deaa8.glb",
+  "sha256": "de56fcb168469a65275a5bc10f449015b23ec849c4cda0827c6fc7278ed235b9",
+  "sourcePageSha256": "9f6a4fa58cbb4bbebb863cc47a3cdfbac4fd0ab1dfcd070784f53ed73a7c8e88",
+  "retrieved": "2026-10-22T11:02:38.377Z",
+  "sourcePageRetrieved": "2026-10-22T11:02:37.452Z",
+  "verifiedAt": "2026-10-22T11:21:05.983Z",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+}

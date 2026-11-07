@@ -1,0 +1,47 @@
+{
+  "Title": "White Horse",
+  "UploadDate": "2021-09-07T03:28:02.682Z",
+  "ResourceID": "3edc2bd9-3378-4b43-a50d-d5e1f858562b",
+  "PublicID": "bEdE4rmZy9",
+  "Likes": 8,
+  "CommentCount": 0,
+  "Tris": 1934,
+  "Views": "1.55k",
+  "Downloads": "5.02k",
+  "Creator": {
+    "Username": "Quaternius",
+    "DPURL": "https://static.poly.pizza/dp%2Ff63b655a-051c-4c4b-8dcc-3b346a39ece0.jpg",
+    "Socials": {
+      "Twitter": "quaternius",
+      "Pateron": "quaternius",
+      "Website": "https://quaternius.com/"
+    }
+  },
+  "Category": "Animals",
+  "Tags": [
+    "Horse",
+    "Animal"
+  ],
+  "Orbit": {
+    "phi": "1.15921",
+    "radius": "100%",
+    "theta": "0.79624"
+  },
+  "Background": {
+    "one": "#039be5",
+    "two": "hsl(200deg, 97%, 15%)",
+    "type": "Radial"
+  },
+  "Visibility": "Public",
+  "Type": "FBX",
+  "Licence": "CC0 1.0",
+  "Animated": true,
+  "sourceUrl": "https://poly.pizza/m/bEdE4rmZy9",
+  "downloadUrl": "https://static.poly.pizza/3edc2bd9-3378-4b43-a50d-d5e1f858562b.glb",
+  "sha256": "18e866e6ea2789701d0c1948bcedabe10dd0065507e15a1721d81b6fe61606b1",
+  "sourcePageSha256": "2057495b4230d4273231753c8f6ca3d10c7cd2fcf0db834b034f2d8eed439461",
+  "retrieved": "2026-10-22T11:02:28.888Z",
+  "sourcePageRetrieved": "2026-10-22T11:02:28.794Z",
+  "verifiedAt": "2026-10-22T11:21:05.971Z",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+}

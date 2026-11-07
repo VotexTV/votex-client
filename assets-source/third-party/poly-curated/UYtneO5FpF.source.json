@@ -1,0 +1,50 @@
+{
+  "Title": "T-Rex",
+  "UploadDate": "2021-08-18T11:39:44.377Z",
+  "ResourceID": "34eed102-48f0-43dd-bc6f-ef7a6dfddfbb",
+  "PublicID": "UYtneO5FpF",
+  "Likes": 27,
+  "CommentCount": 0,
+  "Tris": 1270,
+  "Views": "4.38k",
+  "Downloads": "3.08k",
+  "Creator": {
+    "Username": "Quaternius",
+    "DPURL": "https://static.poly.pizza/dp%2Ff63b655a-051c-4c4b-8dcc-3b346a39ece0.jpg",
+    "Socials": {
+      "Twitter": "quaternius",
+      "Pateron": "quaternius",
+      "Website": "https://quaternius.com/"
+    }
+  },
+  "Category": "Animals",
+  "Tags": [
+    "Dinosaur",
+    "Reptile",
+    "Animal",
+    "T-Rex",
+    "Dinosaur"
+  ],
+  "Orbit": {
+    "phi": "1.34053",
+    "radius": "100%",
+    "theta": "0.95391"
+  },
+  "Background": {
+    "one": "#5e35b1",
+    "two": "hsl(260deg, 54%, 15%)",
+    "type": "Radial"
+  },
+  "Visibility": "Public",
+  "Type": "FBX",
+  "Licence": "CC0 1.0",
+  "Animated": false,
+  "sourceUrl": "https://poly.pizza/m/UYtneO5FpF",
+  "downloadUrl": "https://static.poly.pizza/34eed102-48f0-43dd-bc6f-ef7a6dfddfbb.glb",
+  "sha256": "e1c9862deef89f096c7d85dacf62aa9ce48089e5867d2bf632ed1e1733013349",
+  "sourcePageSha256": "5a8faa283ca2386640454310dbbe0280749a3f1ec9ee9ff094caabf63388308b",
+  "retrieved": "2026-10-22T11:03:01.458Z",
+  "sourcePageRetrieved": "2026-10-22T11:03:01.221Z",
+  "verifiedAt": "2026-10-22T11:21:06.009Z",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+}

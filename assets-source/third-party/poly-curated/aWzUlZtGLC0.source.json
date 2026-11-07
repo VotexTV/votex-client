@@ -1,0 +1,44 @@
+{
+  "Title": "Cowboy hat",
+  "Description": "#western #clothes",
+  "UploadDate": "2017-10-23T04:15:42.012Z",
+  "ResourceID": "d7985d90-3621-4595-8321-25d39a25d47d",
+  "PublicID": "aWzUlZtGLC0",
+  "Likes": 6,
+  "CommentCount": 0,
+  "Tris": 1075,
+  "Views": "2.39k",
+  "Downloads": "1.38k",
+  "Creator": {
+    "Username": "Poly by Google",
+    "DPURL": "https://static.poly.pizza/dp%2Fpolygoogle.jpg",
+    "Socials": {}
+  },
+  "Category": "Objects",
+  "Tags": [
+    "western",
+    "clothes"
+  ],
+  "Orbit": {
+    "phi": "1.31884",
+    "radius": "110%",
+    "theta": "0.87089"
+  },
+  "Background": {
+    "one": "#00acc1",
+    "two": "hsl(187deg, 100%, 15%)",
+    "type": "Radial"
+  },
+  "Visibility": "Public",
+  "Type": "obj",
+  "Licence": "CC-BY 3.0",
+  "Animated": false,
+  "sourceUrl": "https://poly.pizza/m/aWzUlZtGLC0",
+  "downloadUrl": "https://static.poly.pizza/d7985d90-3621-4595-8321-25d39a25d47d.glb",
+  "sha256": "67e6cbfc26f17535a90fed215bcefe950f0ab4e7d4cf64a7e309bb33ae7816e2",
+  "sourcePageSha256": "43c24d0ca2c579e99b0a27fa432c1b800360747eb5a303d6c389e30d30b5bc9c",
+  "retrieved": "2026-10-22T11:05:12.722Z",
+  "sourcePageRetrieved": "2026-10-22T11:05:12.505Z",
+  "verifiedAt": "2026-10-22T11:21:06.128Z",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/"
+}

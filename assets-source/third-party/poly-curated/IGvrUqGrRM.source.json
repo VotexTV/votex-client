@@ -1,0 +1,49 @@
+{
+  "Title": "Triceratops",
+  "UploadDate": "2021-08-18T11:39:45.579Z",
+  "ResourceID": "6aa1f3ff-b9b3-4bb5-9d85-b2ffa514f0cc",
+  "PublicID": "IGvrUqGrRM",
+  "Likes": 9,
+  "CommentCount": 1,
+  "Tris": 1280,
+  "Views": "1.18k",
+  "Downloads": "2.27k",
+  "Creator": {
+    "Username": "Quaternius",
+    "DPURL": "https://static.poly.pizza/dp%2Ff63b655a-051c-4c4b-8dcc-3b346a39ece0.jpg",
+    "Socials": {
+      "Twitter": "quaternius",
+      "Pateron": "quaternius",
+      "Website": "https://quaternius.com/"
+    }
+  },
+  "Category": "Transport",
+  "Tags": [
+    "Transportation",
+    "Vehicle",
+    "Animal",
+    "Dinosaur"
+  ],
+  "Orbit": {
+    "phi": "1.34053",
+    "radius": "100%",
+    "theta": "0.95391"
+  },
+  "Background": {
+    "one": "#5e35b1",
+    "two": "hsl(260deg, 54%, 15%)",
+    "type": "Radial"
+  },
+  "Visibility": "Public",
+  "Type": "FBX",
+  "Licence": "CC0 1.0",
+  "Animated": false,
+  "sourceUrl": "https://poly.pizza/m/IGvrUqGrRM",
+  "downloadUrl": "https://static.poly.pizza/6aa1f3ff-b9b3-4bb5-9d85-b2ffa514f0cc.glb",
+  "sha256": "79ade346de5e778a58ce8c253c7e6dbd505499176a616583d1a29fa4624f498c",
+  "sourcePageSha256": "28ee0b980121d0eba57a11c30cfc4fa2977ce06510901bc821508f35c0dbad6c",
+  "retrieved": "2026-10-22T11:02:56.586Z",
+  "sourcePageRetrieved": "2026-10-22T11:02:56.237Z",
+  "verifiedAt": "2026-10-22T11:21:06.004Z",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+}

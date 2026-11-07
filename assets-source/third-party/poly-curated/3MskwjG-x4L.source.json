@@ -1,0 +1,45 @@
+{
+  "Title": "Pair of shoes",
+  "Description": "#brogues #boots #footwear",
+  "UploadDate": "2017-09-18T17:04:31.894Z",
+  "ResourceID": "ce8465ac-c14d-4a86-b312-d7e8b5da6b80",
+  "PublicID": "3MskwjG-x4L",
+  "Likes": 3,
+  "CommentCount": 0,
+  "Tris": 2032,
+  "Views": "1.54k",
+  "Downloads": 729,
+  "Creator": {
+    "Username": "Poly by Google",
+    "DPURL": "https://static.poly.pizza/dp%2Fpolygoogle.jpg",
+    "Socials": {}
+  },
+  "Category": "Objects",
+  "Tags": [
+    "brogues",
+    "boots",
+    "footwear"
+  ],
+  "Orbit": {
+    "phi": "1.31884",
+    "radius": "110%",
+    "theta": "0.87089"
+  },
+  "Background": {
+    "one": "#3949ab",
+    "two": "hsl(232deg, 50%, 15%)",
+    "type": "Radial"
+  },
+  "Visibility": "Public",
+  "Type": "obj",
+  "Licence": "CC-BY 3.0",
+  "Animated": false,
+  "sourceUrl": "https://poly.pizza/m/3MskwjG-x4L",
+  "downloadUrl": "https://static.poly.pizza/ce8465ac-c14d-4a86-b312-d7e8b5da6b80.glb",
+  "sha256": "bd08c71a72990056a67a085cf72025bab4b5d91c2f0ae2de2b022ccd2608b453",
+  "sourcePageSha256": "bfa4e745faa99171f496608e0384fa7ae4a494833b90d616146250127dc47a63",
+  "retrieved": "2026-10-22T11:05:45.123Z",
+  "sourcePageRetrieved": "2026-10-22T11:05:44.837Z",
+  "verifiedAt": "2026-10-22T11:21:06.158Z",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/"
+}

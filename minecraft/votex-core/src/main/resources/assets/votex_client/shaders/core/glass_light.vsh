@@ -1,0 +1,18 @@
+#version 330
+#moj_import <minecraft:dynamictransforms.glsl>
+#moj_import <minecraft:projection.glsl>
+in vec3 Position;
+in vec4 Color;
+in vec2 UV0;
+in ivec2 UV1;
+in ivec2 UV2;
+in vec3 Normal;
+out vec2 localPos;
+flat out vec2 bodySize;
+flat out vec2 pointer;
+flat out vec3 tint;
+flat out vec3 effect;
+void main(){
+ gl_Position=ProjMat*ModelViewMat*vec4(Position,1.0);
+ localPos=UV0;bodySize=vec2(UV1);pointer=vec2(UV2)/8.0;tint=Color.rgb;effect=Normal;
+}

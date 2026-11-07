@@ -1,0 +1,44 @@
+{
+  "Title": "Viking Helmet",
+  "UploadDate": "2017-11-01T13:45:58.282Z",
+  "ResourceID": "34f2a899-7f26-4161-98f6-734f9f979d8f",
+  "PublicID": "apPuLbVJ4N5",
+  "Likes": 1,
+  "CommentCount": 0,
+  "Tris": 1276,
+  "Views": "1.09k",
+  "Downloads": 166,
+  "Creator": {
+    "Username": "Michael Fuchs",
+    "DPURL": "",
+    "Socials": {}
+  },
+  "Category": "Objects",
+  "Tags": [
+    "odin",
+    "norman",
+    "horn"
+  ],
+  "Orbit": {
+    "phi": "1.31884",
+    "radius": "110%",
+    "theta": "0.87089"
+  },
+  "Background": {
+    "one": "#00897b",
+    "two": "hsl(174deg, 100%, 15%)",
+    "type": "Radial"
+  },
+  "Visibility": "Public",
+  "Type": "obj",
+  "Licence": "CC-BY 3.0",
+  "Animated": false,
+  "sourceUrl": "https://poly.pizza/m/apPuLbVJ4N5",
+  "downloadUrl": "https://static.poly.pizza/34f2a899-7f26-4161-98f6-734f9f979d8f.glb",
+  "sha256": "d569cde7289a1004c60a7a68ae18eb0c4c46105fd7d98b73e06ad02bc39f1a46",
+  "sourcePageSha256": "f4298387d11d68bcafbf9bcaf6f9c6f97e7d78f95d9ff1c6c32991793f8b1287",
+  "retrieved": "2026-10-22T11:05:04.390Z",
+  "sourcePageRetrieved": "2026-10-22T11:05:04.128Z",
+  "verifiedAt": "2026-10-22T11:21:06.122Z",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/"
+}

@@ -1,0 +1,47 @@
+{
+  "Title": "Book",
+  "Description": " ",
+  "UploadDate": "2021-08-26T12:55:45.150Z",
+  "ResourceID": "3b802cb1-60a9-4407-a9d1-fa0da66186f7",
+  "PublicID": "Qkvcgg5tpj",
+  "Likes": 4,
+  "CommentCount": 0,
+  "Tris": 0,
+  "Views": 385,
+  "Downloads": "2.61k",
+  "Creator": {
+    "Username": "Quaternius",
+    "DPURL": "https://static.poly.pizza/dp%2Ff63b655a-051c-4c4b-8dcc-3b346a39ece0.jpg",
+    "Socials": {
+      "Twitter": "quaternius",
+      "Pateron": "quaternius",
+      "Website": "https://quaternius.com/"
+    }
+  },
+  "Category": "Clutter",
+  "Tags": [
+    "Book"
+  ],
+  "Orbit": {
+    "phi": "1.33074",
+    "radius": "1.3055244311931007",
+    "theta": "2.01001"
+  },
+  "Background": {
+    "one": "#546e7a",
+    "two": "hsl(199deg, 18%, 15%)",
+    "type": "Radial"
+  },
+  "Visibility": "Public",
+  "Type": "FBX",
+  "Licence": "CC0 1.0",
+  "Animated": false,
+  "sourceUrl": "https://poly.pizza/m/Qkvcgg5tpj",
+  "downloadUrl": "https://static.poly.pizza/3b802cb1-60a9-4407-a9d1-fa0da66186f7.glb",
+  "sha256": "4864229ae887a6f50e97d389c1c397a843240a47658cd3e397565e52e7449ea2",
+  "sourcePageSha256": "fc5ba56ac08b76920ec54bcf91056bd20d162a414fc5c2a1e71e97bd54921331",
+  "retrieved": "2026-10-21T21:14:15.212Z",
+  "sourcePageRetrieved": "2026-10-21T21:14:14.993Z",
+  "verifiedAt": "2026-10-22T11:21:06.092Z",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+}

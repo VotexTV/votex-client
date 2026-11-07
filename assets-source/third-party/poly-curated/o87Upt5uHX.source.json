@@ -1,0 +1,46 @@
+{
+  "Title": "Wizard",
+  "UploadDate": "2022-10-23T01:01:42.748Z",
+  "ResourceID": "d206c071-7934-40eb-9091-35ebdf93c317",
+  "PublicID": "o87Upt5uHX",
+  "Likes": 4,
+  "CommentCount": 0,
+  "Tris": 1674,
+  "Views": "1.01k",
+  "Downloads": "3.57k",
+  "Creator": {
+    "Username": "Quaternius",
+    "DPURL": "https://static.poly.pizza/dp%2Ff63b655a-051c-4c4b-8dcc-3b346a39ece0.jpg",
+    "Socials": {
+      "Twitter": "quaternius",
+      "Pateron": "quaternius",
+      "Website": "https://quaternius.com/"
+    }
+  },
+  "Category": "People & Characters",
+  "Tags": [
+    "NPC"
+  ],
+  "Orbit": {
+    "phi": "1.37207",
+    "radius": "100%",
+    "theta": "-0.03153"
+  },
+  "Background": {
+    "one": "#5e35b1",
+    "two": "hsl(260deg, 54%, 15%)",
+    "type": "Radial"
+  },
+  "Visibility": "Public",
+  "Type": "FBX",
+  "Licence": "CC0 1.0",
+  "Animated": true,
+  "sourceUrl": "https://poly.pizza/m/o87Upt5uHX",
+  "downloadUrl": "https://static.poly.pizza/d206c071-7934-40eb-9091-35ebdf93c317.glb",
+  "sha256": "fb577146c7624e001222f0efaed6fb553b2fadff181f1a8d2585c3940a5d1a25",
+  "sourcePageSha256": "30694da9ab1d01f7dc6ad2331140d1dbcb869f5f09bb0f75866e0da858a7902b",
+  "retrieved": "2026-10-21T21:14:05.030Z",
+  "sourcePageRetrieved": "2026-10-21T21:14:04.980Z",
+  "verifiedAt": "2026-10-22T11:21:05.875Z",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+}

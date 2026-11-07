@@ -1,0 +1,263 @@
+@media (max-width: 800px) {
+  .app-shell {
+    grid-template-columns: 66px 1fr;
+  }
+  .sidebar {
+    padding: 25px 9px 12px;
+  }
+  .brand {
+    padding: 0 9px;
+    margin-bottom: 35px;
+  }
+  .brand svg {
+    width: 26px;
+  }
+  .brand > span,
+  .sidebar-label,
+  .nav-item > span,
+  .studio-nav > span,
+  .studio-nav > svg:last-child,
+  .sidebar-footer,
+  .nav-dot {
+    display: none;
+  }
+  .nav-item {
+    justify-content: center;
+    padding: 12px 0;
+    font-size: 0;
+    min-height: 42px;
+  }
+  .nav-item svg {
+    width: 19px;
+    height: 19px;
+  }
+  .sidebar nav {
+    gap: 5px;
+  }
+  .studio-nav {
+    padding: 12px;
+    justify-content: center;
+  }
+  .sidebar-bottom > .nav-item {
+    font-size: 0;
+  }
+  .topbar {
+    padding: 0 20px;
+  }
+  .topbar-actions {
+    gap: 10px;
+  }
+  .account-button {
+    min-width: 125px;
+  }
+  .page-content {
+    padding: 22px 20px;
+  }
+  .home-grid {
+    grid-template-columns: minmax(0, 1fr);
+  }
+  .home-heading h1 {
+    font-size: 24px;
+  }
+  .home-heading .heading-spark {
+    font-size: 18px;
+  }
+  .play-hero {
+    height: 410px;
+  }
+  .hero-copy {
+    left: 25px;
+  }
+  .hero-copy h2 {
+    font-size: 39px;
+  }
+  .hero-copy > p {
+    max-width: 170px;
+  }
+  .hero-skin {
+    width: 57%;
+    right: -5%;
+    top: 0;
+    height: 360px;
+  }
+  .hero-bottom {
+    left: 24px;
+    right: 24px;
+  }
+  .launch-area {
+    width: 280px;
+    max-width: 75%;
+  }
+  .launch-button {
+    font-size: 10px;
+  }
+  .news-panel {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 14px;
+    margin-top: 14px;
+  }
+  .news-panel > .section-title {
+    grid-column: 1/-1;
+    margin: 0;
+  }
+  .news-card {
+    margin: 0;
+  }
+  .news-image {
+    height: 105px;
+  }
+  .alpha-note {
+    grid-column: 1/-1;
+  }
+  .alpha-note p {
+    font-size: 11px;
+  }
+  .statusbar {
+    padding: 0 12px;
+    font-size: 7px;
+  }
+  .statusbar b {
+    display: none;
+  }
+  .quick-card h3 {
+    font-size: 11px;
+  }
+  .quick-card p {
+    font-size: 8px;
+  }
+  .safe-note {
+    font-size: 8px;
+  }
+  .studio-layout,
+  .skin-layout,
+  .settings-grid {
+    grid-template-columns: 1fr;
+  }
+  .studio-preview {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 12px;
+  }
+  .studio-preview > .button-wrap {
+    align-self: start;
+  }
+  .mini-preview,
+  .control-panel {
+    min-width: 0;
+  }
+  .theme-grid {
+    grid-template-columns: repeat(3, 1fr);
+  }
+  .slider-grid {
+    grid-template-columns: 1fr 1fr;
+  }
+  .page-heading {
+    align-items: flex-start;
+    flex-wrap: wrap;
+  }
+  .page-heading h1 {
+    font-size: 27px;
+  }
+  .page-heading p {
+    font-size: 11px;
+  }
+  .page-heading > .pill {
+    display: none;
+  }
+  .skin-main {
+    height: 410px;
+  }
+  .mod-grid {
+    grid-template-columns: 1fr;
+  }
+  .emote-grid {
+    grid-template-columns: 1fr 1fr;
+  }
+  .animation-feature {
+    padding: 25px;
+    gap: 20px;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .preset-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+  .search-bar {
+    flex-wrap: wrap;
+  }
+  .search-bar input {
+    width: 75%;
+    font-size: 11px;
+  }
+  .search-bar .button-wrap {
+    margin-left: auto;
+  }
+  .installed-row {
+    padding: 14px;
+    gap: 10px;
+    flex-wrap: wrap;
+  }
+  .installed-row .toggle-row {
+    padding: 0;
+  }
+  .recovery-summary > .glass {
+    padding: 20px;
+  }
+  .title-note {
+    display: none;
+  }
+}
+@media (max-width: 500px) {
+  .breadcrumb {
+    display: none;
+  }
+  .topbar {
+    justify-content: flex-end;
+  }
+  .home-heading h1 {
+    font-size: 21px;
+  }
+  .hero-copy h2 {
+    font-size: 33px;
+  }
+  .hero-copy > p {
+    max-width: 145px;
+  }
+  .launch-area {
+    max-width: 100%;
+    width: 100%;
+  }
+  .hero-skin {
+    width: 63%;
+    right: -12%;
+  }
+  .news-panel {
+    grid-template-columns: 1fr;
+  }
+  .news-panel .section-title,
+  .alpha-note {
+    grid-column: 1;
+  }
+  .quick-grid {
+    grid-template-columns: 1fr;
+  }
+  .studio-preview {
+    grid-template-columns: 1fr;
+  }
+  .slider-grid {
+    grid-template-columns: 1fr;
+  }
+  .theme-grid {
+    grid-template-columns: 1fr 1fr;
+  }
+  .statusbar > span:first-child {
+    max-width: 65%;
+  }
+  .hero-account {
+    font-size: 8px;
+  }
+  .page-content {
+    padding: 20px 15px;
+  }
+}

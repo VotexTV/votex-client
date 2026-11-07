@@ -1,0 +1,49 @@
+{
+  "Title": "Blobfish",
+  "UploadDate": "2022-06-20T13:20:17.478Z",
+  "ResourceID": "75913946-d67e-469c-8a8b-014ae27ff8fb",
+  "PublicID": "7Jh8vsARfN",
+  "Likes": 2,
+  "CommentCount": 0,
+  "Tris": 1316,
+  "Views": 528,
+  "Downloads": "2.13k",
+  "Creator": {
+    "Username": "Quaternius",
+    "DPURL": "https://static.poly.pizza/dp%2Ff63b655a-051c-4c4b-8dcc-3b346a39ece0.jpg",
+    "Socials": {
+      "Twitter": "quaternius",
+      "Pateron": "quaternius",
+      "Website": "https://quaternius.com/"
+    }
+  },
+  "Category": "Animals",
+  "Tags": [
+    "Animal",
+    "Sea Life",
+    "Tortoise",
+    "Fish"
+  ],
+  "Orbit": {
+    "phi": "1.29325",
+    "radius": "100%",
+    "theta": "0.86610"
+  },
+  "Background": {
+    "one": "#039be5",
+    "two": "hsl(200deg, 97%, 15%)",
+    "type": "Radial"
+  },
+  "Visibility": "Public",
+  "Type": "FBX",
+  "Licence": "CC0 1.0",
+  "Animated": true,
+  "sourceUrl": "https://poly.pizza/m/7Jh8vsARfN",
+  "downloadUrl": "https://static.poly.pizza/75913946-d67e-469c-8a8b-014ae27ff8fb.glb",
+  "sha256": "2d3aedd5e8238fece631c94fa97d2bfa6897e884fd613d9e9aeecf95301687be",
+  "sourcePageSha256": "61a81ee0a323b57a31582e80a9c31f434bb6afc3ab3b56d8d86e67afb45903d5",
+  "retrieved": "2026-10-22T11:01:44.733Z",
+  "sourcePageRetrieved": "2026-10-22T11:01:44.463Z",
+  "verifiedAt": "2026-10-22T11:21:05.933Z",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+}

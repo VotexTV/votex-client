@@ -1,0 +1,47 @@
+{
+  "Title": "Coral Grouper",
+  "UploadDate": "2022-06-20T13:20:16.852Z",
+  "ResourceID": "6349bd9a-a6b8-40c9-96d6-68a33eaca4b8",
+  "PublicID": "Q2GNw9TRzF",
+  "Likes": 2,
+  "CommentCount": 0,
+  "Tris": 1588,
+  "Views": 286,
+  "Downloads": "2.06k",
+  "Creator": {
+    "Username": "Quaternius",
+    "DPURL": "https://static.poly.pizza/dp%2Ff63b655a-051c-4c4b-8dcc-3b346a39ece0.jpg",
+    "Socials": {
+      "Twitter": "quaternius",
+      "Pateron": "quaternius",
+      "Website": "https://quaternius.com/"
+    }
+  },
+  "Category": "Animals",
+  "Tags": [
+    "Animal",
+    "Fish"
+  ],
+  "Orbit": {
+    "phi": "1.29325",
+    "radius": "100%",
+    "theta": "0.86610"
+  },
+  "Background": {
+    "one": "#039be5",
+    "two": "hsl(200deg, 97%, 15%)",
+    "type": "Radial"
+  },
+  "Visibility": "Public",
+  "Type": "FBX",
+  "Licence": "CC0 1.0",
+  "Animated": true,
+  "sourceUrl": "https://poly.pizza/m/Q2GNw9TRzF",
+  "downloadUrl": "https://static.poly.pizza/6349bd9a-a6b8-40c9-96d6-68a33eaca4b8.glb",
+  "sha256": "b569df4b15d5a7444888b57718a653ada9f5c5e00c80f8879ec7669d2adf8c60",
+  "sourcePageSha256": "3a7c3562f5caa1ff8dbe24b69df5d963c7efb5c3877c1b3d390774d6ace6fec0",
+  "retrieved": "2026-10-22T11:01:55.048Z",
+  "sourcePageRetrieved": "2026-10-22T11:01:54.832Z",
+  "verifiedAt": "2026-10-22T11:21:05.942Z",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+}

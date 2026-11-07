@@ -1,0 +1,45 @@
+{
+  "Title": "Gas Mask",
+  "Description": "A low poly gas mask for my game.",
+  "UploadDate": "2019-07-23T02:23:21.109Z",
+  "ResourceID": "8e1e22ad-41f0-4d6f-a0c6-239a43940de2",
+  "PublicID": "365iY3sq4A2",
+  "Likes": 1,
+  "CommentCount": 0,
+  "Tris": 300,
+  "Views": "1.3k",
+  "Downloads": 84,
+  "Creator": {
+    "Username": "Cody Stricker",
+    "DPURL": "",
+    "Socials": {}
+  },
+  "Category": "Other",
+  "Tags": [
+    "face guard",
+    "face mask",
+    "protective garment"
+  ],
+  "Orbit": {
+    "phi": "1.41725",
+    "radius": "110%",
+    "theta": "3.70005"
+  },
+  "Background": {
+    "one": "#8e24aa",
+    "two": "hsl(287deg, 65%, 15%)",
+    "type": "Radial"
+  },
+  "Visibility": "Public",
+  "Type": "obj",
+  "Licence": "CC-BY 3.0",
+  "Animated": false,
+  "sourceUrl": "https://poly.pizza/m/365iY3sq4A2",
+  "downloadUrl": "https://static.poly.pizza/8e1e22ad-41f0-4d6f-a0c6-239a43940de2.glb",
+  "sha256": "b97ea404e55ce8734229131e5dbc454483900aef66cfdbac30fb97de8b496482",
+  "sourcePageSha256": "023150ad6c3d93a2dfc57d72f5254d4150a38b30cc5a90f778696ce843d30a46",
+  "retrieved": "2026-10-22T11:06:06.297Z",
+  "sourcePageRetrieved": "2026-10-22T11:06:06.069Z",
+  "verifiedAt": "2026-10-22T11:21:06.166Z",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/"
+}

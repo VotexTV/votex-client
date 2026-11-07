@@ -1,0 +1,18 @@
+[
+  {
+    "id": "alpha",
+    "category": "VOTEX CLIENT",
+    "title": "Neue Funktionen",
+    "description": "Kosmetik- und Emote-Editor, Community-Sichtbarkeit und Designstufen.",
+    "image": "/assets/news-world.svg",
+    "tag": "VOTEX PREVIEW"
+  },
+  {
+    "id": "recovery",
+    "category": "WIEDERHERSTELLUNG",
+    "title": "Sicherungspunkte",
+    "description": "Sicherungspunkte speichern Mods und Einstellungen. Welten bleiben unverändert.",
+    "image": "/assets/news-recovery.svg",
+    "tag": "WIEDERHERSTELLUNG"
+  }
+]

@@ -1,0 +1,49 @@
+{
+  "Title": "Fish",
+  "UploadDate": "2021-08-17T12:40:45.247Z",
+  "ResourceID": "311a79f6-ba3e-47aa-80ce-04185fc76b2a",
+  "PublicID": "XWl86YFtpF",
+  "Likes": 6,
+  "CommentCount": 0,
+  "Tris": 544,
+  "Views": "1.73k",
+  "Downloads": "2.28k",
+  "Creator": {
+    "Username": "Quaternius",
+    "DPURL": "https://static.poly.pizza/dp%2Ff63b655a-051c-4c4b-8dcc-3b346a39ece0.jpg",
+    "Socials": {
+      "Twitter": "quaternius",
+      "Pateron": "quaternius",
+      "Website": "https://quaternius.com/"
+    }
+  },
+  "Category": "Animals",
+  "Tags": [
+    "Animal",
+    "Fish",
+    "Tuna",
+    "Sea Life"
+  ],
+  "Orbit": {
+    "phi": "1.18286",
+    "radius": "100%",
+    "theta": "1.03274"
+  },
+  "Background": {
+    "one": "#039be5",
+    "two": "hsl(200deg, 97%, 15%)",
+    "type": "Radial"
+  },
+  "Visibility": "Public",
+  "Type": "FBX",
+  "Licence": "CC0 1.0",
+  "Animated": true,
+  "sourceUrl": "https://poly.pizza/m/XWl86YFtpF",
+  "downloadUrl": "https://static.poly.pizza/311a79f6-ba3e-47aa-80ce-04185fc76b2a.glb",
+  "sha256": "bfea34878b92eb05d9b2c584c3a9e97abe2b402141b9c7b4b3f1ecb55a29df02",
+  "sourcePageSha256": "9ac54806bb16a444b79db4627fc7f42718dfa9004916cf846b348d44974fde45",
+  "retrieved": "2026-10-22T11:03:23.610Z",
+  "sourcePageRetrieved": "2026-10-22T11:03:23.389Z",
+  "verifiedAt": "2026-10-22T11:21:06.027Z",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+}

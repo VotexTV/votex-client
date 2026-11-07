@@ -1,0 +1,48 @@
+{
+  "Title": "Ninja",
+  "UploadDate": "2022-10-23T10:13:58.885Z",
+  "ResourceID": "2ed11876-720e-457a-8a69-4a14ba7234dc",
+  "PublicID": "xGYmeDpfTu",
+  "Likes": 2,
+  "CommentCount": 0,
+  "Tris": 5780,
+  "Views": "2.01k",
+  "Downloads": "3.75k",
+  "Creator": {
+    "Username": "Quaternius",
+    "DPURL": "https://static.poly.pizza/dp%2Ff63b655a-051c-4c4b-8dcc-3b346a39ece0.jpg",
+    "Socials": {
+      "Twitter": "quaternius",
+      "Pateron": "quaternius",
+      "Website": "https://quaternius.com/"
+    }
+  },
+  "Category": "People & Characters",
+  "Tags": [
+    "Sport",
+    "Sports",
+    "Outdoors"
+  ],
+  "Orbit": {
+    "phi": "1.30900",
+    "radius": "100%",
+    "theta": "0.00000"
+  },
+  "Background": {
+    "one": "#5e35b1",
+    "two": "hsl(260deg, 54%, 15%)",
+    "type": "Radial"
+  },
+  "Visibility": "Public",
+  "Type": "FBX",
+  "Licence": "CC0 1.0",
+  "Animated": true,
+  "sourceUrl": "https://poly.pizza/m/xGYmeDpfTu",
+  "downloadUrl": "https://static.poly.pizza/2ed11876-720e-457a-8a69-4a14ba7234dc.glb",
+  "sha256": "f9d38ed5156252a675b40a16c8a01795c16b78b464edbde1ab9fc46951ae420e",
+  "sourcePageSha256": "f28a24eb4e4a773f159d1ee7be192ad2eb7ad2418e3212c6a3f630672e1b6709",
+  "retrieved": "2026-10-21T21:14:04.408Z",
+  "sourcePageRetrieved": "2026-10-21T21:14:04.328Z",
+  "verifiedAt": "2026-10-22T11:21:05.860Z",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+}

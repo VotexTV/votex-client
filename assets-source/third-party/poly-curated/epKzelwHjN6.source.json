@@ -1,0 +1,43 @@
+{
+  "Title": "Graduation cap",
+  "Description": "#school",
+  "UploadDate": "2017-10-23T00:40:24.622Z",
+  "ResourceID": "8327aa08-f30d-4c2e-97f6-5c5dbc041914",
+  "PublicID": "epKzelwHjN6",
+  "Likes": 0,
+  "CommentCount": 0,
+  "Tris": 1144,
+  "Views": 470,
+  "Downloads": 25,
+  "Creator": {
+    "Username": "Poly by Google",
+    "DPURL": "https://static.poly.pizza/dp%2Fpolygoogle.jpg",
+    "Socials": {}
+  },
+  "Category": "Objects",
+  "Tags": [
+    "school"
+  ],
+  "Orbit": {
+    "phi": "1.31884",
+    "radius": "110%",
+    "theta": "0.87089"
+  },
+  "Background": {
+    "one": "#757575",
+    "two": "hsl(0deg, 0%, 15%)",
+    "type": "Radial"
+  },
+  "Visibility": "Public",
+  "Type": "obj",
+  "Licence": "CC-BY 3.0",
+  "Animated": false,
+  "sourceUrl": "https://poly.pizza/m/epKzelwHjN6",
+  "downloadUrl": "https://static.poly.pizza/8327aa08-f30d-4c2e-97f6-5c5dbc041914.glb",
+  "sha256": "977e60068686e1fca40ccc36bf56a26215739acbbc61b3088746a2ae87dee570",
+  "sourcePageSha256": "1d8e985da27d71f4fbd4bed83aa0db9e401b39d6463ab8bbf740c55d5a8ff6e9",
+  "retrieved": "2026-10-22T11:05:14.571Z",
+  "sourcePageRetrieved": "2026-10-22T11:05:14.362Z",
+  "verifiedAt": "2026-10-22T11:21:06.129Z",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/"
+}

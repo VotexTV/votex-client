@@ -1,0 +1,46 @@
+{
+  "Title": "Wooden Bow",
+  "UploadDate": "2021-08-26T12:55:45.123Z",
+  "ResourceID": "e1abc1c7-47db-48c3-9c65-0879273e8bc8",
+  "PublicID": "QnpqjLSKFU",
+  "Likes": 7,
+  "CommentCount": 1,
+  "Tris": 0,
+  "Views": "1.34k",
+  "Downloads": "2.87k",
+  "Creator": {
+    "Username": "Quaternius",
+    "DPURL": "https://static.poly.pizza/dp%2Ff63b655a-051c-4c4b-8dcc-3b346a39ece0.jpg",
+    "Socials": {
+      "Twitter": "quaternius",
+      "Pateron": "quaternius",
+      "Website": "https://quaternius.com/"
+    }
+  },
+  "Category": "Weapons",
+  "Tags": [
+    "Bow"
+  ],
+  "Orbit": {
+    "phi": "1.41937",
+    "radius": "100%",
+    "theta": "-0.02365"
+  },
+  "Background": {
+    "one": "#546e7a",
+    "two": "hsl(199deg, 18%, 15%)",
+    "type": "Radial"
+  },
+  "Visibility": "Public",
+  "Type": "FBX",
+  "Licence": "CC0 1.0",
+  "Animated": false,
+  "sourceUrl": "https://poly.pizza/m/QnpqjLSKFU",
+  "downloadUrl": "https://static.poly.pizza/e1abc1c7-47db-48c3-9c65-0879273e8bc8.glb",
+  "sha256": "0aca54204443e70af43a9cc7e98c5c9ae42c938595078c801f2303fedd2f6d8f",
+  "sourcePageSha256": "ed57674a04b673d3487ab517aa61dbd77125e3e5d55b21a9bccc3cd58fe3d514",
+  "retrieved": "2026-10-21T21:14:14.358Z",
+  "sourcePageRetrieved": "2026-10-21T21:14:14.126Z",
+  "verifiedAt": "2026-10-22T11:21:06.076Z",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+}

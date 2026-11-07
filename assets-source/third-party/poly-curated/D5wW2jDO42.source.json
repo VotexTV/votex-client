@@ -1,0 +1,49 @@
+{
+  "Title": "Mech",
+  "UploadDate": "2023-03-13T04:24:11.135Z",
+  "ResourceID": "750173d2-53aa-4318-95dc-5f8e6d2dcad2",
+  "PublicID": "D5wW2jDO42",
+  "Likes": 10,
+  "CommentCount": 0,
+  "Tris": 4008,
+  "Views": "2.23k",
+  "Downloads": "4.36k",
+  "Creator": {
+    "Username": "Quaternius",
+    "DPURL": "https://static.poly.pizza/dp%2Ff63b655a-051c-4c4b-8dcc-3b346a39ece0.jpg",
+    "Socials": {
+      "Twitter": "quaternius",
+      "Pateron": "quaternius",
+      "Website": "https://quaternius.com/"
+    }
+  },
+  "Category": "Transport",
+  "Tags": [
+    "Bulldozer",
+    "Machine",
+    "Robot",
+    "Fox"
+  ],
+  "Orbit": {
+    "phi": "1.42710",
+    "radius": "100%",
+    "theta": "0.69288"
+  },
+  "Background": {
+    "one": "#5e35b1",
+    "two": "hsl(260deg, 54%, 15%)",
+    "type": "Radial"
+  },
+  "Visibility": "Public",
+  "Type": "FBX",
+  "Licence": "CC0 1.0",
+  "Animated": true,
+  "sourceUrl": "https://poly.pizza/m/D5wW2jDO42",
+  "downloadUrl": "https://static.poly.pizza/750173d2-53aa-4318-95dc-5f8e6d2dcad2.glb",
+  "sha256": "0ec238495ae7da168d66f74441b98b71525d4a80536eeaf3aed701c7efee17d8",
+  "sourcePageSha256": "a447d4690a1d0bb57cedaa2120c669553ab270b1c5d6d454b42c17395c82f58d",
+  "retrieved": "2026-10-22T11:03:34.451Z",
+  "sourcePageRetrieved": "2026-10-22T11:03:33.770Z",
+  "verifiedAt": "2026-10-22T11:21:06.036Z",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+}

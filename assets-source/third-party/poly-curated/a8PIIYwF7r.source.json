@@ -1,0 +1,48 @@
+{
+  "Title": "Bull",
+  "UploadDate": "2021-09-07T03:23:27.457Z",
+  "ResourceID": "5704ef69-2c27-4de8-a942-70a29458af21",
+  "PublicID": "a8PIIYwF7r",
+  "Likes": 18,
+  "CommentCount": 0,
+  "Tris": 2064,
+  "Views": "4.07k",
+  "Downloads": "5.78k",
+  "Creator": {
+    "Username": "Quaternius",
+    "DPURL": "https://static.poly.pizza/dp%2Ff63b655a-051c-4c4b-8dcc-3b346a39ece0.jpg",
+    "Socials": {
+      "Twitter": "quaternius",
+      "Pateron": "quaternius",
+      "Website": "https://quaternius.com/"
+    }
+  },
+  "Category": "Animals",
+  "Tags": [
+    "Bull",
+    "Animal",
+    "Cow"
+  ],
+  "Orbit": {
+    "phi": "1.21439",
+    "radius": "100%",
+    "theta": "0.85142"
+  },
+  "Background": {
+    "one": "#039be5",
+    "two": "hsl(200deg, 97%, 15%)",
+    "type": "Radial"
+  },
+  "Visibility": "Public",
+  "Type": "FBX",
+  "Licence": "CC0 1.0",
+  "Animated": true,
+  "sourceUrl": "https://poly.pizza/m/a8PIIYwF7r",
+  "downloadUrl": "https://static.poly.pizza/5704ef69-2c27-4de8-a942-70a29458af21.glb",
+  "sha256": "545642d15d4d062efb45915ac6e776c2b5921ff89de3544f65e450bbfd16ce16",
+  "sourcePageSha256": "3ebed6db65f5b3df844082e4d8c9a1326b1938de05131db82c8bf313b9021f4a",
+  "retrieved": "2026-10-22T11:02:40.945Z",
+  "sourcePageRetrieved": "2026-10-22T11:02:40.874Z",
+  "verifiedAt": "2026-10-22T11:21:05.988Z",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+}

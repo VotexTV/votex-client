@@ -1,0 +1,49 @@
+{
+  "Title": "Pig",
+  "UploadDate": "2021-08-17T12:55:53.863Z",
+  "ResourceID": "665ee586-6494-4fbd-be46-fcbe600f653e",
+  "PublicID": "TNvG3QUFlp",
+  "Likes": 8,
+  "CommentCount": 0,
+  "Tris": 562,
+  "Views": "1.9k",
+  "Downloads": "2.73k",
+  "Creator": {
+    "Username": "Quaternius",
+    "DPURL": "https://static.poly.pizza/dp%2Ff63b655a-051c-4c4b-8dcc-3b346a39ece0.jpg",
+    "Socials": {
+      "Twitter": "quaternius",
+      "Pateron": "quaternius",
+      "Website": "https://quaternius.com/"
+    }
+  },
+  "Category": "Animals",
+  "Tags": [
+    "Hog",
+    "Pig",
+    "Animal",
+    "Boar"
+  ],
+  "Orbit": {
+    "phi": "1.20194",
+    "radius": "100%",
+    "theta": "0.92230"
+  },
+  "Background": {
+    "one": "#00acc1",
+    "two": "hsl(187deg, 100%, 15%)",
+    "type": "Radial"
+  },
+  "Visibility": "Public",
+  "Type": "FBX",
+  "Licence": "CC0 1.0",
+  "Animated": false,
+  "sourceUrl": "https://poly.pizza/m/TNvG3QUFlp",
+  "downloadUrl": "https://static.poly.pizza/665ee586-6494-4fbd-be46-fcbe600f653e.glb",
+  "sha256": "4bb5fc230a35db446fa2ea043f77dfc077f0b21d6e59d0235b15f01d01b05525",
+  "sourcePageSha256": "12f33b8bb746df6fba1280be336fb632c5d01b0ae66db516a343452bd4a8633b",
+  "retrieved": "2026-10-22T11:03:13.353Z",
+  "sourcePageRetrieved": "2026-10-22T11:03:13.314Z",
+  "verifiedAt": "2026-10-22T11:21:06.018Z",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+}

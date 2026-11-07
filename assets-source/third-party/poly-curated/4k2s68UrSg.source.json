@@ -1,0 +1,46 @@
+{
+  "Title": "Black Lion Fish",
+  "UploadDate": "2022-06-20T13:20:17.586Z",
+  "ResourceID": "2e9e3dec-41df-43b7-a35a-daed0d5e6baa",
+  "PublicID": "4k2s68UrSg",
+  "Likes": 8,
+  "CommentCount": 0,
+  "Tris": 1974,
+  "Views": 517,
+  "Downloads": "2.5k",
+  "Creator": {
+    "Username": "Quaternius",
+    "DPURL": "https://static.poly.pizza/dp%2Ff63b655a-051c-4c4b-8dcc-3b346a39ece0.jpg",
+    "Socials": {
+      "Twitter": "quaternius",
+      "Pateron": "quaternius",
+      "Website": "https://quaternius.com/"
+    }
+  },
+  "Category": "Animals",
+  "Tags": [
+    "Fish"
+  ],
+  "Orbit": {
+    "phi": "1.29325",
+    "radius": "100%",
+    "theta": "0.86610"
+  },
+  "Background": {
+    "one": "#039be5",
+    "two": "hsl(200deg, 97%, 15%)",
+    "type": "Radial"
+  },
+  "Visibility": "Public",
+  "Type": "FBX",
+  "Licence": "CC0 1.0",
+  "Animated": true,
+  "sourceUrl": "https://poly.pizza/m/4k2s68UrSg",
+  "downloadUrl": "https://static.poly.pizza/2e9e3dec-41df-43b7-a35a-daed0d5e6baa.glb",
+  "sha256": "3d500fac3e7dcbe405a57c07d703936d8037831badf7362fe7254529457d54de",
+  "sourcePageSha256": "5c0503ea9167b7c6d5f8a1677f7ff9de0f949bcf740b048c6378f4ac176b7282",
+  "retrieved": "2026-10-22T11:01:43.151Z",
+  "sourcePageRetrieved": "2026-10-22T11:01:42.857Z",
+  "verifiedAt": "2026-10-22T11:21:05.932Z",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+}

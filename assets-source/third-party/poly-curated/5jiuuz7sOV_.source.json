@@ -1,0 +1,45 @@
+{
+  "Title": "Halo",
+  "Description": "#heaven #angel #ring",
+  "UploadDate": "2017-10-23T07:20:19.582Z",
+  "ResourceID": "7ad8b58a-48f6-444c-930d-05342b8f17fb",
+  "PublicID": "5jiuuz7sOV_",
+  "Likes": 4,
+  "CommentCount": 0,
+  "Tris": 200,
+  "Views": "1.45k",
+  "Downloads": 568,
+  "Creator": {
+    "Username": "Poly by Google",
+    "DPURL": "https://static.poly.pizza/dp%2Fpolygoogle.jpg",
+    "Socials": {}
+  },
+  "Category": "Objects",
+  "Tags": [
+    "heaven",
+    "angel",
+    "ring"
+  ],
+  "Orbit": {
+    "phi": "1.31884",
+    "radius": "110%",
+    "theta": "0.87089"
+  },
+  "Background": {
+    "one": "#f4511e",
+    "two": "hsl(14deg, 91%, 15%)",
+    "type": "Radial"
+  },
+  "Visibility": "Public",
+  "Type": "obj",
+  "Licence": "CC-BY 3.0",
+  "Animated": false,
+  "sourceUrl": "https://poly.pizza/m/5jiuuz7sOV_",
+  "downloadUrl": "https://static.poly.pizza/7ad8b58a-48f6-444c-930d-05342b8f17fb.glb",
+  "sha256": "a5daee6e5f4ea431f59317b61a224870e269cb270638403fb957aa40fafaff1b",
+  "sourcePageSha256": "26b83a344b70a6fa31aa244de1addecff77d9d1d15112fefba0c7d4d79fc9a66",
+  "retrieved": "2026-10-21T21:14:18.282Z",
+  "sourcePageRetrieved": "2026-10-21T21:14:17.996Z",
+  "verifiedAt": "2026-10-22T11:21:06.151Z",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/"
+}

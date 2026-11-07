@@ -1,0 +1,48 @@
+{
+  "Title": "Robot Enemy Flying",
+  "UploadDate": "2022-08-28T11:13:59.121Z",
+  "ResourceID": "abb31ff6-3e2d-43a6-bf13-dba39b0c596d",
+  "PublicID": "lF3jeRJwiH",
+  "Likes": 11,
+  "CommentCount": 0,
+  "Tris": 4544,
+  "Views": "2.08k",
+  "Downloads": "1.91k",
+  "Creator": {
+    "Username": "Quaternius",
+    "DPURL": "https://static.poly.pizza/dp%2Ff63b655a-051c-4c4b-8dcc-3b346a39ece0.jpg",
+    "Socials": {
+      "Twitter": "quaternius",
+      "Pateron": "quaternius",
+      "Website": "https://quaternius.com/"
+    }
+  },
+  "Category": "Objects",
+  "Tags": [
+    "Robot",
+    "Flying",
+    "Enemy"
+  ],
+  "Orbit": {
+    "phi": "1.31687",
+    "radius": "100%",
+    "theta": "-0.20472"
+  },
+  "Background": {
+    "one": "#5e35b1",
+    "two": "hsl(260deg, 54%, 15%)",
+    "type": "Radial"
+  },
+  "Visibility": "Public",
+  "Type": "FBX",
+  "Licence": "CC0 1.0",
+  "Animated": true,
+  "sourceUrl": "https://poly.pizza/m/lF3jeRJwiH",
+  "downloadUrl": "https://static.poly.pizza/abb31ff6-3e2d-43a6-bf13-dba39b0c596d.glb",
+  "sha256": "7e3a27532b43807b375e3d3ad9cbe1f7e20d8bb723f2dcc2a3c9efb38da73a5b",
+  "sourcePageSha256": "629c5d07220a7252ef9d03f570f2afecce76e3a1a8ac063ef3cfb2fce4b9a473",
+  "retrieved": "2026-10-22T11:03:42.987Z",
+  "sourcePageRetrieved": "2026-10-22T11:03:42.317Z",
+  "verifiedAt": "2026-10-22T11:21:06.046Z",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+}

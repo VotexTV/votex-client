@@ -1,0 +1,47 @@
+{
+  "Title": "Crown",
+  "Description": " ",
+  "UploadDate": "2021-08-26T12:55:44.967Z",
+  "ResourceID": "1381b02a-8310-437b-a2a7-82cab0a94a4c",
+  "PublicID": "i0PZVuVlYv",
+  "Likes": 6,
+  "CommentCount": 0,
+  "Tris": 0,
+  "Views": "1.91k",
+  "Downloads": "3.18k",
+  "Creator": {
+    "Username": "Quaternius",
+    "DPURL": "https://static.poly.pizza/dp%2Ff63b655a-051c-4c4b-8dcc-3b346a39ece0.jpg",
+    "Socials": {
+      "Twitter": "quaternius",
+      "Pateron": "quaternius",
+      "Website": "https://quaternius.com/"
+    }
+  },
+  "Category": "Objects",
+  "Tags": [
+    "crown"
+  ],
+  "Orbit": {
+    "phi": "1.13171",
+    "radius": "1.4546502130072978",
+    "theta": "0.27411"
+  },
+  "Background": {
+    "one": "#546e7a",
+    "two": "hsl(199deg, 18%, 15%)",
+    "type": "Radial"
+  },
+  "Visibility": "Public",
+  "Type": "FBX",
+  "Licence": "CC0 1.0",
+  "Animated": false,
+  "sourceUrl": "https://poly.pizza/m/i0PZVuVlYv",
+  "downloadUrl": "https://static.poly.pizza/1381b02a-8310-437b-a2a7-82cab0a94a4c.glb",
+  "sha256": "c2b598cfd997ab367e2036a77d186cc02f5d2a0410209e49237b55d383c68e88",
+  "sourcePageSha256": "1f4b6127b3991ead386f6f17f55b62558eab82640ee1f489f1097b9203932af8",
+  "retrieved": "2026-10-22T11:04:33.526Z",
+  "sourcePageRetrieved": "2026-10-22T11:04:33.283Z",
+  "verifiedAt": "2026-10-22T11:21:06.095Z",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+}

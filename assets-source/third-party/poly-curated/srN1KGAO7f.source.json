@@ -1,0 +1,47 @@
+{
+  "Title": "Shield",
+  "Description": " ",
+  "UploadDate": "2021-08-30T11:01:39.848Z",
+  "ResourceID": "60cc7b8e-0589-4f4b-a354-f6fef73a44bd",
+  "PublicID": "srN1KGAO7f",
+  "Likes": 5,
+  "CommentCount": 0,
+  "Tris": 1272,
+  "Views": "1.1k",
+  "Downloads": "3.18k",
+  "Creator": {
+    "Username": "Quaternius",
+    "DPURL": "https://static.poly.pizza/dp%2Ff63b655a-051c-4c4b-8dcc-3b346a39ece0.jpg",
+    "Socials": {
+      "Twitter": "quaternius",
+      "Pateron": "quaternius",
+      "Website": "https://quaternius.com/"
+    }
+  },
+  "Category": "Objects",
+  "Tags": [
+    "Armor"
+  ],
+  "Orbit": {
+    "phi": "1.29323",
+    "radius": "3.927212211227385",
+    "theta": "-0.03942"
+  },
+  "Background": {
+    "one": "#546e7a",
+    "two": "hsl(199deg, 18%, 15%)",
+    "type": "Radial"
+  },
+  "Visibility": "Public",
+  "Type": "FBX",
+  "Licence": "CC0 1.0",
+  "Animated": false,
+  "sourceUrl": "https://poly.pizza/m/srN1KGAO7f",
+  "downloadUrl": "https://static.poly.pizza/60cc7b8e-0589-4f4b-a354-f6fef73a44bd.glb",
+  "sha256": "0421c6a6bcca2cdd5a18f72f6436e5679a423744979c6019b60bb3139347180f",
+  "sourcePageSha256": "f0e69c58cf332f7f88f8750779fb80f59a5daabf433c6469d211973f52abb39b",
+  "retrieved": "2026-10-22T11:04:16.659Z",
+  "sourcePageRetrieved": "2026-10-22T11:04:16.362Z",
+  "verifiedAt": "2026-10-22T11:21:06.079Z",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+}

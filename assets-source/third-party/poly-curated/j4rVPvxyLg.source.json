@@ -1,0 +1,46 @@
+{
+  "Title": "Monkroose",
+  "UploadDate": "2022-10-23T10:13:59.352Z",
+  "ResourceID": "54ca5c4d-aa20-40ff-a510-25c1c6a48ee9",
+  "PublicID": "j4rVPvxyLg",
+  "Likes": 4,
+  "CommentCount": 0,
+  "Tris": 4568,
+  "Views": 595,
+  "Downloads": "3.5k",
+  "Creator": {
+    "Username": "Quaternius",
+    "DPURL": "https://static.poly.pizza/dp%2Ff63b655a-051c-4c4b-8dcc-3b346a39ece0.jpg",
+    "Socials": {
+      "Twitter": "quaternius",
+      "Pateron": "quaternius",
+      "Website": "https://quaternius.com/"
+    }
+  },
+  "Category": "Animals",
+  "Tags": [
+    "Monkey"
+  ],
+  "Orbit": {
+    "phi": "1.30900",
+    "radius": "100%",
+    "theta": "0.00000"
+  },
+  "Background": {
+    "one": "#5e35b1",
+    "two": "hsl(260deg, 54%, 15%)",
+    "type": "Radial"
+  },
+  "Visibility": "Public",
+  "Type": "FBX",
+  "Licence": "CC0 1.0",
+  "Animated": true,
+  "sourceUrl": "https://poly.pizza/m/j4rVPvxyLg",
+  "downloadUrl": "https://static.poly.pizza/54ca5c4d-aa20-40ff-a510-25c1c6a48ee9.glb",
+  "sha256": "f09adddaba213130b844807cd3cc7cd951abb155fbb08400798152d34acbd3d8",
+  "sourcePageSha256": "a899bc2c87508f7ecefd3bb19f0a94588fdd25e22203104087dd40f0f9e11e73",
+  "retrieved": "2026-10-21T21:14:04.332Z",
+  "sourcePageRetrieved": "2026-10-21T21:14:04.051Z",
+  "verifiedAt": "2026-10-22T11:21:05.858Z",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+}

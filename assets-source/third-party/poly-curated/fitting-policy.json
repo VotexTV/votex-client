@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "status": "projection-review-curation; native rendering still required",
+  "excludedFits": {"feet":"Rounded source footwear needs a separate cuboid-foot fit; current cuffs/toes are not accepted.","necklace":"The fine source chain is too indistinct at this attachment scale; needs a more deliberate wearable adaptation."},
+  "excludedIds": {
+    "creator-poly-63be8a82d9c2":"White horse is visually too close to the retained horse; do not count palette/proportion variants.",
+    "creator-poly-dc9ab048f0c0":"Plain unfinished-looking white humanoid is not an accepted companion.",
+    "creator-poly-3a7bbd56d475":"Keep one of the closely related necklace variants.",
+    "creator-poly-25169d468320":"Unfinished-looking white headwear; source kept for future authored material work.",
+    "creator-poly-84308512018d":"Unfinished-looking white headwear; source kept for future authored material work.",
+    "creator-poly-91aafed0e7d7":"Unfinished-looking white helmet; source kept for proper helmet fit/material work.",
+    "creator-poly-ca9a16cdc8e6":"White headphone source requires a more deliberate material and cuboid-head fit.",
+    "creator-poly-908cab32b37d":"White graduation cap is too close to the retained black graduation cap.",
+    "creator-poly-5c5ef02e3ae9":"Third graduation-cap variant is unnecessary for a genuinely distinct catalog.",
+    "creator-poly-3beb3b0f90de":"Full football helmet cannot be worn above the head; needs a hollow cube-head fit.",
+    "creator-poly-10917366ceb7":"Headset lies horizontally and does not meet the intended ear attachment.",
+    "creator-poly-055708a69a17":"Source contains a grid of several hats; not one fitted wearable."
+    ,"creator-poly-71aaea38456a":"Gas-mask orientation and depth are not accepted in the fitted review."
+    ,"creator-poly-481b1fed9124":"Gas-mask orientation and depth are not accepted in the fitted review."
+  }
+}

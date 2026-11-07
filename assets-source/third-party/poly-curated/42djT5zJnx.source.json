@@ -1,0 +1,49 @@
+{
+  "Title": "Armabee",
+  "UploadDate": "2022-10-23T01:01:38.023Z",
+  "ResourceID": "de63aaf6-9170-47f7-933d-439af68826a6",
+  "PublicID": "42djT5zJnx",
+  "Likes": 1,
+  "CommentCount": 0,
+  "Tris": 1544,
+  "Views": "1.31k",
+  "Downloads": "3.6k",
+  "Creator": {
+    "Username": "Quaternius",
+    "DPURL": "https://static.poly.pizza/dp%2Ff63b655a-051c-4c4b-8dcc-3b346a39ece0.jpg",
+    "Socials": {
+      "Twitter": "quaternius",
+      "Pateron": "quaternius",
+      "Website": "https://quaternius.com/"
+    }
+  },
+  "Category": "Animals",
+  "Tags": [
+    "Animal",
+    "Invertebrate",
+    "Insect",
+    "Bird"
+  ],
+  "Orbit": {
+    "phi": "1.37207",
+    "radius": "100%",
+    "theta": "-0.03153"
+  },
+  "Background": {
+    "one": "#5e35b1",
+    "two": "hsl(260deg, 54%, 15%)",
+    "type": "Radial"
+  },
+  "Visibility": "Public",
+  "Type": "FBX",
+  "Licence": "CC0 1.0",
+  "Animated": true,
+  "sourceUrl": "https://poly.pizza/m/42djT5zJnx",
+  "downloadUrl": "https://static.poly.pizza/de63aaf6-9170-47f7-933d-439af68826a6.glb",
+  "sha256": "9a47899a2320aa42d5f550598a981c26517c6e27723980f5d2080a557eb88dc2",
+  "sourcePageSha256": "fe784a3a8bf319f817b5bdc5413455431d70fb6a381069f195c77208dd33fa7f",
+  "retrieved": "2026-10-22T11:01:08.777Z",
+  "sourcePageRetrieved": "2026-10-22T11:01:08.632Z",
+  "verifiedAt": "2026-10-22T11:21:05.902Z",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+}

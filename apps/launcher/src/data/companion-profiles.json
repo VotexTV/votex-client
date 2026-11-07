@@ -1,0 +1,837 @@
+{
+  "creator-fox": {
+    "kind": "organic",
+    "liftScale": 1,
+    "tiltScale": 1
+  },
+  "sky-whale": {
+    "kind": "aquatic",
+    "liftScale": 1,
+    "tiltScale": 0.7
+  },
+  "pocket-fox": {
+    "kind": "organic",
+    "liftScale": 1,
+    "tiltScale": 1
+  },
+  "night-owl": {
+    "kind": "organic",
+    "liftScale": 1,
+    "tiltScale": 1
+  },
+  "cloud-sprite": {
+    "kind": "floating",
+    "liftScale": 1,
+    "tiltScale": 1
+  },
+  "kenney-cube-pets-animal-beaver": {
+    "kind": "organic",
+    "liftScale": 1,
+    "tiltScale": 1
+  },
+  "kenney-cube-pets-animal-bee": {
+    "kind": "organic",
+    "liftScale": 1,
+    "tiltScale": 1
+  },
+  "kenney-cube-pets-animal-bunny": {
+    "kind": "organic",
+    "liftScale": 1,
+    "tiltScale": 1
+  },
+  "kenney-cube-pets-animal-cat": {
+    "kind": "organic",
+    "liftScale": 1,
+    "tiltScale": 1
+  },
+  "kenney-cube-pets-animal-caterpillar": {
+    "kind": "organic",
+    "liftScale": 1,
+    "tiltScale": 1
+  },
+  "kenney-cube-pets-animal-chick": {
+    "kind": "organic",
+    "liftScale": 1,
+    "tiltScale": 1
+  },
+  "kenney-cube-pets-animal-cow": {
+    "kind": "organic",
+    "liftScale": 1,
+    "tiltScale": 1
+  },
+  "kenney-cube-pets-animal-crab": {
+    "kind": "organic",
+    "liftScale": 1,
+    "tiltScale": 1
+  },
+  "kenney-cube-pets-animal-deer": {
+    "kind": "organic",
+    "liftScale": 1,
+    "tiltScale": 1
+  },
+  "kenney-cube-pets-animal-dog": {
+    "kind": "organic",
+    "liftScale": 1,
+    "tiltScale": 1
+  },
+  "kenney-cube-pets-animal-elephant": {
+    "kind": "organic",
+    "liftScale": 1,
+    "tiltScale": 1
+  },
+  "kenney-cube-pets-animal-fish": {
+    "kind": "organic",
+    "liftScale": 1,
+    "tiltScale": 1
+  },
+  "kenney-cube-pets-animal-fox": {
+    "kind": "organic",
+    "liftScale": 1,
+    "tiltScale": 1
+  },
+  "kenney-cube-pets-animal-giraffe": {
+    "kind": "organic",
+    "liftScale": 1,
+    "tiltScale": 1
+  },
+  "kenney-cube-pets-animal-hog": {
+    "kind": "organic",
+    "liftScale": 1,
+    "tiltScale": 1
+  },
+  "kenney-cube-pets-animal-koala": {
+    "kind": "organic",
+    "liftScale": 1,
+    "tiltScale": 1
+  },
+  "kenney-cube-pets-animal-lion": {
+    "kind": "organic",
+    "liftScale": 1,
+    "tiltScale": 1
+  },
+  "kenney-cube-pets-animal-monkey": {
+    "kind": "organic",
+    "liftScale": 1,
+    "tiltScale": 1
+  },
+  "kenney-cube-pets-animal-panda": {
+    "kind": "organic",
+    "liftScale": 1,
+    "tiltScale": 1
+  },
+  "kenney-cube-pets-animal-parrot": {
+    "kind": "organic",
+    "liftScale": 1,
+    "tiltScale": 1
+  },
+  "kenney-cube-pets-animal-penguin": {
+    "kind": "organic",
+    "liftScale": 1,
+    "tiltScale": 1
+  },
+  "kenney-cube-pets-animal-pig": {
+    "kind": "organic",
+    "liftScale": 1,
+    "tiltScale": 1
+  },
+  "kenney-cube-pets-animal-polar": {
+    "kind": "organic",
+    "liftScale": 1,
+    "tiltScale": 1
+  },
+  "kenney-cube-pets-animal-tiger": {
+    "kind": "organic",
+    "liftScale": 1,
+    "tiltScale": 1
+  },
+  "kenney-holiday-gingerbread-man": {
+    "kind": "organic",
+    "liftScale": 1,
+    "tiltScale": 1
+  },
+  "kenney-holiday-snowman": {
+    "kind": "organic",
+    "liftScale": 1,
+    "tiltScale": 1
+  },
+  "kenney-space-alien": {
+    "kind": "organic",
+    "liftScale": 1,
+    "tiltScale": 1
+  },
+  "kenney-space-craft-racer": {
+    "kind": "mechanical",
+    "liftScale": 0.65,
+    "tiltScale": 0.4
+  },
+  "kenney-space-craft-cargoa": {
+    "kind": "mechanical",
+    "liftScale": 0.65,
+    "tiltScale": 0.4
+  },
+  "kenney-space-rover": {
+    "kind": "mechanical",
+    "liftScale": 0.65,
+    "tiltScale": 0.4
+  },
+  "kenney-graveyard-character-ghost": {
+    "kind": "floating",
+    "liftScale": 1,
+    "tiltScale": 1
+  },
+  "creator-poly-9ea8db73a359": {
+    "kind": "organic",
+    "liftScale": 1,
+    "tiltScale": 1
+  },
+  "creator-poly-06c745199ebe": {
+    "kind": "organic",
+    "liftScale": 1,
+    "tiltScale": 1
+  },
+  "creator-poly-cad749305ca8": {
+    "kind": "aquatic",
+    "liftScale": 1,
+    "tiltScale": 0.7
+  },
+  "creator-poly-fe589aff7e5d": {
+    "kind": "organic",
+    "liftScale": 1,
+    "tiltScale": 1
+  },
+  "creator-poly-1fc95b460dcd": {
+    "kind": "organic",
+    "liftScale": 1,
+    "tiltScale": 1
+  },
+  "creator-poly-88c0a93f214a": {
+    "kind": "organic",
+    "liftScale": 1,
+    "tiltScale": 1
+  },
+  "creator-poly-8251496033a7": {
+    "kind": "organic",
+    "liftScale": 1,
+    "tiltScale": 1
+  },
+  "creator-poly-db98a47f0325": {
+    "kind": "organic",
+    "liftScale": 1,
+    "tiltScale": 1
+  },
+  "creator-poly-cc25d88bd3d3": {
+    "kind": "organic",
+    "liftScale": 1,
+    "tiltScale": 1
+  },
+  "creator-poly-bbb0ca1e52c3": {
+    "kind": "organic",
+    "liftScale": 1,
+    "tiltScale": 1
+  },
+  "creator-poly-fcb53102e956": {
+    "kind": "organic",
+    "liftScale": 1,
+    "tiltScale": 1
+  },
+  "creator-poly-0ca1fc709f29": {
+    "kind": "organic",
+    "liftScale": 1,
+    "tiltScale": 1
+  },
+  "creator-poly-1e85904150f7": {
+    "kind": "organic",
+    "liftScale": 1,
+    "tiltScale": 1
+  },
+  "creator-poly-3bf84b6f4da5": {
+    "kind": "organic",
+    "liftScale": 1,
+    "tiltScale": 1
+  },
+  "creator-poly-f890a25feabd": {
+    "kind": "organic",
+    "liftScale": 1,
+    "tiltScale": 1
+  },
+  "creator-poly-eb8f7508df25": {
+    "kind": "organic",
+    "liftScale": 1,
+    "tiltScale": 1
+  },
+  "creator-poly-9eca076127ed": {
+    "kind": "organic",
+    "liftScale": 1,
+    "tiltScale": 1
+  },
+  "creator-poly-1c89ac2d5a40": {
+    "kind": "organic",
+    "liftScale": 1,
+    "tiltScale": 1
+  },
+  "creator-poly-cf9de93760b8": {
+    "kind": "floating",
+    "liftScale": 1,
+    "tiltScale": 1
+  },
+  "creator-poly-3d61c6b62d5e": {
+    "kind": "floating",
+    "liftScale": 1,
+    "tiltScale": 1
+  },
+  "creator-poly-aa0ee79a410b": {
+    "kind": "organic",
+    "liftScale": 1,
+    "tiltScale": 1
+  },
+  "creator-poly-14a9f34c3425": {
+    "kind": "organic",
+    "liftScale": 1,
+    "tiltScale": 1
+  },
+  "creator-poly-b2453c920903": {
+    "kind": "organic",
+    "liftScale": 1,
+    "tiltScale": 1
+  },
+  "creator-poly-20f47fb480dd": {
+    "kind": "organic",
+    "liftScale": 1,
+    "tiltScale": 1
+  },
+  "creator-poly-fa7a14f906b6": {
+    "kind": "organic",
+    "liftScale": 1,
+    "tiltScale": 1
+  },
+  "creator-poly-1c1e84edde23": {
+    "kind": "organic",
+    "liftScale": 1,
+    "tiltScale": 1
+  },
+  "creator-poly-d9d7742a5c70": {
+    "kind": "organic",
+    "liftScale": 1,
+    "tiltScale": 1
+  },
+  "creator-poly-d53f294c5b6a": {
+    "kind": "organic",
+    "liftScale": 1,
+    "tiltScale": 1
+  },
+  "creator-poly-7989bccf8a9b": {
+    "kind": "organic",
+    "liftScale": 1,
+    "tiltScale": 1
+  },
+  "creator-poly-35a1c3481195": {
+    "kind": "organic",
+    "liftScale": 1,
+    "tiltScale": 1
+  },
+  "creator-poly-253f69390ece": {
+    "kind": "organic",
+    "liftScale": 1,
+    "tiltScale": 1
+  },
+  "creator-poly-5bd58ec46c23": {
+    "kind": "floating",
+    "liftScale": 1,
+    "tiltScale": 1
+  },
+  "creator-poly-ecf4251968e8": {
+    "kind": "floating",
+    "liftScale": 1,
+    "tiltScale": 1
+  },
+  "creator-poly-658070122005": {
+    "kind": "organic",
+    "liftScale": 1,
+    "tiltScale": 1
+  },
+  "creator-poly-3e828ae18ed0": {
+    "kind": "organic",
+    "liftScale": 1,
+    "tiltScale": 1
+  },
+  "creator-poly-8fd53f3520cf": {
+    "kind": "organic",
+    "liftScale": 1,
+    "tiltScale": 1
+  },
+  "creator-poly-a8290c765e47": {
+    "kind": "organic",
+    "liftScale": 1,
+    "tiltScale": 1
+  },
+  "creator-poly-0ae1ad091b99": {
+    "kind": "organic",
+    "liftScale": 1,
+    "tiltScale": 1
+  },
+  "creator-poly-be81c8ed616c": {
+    "kind": "aquatic",
+    "liftScale": 1,
+    "tiltScale": 0.7
+  },
+  "creator-poly-c56c5b3dbc80": {
+    "kind": "organic",
+    "liftScale": 1,
+    "tiltScale": 1
+  },
+  "creator-poly-5815fce2e920": {
+    "kind": "organic",
+    "liftScale": 1,
+    "tiltScale": 1
+  },
+  "creator-poly-cf289e79bbbb": {
+    "kind": "organic",
+    "liftScale": 1,
+    "tiltScale": 1
+  },
+  "creator-poly-d92c774ff1c9": {
+    "kind": "organic",
+    "liftScale": 1,
+    "tiltScale": 1
+  },
+  "creator-poly-f30768ba5722": {
+    "kind": "organic",
+    "liftScale": 1,
+    "tiltScale": 1
+  },
+  "creator-poly-3798f77b2ae2": {
+    "kind": "aquatic",
+    "liftScale": 1,
+    "tiltScale": 0.7
+  },
+  "creator-poly-fe705dd52323": {
+    "kind": "aquatic",
+    "liftScale": 1,
+    "tiltScale": 0.7
+  },
+  "creator-poly-9c6975c95b46": {
+    "kind": "aquatic",
+    "liftScale": 1,
+    "tiltScale": 0.7
+  },
+  "creator-poly-35481c6f5959": {
+    "kind": "aquatic",
+    "liftScale": 1,
+    "tiltScale": 0.7
+  },
+  "creator-poly-0940e41270f6": {
+    "kind": "aquatic",
+    "liftScale": 1,
+    "tiltScale": 0.7
+  },
+  "creator-poly-c957b71514bb": {
+    "kind": "aquatic",
+    "liftScale": 1,
+    "tiltScale": 0.7
+  },
+  "creator-poly-123ddbb524d7": {
+    "kind": "aquatic",
+    "liftScale": 1,
+    "tiltScale": 0.7
+  },
+  "creator-poly-e2e85ff0deb5": {
+    "kind": "aquatic",
+    "liftScale": 1,
+    "tiltScale": 0.7
+  },
+  "creator-poly-6f42b96143cd": {
+    "kind": "aquatic",
+    "liftScale": 1,
+    "tiltScale": 0.7
+  },
+  "creator-poly-d95a6ac71d1a": {
+    "kind": "aquatic",
+    "liftScale": 1,
+    "tiltScale": 0.7
+  },
+  "creator-poly-1f6b5b6a4126": {
+    "kind": "aquatic",
+    "liftScale": 1,
+    "tiltScale": 0.7
+  },
+  "creator-poly-b07e6c0ad58f": {
+    "kind": "aquatic",
+    "liftScale": 1,
+    "tiltScale": 0.7
+  },
+  "creator-poly-949a2b82d410": {
+    "kind": "aquatic",
+    "liftScale": 1,
+    "tiltScale": 0.7
+  },
+  "creator-poly-7e6e646530a0": {
+    "kind": "aquatic",
+    "liftScale": 1,
+    "tiltScale": 0.7
+  },
+  "creator-poly-0ecf0dfe1ad9": {
+    "kind": "aquatic",
+    "liftScale": 1,
+    "tiltScale": 0.7
+  },
+  "creator-poly-769ec653ae66": {
+    "kind": "aquatic",
+    "liftScale": 1,
+    "tiltScale": 0.7
+  },
+  "creator-poly-5df9f4d68eca": {
+    "kind": "aquatic",
+    "liftScale": 1,
+    "tiltScale": 0.7
+  },
+  "creator-poly-d4c29e8560da": {
+    "kind": "aquatic",
+    "liftScale": 1,
+    "tiltScale": 0.7
+  },
+  "creator-poly-03ebe6e38829": {
+    "kind": "organic",
+    "liftScale": 1,
+    "tiltScale": 1
+  },
+  "creator-poly-39db259968d0": {
+    "kind": "aquatic",
+    "liftScale": 1,
+    "tiltScale": 0.7
+  },
+  "creator-poly-bd4c65dbcc95": {
+    "kind": "aquatic",
+    "liftScale": 1,
+    "tiltScale": 0.7
+  },
+  "creator-poly-f8c1cdb5d267": {
+    "kind": "aquatic",
+    "liftScale": 1,
+    "tiltScale": 0.7
+  },
+  "creator-poly-76129aef4fd9": {
+    "kind": "aquatic",
+    "liftScale": 1,
+    "tiltScale": 0.7
+  },
+  "creator-poly-052963a23865": {
+    "kind": "aquatic",
+    "liftScale": 1,
+    "tiltScale": 0.7
+  },
+  "creator-poly-560f0c33c99e": {
+    "kind": "aquatic",
+    "liftScale": 1,
+    "tiltScale": 0.7
+  },
+  "creator-poly-1771ac45c3f2": {
+    "kind": "aquatic",
+    "liftScale": 1,
+    "tiltScale": 0.7
+  },
+  "creator-poly-9e6359f687b2": {
+    "kind": "aquatic",
+    "liftScale": 1,
+    "tiltScale": 0.7
+  },
+  "creator-poly-98bbebc4e27d": {
+    "kind": "aquatic",
+    "liftScale": 1,
+    "tiltScale": 0.7
+  },
+  "creator-poly-14c2344a44b8": {
+    "kind": "aquatic",
+    "liftScale": 1,
+    "tiltScale": 0.7
+  },
+  "creator-poly-72000982bc7e": {
+    "kind": "aquatic",
+    "liftScale": 1,
+    "tiltScale": 0.7
+  },
+  "creator-poly-771fe46283f8": {
+    "kind": "aquatic",
+    "liftScale": 1,
+    "tiltScale": 0.7
+  },
+  "creator-poly-e0d87f2683e8": {
+    "kind": "aquatic",
+    "liftScale": 1,
+    "tiltScale": 0.7
+  },
+  "creator-poly-8a247b86cbf2": {
+    "kind": "aquatic",
+    "liftScale": 1,
+    "tiltScale": 0.7
+  },
+  "creator-poly-834e84d3bf5b": {
+    "kind": "organic",
+    "liftScale": 1,
+    "tiltScale": 1
+  },
+  "creator-poly-163ee1fa8465": {
+    "kind": "organic",
+    "liftScale": 1,
+    "tiltScale": 1
+  },
+  "creator-poly-3a7ba3edaee7": {
+    "kind": "organic",
+    "liftScale": 1,
+    "tiltScale": 1
+  },
+  "creator-poly-6302205e49cd": {
+    "kind": "organic",
+    "liftScale": 1,
+    "tiltScale": 1
+  },
+  "creator-poly-a50e1b0912ba": {
+    "kind": "organic",
+    "liftScale": 1,
+    "tiltScale": 1
+  },
+  "creator-poly-063bc11c6754": {
+    "kind": "organic",
+    "liftScale": 1,
+    "tiltScale": 1
+  },
+  "creator-poly-f331ca70e5bf": {
+    "kind": "organic",
+    "liftScale": 1,
+    "tiltScale": 1
+  },
+  "creator-poly-b802346a7903": {
+    "kind": "organic",
+    "liftScale": 1,
+    "tiltScale": 1
+  },
+  "creator-poly-70998be994b4": {
+    "kind": "organic",
+    "liftScale": 1,
+    "tiltScale": 1
+  },
+  "creator-poly-ba5702451490": {
+    "kind": "organic",
+    "liftScale": 1,
+    "tiltScale": 1
+  },
+  "creator-poly-54e51ee2395d": {
+    "kind": "organic",
+    "liftScale": 1,
+    "tiltScale": 1
+  },
+  "creator-poly-8ffc8374294b": {
+    "kind": "organic",
+    "liftScale": 1,
+    "tiltScale": 1
+  },
+  "creator-poly-5aa49abd0a9f": {
+    "kind": "organic",
+    "liftScale": 1,
+    "tiltScale": 1
+  },
+  "creator-poly-a8be8b46beb6": {
+    "kind": "organic",
+    "liftScale": 1,
+    "tiltScale": 1
+  },
+  "creator-poly-6b79f0c2e0f3": {
+    "kind": "organic",
+    "liftScale": 1,
+    "tiltScale": 1
+  },
+  "creator-poly-ffc30d6db267": {
+    "kind": "organic",
+    "liftScale": 1,
+    "tiltScale": 1
+  },
+  "creator-poly-2a91f8b947d4": {
+    "kind": "organic",
+    "liftScale": 1,
+    "tiltScale": 1
+  },
+  "creator-poly-97416294c8f2": {
+    "kind": "organic",
+    "liftScale": 1,
+    "tiltScale": 1
+  },
+  "creator-poly-df92d2a47d0c": {
+    "kind": "organic",
+    "liftScale": 1,
+    "tiltScale": 1
+  },
+  "creator-poly-baaafe5e12a5": {
+    "kind": "organic",
+    "liftScale": 1,
+    "tiltScale": 1
+  },
+  "creator-poly-9d0bd70c3616": {
+    "kind": "organic",
+    "liftScale": 1,
+    "tiltScale": 1
+  },
+  "creator-poly-54fbfd72fcda": {
+    "kind": "organic",
+    "liftScale": 1,
+    "tiltScale": 1
+  },
+  "creator-poly-6e29fcc95149": {
+    "kind": "organic",
+    "liftScale": 1,
+    "tiltScale": 1
+  },
+  "creator-poly-bfe019ce468e": {
+    "kind": "organic",
+    "liftScale": 1,
+    "tiltScale": 1
+  },
+  "creator-poly-365cb22fa90b": {
+    "kind": "organic",
+    "liftScale": 1,
+    "tiltScale": 1
+  },
+  "creator-poly-f7ffae8fde5a": {
+    "kind": "organic",
+    "liftScale": 1,
+    "tiltScale": 1
+  },
+  "creator-poly-f16599d9f024": {
+    "kind": "organic",
+    "liftScale": 1,
+    "tiltScale": 1
+  },
+  "creator-poly-f6d1e09ee799": {
+    "kind": "aquatic",
+    "liftScale": 1,
+    "tiltScale": 0.7
+  },
+  "creator-poly-65a49b60f233": {
+    "kind": "aquatic",
+    "liftScale": 1,
+    "tiltScale": 0.7
+  },
+  "creator-poly-a862c0a0aeac": {
+    "kind": "aquatic",
+    "liftScale": 1,
+    "tiltScale": 0.7
+  },
+  "creator-poly-904ab3542f50": {
+    "kind": "aquatic",
+    "liftScale": 1,
+    "tiltScale": 0.7
+  },
+  "creator-poly-464662858a59": {
+    "kind": "aquatic",
+    "liftScale": 1,
+    "tiltScale": 0.7
+  },
+  "creator-poly-db0659ef4959": {
+    "kind": "aquatic",
+    "liftScale": 1,
+    "tiltScale": 0.7
+  },
+  "creator-poly-4b75a41c7860": {
+    "kind": "aquatic",
+    "liftScale": 1,
+    "tiltScale": 0.7
+  },
+  "creator-poly-03acaf14be8f": {
+    "kind": "mechanical",
+    "liftScale": 0.65,
+    "tiltScale": 0.4
+  },
+  "creator-poly-739e16526351": {
+    "kind": "mechanical",
+    "liftScale": 0.65,
+    "tiltScale": 0.4
+  },
+  "creator-poly-63d0010a5bd7": {
+    "kind": "mechanical",
+    "liftScale": 0.65,
+    "tiltScale": 0.4
+  },
+  "creator-poly-7718bad8c27d": {
+    "kind": "mechanical",
+    "liftScale": 0.65,
+    "tiltScale": 0.4
+  },
+  "creator-poly-eff01a107061": {
+    "kind": "mechanical",
+    "liftScale": 0.65,
+    "tiltScale": 0.4
+  },
+  "creator-poly-a51f75f4ae64": {
+    "kind": "mechanical",
+    "liftScale": 0.65,
+    "tiltScale": 0.4
+  },
+  "creator-poly-d585450ababb": {
+    "kind": "mechanical",
+    "liftScale": 0.65,
+    "tiltScale": 0.4
+  },
+  "creator-poly-294fdc876048": {
+    "kind": "mechanical",
+    "liftScale": 0.65,
+    "tiltScale": 0.4
+  },
+  "creator-poly-6449eb2cd6d4": {
+    "kind": "mechanical",
+    "liftScale": 0.65,
+    "tiltScale": 0.4
+  },
+  "creator-poly-1ea519421d86": {
+    "kind": "mechanical",
+    "liftScale": 0.65,
+    "tiltScale": 0.4
+  },
+  "creator-poly-dd6159ed52fc": {
+    "kind": "mechanical",
+    "liftScale": 0.65,
+    "tiltScale": 0.4
+  },
+  "creator-poly-1fe0347515a2": {
+    "kind": "mechanical",
+    "liftScale": 0.65,
+    "tiltScale": 0.4
+  },
+  "creator-poly-8bcbc9be725f": {
+    "kind": "mechanical",
+    "liftScale": 0.65,
+    "tiltScale": 0.4
+  },
+  "creator-poly-161e541d61e7": {
+    "kind": "mechanical",
+    "liftScale": 0.65,
+    "tiltScale": 0.4
+  },
+  "creator-poly-f3b606a39e49": {
+    "kind": "mechanical",
+    "liftScale": 0.65,
+    "tiltScale": 0.4
+  },
+  "creator-poly-61267e8eeb5c": {
+    "kind": "organic",
+    "liftScale": 1,
+    "tiltScale": 1
+  },
+  "creator-poly-9da68c8a80fe": {
+    "kind": "organic",
+    "liftScale": 1,
+    "tiltScale": 1
+  },
+  "creator-poly-da75af927be1": {
+    "kind": "organic",
+    "liftScale": 1,
+    "tiltScale": 1
+  },
+  "creator-poly-331c2d654a68": {
+    "kind": "floating",
+    "liftScale": 1,
+    "tiltScale": 1
+  },
+  "creator-poly-59d72d9de617": {
+    "kind": "floating",
+    "liftScale": 1,
+    "tiltScale": 1
+  }
+}

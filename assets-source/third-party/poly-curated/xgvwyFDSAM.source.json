@@ -1,0 +1,47 @@
+{
+  "Title": "Christmas Cap",
+  "Description": "Christmas Cap",
+  "UploadDate": "2024-12-18T01:14:52.336Z",
+  "ResourceID": "75820aea-e680-46da-afb1-96920c3f74f3",
+  "PublicID": "xgvwyFDSAM",
+  "Likes": 2,
+  "CommentCount": 0,
+  "Tris": 2700,
+  "Views": 167,
+  "Downloads": 220,
+  "Creator": {
+    "Username": "MiniPoly",
+    "DPURL": "https://static.poly.pizza/dp%2F4dc33a92-7fee-45d2-b841-f99ad9c8592b.jpg",
+    "Socials": {
+      "Email": "sauravkumar200072gmail.com"
+    }
+  },
+  "Category": "Furniture & Decor",
+  "Tags": [
+    "Christmas Cap",
+    "Cap",
+    "Santa"
+  ],
+  "Orbit": {
+    "phi": "1.57186",
+    "radius": "5.916516666489608",
+    "theta": "-0.04240"
+  },
+  "Background": {
+    "one": "#6EE2F5",
+    "two": "#6454F0",
+    "type": "Radial"
+  },
+  "Visibility": "Public",
+  "Type": "FBX",
+  "Licence": "CC-BY 3.0",
+  "Animated": false,
+  "sourceUrl": "https://poly.pizza/m/xgvwyFDSAM",
+  "downloadUrl": "https://static.poly.pizza/75820aea-e680-46da-afb1-96920c3f74f3.glb",
+  "sha256": "72843d4d7fbb508f715aec1f37d743deebf0520116b1208885f35241d45f60eb",
+  "sourcePageSha256": "8316632d3844e1e09563530d09bcfa6c9302b47f28f0a05c28b6fb6f013d0ee6",
+  "retrieved": "2026-10-22T11:06:37.610Z",
+  "sourcePageRetrieved": "2026-10-22T11:06:37.392Z",
+  "verifiedAt": "2026-10-22T11:21:06.178Z",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/"
+}

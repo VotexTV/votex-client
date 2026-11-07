@@ -1,0 +1,44 @@
+{
+  "Title": "Baseball Cap",
+  "UploadDate": "2017-06-30T21:47:22.371Z",
+  "ResourceID": "82a47314-3d3f-4b36-9ed0-fa8fc9b380f9",
+  "PublicID": "2uKEHjO_QL0",
+  "Likes": 1,
+  "CommentCount": 0,
+  "Tris": 372,
+  "Views": 520,
+  "Downloads": 78,
+  "Creator": {
+    "Username": "Jarlan Perez",
+    "DPURL": "",
+    "Socials": {}
+  },
+  "Category": "Objects",
+  "Tags": [
+    "golf cap",
+    "jockey cap",
+    "filler cap"
+  ],
+  "Orbit": {
+    "phi": "1.41725",
+    "radius": "110%",
+    "theta": "3.70005"
+  },
+  "Background": {
+    "one": "#1e88e5",
+    "two": "hsl(208deg, 79%, 15%)",
+    "type": "Radial"
+  },
+  "Visibility": "Public",
+  "Type": "obj",
+  "Licence": "CC-BY 3.0",
+  "Animated": false,
+  "sourceUrl": "https://poly.pizza/m/2uKEHjO_QL0",
+  "downloadUrl": "https://static.poly.pizza/82a47314-3d3f-4b36-9ed0-fa8fc9b380f9.glb",
+  "sha256": "d08b29aec2d1d62a5076e20d9933ea6efd7ee23f7744387d66028950fe8968c3",
+  "sourcePageSha256": "3932a836996314473be6517615958ff65be73b0af9ab0b6c7a76e252fc94ac13",
+  "retrieved": "2026-10-22T11:06:42.756Z",
+  "sourcePageRetrieved": "2026-10-22T11:06:42.543Z",
+  "verifiedAt": "2026-10-22T11:21:06.182Z",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/"
+}

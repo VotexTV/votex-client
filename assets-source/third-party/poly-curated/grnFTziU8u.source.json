@@ -1,0 +1,48 @@
+{
+  "Title": "Mushroom King",
+  "UploadDate": "2022-10-23T10:13:57.801Z",
+  "ResourceID": "798301fb-b950-460c-9c67-526621ad8500",
+  "PublicID": "grnFTziU8u",
+  "Likes": 7,
+  "CommentCount": 0,
+  "Tris": 5116,
+  "Views": "1.18k",
+  "Downloads": "3.64k",
+  "Creator": {
+    "Username": "Quaternius",
+    "DPURL": "https://static.poly.pizza/dp%2Ff63b655a-051c-4c4b-8dcc-3b346a39ece0.jpg",
+    "Socials": {
+      "Twitter": "quaternius",
+      "Pateron": "quaternius",
+      "Website": "https://quaternius.com/"
+    }
+  },
+  "Category": "People & Characters",
+  "Tags": [
+    "Mushroom",
+    "Creature",
+    "Fantasy"
+  ],
+  "Orbit": {
+    "phi": "1.30900",
+    "radius": "100%",
+    "theta": "0.00000"
+  },
+  "Background": {
+    "one": "#5e35b1",
+    "two": "hsl(260deg, 54%, 15%)",
+    "type": "Radial"
+  },
+  "Visibility": "Public",
+  "Type": "FBX",
+  "Licence": "CC0 1.0",
+  "Animated": true,
+  "sourceUrl": "https://poly.pizza/m/grnFTziU8u",
+  "downloadUrl": "https://static.poly.pizza/798301fb-b950-460c-9c67-526621ad8500.glb",
+  "sha256": "45bbb9d659697d0127be159af0a58fae3fe8eef430adacaf994efcf0769b2e09",
+  "sourcePageSha256": "3606e6b12866030fa3e2f6fc90627881a214c739a4a07fa248f84e3886f79533",
+  "retrieved": "2026-10-21T21:14:04.452Z",
+  "sourcePageRetrieved": "2026-10-21T21:14:04.369Z",
+  "verifiedAt": "2026-10-22T11:21:05.862Z",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+}

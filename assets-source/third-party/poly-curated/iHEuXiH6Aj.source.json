@@ -1,0 +1,48 @@
+{
+  "Title": "Goleling Evolved",
+  "UploadDate": "2022-10-23T01:01:42.696Z",
+  "ResourceID": "d6308fbf-fa2e-4cfe-b235-def7ede1ab90",
+  "PublicID": "iHEuXiH6Aj",
+  "Likes": 1,
+  "CommentCount": 0,
+  "Tris": 4120,
+  "Views": 417,
+  "Downloads": "3.49k",
+  "Creator": {
+    "Username": "Quaternius",
+    "DPURL": "https://static.poly.pizza/dp%2Ff63b655a-051c-4c4b-8dcc-3b346a39ece0.jpg",
+    "Socials": {
+      "Twitter": "quaternius",
+      "Pateron": "quaternius",
+      "Website": "https://quaternius.com/"
+    }
+  },
+  "Category": "Animals",
+  "Tags": [
+    "Animal",
+    "Bat",
+    "Enemy"
+  ],
+  "Orbit": {
+    "phi": "1.37207",
+    "radius": "100%",
+    "theta": "-0.03153"
+  },
+  "Background": {
+    "one": "#5e35b1",
+    "two": "hsl(260deg, 54%, 15%)",
+    "type": "Radial"
+  },
+  "Visibility": "Public",
+  "Type": "FBX",
+  "Licence": "CC0 1.0",
+  "Animated": true,
+  "sourceUrl": "https://poly.pizza/m/iHEuXiH6Aj",
+  "downloadUrl": "https://static.poly.pizza/d6308fbf-fa2e-4cfe-b235-def7ede1ab90.glb",
+  "sha256": "d397a35eeacbf64cd068d626fa82e8099dc2ae2155df051224c4b575a04f034d",
+  "sourcePageSha256": "a41f2c4f0beec4b130355e31f8c55779056ab982a3145d131732d8b74a53f857",
+  "retrieved": "2026-10-21T21:14:05.288Z",
+  "sourcePageRetrieved": "2026-10-21T21:14:05.060Z",
+  "verifiedAt": "2026-10-22T11:21:05.877Z",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+}

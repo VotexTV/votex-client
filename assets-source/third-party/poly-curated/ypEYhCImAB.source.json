@@ -1,0 +1,47 @@
+{
+  "Title": "Fish",
+  "UploadDate": "2022-10-23T10:14:00.944Z",
+  "ResourceID": "6c98561f-4fb5-404c-91e9-a54024e1f6c5",
+  "PublicID": "ypEYhCImAB",
+  "Likes": 3,
+  "CommentCount": 1,
+  "Tris": 5106,
+  "Views": "2.27k",
+  "Downloads": "3.92k",
+  "Creator": {
+    "Username": "Quaternius",
+    "DPURL": "https://static.poly.pizza/dp%2Ff63b655a-051c-4c4b-8dcc-3b346a39ece0.jpg",
+    "Socials": {
+      "Twitter": "quaternius",
+      "Pateron": "quaternius",
+      "Website": "https://quaternius.com/"
+    }
+  },
+  "Category": "People & Characters",
+  "Tags": [
+    "Water",
+    "Nature"
+  ],
+  "Orbit": {
+    "phi": "1.30900",
+    "radius": "100%",
+    "theta": "0.00000"
+  },
+  "Background": {
+    "one": "#5e35b1",
+    "two": "hsl(260deg, 54%, 15%)",
+    "type": "Radial"
+  },
+  "Visibility": "Public",
+  "Type": "FBX",
+  "Licence": "CC0 1.0",
+  "Animated": true,
+  "sourceUrl": "https://poly.pizza/m/ypEYhCImAB",
+  "downloadUrl": "https://static.poly.pizza/6c98561f-4fb5-404c-91e9-a54024e1f6c5.glb",
+  "sha256": "a04abb34053ec7b7080ca8e32ad6e8775e7b4d4b03e2cd2ef27a01e87c82fcca",
+  "sourcePageSha256": "6e2fa6c3208d418247061c68524b8d3c14338b015e509cd617403fd2d8e2871c",
+  "retrieved": "2026-10-21T21:14:03.972Z",
+  "sourcePageRetrieved": "2026-10-21T21:14:03.556Z",
+  "verifiedAt": "2026-10-22T11:21:05.853Z",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+}

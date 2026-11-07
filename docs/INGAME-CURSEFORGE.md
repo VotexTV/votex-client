@@ -1,0 +1,15 @@
+# Configured in-game CurseForge adapter
+
+This implementation requires the user's own authorized CurseForge API key. No key has been supplied, created, purchased, embedded or used for authenticated verification in this work.
+
+The launcher already offers key setup in **Mods → Quellen → CurseForge** and stores it in Windows Credential Manager. On the next game launch, that saved key is supplied solely through the child process's `VOTEX_CURSEFORGE_API_KEY` environment variable. The key is absent from Java arguments, profiles, queues and receipts; captured game output redacts it. All mods within that game process share the same process permissions. Minecraft must be restarted after changing the saved key. No plaintext credential file or additional proxy is needed.
+
+With configuration present, the native CurseForge tab supports official Minecraft Java project search, compatible file selection, required-dependency planning, conflict checks, verified downloads and the existing next-launch staging transaction. Mod, shader and resource-pack categories use the official class IDs. Fabric mods must explicitly declare Minecraft 26.2 and Fabric. Early-access/server-pack files are excluded. Author distribution denials stop automation; an absent authorized download URL causes a clear project-page/local-import route. Distribution permission is not treated as an SPDX license grant.
+
+The official API documents `x-api-key` authentication, version/loader filters and dependency relation types. Its file hashes include SHA-1 and MD5. This adapter requires SHA-1, checks downloaded size/hash, then calculates SHA-512 for the existing launcher queue. [Official API reference](https://docs.curseforge.com/rest-api/).
+
+CurseForge's June 10, 2026 announcement requires API-key authentication for direct CDN downloads from July 16. Both the new native adapter and existing launcher downloads therefore send the header only to approved official file hosts and reject redirects outside those hosts. Keys are never placed in a download URL. [Official CDN authentication announcement](https://blog.curseforge.com/introducing-api-key-authentication-for-curseforge-file-downloads/).
+
+Boundaries include HTTPS-only fixed API routes, official CDN/image host restrictions, no authenticated cross-provider redirects, 35-second native requests, bounded JSON/downloads and at most 40 dependency projects. No loaded JAR is edited in game; the launcher applies staged changes after exit with the existing preflight/backup/rollback procedure.
+
+Verification: ten pure Java fixture cases cover official routes/response shapes, pagination, identities, loaders, author denials, required/incompatible dependencies, file availability, early access, SHA-1 and size verification, restricted URLs and malformed metadata. Focused Rust cases cover CDN scope, missing URLs/checksums and empty/nonempty-secret log redaction. These checks require no real key and do not prove authenticated CurseForge service access. That remains an explicit external verification gap.

@@ -1,0 +1,46 @@
+{
+  "Title": "Pirate hat",
+  "Description": "#accessory #swashbuckler #headgear #buccaneer",
+  "UploadDate": "2017-10-11T04:43:17.175Z",
+  "ResourceID": "9277ff57-2df7-462c-8b89-fbe5eae4e9de",
+  "PublicID": "9QEds6cYAy6",
+  "Likes": 8,
+  "CommentCount": 0,
+  "Tris": 584,
+  "Views": "2.44k",
+  "Downloads": 912,
+  "Creator": {
+    "Username": "Poly by Google",
+    "DPURL": "https://static.poly.pizza/dp%2Fpolygoogle.jpg",
+    "Socials": {}
+  },
+  "Category": "Objects",
+  "Tags": [
+    "accessory",
+    "swashbuckler",
+    "headgear",
+    "buccaneer"
+  ],
+  "Orbit": {
+    "phi": "1.31884",
+    "radius": "110%",
+    "theta": "0.87089"
+  },
+  "Background": {
+    "one": "#8e24aa",
+    "two": "hsl(287deg, 65%, 15%)",
+    "type": "Radial"
+  },
+  "Visibility": "Public",
+  "Type": "obj",
+  "Licence": "CC-BY 3.0",
+  "Animated": false,
+  "sourceUrl": "https://poly.pizza/m/9QEds6cYAy6",
+  "downloadUrl": "https://static.poly.pizza/9277ff57-2df7-462c-8b89-fbe5eae4e9de.glb",
+  "sha256": "2734580bc86111528e4f212988824d10f140da9082c6670b0a8538648e6d5a69",
+  "sourcePageSha256": "9b016f469370b3a05c18f11c84121d4617e9b68898ea4bed4b53e1bc9a9d9926",
+  "retrieved": "2026-10-21T21:14:17.115Z",
+  "sourcePageRetrieved": "2026-10-21T21:14:16.777Z",
+  "verifiedAt": "2026-10-22T11:21:06.138Z",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/"
+}

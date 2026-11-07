@@ -1,0 +1,43 @@
+{
+  "Title": "Football helmet",
+  "Description": "#safety",
+  "UploadDate": "2017-10-22T22:14:56.586Z",
+  "ResourceID": "706e77b3-1191-4e9f-b78e-7b1eadd287e7",
+  "PublicID": "dCmNk08B6gs",
+  "Likes": 5,
+  "CommentCount": 0,
+  "Tris": 1044,
+  "Views": "1.51k",
+  "Downloads": 593,
+  "Creator": {
+    "Username": "Poly by Google",
+    "DPURL": "https://static.poly.pizza/dp%2Fpolygoogle.jpg",
+    "Socials": {}
+  },
+  "Category": "Objects",
+  "Tags": [
+    "safety"
+  ],
+  "Orbit": {
+    "phi": "1.31884",
+    "radius": "110%",
+    "theta": "0.87089"
+  },
+  "Background": {
+    "one": "#00897b",
+    "two": "hsl(174deg, 100%, 15%)",
+    "type": "Radial"
+  },
+  "Visibility": "Public",
+  "Type": "obj",
+  "Licence": "CC-BY 3.0",
+  "Animated": false,
+  "sourceUrl": "https://poly.pizza/m/dCmNk08B6gs",
+  "downloadUrl": "https://static.poly.pizza/706e77b3-1191-4e9f-b78e-7b1eadd287e7.glb",
+  "sha256": "6c36ff9b0b3d1a1ccc9cee6fc9bbc13ce0771f4596dd6379845e5c7d23b0adfb",
+  "sourcePageSha256": "ea5b43ca7abd74776940681b7d74a0afe30b6aa38b020bcd500c82c946d277ab",
+  "retrieved": "2026-10-22T11:05:16.113Z",
+  "sourcePageRetrieved": "2026-10-22T11:05:15.913Z",
+  "verifiedAt": "2026-10-22T11:21:06.130Z",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/"
+}

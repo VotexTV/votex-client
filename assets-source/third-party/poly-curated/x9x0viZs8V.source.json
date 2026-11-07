@@ -1,0 +1,47 @@
+{
+  "Title": "Snake",
+  "UploadDate": "2021-08-19T13:01:06.067Z",
+  "ResourceID": "0f3a551e-743e-48f5-936f-804c6c3b88bd",
+  "PublicID": "x9x0viZs8V",
+  "Likes": 15,
+  "CommentCount": 1,
+  "Tris": 0,
+  "Views": "1.76k",
+  "Downloads": "2.36k",
+  "Creator": {
+    "Username": "Quaternius",
+    "DPURL": "https://static.poly.pizza/dp%2Ff63b655a-051c-4c4b-8dcc-3b346a39ece0.jpg",
+    "Socials": {
+      "Twitter": "quaternius",
+      "Pateron": "quaternius",
+      "Website": "https://quaternius.com/"
+    }
+  },
+  "Category": "Animals",
+  "Tags": [
+    "Reptile",
+    "Animal"
+  ],
+  "Orbit": {
+    "phi": "1.16709",
+    "radius": "100%",
+    "theta": "0.81989"
+  },
+  "Background": {
+    "one": "#5e35b1",
+    "two": "hsl(260deg, 54%, 15%)",
+    "type": "Radial"
+  },
+  "Visibility": "Public",
+  "Type": "FBX",
+  "Licence": "CC0 1.0",
+  "Animated": true,
+  "sourceUrl": "https://poly.pizza/m/x9x0viZs8V",
+  "downloadUrl": "https://static.poly.pizza/0f3a551e-743e-48f5-936f-804c6c3b88bd.glb",
+  "sha256": "70b4af1088dec939e167b07c0a5e69992a4851beac8bd24a9da1189b65ae101c",
+  "sourcePageSha256": "d50cab1e828da614db5d15357109a66f1a5d495c41cab7913eaa238745946c85",
+  "retrieved": "2026-10-22T11:02:52.938Z",
+  "sourcePageRetrieved": "2026-10-22T11:02:52.885Z",
+  "verifiedAt": "2026-10-22T11:21:06.001Z",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+}

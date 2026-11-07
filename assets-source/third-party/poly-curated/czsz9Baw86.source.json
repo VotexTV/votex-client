@@ -1,0 +1,48 @@
+{
+  "Title": "Lionfish",
+  "UploadDate": "2022-06-20T13:20:14.886Z",
+  "ResourceID": "1d592042-991a-4469-aa45-8dc78f701cf3",
+  "PublicID": "czsz9Baw86",
+  "Likes": 5,
+  "CommentCount": 0,
+  "Tris": 1938,
+  "Views": "1.1k",
+  "Downloads": "2.65k",
+  "Creator": {
+    "Username": "Quaternius",
+    "DPURL": "https://static.poly.pizza/dp%2Ff63b655a-051c-4c4b-8dcc-3b346a39ece0.jpg",
+    "Socials": {
+      "Twitter": "quaternius",
+      "Pateron": "quaternius",
+      "Website": "https://quaternius.com/"
+    }
+  },
+  "Category": "Animals",
+  "Tags": [
+    "Fish",
+    "Animal",
+    "Sea Life"
+  ],
+  "Orbit": {
+    "phi": "1.29325",
+    "radius": "100%",
+    "theta": "0.86610"
+  },
+  "Background": {
+    "one": "#039be5",
+    "two": "hsl(200deg, 97%, 15%)",
+    "type": "Radial"
+  },
+  "Visibility": "Public",
+  "Type": "FBX",
+  "Licence": "CC0 1.0",
+  "Animated": true,
+  "sourceUrl": "https://poly.pizza/m/czsz9Baw86",
+  "downloadUrl": "https://static.poly.pizza/1d592042-991a-4469-aa45-8dc78f701cf3.glb",
+  "sha256": "a5f3a720efcec68d34afd1677b6e30a7d7577aeb020ace127f561ad3527ab2e2",
+  "sourcePageSha256": "8d547df8c7a3a1f534db1085c25590f4d48f7c96af7c286897c591b8d0832100",
+  "retrieved": "2026-10-22T11:02:08.576Z",
+  "sourcePageRetrieved": "2026-10-22T11:02:08.329Z",
+  "verifiedAt": "2026-10-22T11:21:05.953Z",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+}

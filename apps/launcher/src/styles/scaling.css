@@ -1,0 +1,5 @@
+.app-shell {
+  zoom: var(--ui-scale);
+  width: 100%;
+  height: 100%;
+}

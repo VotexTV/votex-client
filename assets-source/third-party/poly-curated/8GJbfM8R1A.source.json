@@ -1,0 +1,45 @@
+{
+  "Title": "Cat",
+  "Description": "Woof or something like that\n\nA fully rigged cat 😎",
+  "UploadDate": "2024-06-29T16:58:05.409Z",
+  "ResourceID": "0c90ff5b-4dfa-4657-8c41-10a27fbcc67a",
+  "PublicID": "8GJbfM8R1A",
+  "Likes": 2,
+  "CommentCount": 0,
+  "Tris": 612,
+  "Views": 432,
+  "Downloads": 41,
+  "Creator": {
+    "Username": "J-Toastie",
+    "DPURL": "https://static.poly.pizza/dp%2F2a18493e-a521-40ff-8c30-f7cfcdb513dd.jpg",
+    "Socials": {}
+  },
+  "Category": "Animals",
+  "Tags": [
+    "Cat",
+    "Felis Catus",
+    "Life"
+  ],
+  "Orbit": {
+    "phi": "1.42057",
+    "radius": "1.9999571892732144",
+    "theta": "1.04604"
+  },
+  "Background": {
+    "one": "#FF9482",
+    "two": "#7d77FF",
+    "type": "Radial"
+  },
+  "Visibility": "Public",
+  "Type": "FBX",
+  "Licence": "CC-BY 3.0",
+  "Animated": false,
+  "sourceUrl": "https://poly.pizza/m/8GJbfM8R1A",
+  "downloadUrl": "https://static.poly.pizza/0c90ff5b-4dfa-4657-8c41-10a27fbcc67a.glb",
+  "sha256": "af4833f83bd2fa622f8d28ba273b60d463856f639cdecad80d937718f44fb182",
+  "sourcePageSha256": "9fe46f42059dbe7021e7528b4507701f61e3245f9735215628313a05cd326081",
+  "retrieved": "2026-10-22T11:04:59.294Z",
+  "sourcePageRetrieved": "2026-10-22T11:04:59.036Z",
+  "verifiedAt": "2026-10-22T11:21:06.115Z",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/"
+}

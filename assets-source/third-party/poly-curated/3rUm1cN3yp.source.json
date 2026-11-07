@@ -1,0 +1,50 @@
+{
+  "Title": "Dragon",
+  "UploadDate": "2022-10-23T01:01:36.406Z",
+  "ResourceID": "ae5b8510-1fa5-4d53-b943-a4f3b88fb629",
+  "PublicID": "3rUm1cN3yp",
+  "Likes": 8,
+  "CommentCount": 0,
+  "Tris": 3826,
+  "Views": "1.39k",
+  "Downloads": "3.56k",
+  "Creator": {
+    "Username": "Quaternius",
+    "DPURL": "https://static.poly.pizza/dp%2Ff63b655a-051c-4c4b-8dcc-3b346a39ece0.jpg",
+    "Socials": {
+      "Twitter": "quaternius",
+      "Pateron": "quaternius",
+      "Website": "https://quaternius.com/"
+    }
+  },
+  "Category": "Food & Drink",
+  "Tags": [
+    "Food",
+    "Animal",
+    "Sea Life",
+    "Dragon",
+    "Bat"
+  ],
+  "Orbit": {
+    "phi": "1.37207",
+    "radius": "100%",
+    "theta": "-0.03153"
+  },
+  "Background": {
+    "one": "#5e35b1",
+    "two": "hsl(260deg, 54%, 15%)",
+    "type": "Radial"
+  },
+  "Visibility": "Public",
+  "Type": "FBX",
+  "Licence": "CC0 1.0",
+  "Animated": true,
+  "sourceUrl": "https://poly.pizza/m/3rUm1cN3yp",
+  "downloadUrl": "https://static.poly.pizza/ae5b8510-1fa5-4d53-b943-a4f3b88fb629.glb",
+  "sha256": "d8a12f3f819e86518f5a44984db611ffaaa800895da33928d66519e629615705",
+  "sourcePageSha256": "ef9d8f068b000f17625143a3876d081369c35f4bc5098f459bde36dc55f00a92",
+  "retrieved": "2026-10-22T11:01:17.789Z",
+  "sourcePageRetrieved": "2026-10-22T11:01:17.387Z",
+  "verifiedAt": "2026-10-22T11:21:05.912Z",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+}

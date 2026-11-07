@@ -1,0 +1,47 @@
+{
+  "Title": "Dino",
+  "UploadDate": "2022-10-23T10:13:59.809Z",
+  "ResourceID": "1c1ae302-b948-4de4-961a-44f762b722cf",
+  "PublicID": "wuerCFCWNR",
+  "Likes": 2,
+  "CommentCount": 0,
+  "Tris": 4318,
+  "Views": "1.1k",
+  "Downloads": "3.57k",
+  "Creator": {
+    "Username": "Quaternius",
+    "DPURL": "https://static.poly.pizza/dp%2Ff63b655a-051c-4c4b-8dcc-3b346a39ece0.jpg",
+    "Socials": {
+      "Twitter": "quaternius",
+      "Pateron": "quaternius",
+      "Website": "https://quaternius.com/"
+    }
+  },
+  "Category": "Objects",
+  "Tags": [
+    "Dinosaur",
+    "Monster"
+  ],
+  "Orbit": {
+    "phi": "1.30900",
+    "radius": "100%",
+    "theta": "0.00000"
+  },
+  "Background": {
+    "one": "#5e35b1",
+    "two": "hsl(260deg, 54%, 15%)",
+    "type": "Radial"
+  },
+  "Visibility": "Public",
+  "Type": "FBX",
+  "Licence": "CC0 1.0",
+  "Animated": true,
+  "sourceUrl": "https://poly.pizza/m/wuerCFCWNR",
+  "downloadUrl": "https://static.poly.pizza/1c1ae302-b948-4de4-961a-44f762b722cf.glb",
+  "sha256": "19b9a3841ebfd7595da9cd595b74e231da29730fe8030a2d17a021bc26b563ef",
+  "sourcePageSha256": "e1982cdf3e647c19359d75030997291318a2e00767d284e0a496945d36640c31",
+  "retrieved": "2026-10-21T21:14:04.300Z",
+  "sourcePageRetrieved": "2026-10-21T21:14:03.982Z",
+  "verifiedAt": "2026-10-22T11:21:05.856Z",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+}

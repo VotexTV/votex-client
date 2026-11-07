@@ -1,0 +1,47 @@
+{
+  "Title": "Pizza Hat",
+  "Description": "pizza 😋",
+  "UploadDate": "2022-12-24T19:01:34.858Z",
+  "ResourceID": "132399c1-c550-4353-a59b-02229b329ab2",
+  "PublicID": "7DkwsO3vro",
+  "Likes": 3,
+  "CommentCount": 0,
+  "Tris": 196,
+  "Views": 357,
+  "Downloads": 569,
+  "Creator": {
+    "Username": "J-Toastie",
+    "DPURL": "https://static.poly.pizza/dp%2F2a18493e-a521-40ff-8c30-f7cfcdb513dd.jpg",
+    "Socials": {}
+  },
+  "Category": "Other",
+  "Tags": [
+    "Accessory",
+    "Cosmetic",
+    "Pizza",
+    "Hat",
+    "Clothing"
+  ],
+  "Orbit": {
+    "phi": "1.21972",
+    "radius": "100%",
+    "theta": "-4.86584"
+  },
+  "Background": {
+    "one": "#5e35b1",
+    "two": "hsl(260deg, 54%, 15%)",
+    "type": "Radial"
+  },
+  "Visibility": "Public",
+  "Type": "OBJ",
+  "Licence": "CC-BY 3.0",
+  "Animated": false,
+  "sourceUrl": "https://poly.pizza/m/7DkwsO3vro",
+  "downloadUrl": "https://static.poly.pizza/132399c1-c550-4353-a59b-02229b329ab2.glb",
+  "sha256": "d86117aba7ebb3b0250835dd06ea0a53caf900868a58da84f75a8e58e1c9c5f2",
+  "sourcePageSha256": "ddc6c1cda414f564d343ab4c5a4b457e6f5eb0004b51bc97e9e5e31f823b0db3",
+  "retrieved": "2026-10-22T11:04:45.471Z",
+  "sourcePageRetrieved": "2026-10-22T11:04:45.259Z",
+  "verifiedAt": "2026-10-22T11:21:06.104Z",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/"
+}

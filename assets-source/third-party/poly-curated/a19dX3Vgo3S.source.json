@@ -1,0 +1,43 @@
+{
+  "Title": "Jetpack",
+  "Description": "#fly\n#technology\n#space\n#sky",
+  "UploadDate": "2017-10-22T18:36:53.155Z",
+  "ResourceID": "dbc415b4-8248-49bf-bc0f-692788566f5e",
+  "PublicID": "a19dX3Vgo3S",
+  "Likes": 3,
+  "CommentCount": 0,
+  "Tris": 2312,
+  "Views": "2.12k",
+  "Downloads": 340,
+  "Creator": {
+    "Username": "Poly by Google",
+    "DPURL": "https://static.poly.pizza/dp%2Fpolygoogle.jpg",
+    "Socials": {}
+  },
+  "Category": "Other",
+  "Tags": [
+    "fly\ntechnology\nspace\nsky"
+  ],
+  "Orbit": {
+    "phi": "1.31884",
+    "radius": "110%",
+    "theta": "0.87089"
+  },
+  "Background": {
+    "one": "#c0ca33",
+    "two": "hsl(64deg, 60%, 15%)",
+    "type": "Radial"
+  },
+  "Visibility": "Public",
+  "Type": "obj",
+  "Licence": "CC-BY 3.0",
+  "Animated": false,
+  "sourceUrl": "https://poly.pizza/m/a19dX3Vgo3S",
+  "downloadUrl": "https://static.poly.pizza/dbc415b4-8248-49bf-bc0f-692788566f5e.glb",
+  "sha256": "760f3553396f4748e77fb2bed385820142a849bd47ef2bb3e37ad094fd7cfe01",
+  "sourcePageSha256": "84d8b02aff297bb48f9040b0cce30f913d07ee25c1b7900240bb1d1778b14ff6",
+  "retrieved": "2026-10-22T11:06:46.450Z",
+  "sourcePageRetrieved": "2026-10-22T11:06:45.867Z",
+  "verifiedAt": "2026-10-22T11:21:06.185Z",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/"
+}

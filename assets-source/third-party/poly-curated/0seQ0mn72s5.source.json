@@ -1,0 +1,45 @@
+{
+  "Title": "Crown",
+  "Description": "#crown #gold #jewels",
+  "UploadDate": "2017-10-02T04:44:17.717Z",
+  "ResourceID": "91ea8a96-88d1-4ccf-b4b7-3c9012c220b5",
+  "PublicID": "0seQ0mn72s5",
+  "Likes": 6,
+  "CommentCount": 0,
+  "Tris": 3120,
+  "Views": "2.41k",
+  "Downloads": 737,
+  "Creator": {
+    "Username": "Poly by Google",
+    "DPURL": "https://static.poly.pizza/dp%2Fpolygoogle.jpg",
+    "Socials": {}
+  },
+  "Category": "Objects",
+  "Tags": [
+    "crown",
+    "gold",
+    "jewels"
+  ],
+  "Orbit": {
+    "phi": "1.31884",
+    "radius": "110%",
+    "theta": "0.87089"
+  },
+  "Background": {
+    "one": "#039be5",
+    "two": "hsl(200deg, 97%, 15%)",
+    "type": "Radial"
+  },
+  "Visibility": "Public",
+  "Type": "obj",
+  "Licence": "CC-BY 3.0",
+  "Animated": false,
+  "sourceUrl": "https://poly.pizza/m/0seQ0mn72s5",
+  "downloadUrl": "https://static.poly.pizza/91ea8a96-88d1-4ccf-b4b7-3c9012c220b5.glb",
+  "sha256": "74a2d366d1ba835c4ba5fac63a61fd407142ab6f47f27f5d73133b38ff5616a2",
+  "sourcePageSha256": "2be70d0af50a4a66f1c3c5d7a28dc547efdcefbbd322f698fe9d88c332eb934a",
+  "retrieved": "2026-10-22T11:05:26.381Z",
+  "sourcePageRetrieved": "2026-10-22T11:05:26.146Z",
+  "verifiedAt": "2026-10-22T11:21:06.142Z",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/"
+}

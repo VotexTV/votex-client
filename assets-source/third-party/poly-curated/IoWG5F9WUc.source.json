@@ -1,0 +1,49 @@
+{
+  "Title": "Green Spiky Blob",
+  "UploadDate": "2022-10-23T01:01:34.319Z",
+  "ResourceID": "cd25a048-719e-4ec4-bbf5-a266776fe129",
+  "PublicID": "IoWG5F9WUc",
+  "Likes": 4,
+  "CommentCount": 0,
+  "Tris": 4520,
+  "Views": 688,
+  "Downloads": "3.58k",
+  "Creator": {
+    "Username": "Quaternius",
+    "DPURL": "https://static.poly.pizza/dp%2Ff63b655a-051c-4c4b-8dcc-3b346a39ece0.jpg",
+    "Socials": {
+      "Twitter": "quaternius",
+      "Pateron": "quaternius",
+      "Website": "https://quaternius.com/"
+    }
+  },
+  "Category": "Animals",
+  "Tags": [
+    "Animal",
+    "Slime",
+    "Enemy",
+    "Monster"
+  ],
+  "Orbit": {
+    "phi": "1.37207",
+    "radius": "100%",
+    "theta": "-0.03153"
+  },
+  "Background": {
+    "one": "#5e35b1",
+    "two": "hsl(260deg, 54%, 15%)",
+    "type": "Radial"
+  },
+  "Visibility": "Public",
+  "Type": "FBX",
+  "Licence": "CC0 1.0",
+  "Animated": true,
+  "sourceUrl": "https://poly.pizza/m/IoWG5F9WUc",
+  "downloadUrl": "https://static.poly.pizza/cd25a048-719e-4ec4-bbf5-a266776fe129.glb",
+  "sha256": "ad5e8b1cdf8c0d328b4b44537d3da8fa98119a9a99fb6163e2f325dbb8bbecc1",
+  "sourcePageSha256": "907acdf535262142fc0c04895fd2faa069a1ad14b0c559d630f54b28c8a62b55",
+  "retrieved": "2026-10-22T11:01:22.910Z",
+  "sourcePageRetrieved": "2026-10-22T11:01:22.363Z",
+  "verifiedAt": "2026-10-22T11:21:05.916Z",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+}

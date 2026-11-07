@@ -1,0 +1,44 @@
+{
+  "Title": "Cowboy Hat",
+  "Description": "hee haw 🤠",
+  "UploadDate": "2023-06-20T20:14:43.163Z",
+  "ResourceID": "e267f068-2de9-40d5-8748-f3e46ffbffc8",
+  "PublicID": "jcXfae4GiZ",
+  "Likes": 3,
+  "CommentCount": 0,
+  "Tris": 390,
+  "Views": 718,
+  "Downloads": 998,
+  "Creator": {
+    "Username": "J-Toastie",
+    "DPURL": "https://static.poly.pizza/dp%2F2a18493e-a521-40ff-8c30-f7cfcdb513dd.jpg",
+    "Socials": {}
+  },
+  "Category": "People & Characters",
+  "Tags": [
+    "Hat",
+    "Cowboy Hat"
+  ],
+  "Orbit": {
+    "phi": "1.30900",
+    "radius": "100%",
+    "theta": "1.14950"
+  },
+  "Background": {
+    "one": "#f4511e",
+    "two": "hsl(14deg, 91%, 15%)",
+    "type": "Radial"
+  },
+  "Visibility": "Public",
+  "Type": "OBJ",
+  "Licence": "CC-BY 3.0",
+  "Animated": false,
+  "sourceUrl": "https://poly.pizza/m/jcXfae4GiZ",
+  "downloadUrl": "https://static.poly.pizza/e267f068-2de9-40d5-8748-f3e46ffbffc8.glb",
+  "sha256": "81c0ba22930fbb7674bdf989fb6a81bfea0bf26056f7f75e1fbc9cc2eca5a2f9",
+  "sourcePageSha256": "8a646d70da02f5503d522099265af8b50d82b94f489c9c178fd18c0e84e440e2",
+  "retrieved": "2026-10-22T11:04:40.501Z",
+  "sourcePageRetrieved": "2026-10-22T11:04:40.293Z",
+  "verifiedAt": "2026-10-22T11:21:06.101Z",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/"
+}

@@ -1,0 +1,49 @@
+{
+  "Title": "Cardinal Fish",
+  "UploadDate": "2022-06-20T13:20:17.045Z",
+  "ResourceID": "635431b0-7855-4f60-bd33-e79ade18ee6a",
+  "PublicID": "YyZyVhg2Jq",
+  "Likes": 3,
+  "CommentCount": 0,
+  "Tris": 1388,
+  "Views": 350,
+  "Downloads": "2.15k",
+  "Creator": {
+    "Username": "Quaternius",
+    "DPURL": "https://static.poly.pizza/dp%2Ff63b655a-051c-4c4b-8dcc-3b346a39ece0.jpg",
+    "Socials": {
+      "Twitter": "quaternius",
+      "Pateron": "quaternius",
+      "Website": "https://quaternius.com/"
+    }
+  },
+  "Category": "Animals",
+  "Tags": [
+    "Aquatic",
+    "Water",
+    "Animal",
+    "Fish"
+  ],
+  "Orbit": {
+    "phi": "1.29325",
+    "radius": "100%",
+    "theta": "0.86610"
+  },
+  "Background": {
+    "one": "#039be5",
+    "two": "hsl(200deg, 97%, 15%)",
+    "type": "Radial"
+  },
+  "Visibility": "Public",
+  "Type": "FBX",
+  "Licence": "CC0 1.0",
+  "Animated": true,
+  "sourceUrl": "https://poly.pizza/m/YyZyVhg2Jq",
+  "downloadUrl": "https://static.poly.pizza/635431b0-7855-4f60-bd33-e79ade18ee6a.glb",
+  "sha256": "33753dc7fbff96825b2e2721cd659c11289598e0474f1d26130dfdcff67647bb",
+  "sourcePageSha256": "9d60f5d465465d81f0193f2866279e0c6ffe4cc985651dc58f352830695c81b7",
+  "retrieved": "2026-10-22T11:01:51.578Z",
+  "sourcePageRetrieved": "2026-10-22T11:01:51.271Z",
+  "verifiedAt": "2026-10-22T11:21:05.939Z",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+}

@@ -1,0 +1,44 @@
+{
+  "Title": "SM - Anon Mask",
+  "UploadDate": "2019-07-31T14:08:54.889Z",
+  "ResourceID": "3ccd9f48-9996-4733-be6c-6f969b07227a",
+  "PublicID": "2_N0mh67_Xu",
+  "Likes": 1,
+  "CommentCount": 0,
+  "Tris": 1798,
+  "Views": 809,
+  "Downloads": 556,
+  "Creator": {
+    "Username": "Scott Marshall",
+    "DPURL": "",
+    "Socials": {}
+  },
+  "Category": "Objects",
+  "Tags": [
+    "rita",
+    "med",
+    "sham"
+  ],
+  "Orbit": {
+    "phi": "1.31884",
+    "radius": "110%",
+    "theta": "0.87089"
+  },
+  "Background": {
+    "one": "#8e24aa",
+    "two": "hsl(287deg, 65%, 15%)",
+    "type": "Radial"
+  },
+  "Visibility": "Public",
+  "Type": "obj",
+  "Licence": "CC-BY 3.0",
+  "Animated": false,
+  "sourceUrl": "https://poly.pizza/m/2_N0mh67_Xu",
+  "downloadUrl": "https://static.poly.pizza/3ccd9f48-9996-4733-be6c-6f969b07227a.glb",
+  "sha256": "21a29163ef52925d58814fc1942f9de25410e35be67e1b19f77e6eec2ddae5f9",
+  "sourcePageSha256": "1c8d4f3067d999cb2b9c2c43301408dee171a5ed352d6aa5000fa2c9dcc51038",
+  "retrieved": "2026-10-22T11:06:03.144Z",
+  "sourcePageRetrieved": "2026-10-22T11:06:02.648Z",
+  "verifiedAt": "2026-10-22T11:21:06.164Z",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/"
+}

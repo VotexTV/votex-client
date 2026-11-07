@@ -1,0 +1,44 @@
+{
+  "Title": "Clown Mask",
+  "Description": "Clowned on 🤡",
+  "UploadDate": "2023-06-20T20:14:43.162Z",
+  "ResourceID": "5493bb52-de34-4cdd-b8fc-401f392b9bb6",
+  "PublicID": "6VYnWsnVeh",
+  "Likes": 3,
+  "CommentCount": 2,
+  "Tris": 536,
+  "Views": 587,
+  "Downloads": 598,
+  "Creator": {
+    "Username": "J-Toastie",
+    "DPURL": "https://static.poly.pizza/dp%2F2a18493e-a521-40ff-8c30-f7cfcdb513dd.jpg",
+    "Socials": {}
+  },
+  "Category": "Objects",
+  "Tags": [
+    "Mask",
+    "Clown"
+  ],
+  "Orbit": {
+    "phi": "1.30900",
+    "radius": "100%",
+    "theta": "1.14950"
+  },
+  "Background": {
+    "one": "#f4511e",
+    "two": "hsl(14deg, 91%, 15%)",
+    "type": "Radial"
+  },
+  "Visibility": "Public",
+  "Type": "OBJ",
+  "Licence": "CC-BY 3.0",
+  "Animated": false,
+  "sourceUrl": "https://poly.pizza/m/6VYnWsnVeh",
+  "downloadUrl": "https://static.poly.pizza/5493bb52-de34-4cdd-b8fc-401f392b9bb6.glb",
+  "sha256": "eed6977662a7c17bd116cd0adfa57e9477b7596ab4d518108ee72f22aef53e7b",
+  "sourcePageSha256": "68259bddb9d218d058de41c11c2f9c8871e99d2c75cc6ee95d83bae7982aa6e9",
+  "retrieved": "2026-10-22T11:04:52.288Z",
+  "sourcePageRetrieved": "2026-10-22T11:04:52.035Z",
+  "verifiedAt": "2026-10-22T11:21:06.110Z",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/"
+}

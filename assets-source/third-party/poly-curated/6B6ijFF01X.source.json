@@ -1,0 +1,45 @@
+{
+  "Title": "Heart Glasses",
+  "Description": "Omg like slay😻😻😻(i'm never saying this again)",
+  "UploadDate": "2023-06-20T20:14:43.165Z",
+  "ResourceID": "b5db43c1-155f-44de-be8c-76476eb759a9",
+  "PublicID": "6B6ijFF01X",
+  "Likes": 3,
+  "CommentCount": 0,
+  "Tris": 425,
+  "Views": 442,
+  "Downloads": 564,
+  "Creator": {
+    "Username": "J-Toastie",
+    "DPURL": "https://static.poly.pizza/dp%2F2a18493e-a521-40ff-8c30-f7cfcdb513dd.jpg",
+    "Socials": {}
+  },
+  "Category": "Objects",
+  "Tags": [
+    "Accessories",
+    "Sunglasses",
+    "Glasses"
+  ],
+  "Orbit": {
+    "phi": "1.30900",
+    "radius": "100%",
+    "theta": "1.14950"
+  },
+  "Background": {
+    "one": "#f4511e",
+    "two": "hsl(14deg, 91%, 15%)",
+    "type": "Radial"
+  },
+  "Visibility": "Public",
+  "Type": "OBJ",
+  "Licence": "CC-BY 3.0",
+  "Animated": false,
+  "sourceUrl": "https://poly.pizza/m/6B6ijFF01X",
+  "downloadUrl": "https://static.poly.pizza/b5db43c1-155f-44de-be8c-76476eb759a9.glb",
+  "sha256": "7e0d63091698aa2d146d58bcda9b48bf648aeb1dceea291c0491ef256ae06533",
+  "sourcePageSha256": "14cbfaa6878a7dced90b8c59eeb4a20f89a3d767365fb6494683daf22ac2d4f8",
+  "retrieved": "2026-10-22T11:04:48.991Z",
+  "sourcePageRetrieved": "2026-10-22T11:04:48.784Z",
+  "verifiedAt": "2026-10-22T11:21:06.107Z",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/"
+}

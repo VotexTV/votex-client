@@ -1,0 +1,48 @@
+{
+  "Title": "Stag",
+  "UploadDate": "2021-09-07T03:27:58.687Z",
+  "ResourceID": "a9c69fbc-bf7c-4585-9a49-a82e0be1ac6b",
+  "PublicID": "tQdzbZ1Cmw",
+  "Likes": 26,
+  "CommentCount": 0,
+  "Tris": 1933,
+  "Views": "5.79k",
+  "Downloads": "6.22k",
+  "Creator": {
+    "Username": "Quaternius",
+    "DPURL": "https://static.poly.pizza/dp%2Ff63b655a-051c-4c4b-8dcc-3b346a39ece0.jpg",
+    "Socials": {
+      "Twitter": "quaternius",
+      "Pateron": "quaternius",
+      "Website": "https://quaternius.com/"
+    }
+  },
+  "Category": "Animals",
+  "Tags": [
+    "Elk",
+    "Deer",
+    "Antelope"
+  ],
+  "Orbit": {
+    "phi": "1.15921",
+    "radius": "100%",
+    "theta": "0.79624"
+  },
+  "Background": {
+    "one": "#039be5",
+    "two": "hsl(200deg, 97%, 15%)",
+    "type": "Radial"
+  },
+  "Visibility": "Public",
+  "Type": "FBX",
+  "Licence": "CC0 1.0",
+  "Animated": true,
+  "sourceUrl": "https://poly.pizza/m/tQdzbZ1Cmw",
+  "downloadUrl": "https://static.poly.pizza/a9c69fbc-bf7c-4585-9a49-a82e0be1ac6b.glb",
+  "sha256": "3c2df7c13a3d37c8660684e46aa1e5a2bf7e91a9b279983921d48bd93d0b67ed",
+  "sourcePageSha256": "6e161a1021ba59c48de15411c86e3f0c5e9858fb7e5154fe648306d9c33ebd17",
+  "retrieved": "2026-10-22T11:02:30.894Z",
+  "sourcePageRetrieved": "2026-10-22T11:02:30.839Z",
+  "verifiedAt": "2026-10-22T11:21:05.974Z",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+}

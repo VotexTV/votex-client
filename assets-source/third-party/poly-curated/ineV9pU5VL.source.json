@@ -1,0 +1,47 @@
+{
+  "Title": "Chicken",
+  "UploadDate": "2022-10-23T01:01:36.603Z",
+  "ResourceID": "a0001762-9352-48c3-9abd-be91e42db114",
+  "PublicID": "ineV9pU5VL",
+  "Likes": 4,
+  "CommentCount": 0,
+  "Tris": 2648,
+  "Views": "2.26k",
+  "Downloads": "3.69k",
+  "Creator": {
+    "Username": "Quaternius",
+    "DPURL": "https://static.poly.pizza/dp%2Ff63b655a-051c-4c4b-8dcc-3b346a39ece0.jpg",
+    "Socials": {
+      "Twitter": "quaternius",
+      "Pateron": "quaternius",
+      "Website": "https://quaternius.com/"
+    }
+  },
+  "Category": "Animals",
+  "Tags": [
+    "Bird",
+    "Animal"
+  ],
+  "Orbit": {
+    "phi": "1.37207",
+    "radius": "100%",
+    "theta": "-0.03153"
+  },
+  "Background": {
+    "one": "#5e35b1",
+    "two": "hsl(260deg, 54%, 15%)",
+    "type": "Radial"
+  },
+  "Visibility": "Public",
+  "Type": "FBX",
+  "Licence": "CC0 1.0",
+  "Animated": true,
+  "sourceUrl": "https://poly.pizza/m/ineV9pU5VL",
+  "downloadUrl": "https://static.poly.pizza/a0001762-9352-48c3-9abd-be91e42db114.glb",
+  "sha256": "3390f6f6944210ed9f612bd0010165d1c443c6186638f9fc4380574bd9e5fce1",
+  "sourcePageSha256": "f6a3d5f0f8cc47ae4a291dfcc692e5ce03fa4c62c134a20e2d897a5b252c3a21",
+  "retrieved": "2026-10-22T11:01:15.628Z",
+  "sourcePageRetrieved": "2026-10-22T11:01:15.576Z",
+  "verifiedAt": "2026-10-22T11:21:05.910Z",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+}

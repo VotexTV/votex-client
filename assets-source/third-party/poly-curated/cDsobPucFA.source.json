@@ -1,0 +1,47 @@
+{
+  "Title": "Sword",
+  "UploadDate": "2023-11-05T01:37:20.232Z",
+  "ResourceID": "70e87f26-6cb2-4e69-8a76-9620d6cb66f7",
+  "PublicID": "cDsobPucFA",
+  "Likes": 0,
+  "CommentCount": 0,
+  "Tris": 418,
+  "Views": 298,
+  "Downloads": "1.79k",
+  "Creator": {
+    "Username": "Quaternius",
+    "DPURL": "https://static.poly.pizza/dp%2Ff63b655a-051c-4c4b-8dcc-3b346a39ece0.jpg",
+    "Socials": {
+      "Twitter": "quaternius",
+      "Pateron": "quaternius",
+      "Website": "https://quaternius.com/"
+    }
+  },
+  "Category": "Weapons",
+  "Tags": [
+    "Sword",
+    "Dagger"
+  ],
+  "Orbit": {
+    "phi": "1.30900",
+    "radius": "100%",
+    "theta": "0.01755"
+  },
+  "Background": {
+    "one": "#fb8c00",
+    "two": "hsl(33deg, 100%, 15%)",
+    "type": "Radial"
+  },
+  "Visibility": "Public",
+  "Type": "FBX",
+  "Licence": "CC0 1.0",
+  "Animated": false,
+  "sourceUrl": "https://poly.pizza/m/cDsobPucFA",
+  "downloadUrl": "https://static.poly.pizza/70e87f26-6cb2-4e69-8a76-9620d6cb66f7.glb",
+  "sha256": "82a890cffa298d0e304976d15f40ec2144ed9c7f2844b65c0457cbd9015a131f",
+  "sourcePageSha256": "a6b3f7117d92407999bf21e8c138af269e9b3d4e2bf44f45dc5101199b46d0c6",
+  "retrieved": "2026-10-21T21:14:13.304Z",
+  "sourcePageRetrieved": "2026-10-21T21:14:13.059Z",
+  "verifiedAt": "2026-10-22T11:21:06.059Z",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+}

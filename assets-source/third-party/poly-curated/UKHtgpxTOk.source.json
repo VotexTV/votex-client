@@ -1,0 +1,50 @@
+{
+  "Title": "Puffer",
+  "UploadDate": "2022-06-20T13:20:14.060Z",
+  "ResourceID": "2b8ee3e9-9fa3-458a-91a8-3d356dc8e6a5",
+  "PublicID": "UKHtgpxTOk",
+  "Likes": 6,
+  "CommentCount": 0,
+  "Tris": 2120,
+  "Views": 972,
+  "Downloads": "2.2k",
+  "Creator": {
+    "Username": "Quaternius",
+    "DPURL": "https://static.poly.pizza/dp%2Ff63b655a-051c-4c4b-8dcc-3b346a39ece0.jpg",
+    "Socials": {
+      "Twitter": "quaternius",
+      "Pateron": "quaternius",
+      "Website": "https://quaternius.com/"
+    }
+  },
+  "Category": "Animals",
+  "Tags": [
+    "Fish",
+    "Animal",
+    "Puffer",
+    "Sea Life",
+    "Fish"
+  ],
+  "Orbit": {
+    "phi": "1.29325",
+    "radius": "100%",
+    "theta": "0.86610"
+  },
+  "Background": {
+    "one": "#039be5",
+    "two": "hsl(200deg, 97%, 15%)",
+    "type": "Radial"
+  },
+  "Visibility": "Public",
+  "Type": "FBX",
+  "Licence": "CC0 1.0",
+  "Animated": true,
+  "sourceUrl": "https://poly.pizza/m/UKHtgpxTOk",
+  "downloadUrl": "https://static.poly.pizza/2b8ee3e9-9fa3-458a-91a8-3d356dc8e6a5.glb",
+  "sha256": "6495c2e5197323838449587677b0a29f1301677c259d875efb968701f0eeded7",
+  "sourcePageSha256": "a28797c86c288d9faab6d4f47bdfd060f1678b95ebabb18dc2d713f275a222cb",
+  "retrieved": "2026-10-22T11:02:17.186Z",
+  "sourcePageRetrieved": "2026-10-22T11:02:16.926Z",
+  "verifiedAt": "2026-10-22T11:21:05.959Z",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+}

@@ -1,0 +1,7 @@
+{
+  "required": true,
+  "package": "dev.votex.client.qa",
+  "compatibilityLevel": "JAVA_25",
+  "client": ["IntegratedShutdownMixin", "ChatClipboardMixin"],
+  "injectors": {"defaultRequire": 1}
+}

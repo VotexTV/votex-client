@@ -1,0 +1,47 @@
+{
+  "Title": "Pug",
+  "UploadDate": "2021-08-17T12:55:54.401Z",
+  "ResourceID": "094335c0-632a-45f5-8583-27d5cab53b54",
+  "PublicID": "1gXKv15ik8",
+  "Likes": 7,
+  "CommentCount": 0,
+  "Tris": 644,
+  "Views": "1.01k",
+  "Downloads": "2.2k",
+  "Creator": {
+    "Username": "Quaternius",
+    "DPURL": "https://static.poly.pizza/dp%2Ff63b655a-051c-4c4b-8dcc-3b346a39ece0.jpg",
+    "Socials": {
+      "Twitter": "quaternius",
+      "Pateron": "quaternius",
+      "Website": "https://quaternius.com/"
+    }
+  },
+  "Category": "Animals",
+  "Tags": [
+    "Animal",
+    "Dog"
+  ],
+  "Orbit": {
+    "phi": "1.20194",
+    "radius": "100%",
+    "theta": "0.92230"
+  },
+  "Background": {
+    "one": "#00acc1",
+    "two": "hsl(187deg, 100%, 15%)",
+    "type": "Radial"
+  },
+  "Visibility": "Public",
+  "Type": "FBX",
+  "Licence": "CC0 1.0",
+  "Animated": false,
+  "sourceUrl": "https://poly.pizza/m/1gXKv15ik8",
+  "downloadUrl": "https://static.poly.pizza/094335c0-632a-45f5-8583-27d5cab53b54.glb",
+  "sha256": "c71f7aa272d5947b5cd39b8fe5df44696391b0b19a74937ece40f91cd1f28cf5",
+  "sourcePageSha256": "399ab90578c36200b952d9813c4eb232e958f77ee4aa3c712177e606e3ab88d0",
+  "retrieved": "2026-10-22T11:03:11.665Z",
+  "sourcePageRetrieved": "2026-10-22T11:03:11.618Z",
+  "verifiedAt": "2026-10-22T11:21:06.017Z",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+}

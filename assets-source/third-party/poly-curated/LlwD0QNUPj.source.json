@@ -1,0 +1,48 @@
+{
+  "Title": "Dragon Evolved",
+  "UploadDate": "2022-10-23T01:01:40.613Z",
+  "ResourceID": "90ed3740-d8c4-4910-88ce-ac2ed426022d",
+  "PublicID": "LlwD0QNUPj",
+  "Likes": 9,
+  "CommentCount": 0,
+  "Tris": 6702,
+  "Views": "2.91k",
+  "Downloads": "3.9k",
+  "Creator": {
+    "Username": "Quaternius",
+    "DPURL": "https://static.poly.pizza/dp%2Ff63b655a-051c-4c4b-8dcc-3b346a39ece0.jpg",
+    "Socials": {
+      "Twitter": "quaternius",
+      "Pateron": "quaternius",
+      "Website": "https://quaternius.com/"
+    }
+  },
+  "Category": "Animals",
+  "Tags": [
+    "Seafood",
+    "Food",
+    "Monster"
+  ],
+  "Orbit": {
+    "phi": "1.37207",
+    "radius": "100%",
+    "theta": "-0.03153"
+  },
+  "Background": {
+    "one": "#5e35b1",
+    "two": "hsl(260deg, 54%, 15%)",
+    "type": "Radial"
+  },
+  "Visibility": "Public",
+  "Type": "FBX",
+  "Licence": "CC0 1.0",
+  "Animated": true,
+  "sourceUrl": "https://poly.pizza/m/LlwD0QNUPj",
+  "downloadUrl": "https://static.poly.pizza/90ed3740-d8c4-4910-88ce-ac2ed426022d.glb",
+  "sha256": "f660d8f48be4ea3f39639f6206a0181127e7fe7503cb4bad8d07d27d80528f3a",
+  "sourcePageSha256": "6d3ca12b29d932cd543f3e445bd3c89c7dcd2a7a9d2c4e1a8f7f5e79bb469cb2",
+  "retrieved": "2026-10-21T21:14:05.742Z",
+  "sourcePageRetrieved": "2026-10-21T21:14:05.483Z",
+  "verifiedAt": "2026-10-22T11:21:05.887Z",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+}

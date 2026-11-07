@@ -1,0 +1,47 @@
+{
+  "Title": "Wizard hat",
+  "Description": "#cap #hat #wizard #magic #costume",
+  "UploadDate": "2017-10-23T07:16:56.916Z",
+  "ResourceID": "9861c042-6cfa-4de8-9d3a-aab4c6b5343e",
+  "PublicID": "7VVumyY7L_u",
+  "Likes": 11,
+  "CommentCount": 0,
+  "Tris": 768,
+  "Views": "4.02k",
+  "Downloads": "1.81k",
+  "Creator": {
+    "Username": "Poly by Google",
+    "DPURL": "https://static.poly.pizza/dp%2Fpolygoogle.jpg",
+    "Socials": {}
+  },
+  "Category": "Objects",
+  "Tags": [
+    "cap",
+    "hat",
+    "wizard",
+    "magic",
+    "costume"
+  ],
+  "Orbit": {
+    "phi": "1.31884",
+    "radius": "110%",
+    "theta": "0.87089"
+  },
+  "Background": {
+    "one": "#3949ab",
+    "two": "hsl(232deg, 50%, 15%)",
+    "type": "Radial"
+  },
+  "Visibility": "Public",
+  "Type": "obj",
+  "Licence": "CC-BY 3.0",
+  "Animated": false,
+  "sourceUrl": "https://poly.pizza/m/7VVumyY7L_u",
+  "downloadUrl": "https://static.poly.pizza/9861c042-6cfa-4de8-9d3a-aab4c6b5343e.glb",
+  "sha256": "a9022bfd02ce571540b6bed7a157bc7d5931482b4523cc19b74a58ae9c1248ad",
+  "sourcePageSha256": "b6af57145520c9f5c8d95eba66371801ad7f6e3f33eb2dfe84c804f157afb3d8",
+  "retrieved": "2026-10-22T11:05:09.321Z",
+  "sourcePageRetrieved": "2026-10-22T11:05:09.094Z",
+  "verifiedAt": "2026-10-22T11:21:06.126Z",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/"
+}

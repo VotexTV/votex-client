@@ -1,0 +1,45 @@
+{
+  "Title": "Cowboy boots",
+  "Description": "#shoes #footwear #bronco",
+  "UploadDate": "2017-10-22T19:03:01.690Z",
+  "ResourceID": "a6239064-0894-4e07-87af-b1eac152b3ff",
+  "PublicID": "9Qf1MHGePvS",
+  "Likes": 5,
+  "CommentCount": 0,
+  "Tris": 1540,
+  "Views": "1.63k",
+  "Downloads": 426,
+  "Creator": {
+    "Username": "Poly by Google",
+    "DPURL": "https://static.poly.pizza/dp%2Fpolygoogle.jpg",
+    "Socials": {}
+  },
+  "Category": "Objects",
+  "Tags": [
+    "shoes",
+    "footwear",
+    "bronco"
+  ],
+  "Orbit": {
+    "phi": "1.31884",
+    "radius": "110%",
+    "theta": "0.87089"
+  },
+  "Background": {
+    "one": "#3949ab",
+    "two": "hsl(232deg, 50%, 15%)",
+    "type": "Radial"
+  },
+  "Visibility": "Public",
+  "Type": "obj",
+  "Licence": "CC-BY 3.0",
+  "Animated": false,
+  "sourceUrl": "https://poly.pizza/m/9Qf1MHGePvS",
+  "downloadUrl": "https://static.poly.pizza/a6239064-0894-4e07-87af-b1eac152b3ff.glb",
+  "sha256": "b409e3d9ca0928964cfcfedbfb5e903e33e48a7c369687b6c356e76976f0af41",
+  "sourcePageSha256": "bf1da14f53b66a1a89d20fd18decbb037ba5d3c9f3f971d6f19a47d15ab41e10",
+  "retrieved": "2026-10-21T21:14:18.317Z",
+  "sourcePageRetrieved": "2026-10-21T21:14:17.986Z",
+  "verifiedAt": "2026-10-22T11:21:06.154Z",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/"
+}

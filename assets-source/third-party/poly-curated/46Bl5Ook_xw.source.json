@@ -1,0 +1,43 @@
+{
+  "Title": "Security Hat",
+  "Description": "A hat for security, so you feel safe.",
+  "UploadDate": "2018-08-16T06:09:52.529Z",
+  "ResourceID": "ef9f9c6b-83de-44af-9807-e7e34b4f9dd6",
+  "PublicID": "46Bl5Ook_xw",
+  "Likes": 3,
+  "CommentCount": 0,
+  "Tris": 228,
+  "Views": "1.01k",
+  "Downloads": 651,
+  "Creator": {
+    "Username": "Casey Tumbers",
+    "DPURL": "",
+    "Socials": {}
+  },
+  "Category": "Objects",
+  "Tags": [
+    "cop"
+  ],
+  "Orbit": {
+    "phi": "1.34521",
+    "radius": "0.81",
+    "theta": "1.80635"
+  },
+  "Background": {
+    "one": "#fb8c00",
+    "two": "hsl(33deg, 100%, 15%)",
+    "type": "Radial"
+  },
+  "Visibility": "Public",
+  "Type": "obj",
+  "Licence": "CC-BY 3.0",
+  "Animated": false,
+  "sourceUrl": "https://poly.pizza/m/46Bl5Ook_xw",
+  "downloadUrl": "https://static.poly.pizza/ef9f9c6b-83de-44af-9807-e7e34b4f9dd6.glb",
+  "sha256": "af1f17ebc9b247ac2d72652e1d6dd711cbd8d41e358e1c2749b9fd6c5b228b77",
+  "sourcePageSha256": "a371a5fad8e14732f070ac259b7a5fa6e485cf2425140ee8c0996574f15e8e4f",
+  "retrieved": "2026-10-22T11:06:44.308Z",
+  "sourcePageRetrieved": "2026-10-22T11:06:44.044Z",
+  "verifiedAt": "2026-10-22T11:21:06.183Z",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/"
+}

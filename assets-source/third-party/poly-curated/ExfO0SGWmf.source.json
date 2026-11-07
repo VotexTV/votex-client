@@ -1,0 +1,46 @@
+{
+  "Title": "Flower Horn",
+  "UploadDate": "2022-06-20T13:20:15.557Z",
+  "ResourceID": "cccd0630-598c-4620-aa57-b2f41bf91235",
+  "PublicID": "ExfO0SGWmf",
+  "Likes": 1,
+  "CommentCount": 0,
+  "Tris": 1490,
+  "Views": 214,
+  "Downloads": "2.02k",
+  "Creator": {
+    "Username": "Quaternius",
+    "DPURL": "https://static.poly.pizza/dp%2Ff63b655a-051c-4c4b-8dcc-3b346a39ece0.jpg",
+    "Socials": {
+      "Twitter": "quaternius",
+      "Pateron": "quaternius",
+      "Website": "https://quaternius.com/"
+    }
+  },
+  "Category": "Objects",
+  "Tags": [
+    "Fish"
+  ],
+  "Orbit": {
+    "phi": "1.29325",
+    "radius": "100%",
+    "theta": "0.86610"
+  },
+  "Background": {
+    "one": "#039be5",
+    "two": "hsl(200deg, 97%, 15%)",
+    "type": "Radial"
+  },
+  "Visibility": "Public",
+  "Type": "FBX",
+  "Licence": "CC0 1.0",
+  "Animated": true,
+  "sourceUrl": "https://poly.pizza/m/ExfO0SGWmf",
+  "downloadUrl": "https://static.poly.pizza/cccd0630-598c-4620-aa57-b2f41bf91235.glb",
+  "sha256": "adefc7304787d2f23352be7c1ae819214effc51257a0d615618eee32d4a1f830",
+  "sourcePageSha256": "0d5d1ae76d1ba8e426b59fd2a39d5423ac1da03607c91a1ebea0ca3222397e71",
+  "retrieved": "2026-10-22T11:02:00.030Z",
+  "sourcePageRetrieved": "2026-10-22T11:01:59.803Z",
+  "verifiedAt": "2026-10-22T11:21:05.946Z",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+}

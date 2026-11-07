@@ -1,0 +1,50 @@
+{
+  "Title": "Mushnub",
+  "Description": " ",
+  "UploadDate": "2022-10-23T01:01:33.065Z",
+  "ResourceID": "55c64684-49a4-4fcc-b393-113126add89b",
+  "PublicID": "LWKmS30Xxl",
+  "Likes": 4,
+  "CommentCount": 0,
+  "Tris": 1200,
+  "Views": 885,
+  "Downloads": "3.63k",
+  "Creator": {
+    "Username": "Quaternius",
+    "DPURL": "https://static.poly.pizza/dp%2Ff63b655a-051c-4c4b-8dcc-3b346a39ece0.jpg",
+    "Socials": {
+      "Twitter": "quaternius",
+      "Pateron": "quaternius",
+      "Website": "https://quaternius.com/"
+    }
+  },
+  "Category": "Animals",
+  "Tags": [
+    "Plant",
+    "Mushroom",
+    "Enemy",
+    "Monster"
+  ],
+  "Orbit": {
+    "phi": "1.37207",
+    "radius": "4.541067343629343",
+    "theta": "-0.03153"
+  },
+  "Background": {
+    "one": "#5e35b1",
+    "two": "hsl(260deg, 54%, 15%)",
+    "type": "Radial"
+  },
+  "Visibility": "Public",
+  "Type": "FBX",
+  "Licence": "CC0 1.0",
+  "Animated": true,
+  "sourceUrl": "https://poly.pizza/m/LWKmS30Xxl",
+  "downloadUrl": "https://static.poly.pizza/55c64684-49a4-4fcc-b393-113126add89b.glb",
+  "sha256": "04614a9d0db2a00d17cd85f4ef9c54e19cd3692530c0724b46809aa928e161e9",
+  "sourcePageSha256": "203a109a854ef5d0ff57b033620572dcac63e99ce11a009c505ba901a45ad67c",
+  "retrieved": "2026-10-22T11:01:25.821Z",
+  "sourcePageRetrieved": "2026-10-22T11:01:25.775Z",
+  "verifiedAt": "2026-10-22T11:21:05.919Z",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+}

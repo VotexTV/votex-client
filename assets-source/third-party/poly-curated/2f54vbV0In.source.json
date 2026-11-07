@@ -1,0 +1,46 @@
+{
+  "Title": "Cat",
+  "UploadDate": "2022-10-23T01:01:36.800Z",
+  "ResourceID": "7ccb71fe-dabb-4a6f-a98a-8992bb5e6bc7",
+  "PublicID": "2f54vbV0In",
+  "Likes": 4,
+  "CommentCount": 0,
+  "Tris": 1736,
+  "Views": "2.19k",
+  "Downloads": "3.6k",
+  "Creator": {
+    "Username": "Quaternius",
+    "DPURL": "https://static.poly.pizza/dp%2Ff63b655a-051c-4c4b-8dcc-3b346a39ece0.jpg",
+    "Socials": {
+      "Twitter": "quaternius",
+      "Pateron": "quaternius",
+      "Website": "https://quaternius.com/"
+    }
+  },
+  "Category": "Animals",
+  "Tags": [
+    "Animal"
+  ],
+  "Orbit": {
+    "phi": "1.37207",
+    "radius": "100%",
+    "theta": "-0.03153"
+  },
+  "Background": {
+    "one": "#5e35b1",
+    "two": "hsl(260deg, 54%, 15%)",
+    "type": "Radial"
+  },
+  "Visibility": "Public",
+  "Type": "FBX",
+  "Licence": "CC0 1.0",
+  "Animated": true,
+  "sourceUrl": "https://poly.pizza/m/2f54vbV0In",
+  "downloadUrl": "https://static.poly.pizza/7ccb71fe-dabb-4a6f-a98a-8992bb5e6bc7.glb",
+  "sha256": "aa098d43c1006110d5a4fa3a6e6d4c843c8d8d90ffccc48f5bf32e3aadf7a3a9",
+  "sourcePageSha256": "2b1df2a9bd78811b597fbd876ee59b2e580a25f913df544874229da1ebc6a486",
+  "retrieved": "2026-10-22T11:01:13.812Z",
+  "sourcePageRetrieved": "2026-10-22T11:01:13.756Z",
+  "verifiedAt": "2026-10-22T11:21:05.906Z",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+}

@@ -1,0 +1,44 @@
+{
+  "Title": "Cap",
+  "Description": "🧢",
+  "UploadDate": "2023-06-20T20:14:43.161Z",
+  "ResourceID": "b50f564c-03d3-4a07-8817-199eb9d76fa0",
+  "PublicID": "aWxhfEnYwl",
+  "Likes": 5,
+  "CommentCount": 0,
+  "Tris": 418,
+  "Views": 886,
+  "Downloads": 808,
+  "Creator": {
+    "Username": "J-Toastie",
+    "DPURL": "https://static.poly.pizza/dp%2F2a18493e-a521-40ff-8c30-f7cfcdb513dd.jpg",
+    "Socials": {}
+  },
+  "Category": "Objects",
+  "Tags": [
+    "Cap",
+    "Hat"
+  ],
+  "Orbit": {
+    "phi": "1.30900",
+    "radius": "100%",
+    "theta": "1.14950"
+  },
+  "Background": {
+    "one": "#f4511e",
+    "two": "hsl(14deg, 91%, 15%)",
+    "type": "Radial"
+  },
+  "Visibility": "Public",
+  "Type": "OBJ",
+  "Licence": "CC-BY 3.0",
+  "Animated": false,
+  "sourceUrl": "https://poly.pizza/m/aWxhfEnYwl",
+  "downloadUrl": "https://static.poly.pizza/b50f564c-03d3-4a07-8817-199eb9d76fa0.glb",
+  "sha256": "8c5d1227216670f6293c7b02995e6dec42ac7cb53a2c5a9932cf9926a7c79504",
+  "sourcePageSha256": "35b5bc81612f9ce67fdfa3d6190757f37881a4924c49082b0fdd33f952796ad8",
+  "retrieved": "2026-10-22T11:04:42.212Z",
+  "sourcePageRetrieved": "2026-10-22T11:04:41.978Z",
+  "verifiedAt": "2026-10-22T11:21:06.102Z",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/"
+}

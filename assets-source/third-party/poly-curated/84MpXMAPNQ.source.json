@@ -1,0 +1,48 @@
+{
+  "Title": "Santa Hat",
+  "Description": "Ho ho ho, merry Christmas! 🎅",
+  "UploadDate": "2022-12-24T19:01:34.858Z",
+  "ResourceID": "a0c79e8b-6dba-4d5c-a42d-d0b2876e89da",
+  "PublicID": "84MpXMAPNQ",
+  "Likes": 3,
+  "CommentCount": 0,
+  "Tris": 654,
+  "Views": 393,
+  "Downloads": 621,
+  "Creator": {
+    "Username": "J-Toastie",
+    "DPURL": "https://static.poly.pizza/dp%2F2a18493e-a521-40ff-8c30-f7cfcdb513dd.jpg",
+    "Socials": {}
+  },
+  "Category": "Other",
+  "Tags": [
+    "Hat",
+    "Accessory",
+    "Cosmetic",
+    "Santa",
+    "Hat",
+    "Clothing"
+  ],
+  "Orbit": {
+    "phi": "1.21972",
+    "radius": "100%",
+    "theta": "-4.86584"
+  },
+  "Background": {
+    "one": "#5e35b1",
+    "two": "hsl(260deg, 54%, 15%)",
+    "type": "Radial"
+  },
+  "Visibility": "Public",
+  "Type": "OBJ",
+  "Licence": "CC-BY 3.0",
+  "Animated": false,
+  "sourceUrl": "https://poly.pizza/m/84MpXMAPNQ",
+  "downloadUrl": "https://static.poly.pizza/a0c79e8b-6dba-4d5c-a42d-d0b2876e89da.glb",
+  "sha256": "4a6eb96e85ef4d41af120ce0157618ead56e007495abc209248564eb33f29279",
+  "sourcePageSha256": "05ceadff102019c265235564eec932e95c8de7abc5ac0c3f7827e69e538e6a1d",
+  "retrieved": "2026-10-22T11:04:47.346Z",
+  "sourcePageRetrieved": "2026-10-22T11:04:47.090Z",
+  "verifiedAt": "2026-10-22T11:21:06.106Z",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/"
+}

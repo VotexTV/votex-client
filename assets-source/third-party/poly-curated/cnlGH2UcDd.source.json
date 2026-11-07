@@ -1,0 +1,48 @@
+{
+  "Title": "Velociraptor",
+  "UploadDate": "2021-08-18T11:39:45.264Z",
+  "ResourceID": "c1f0c4cb-c84f-415c-8323-d8cb871a2126",
+  "PublicID": "cnlGH2UcDd",
+  "Likes": 18,
+  "CommentCount": 0,
+  "Tris": 1248,
+  "Views": "2.24k",
+  "Downloads": "2.62k",
+  "Creator": {
+    "Username": "Quaternius",
+    "DPURL": "https://static.poly.pizza/dp%2Ff63b655a-051c-4c4b-8dcc-3b346a39ece0.jpg",
+    "Socials": {
+      "Twitter": "quaternius",
+      "Pateron": "quaternius",
+      "Website": "https://quaternius.com/"
+    }
+  },
+  "Category": "Animals",
+  "Tags": [
+    "Reptile",
+    "Animal",
+    "Dinosaur"
+  ],
+  "Orbit": {
+    "phi": "1.34053",
+    "radius": "100%",
+    "theta": "0.95391"
+  },
+  "Background": {
+    "one": "#5e35b1",
+    "two": "hsl(260deg, 54%, 15%)",
+    "type": "Radial"
+  },
+  "Visibility": "Public",
+  "Type": "FBX",
+  "Licence": "CC0 1.0",
+  "Animated": false,
+  "sourceUrl": "https://poly.pizza/m/cnlGH2UcDd",
+  "downloadUrl": "https://static.poly.pizza/c1f0c4cb-c84f-415c-8323-d8cb871a2126.glb",
+  "sha256": "1d9ecad0a65c0c858a216ff25f224d02b18ce86fa0ed4df8f9ecece43f3a745c",
+  "sourcePageSha256": "fa7b052244920a40aeb7e75284f5e13be731928a84b7262dee14e49abf0f6b83",
+  "retrieved": "2026-10-22T11:02:58.386Z",
+  "sourcePageRetrieved": "2026-10-22T11:02:57.795Z",
+  "verifiedAt": "2026-10-22T11:21:06.006Z",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+}

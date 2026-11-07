@@ -1,0 +1,43 @@
+{
+  "Title": "gas mask",
+  "Description": "gas mask",
+  "UploadDate": "2017-09-03T03:05:51.656Z",
+  "ResourceID": "b320f8f3-25e7-475f-8c6f-1f4932c90646",
+  "PublicID": "7dNxPcg8HyL",
+  "Likes": 4,
+  "CommentCount": 0,
+  "Tris": 2210,
+  "Views": "1.33k",
+  "Downloads": 418,
+  "Creator": {
+    "Username": "Marisha",
+    "DPURL": "",
+    "Socials": {}
+  },
+  "Category": "Other",
+  "Tags": [
+    "face mask"
+  ],
+  "Orbit": {
+    "phi": "1.38778",
+    "radius": "3.9058340000808074",
+    "theta": "3.84506"
+  },
+  "Background": {
+    "one": "#f4511e",
+    "two": "hsl(14deg, 91%, 15%)",
+    "type": "Radial"
+  },
+  "Visibility": "Public",
+  "Type": "obj",
+  "Licence": "CC-BY 3.0",
+  "Animated": false,
+  "sourceUrl": "https://poly.pizza/m/7dNxPcg8HyL",
+  "downloadUrl": "https://static.poly.pizza/b320f8f3-25e7-475f-8c6f-1f4932c90646.glb",
+  "sha256": "30c60dfc1514c6998b3a4a8525affff5b4080569bfad6c61992cb3dfe0e9b0f3",
+  "sourcePageSha256": "d74ffbc082ec36e244462d277b9c562c0ee2c388758577541f88251884b08374",
+  "retrieved": "2026-10-22T11:06:04.675Z",
+  "sourcePageRetrieved": "2026-10-22T11:06:04.357Z",
+  "verifiedAt": "2026-10-22T11:21:06.165Z",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/"
+}

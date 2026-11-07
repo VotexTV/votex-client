@@ -1,0 +1,47 @@
+{
+  "Title": "Tribal",
+  "UploadDate": "2022-10-23T01:01:40.243Z",
+  "ResourceID": "1b4759ca-2c00-4718-90f6-2f84bc8e44f9",
+  "PublicID": "t91lDHaqRW",
+  "Likes": 4,
+  "CommentCount": 0,
+  "Tris": 2976,
+  "Views": 753,
+  "Downloads": "3.6k",
+  "Creator": {
+    "Username": "Quaternius",
+    "DPURL": "https://static.poly.pizza/dp%2Ff63b655a-051c-4c4b-8dcc-3b346a39ece0.jpg",
+    "Socials": {
+      "Twitter": "quaternius",
+      "Pateron": "quaternius",
+      "Website": "https://quaternius.com/"
+    }
+  },
+  "Category": "Objects",
+  "Tags": [
+    "Tiki",
+    "Monster"
+  ],
+  "Orbit": {
+    "phi": "1.37207",
+    "radius": "100%",
+    "theta": "-0.03153"
+  },
+  "Background": {
+    "one": "#5e35b1",
+    "two": "hsl(260deg, 54%, 15%)",
+    "type": "Radial"
+  },
+  "Visibility": "Public",
+  "Type": "FBX",
+  "Licence": "CC0 1.0",
+  "Animated": true,
+  "sourceUrl": "https://poly.pizza/m/t91lDHaqRW",
+  "downloadUrl": "https://static.poly.pizza/1b4759ca-2c00-4718-90f6-2f84bc8e44f9.glb",
+  "sha256": "f42e476a67d5c3ffdfdd5dbcb29e9b9b6aaf235d118640f8fb4f2a40c4907951",
+  "sourcePageSha256": "2fc8fd374f1e995bf155802568a3fd0c816b0da4434a685e32becce0d4881516",
+  "retrieved": "2026-10-21T21:14:05.742Z",
+  "sourcePageRetrieved": "2026-10-21T21:14:05.677Z",
+  "verifiedAt": "2026-10-22T11:21:05.889Z",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+}

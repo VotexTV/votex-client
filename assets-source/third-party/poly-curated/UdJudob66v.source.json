@@ -1,0 +1,46 @@
+{
+  "Title": "Alpaking Evolved",
+  "UploadDate": "2022-10-23T01:01:38.715Z",
+  "ResourceID": "c50fd18d-9441-491b-b2c0-835e6a8757e3",
+  "PublicID": "UdJudob66v",
+  "Likes": 2,
+  "CommentCount": 0,
+  "Tris": 4612,
+  "Views": 459,
+  "Downloads": "3.51k",
+  "Creator": {
+    "Username": "Quaternius",
+    "DPURL": "https://static.poly.pizza/dp%2Ff63b655a-051c-4c4b-8dcc-3b346a39ece0.jpg",
+    "Socials": {
+      "Twitter": "quaternius",
+      "Pateron": "quaternius",
+      "Website": "https://quaternius.com/"
+    }
+  },
+  "Category": "Objects",
+  "Tags": [
+    "Enemy"
+  ],
+  "Orbit": {
+    "phi": "1.37207",
+    "radius": "100%",
+    "theta": "-0.03153"
+  },
+  "Background": {
+    "one": "#5e35b1",
+    "two": "hsl(260deg, 54%, 15%)",
+    "type": "Radial"
+  },
+  "Visibility": "Public",
+  "Type": "FBX",
+  "Licence": "CC0 1.0",
+  "Animated": true,
+  "sourceUrl": "https://poly.pizza/m/UdJudob66v",
+  "downloadUrl": "https://static.poly.pizza/c50fd18d-9441-491b-b2c0-835e6a8757e3.glb",
+  "sha256": "d96b4ffd4cce49cc031d26931639953ebdfa28d0f9713577e69261c0e7f1ba39",
+  "sourcePageSha256": "6e138846d0bc0db5f98e955404d2718482a717f27b155cfc3b6a9439dd9ebc53",
+  "retrieved": "2026-10-21T21:14:06.525Z",
+  "sourcePageRetrieved": "2026-10-21T21:14:06.284Z",
+  "verifiedAt": "2026-10-22T11:21:05.897Z",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+}

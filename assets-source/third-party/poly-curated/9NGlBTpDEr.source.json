@@ -1,0 +1,47 @@
+{
+  "Title": "Pigeon",
+  "UploadDate": "2022-10-23T01:01:38.813Z",
+  "ResourceID": "2ad33f9e-e0d5-4a11-821b-7aafe8d13dd3",
+  "PublicID": "9NGlBTpDEr",
+  "Likes": 3,
+  "CommentCount": 0,
+  "Tris": 2024,
+  "Views": "1.07k",
+  "Downloads": "3.55k",
+  "Creator": {
+    "Username": "Quaternius",
+    "DPURL": "https://static.poly.pizza/dp%2Ff63b655a-051c-4c4b-8dcc-3b346a39ece0.jpg",
+    "Socials": {
+      "Twitter": "quaternius",
+      "Pateron": "quaternius",
+      "Website": "https://quaternius.com/"
+    }
+  },
+  "Category": "Animals",
+  "Tags": [
+    "Animal",
+    "Bird"
+  ],
+  "Orbit": {
+    "phi": "1.37207",
+    "radius": "100%",
+    "theta": "-0.03153"
+  },
+  "Background": {
+    "one": "#5e35b1",
+    "two": "hsl(260deg, 54%, 15%)",
+    "type": "Radial"
+  },
+  "Visibility": "Public",
+  "Type": "FBX",
+  "Licence": "CC0 1.0",
+  "Animated": true,
+  "sourceUrl": "https://poly.pizza/m/9NGlBTpDEr",
+  "downloadUrl": "https://static.poly.pizza/2ad33f9e-e0d5-4a11-821b-7aafe8d13dd3.glb",
+  "sha256": "df8ae4e405a14d7b7d9f9354039b39be0dfe0ac5b53d373b5b660af33deaf96c",
+  "sourcePageSha256": "f431360541df67324246618c88d2d11db6ddf0975593eb1d9f16c1f8bcc072f4",
+  "retrieved": "2026-10-21T21:14:06.409Z",
+  "sourcePageRetrieved": "2026-10-21T21:14:06.348Z",
+  "verifiedAt": "2026-10-22T11:21:05.894Z",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+}

@@ -1,0 +1,48 @@
+{
+  "Title": "Royal Gramma",
+  "UploadDate": "2022-06-20T13:20:13.750Z",
+  "ResourceID": "9e280929-a963-4f31-ae64-cf4a7f4bafe8",
+  "PublicID": "e8u2OQ9Quz",
+  "Likes": 2,
+  "CommentCount": 0,
+  "Tris": 1378,
+  "Views": 262,
+  "Downloads": "2.38k",
+  "Creator": {
+    "Username": "Quaternius",
+    "DPURL": "https://static.poly.pizza/dp%2Ff63b655a-051c-4c4b-8dcc-3b346a39ece0.jpg",
+    "Socials": {
+      "Twitter": "quaternius",
+      "Pateron": "quaternius",
+      "Website": "https://quaternius.com/"
+    }
+  },
+  "Category": "Animals",
+  "Tags": [
+    "Sea Life",
+    "Animal",
+    "Fish"
+  ],
+  "Orbit": {
+    "phi": "1.29325",
+    "radius": "100%",
+    "theta": "0.86610"
+  },
+  "Background": {
+    "one": "#039be5",
+    "two": "hsl(200deg, 97%, 15%)",
+    "type": "Radial"
+  },
+  "Visibility": "Public",
+  "Type": "FBX",
+  "Licence": "CC0 1.0",
+  "Animated": true,
+  "sourceUrl": "https://poly.pizza/m/e8u2OQ9Quz",
+  "downloadUrl": "https://static.poly.pizza/9e280929-a963-4f31-ae64-cf4a7f4bafe8.glb",
+  "sha256": "3d811bd8d331eff1c6f8a80e27d4ddcd1d2cb4ca0afc5832ee8b9ea3c47fff50",
+  "sourcePageSha256": "a7fde7ce931f7ab1d5925933337f372a88f6abd2cb6cac24a5e1b28cd8f9ae84",
+  "retrieved": "2026-10-22T11:02:20.865Z",
+  "sourcePageRetrieved": "2026-10-22T11:02:20.324Z",
+  "verifiedAt": "2026-10-22T11:21:05.963Z",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+}

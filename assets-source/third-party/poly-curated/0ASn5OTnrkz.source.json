@@ -1,0 +1,47 @@
+{
+  "Title": "Shoes",
+  "Description": "#laces #sports #feet #clothing #sneakers",
+  "UploadDate": "2017-10-23T21:12:36.080Z",
+  "ResourceID": "1ff5c477-e9c2-4e72-bfe7-5aaf0d2f85bb",
+  "PublicID": "0ASn5OTnrkz",
+  "Likes": 4,
+  "CommentCount": 0,
+  "Tris": 8344,
+  "Views": "3.16k",
+  "Downloads": 438,
+  "Creator": {
+    "Username": "Poly by Google",
+    "DPURL": "https://static.poly.pizza/dp%2Fpolygoogle.jpg",
+    "Socials": {}
+  },
+  "Category": "Objects",
+  "Tags": [
+    "laces",
+    "sports",
+    "feet",
+    "clothing",
+    "sneakers"
+  ],
+  "Orbit": {
+    "phi": "1.31884",
+    "radius": "110%",
+    "theta": "0.87089"
+  },
+  "Background": {
+    "one": "#8e24aa",
+    "two": "hsl(287deg, 65%, 15%)",
+    "type": "Radial"
+  },
+  "Visibility": "Public",
+  "Type": "obj",
+  "Licence": "CC-BY 3.0",
+  "Animated": false,
+  "sourceUrl": "https://poly.pizza/m/0ASn5OTnrkz",
+  "downloadUrl": "https://static.poly.pizza/1ff5c477-e9c2-4e72-bfe7-5aaf0d2f85bb.glb",
+  "sha256": "de76bc1b6d8a770aacd9ce597eb97c910886140b7a7b9ebd8355d374ecd64079",
+  "sourcePageSha256": "f3de818421dd9cb6f9a4a1d20865d7f1dbff41584a7a4d85fda1a4e0909a6990",
+  "retrieved": "2026-10-21T21:14:18.428Z",
+  "sourcePageRetrieved": "2026-10-21T21:14:18.060Z",
+  "verifiedAt": "2026-10-22T11:21:06.152Z",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/"
+}

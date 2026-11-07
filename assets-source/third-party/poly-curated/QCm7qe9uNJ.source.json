@@ -1,0 +1,52 @@
+{
+  "Title": "Animated Robot",
+  "Description": " ",
+  "UploadDate": "2021-08-18T11:34:48.324Z",
+  "ResourceID": "7d95dbce-8c73-489b-8298-f430b1f0dbdf",
+  "PublicID": "QCm7qe9uNJ",
+  "Likes": 21,
+  "CommentCount": 3,
+  "Tris": 1425,
+  "Views": "7.12k",
+  "Downloads": "1.13k",
+  "Creator": {
+    "Username": "Quaternius",
+    "DPURL": "https://static.poly.pizza/dp%2Ff63b655a-051c-4c4b-8dcc-3b346a39ece0.jpg",
+    "Socials": {
+      "Twitter": "quaternius",
+      "Pateron": "quaternius",
+      "Website": "https://quaternius.com/"
+    }
+  },
+  "Category": "People & Characters",
+  "Tags": [
+    "Machine",
+    "AI",
+    "NPC",
+    "robot",
+    "android",
+    "chraracter"
+  ],
+  "Orbit": {
+    "phi": "1.28371",
+    "radius": "9.17940019361159",
+    "theta": "0.05527"
+  },
+  "Background": {
+    "one": "#3949ab",
+    "two": "hsl(232deg, 50%, 15%)",
+    "type": "Radial"
+  },
+  "Visibility": "Public",
+  "Type": "FBX",
+  "Licence": "CC0 1.0",
+  "Animated": true,
+  "sourceUrl": "https://poly.pizza/m/QCm7qe9uNJ",
+  "downloadUrl": "https://static.poly.pizza/7d95dbce-8c73-489b-8298-f430b1f0dbdf.glb",
+  "sha256": "54f1a6999cca701cdc2f8fb67bcd9a283e1154cb80cac356f031bed7c2e74cbe",
+  "sourcePageSha256": "efa9eb2305336e350f4d65f46e4ad513daec31a357a681c543fb031ce9998084",
+  "retrieved": "2026-10-22T11:03:43.934Z",
+  "sourcePageRetrieved": "2026-10-22T11:03:43.853Z",
+  "verifiedAt": "2026-10-22T11:21:06.049Z",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+}

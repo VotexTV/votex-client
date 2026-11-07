@@ -1,0 +1,49 @@
+{
+  "Title": "Spaceship",
+  "UploadDate": "2021-08-17T12:30:13.768Z",
+  "ResourceID": "4a3fbc4f-cc9d-4276-a48d-5aa1836a4c0f",
+  "PublicID": "H4OXkd9lWz",
+  "Likes": 2,
+  "CommentCount": 0,
+  "Tris": 456,
+  "Views": 254,
+  "Downloads": 31,
+  "Creator": {
+    "Username": "Quaternius",
+    "DPURL": "https://static.poly.pizza/dp%2Ff63b655a-051c-4c4b-8dcc-3b346a39ece0.jpg",
+    "Socials": {
+      "Twitter": "quaternius",
+      "Pateron": "quaternius",
+      "Website": "https://quaternius.com/"
+    }
+  },
+  "Category": "Transport",
+  "Tags": [
+    "Airplane",
+    "Aircraft",
+    "Vehicle",
+    "Transportation"
+  ],
+  "Orbit": {
+    "phi": "1.04548",
+    "radius": "100%",
+    "theta": "0.91407"
+  },
+  "Background": {
+    "one": "#000000",
+    "two": "hsl(0deg, 0%, 15%)",
+    "type": "Radial"
+  },
+  "Visibility": "Public",
+  "Type": "FBX",
+  "Licence": "CC0 1.0",
+  "Animated": false,
+  "sourceUrl": "https://poly.pizza/m/H4OXkd9lWz",
+  "downloadUrl": "https://static.poly.pizza/4a3fbc4f-cc9d-4276-a48d-5aa1836a4c0f.glb",
+  "sha256": "862d5385ef1435f5c2e17773c6037cd049d1a31ad52353220a3c6dc51f908845",
+  "sourcePageSha256": "770d2f6df034dd348e8239ee0a035dd311719f20bba4960e18a1f5148663b883",
+  "retrieved": "2026-10-22T11:03:52.832Z",
+  "sourcePageRetrieved": "2026-10-22T11:03:52.618Z",
+  "verifiedAt": "2026-10-22T11:21:06.056Z",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+}

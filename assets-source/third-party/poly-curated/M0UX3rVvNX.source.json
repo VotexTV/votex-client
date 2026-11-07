@@ -1,0 +1,48 @@
+{
+  "Title": "Moorish Idol",
+  "UploadDate": "2022-06-20T13:20:14.509Z",
+  "ResourceID": "a1acb05a-2186-4b3c-aa03-5c4e5aab9d17",
+  "PublicID": "M0UX3rVvNX",
+  "Likes": 1,
+  "CommentCount": 0,
+  "Tris": 1428,
+  "Views": 211,
+  "Downloads": "2.02k",
+  "Creator": {
+    "Username": "Quaternius",
+    "DPURL": "https://static.poly.pizza/dp%2Ff63b655a-051c-4c4b-8dcc-3b346a39ece0.jpg",
+    "Socials": {
+      "Twitter": "quaternius",
+      "Pateron": "quaternius",
+      "Website": "https://quaternius.com/"
+    }
+  },
+  "Category": "Animals",
+  "Tags": [
+    "Fish",
+    "Underwater",
+    "Sea Creature"
+  ],
+  "Orbit": {
+    "phi": "1.29325",
+    "radius": "100%",
+    "theta": "0.86610"
+  },
+  "Background": {
+    "one": "#039be5",
+    "two": "hsl(200deg, 97%, 15%)",
+    "type": "Radial"
+  },
+  "Visibility": "Public",
+  "Type": "FBX",
+  "Licence": "CC0 1.0",
+  "Animated": true,
+  "sourceUrl": "https://poly.pizza/m/M0UX3rVvNX",
+  "downloadUrl": "https://static.poly.pizza/a1acb05a-2186-4b3c-aa03-5c4e5aab9d17.glb",
+  "sha256": "c3d0a6f7f71f22ff1474abc792512c7b202970bfbf5d6776ca3f868d408455ac",
+  "sourcePageSha256": "cf5fffc927c4fe56aa025622862ca4b4d9fdd4d01d3f7629ea335f3f9b28d311",
+  "retrieved": "2026-10-22T11:02:12.093Z",
+  "sourcePageRetrieved": "2026-10-22T11:02:11.740Z",
+  "verifiedAt": "2026-10-22T11:21:05.955Z",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+}

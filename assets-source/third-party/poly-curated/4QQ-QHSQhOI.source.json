@@ -1,0 +1,46 @@
+{
+  "Title": "Headphones",
+  "Description": "#speakers #audio #earpiece #sound",
+  "UploadDate": "2017-10-21T13:35:59.553Z",
+  "ResourceID": "04d5c244-1596-430e-a812-1bcb5de65db6",
+  "PublicID": "4QQ-QHSQhOI",
+  "Likes": 0,
+  "CommentCount": 0,
+  "Tris": 1032,
+  "Views": 801,
+  "Downloads": 164,
+  "Creator": {
+    "Username": "Poly by Google",
+    "DPURL": "https://static.poly.pizza/dp%2Fpolygoogle.jpg",
+    "Socials": {}
+  },
+  "Category": "Other",
+  "Tags": [
+    "speakers",
+    "audio",
+    "earpiece",
+    "sound"
+  ],
+  "Orbit": {
+    "phi": "1.31884",
+    "radius": "110%",
+    "theta": "0.87089"
+  },
+  "Background": {
+    "one": "#00897b",
+    "two": "hsl(174deg, 100%, 15%)",
+    "type": "Radial"
+  },
+  "Visibility": "Public",
+  "Type": "obj",
+  "Licence": "CC-BY 3.0",
+  "Animated": false,
+  "sourceUrl": "https://poly.pizza/m/4QQ-QHSQhOI",
+  "downloadUrl": "https://static.poly.pizza/04d5c244-1596-430e-a812-1bcb5de65db6.glb",
+  "sha256": "b0217599f5be5df01f9011fa5afaa07b1ddf3cecdf9d03a8cafd8f381d9b8c5e",
+  "sourcePageSha256": "e8f7b2995e6a333f2bf436a30d72e34f4338d7e4a02fc61a3f73ecc4bed8f84a",
+  "retrieved": "2026-10-22T11:05:32.428Z",
+  "sourcePageRetrieved": "2026-10-22T11:05:32.209Z",
+  "verifiedAt": "2026-10-22T11:21:06.146Z",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/"
+}

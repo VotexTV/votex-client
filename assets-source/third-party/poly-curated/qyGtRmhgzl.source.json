@@ -1,0 +1,48 @@
+{
+  "Title": "Koi",
+  "UploadDate": "2022-06-20T13:20:14.997Z",
+  "ResourceID": "d2ba96af-9f0b-45a8-a5b4-248b583f0765",
+  "PublicID": "qyGtRmhgzl",
+  "Likes": 2,
+  "CommentCount": 0,
+  "Tris": 1494,
+  "Views": 270,
+  "Downloads": "2.04k",
+  "Creator": {
+    "Username": "Quaternius",
+    "DPURL": "https://static.poly.pizza/dp%2Ff63b655a-051c-4c4b-8dcc-3b346a39ece0.jpg",
+    "Socials": {
+      "Twitter": "quaternius",
+      "Pateron": "quaternius",
+      "Website": "https://quaternius.com/"
+    }
+  },
+  "Category": "Animals",
+  "Tags": [
+    "Fish",
+    "Aquatic",
+    "Creature"
+  ],
+  "Orbit": {
+    "phi": "1.29325",
+    "radius": "100%",
+    "theta": "0.86610"
+  },
+  "Background": {
+    "one": "#039be5",
+    "two": "hsl(200deg, 97%, 15%)",
+    "type": "Radial"
+  },
+  "Visibility": "Public",
+  "Type": "FBX",
+  "Licence": "CC0 1.0",
+  "Animated": true,
+  "sourceUrl": "https://poly.pizza/m/qyGtRmhgzl",
+  "downloadUrl": "https://static.poly.pizza/d2ba96af-9f0b-45a8-a5b4-248b583f0765.glb",
+  "sha256": "b80d4ef576d6b632439ecf5a4cd40541186ad9005e34c0ac312dd02e1d13a71f",
+  "sourcePageSha256": "b326ba3538f6eae199831a08e813b8a1ac8338533d98cb70fc4f11d215d45c48",
+  "retrieved": "2026-10-22T11:02:07.086Z",
+  "sourcePageRetrieved": "2026-10-22T11:02:06.633Z",
+  "verifiedAt": "2026-10-22T11:21:05.951Z",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+}

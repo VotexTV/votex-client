@@ -1,0 +1,8 @@
+TwelveMonkeys ImageIO 3.15.3
+Copyright Harald Kuhr and contributors. BSD-3-Clause.
+Unmodified modules: imageio-webp, imageio-core, imageio-metadata,
+common-lang, common-io and common-image.
+License: TwelveMonkeys-BSD-3-Clause.txt (same directory).
+Source: https://github.com/haraldk/TwelveMonkeys/tree/twelvemonkeys-3.15.3
+Artifacts: https://repo.maven.apache.org/maven2/com/twelvemonkeys/
+Used for bounded static catalogue image thumbnails; no native decoder is bundled.

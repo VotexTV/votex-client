@@ -1,0 +1,44 @@
+{
+  "Title": "Witch Hat",
+  "Description": "baguette magique🧹",
+  "UploadDate": "2023-06-20T20:14:43.166Z",
+  "ResourceID": "a7544e41-d523-4c82-b3b6-1695ba198359",
+  "PublicID": "fy1Elzr3nl",
+  "Likes": 5,
+  "CommentCount": 0,
+  "Tris": 465,
+  "Views": 655,
+  "Downloads": 601,
+  "Creator": {
+    "Username": "J-Toastie",
+    "DPURL": "https://static.poly.pizza/dp%2F2a18493e-a521-40ff-8c30-f7cfcdb513dd.jpg",
+    "Socials": {}
+  },
+  "Category": "Objects",
+  "Tags": [
+    "Hat",
+    "Witch"
+  ],
+  "Orbit": {
+    "phi": "1.30900",
+    "radius": "100%",
+    "theta": "1.14950"
+  },
+  "Background": {
+    "one": "#f4511e",
+    "two": "hsl(14deg, 91%, 15%)",
+    "type": "Radial"
+  },
+  "Visibility": "Public",
+  "Type": "OBJ",
+  "Licence": "CC-BY 3.0",
+  "Animated": false,
+  "sourceUrl": "https://poly.pizza/m/fy1Elzr3nl",
+  "downloadUrl": "https://static.poly.pizza/a7544e41-d523-4c82-b3b6-1695ba198359.glb",
+  "sha256": "3fa4a506aa785668341b72da4bdcee8830a67b8ab7ce9fcda8bba3b0289165af",
+  "sourcePageSha256": "922fd2bfa3b23e6db59288c30f0db6d00d79cc5c056dca238160284d40b56e46",
+  "retrieved": "2026-10-22T11:04:38.774Z",
+  "sourcePageRetrieved": "2026-10-22T11:04:38.560Z",
+  "verifiedAt": "2026-10-22T11:21:06.099Z",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/"
+}

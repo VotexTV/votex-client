@@ -1,0 +1,49 @@
+{
+  "Title": "Trainer",
+  "Description": "#shoe #sneaker #tennis",
+  "UploadDate": "2017-10-23T13:50:18.397Z",
+  "ResourceID": "74850c2b-016a-4446-8ba2-2b55235b2706",
+  "PublicID": "cs7k_ENAZjQ",
+  "Likes": 6,
+  "CommentCount": 0,
+  "Tris": 474,
+  "Views": "2.2k",
+  "Downloads": "1.03k",
+  "Creator": {
+    "Username": "jeremy",
+    "DPURL": "https://static.poly.pizza/dp%2Fa5e02278-d16e-4cbc-a709-114f417fe8ef.jpg",
+    "Socials": {
+      "Twitter": "astackofpaper",
+      "Instagram": "jedelblut",
+      "Website": "https://jeremy.toys"
+    }
+  },
+  "Category": "Objects",
+  "Tags": [
+    "shoe",
+    "sneaker",
+    "tennis"
+  ],
+  "Orbit": {
+    "phi": "1.31884",
+    "radius": "110%",
+    "theta": "0.87089"
+  },
+  "Background": {
+    "one": "#00897b",
+    "two": "hsl(174deg, 100%, 15%)",
+    "type": "Radial"
+  },
+  "Visibility": "Public",
+  "Type": "obj",
+  "Licence": "CC-BY 3.0",
+  "Animated": false,
+  "sourceUrl": "https://poly.pizza/m/cs7k_ENAZjQ",
+  "downloadUrl": "https://static.poly.pizza/74850c2b-016a-4446-8ba2-2b55235b2706.glb",
+  "sha256": "d300468725ac19cde6c633954e7e0792989c020aa84dd841e7f3e392caaae79b",
+  "sourcePageSha256": "1b839beb78eadf795e514927b813c388163d9d41f203fd778ef8100f9df28606",
+  "retrieved": "2026-10-22T11:06:26.907Z",
+  "sourcePageRetrieved": "2026-10-22T11:06:26.622Z",
+  "verifiedAt": "2026-10-22T11:21:06.167Z",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/"
+}

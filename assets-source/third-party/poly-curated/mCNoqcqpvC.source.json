@@ -1,0 +1,48 @@
+{
+  "Title": "Ninja",
+  "UploadDate": "2022-10-23T01:01:31.923Z",
+  "ResourceID": "42162a27-0aaa-40be-b50e-919776021a11",
+  "PublicID": "mCNoqcqpvC",
+  "Likes": 1,
+  "CommentCount": 0,
+  "Tris": 2112,
+  "Views": 586,
+  "Downloads": "3.49k",
+  "Creator": {
+    "Username": "Quaternius",
+    "DPURL": "https://static.poly.pizza/dp%2Ff63b655a-051c-4c4b-8dcc-3b346a39ece0.jpg",
+    "Socials": {
+      "Twitter": "quaternius",
+      "Pateron": "quaternius",
+      "Website": "https://quaternius.com/"
+    }
+  },
+  "Category": "People & Characters",
+  "Tags": [
+    "Helmet",
+    "Swords",
+    "Mask"
+  ],
+  "Orbit": {
+    "phi": "1.37207",
+    "radius": "100%",
+    "theta": "-0.03153"
+  },
+  "Background": {
+    "one": "#5e35b1",
+    "two": "hsl(260deg, 54%, 15%)",
+    "type": "Radial"
+  },
+  "Visibility": "Public",
+  "Type": "FBX",
+  "Licence": "CC0 1.0",
+  "Animated": true,
+  "sourceUrl": "https://poly.pizza/m/mCNoqcqpvC",
+  "downloadUrl": "https://static.poly.pizza/42162a27-0aaa-40be-b50e-919776021a11.glb",
+  "sha256": "327c9ead9999cd25dbcda757c6c16be0cb1baee9bad224b99c917b4a9a00d15a",
+  "sourcePageSha256": "bd018577bc3788de79a08d98b01216413daf92e9751104d61535082126916641",
+  "retrieved": "2026-10-22T11:01:27.622Z",
+  "sourcePageRetrieved": "2026-10-22T11:01:27.406Z",
+  "verifiedAt": "2026-10-22T11:21:05.920Z",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+}

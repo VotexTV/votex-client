@@ -1,0 +1,48 @@
+{
+  "Title": "Birb",
+  "UploadDate": "2022-10-23T01:01:37.153Z",
+  "ResourceID": "05dac745-bdd0-4169-9e64-f497ca21f69a",
+  "PublicID": "gZ2ExU9OAB",
+  "Likes": 2,
+  "CommentCount": 0,
+  "Tris": 2668,
+  "Views": 541,
+  "Downloads": "3.47k",
+  "Creator": {
+    "Username": "Quaternius",
+    "DPURL": "https://static.poly.pizza/dp%2Ff63b655a-051c-4c4b-8dcc-3b346a39ece0.jpg",
+    "Socials": {
+      "Twitter": "quaternius",
+      "Pateron": "quaternius",
+      "Website": "https://quaternius.com/"
+    }
+  },
+  "Category": "Animals",
+  "Tags": [
+    "Dragon",
+    "Chicken",
+    "Monster"
+  ],
+  "Orbit": {
+    "phi": "1.37207",
+    "radius": "100%",
+    "theta": "-0.03153"
+  },
+  "Background": {
+    "one": "#5e35b1",
+    "two": "hsl(260deg, 54%, 15%)",
+    "type": "Radial"
+  },
+  "Visibility": "Public",
+  "Type": "FBX",
+  "Licence": "CC0 1.0",
+  "Animated": true,
+  "sourceUrl": "https://poly.pizza/m/gZ2ExU9OAB",
+  "downloadUrl": "https://static.poly.pizza/05dac745-bdd0-4169-9e64-f497ca21f69a.glb",
+  "sha256": "63719ca3ebae056716b7e5380d4294b3a3dcc39f6a4f54dc3e5d1af962c3ca1f",
+  "sourcePageSha256": "1fc1de4c5786eafd3d2750112ba3cfced915e5e27c775fb697f89dcdc019152c",
+  "retrieved": "2026-10-22T11:01:10.934Z",
+  "sourcePageRetrieved": "2026-10-22T11:01:10.468Z",
+  "verifiedAt": "2026-10-22T11:21:05.903Z",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+}

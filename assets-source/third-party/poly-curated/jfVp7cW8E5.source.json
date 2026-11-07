@@ -1,0 +1,47 @@
+{
+  "Title": "Sunglasses",
+  "Description": "I didn't know you were chill like that 😎",
+  "UploadDate": "2022-12-24T19:01:34.859Z",
+  "ResourceID": "9de97bf5-3466-4c95-82a4-66ca97203dd3",
+  "PublicID": "jfVp7cW8E5",
+  "Likes": 6,
+  "CommentCount": 0,
+  "Tris": 382,
+  "Views": 547,
+  "Downloads": 800,
+  "Creator": {
+    "Username": "J-Toastie",
+    "DPURL": "https://static.poly.pizza/dp%2F2a18493e-a521-40ff-8c30-f7cfcdb513dd.jpg",
+    "Socials": {}
+  },
+  "Category": "Other",
+  "Tags": [
+    "Sunglasses",
+    "Eyewear",
+    "Clothing",
+    "Cosmetic",
+    "Accessory"
+  ],
+  "Orbit": {
+    "phi": "1.20495",
+    "radius": "1.2763609739770971",
+    "theta": "-2.73862"
+  },
+  "Background": {
+    "one": "#5e35b1",
+    "two": "hsl(260deg, 54%, 15%)",
+    "type": "Radial"
+  },
+  "Visibility": "Public",
+  "Type": "OBJ",
+  "Licence": "CC-BY 3.0",
+  "Animated": false,
+  "sourceUrl": "https://poly.pizza/m/jfVp7cW8E5",
+  "downloadUrl": "https://static.poly.pizza/9de97bf5-3466-4c95-82a4-66ca97203dd3.glb",
+  "sha256": "12eaf26c4fec1e430f130f3f406ad1588d518e2646d81b0a6287360a275c6dd0",
+  "sourcePageSha256": "a850b9eac05413802890064d99a6846690c49df838c1cf15c5ec33751b319c88",
+  "retrieved": "2026-10-22T11:04:50.563Z",
+  "sourcePageRetrieved": "2026-10-22T11:04:50.337Z",
+  "verifiedAt": "2026-10-22T11:21:06.108Z",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/"
+}

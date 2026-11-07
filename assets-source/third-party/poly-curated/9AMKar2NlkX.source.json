@@ -1,0 +1,47 @@
+{
+  "Title": "Hard hat",
+  "Description": "#visor #construction #protection #safety #helmet",
+  "UploadDate": "2017-09-19T15:00:18.955Z",
+  "ResourceID": "afc203f7-60ac-4374-87b9-60af1b722693",
+  "PublicID": "9AMKar2NlkX",
+  "Likes": 1,
+  "CommentCount": 0,
+  "Tris": 740,
+  "Views": "1.2k",
+  "Downloads": 208,
+  "Creator": {
+    "Username": "Poly by Google",
+    "DPURL": "https://static.poly.pizza/dp%2Fpolygoogle.jpg",
+    "Socials": {}
+  },
+  "Category": "Objects",
+  "Tags": [
+    "visor",
+    "construction",
+    "protection",
+    "safety",
+    "helmet"
+  ],
+  "Orbit": {
+    "phi": "1.31884",
+    "radius": "110%",
+    "theta": "0.87089"
+  },
+  "Background": {
+    "one": "#00acc1",
+    "two": "hsl(187deg, 100%, 15%)",
+    "type": "Radial"
+  },
+  "Visibility": "Public",
+  "Type": "obj",
+  "Licence": "CC-BY 3.0",
+  "Animated": false,
+  "sourceUrl": "https://poly.pizza/m/9AMKar2NlkX",
+  "downloadUrl": "https://static.poly.pizza/afc203f7-60ac-4374-87b9-60af1b722693.glb",
+  "sha256": "eb3000341ddc0cf829266cd07e0b02bcce05962c3f5c13d7767df924b5779108",
+  "sourcePageSha256": "e67728b7fd20d7486c776e736042baf6bc385a880e99052d3339f1fe29059469",
+  "retrieved": "2026-10-22T11:05:28.068Z",
+  "sourcePageRetrieved": "2026-10-22T11:05:27.851Z",
+  "verifiedAt": "2026-10-22T11:21:06.143Z",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/"
+}

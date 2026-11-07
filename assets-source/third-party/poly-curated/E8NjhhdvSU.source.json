@@ -1,0 +1,48 @@
+{
+  "Title": "Turbot",
+  "UploadDate": "2022-06-20T13:20:18.350Z",
+  "ResourceID": "ece9f066-f030-4e4b-8ceb-a5ebb7541e1e",
+  "PublicID": "E8NjhhdvSU",
+  "Likes": 5,
+  "CommentCount": 0,
+  "Tris": 1626,
+  "Views": 505,
+  "Downloads": "2.51k",
+  "Creator": {
+    "Username": "Quaternius",
+    "DPURL": "https://static.poly.pizza/dp%2Ff63b655a-051c-4c4b-8dcc-3b346a39ece0.jpg",
+    "Socials": {
+      "Twitter": "quaternius",
+      "Pateron": "quaternius",
+      "Website": "https://quaternius.com/"
+    }
+  },
+  "Category": "Animals",
+  "Tags": [
+    "Sea Life",
+    "Animal",
+    "Fish"
+  ],
+  "Orbit": {
+    "phi": "1.29325",
+    "radius": "100%",
+    "theta": "0.86610"
+  },
+  "Background": {
+    "one": "#039be5",
+    "two": "hsl(200deg, 97%, 15%)",
+    "type": "Radial"
+  },
+  "Visibility": "Public",
+  "Type": "FBX",
+  "Licence": "CC0 1.0",
+  "Animated": true,
+  "sourceUrl": "https://poly.pizza/m/E8NjhhdvSU",
+  "downloadUrl": "https://static.poly.pizza/ece9f066-f030-4e4b-8ceb-a5ebb7541e1e.glb",
+  "sha256": "0dde362a33fe13d87561222b012dd6389c7a9b5f0abb8d4823728462d56468c5",
+  "sourcePageSha256": "804c9b6129deecfac0d4cfc0435755d21eff008525d84282e702b3271a19d80f",
+  "retrieved": "2026-10-22T11:01:31.258Z",
+  "sourcePageRetrieved": "2026-10-22T11:01:30.829Z",
+  "verifiedAt": "2026-10-22T11:21:05.923Z",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+}

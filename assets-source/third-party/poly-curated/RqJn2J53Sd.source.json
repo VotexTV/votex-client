@@ -1,0 +1,47 @@
+{
+  "Title": "Mask",
+  "Description": "A regular happy mask...",
+  "UploadDate": "2022-12-24T19:01:34.858Z",
+  "ResourceID": "bab17cd6-346a-4d91-b02e-c3406697bb13",
+  "PublicID": "RqJn2J53Sd",
+  "Likes": 4,
+  "CommentCount": 0,
+  "Tris": 392,
+  "Views": 415,
+  "Downloads": 687,
+  "Creator": {
+    "Username": "J-Toastie",
+    "DPURL": "https://static.poly.pizza/dp%2F2a18493e-a521-40ff-8c30-f7cfcdb513dd.jpg",
+    "Socials": {}
+  },
+  "Category": "Other",
+  "Tags": [
+    "Mask",
+    "Clothing",
+    "Smile",
+    "Cosmetic",
+    "Accessory"
+  ],
+  "Orbit": {
+    "phi": "1.21972",
+    "radius": "100%",
+    "theta": "-4.86584"
+  },
+  "Background": {
+    "one": "#5e35b1",
+    "two": "hsl(260deg, 54%, 15%)",
+    "type": "Radial"
+  },
+  "Visibility": "Public",
+  "Type": "OBJ",
+  "Licence": "CC-BY 3.0",
+  "Animated": false,
+  "sourceUrl": "https://poly.pizza/m/RqJn2J53Sd",
+  "downloadUrl": "https://static.poly.pizza/bab17cd6-346a-4d91-b02e-c3406697bb13.glb",
+  "sha256": "55b6ef54aee0fa76ffa8a9009851533c3e917908ff466bae59c2e47f46ee5b9e",
+  "sourcePageSha256": "055628adf8a156b0a8faf6d26244729b2591c3de506604be4ecda48827662220",
+  "retrieved": "2026-10-22T11:04:54.089Z",
+  "sourcePageRetrieved": "2026-10-22T11:04:53.848Z",
+  "verifiedAt": "2026-10-22T11:21:06.111Z",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/"
+}

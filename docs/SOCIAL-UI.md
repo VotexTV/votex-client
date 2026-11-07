@@ -1,0 +1,18 @@
+# Live social controls and Voice dialog input,2026-10-24
+
+The Friends workspace previously built its player buttons once. Peers joining or leaving while it stayed open were missing or retained as stale actions. It now compares the actual peer snapshot each tick and rebuilds on change. It defers that rebuild during window move/resize, then updates once the gesture ends. Pagination exposes every peer and clamps the current page after departures.
+
+The first private native follow-up exposed a compact layout issue: the new pager was below the visible content region. Friends now uses the available panel height, adjusts its row count and fits the empty state/status/actions/pager together. Other longer workspaces retain their existing eased content scrolling. The LAN action is disabled with an explanatory tooltip on a remote-server connection; it remains enabled for an integrated world. The dedicated UI test proves the integrated-world case; the remote disabled branch is compile-checked, not separately exercised on a real external server.
+
+Voice Setup now has the shared workspace entrance. Voice Consent previously recomputed a different animation transform during input than the one used to render the visible button. Both now retain the actual displayed WorkspaceMotion frame and use its exact inverse for mouse position, hover, press and release. Disabled motion produces identity coordinates. No device permission or upstream Voice policy changed.
+
+## Native evidence
+
+- social-ui-run-01 exited1 on the clipped pager click; that failed record is retained. Its integrated world still saved every dimension during test cleanup. It does not prove later dialog cases.
+- social-ui-run-02 exited0 and saved every dimension. It used24 synthetic peer packets delivered into VotexSocial.receive on the actual client thread, not24 real players or connections. The open screen updated on arrival/departure, all24 entries were reached through actual native pager clicks, a simulated in-progress window gesture deferred rebuilding, and removing all peers clamped the last page. No physical drag assertion is added; earlier window tests separately cover native drag input.
+- Eight rendered dialog cases cover Consent/Setup at768x480 and1280x720, with motion enabled and disabled. In the enabled cases the test holds an actual rendered first frame, advances the animation clock without rendering another frame, then clicks a visible button edge that the old untransformed hit test would miss. Cancel returns to the original parent. Permission is asserted unchanged in all eight cases. The activation button is never invoked.
+- All11 final PNGs were inspected: arrival/last-page/empty Friends and each of the eight dialog cases. No microphone capture, mod installation, account login, OS automation or external server is used. The ordinary game audio engine may initialize playback; this is not a voice audio test.
+
+Proof: work/ingame-goal/social-ui-run-02/clientGameTest/config/votex/goal-evidence/native-social-ui-proof.json. Its launch-result.json records exact source hashes and exit0. Java100 tests remain passing, and production/gametest compilation plus JAR/source JAR succeed. The two additional native attempts bring the objective tally from35 to37, including failures.
+
+This is local UI/lifecycle coverage. Actual multiplayer transport/consent remains the separate paired05 evidence. Microsoft-authenticated friends, global presence, public friend-world deployment and physical voice audio remain open; the prepared self-host archive is not a running service. Source is newer than Preview2, and neither EXE nor the website was replaced. Full objective remains ACTIVE.

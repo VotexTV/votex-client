@@ -1,0 +1,285 @@
+name: signed-release
+
+on:
+  workflow_dispatch:
+  push:
+    tags: ["v*"]
+
+permissions:
+  contents: read
+  actions: read
+
+defaults:
+  run:
+    shell: pwsh
+
+concurrency:
+  group: signed-release-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: windows-latest
+    outputs:
+      launcher-artifact-id: ${{ steps.launcher.outputs.artifact-id }}
+      version: ${{ steps.version.outputs.version }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: pnpm/action-setup@v4
+        with:
+          version: 10
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+          cache: pnpm
+      - run: pnpm install --frozen-lockfile
+      - name: Check version chain
+        id: version
+        run: |
+          $version = (Get-Content package.json -Raw | ConvertFrom-Json).version
+          $tauri = (Get-Content apps/launcher/src-tauri/tauri.conf.json -Raw | ConvertFrom-Json).version
+          $cargoLine = Select-String -Path apps/launcher/src-tauri/Cargo.toml -Pattern '^version = "(.+)"' | Select-Object -First 1
+          $cargo = $cargoLine.Matches[0].Groups[1].Value
+          if ($version -ne $tauri -or $version -ne $cargo) {
+            throw "Version mismatch: package=$version tauri=$tauri cargo=$cargo"
+          }
+          if ($env:GITHUB_REF_TYPE -eq 'tag' -and $env:GITHUB_REF_NAME -ne "v$version") {
+            throw "Tag $env:GITHUB_REF_NAME does not match version $version"
+          }
+          "version=$version" | Out-File -FilePath $env:GITHUB_OUTPUT -Append
+      - name: Frontend tests
+        run: pnpm test
+      - uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: 25
+      - name: Build and test core
+        working-directory: minecraft/votex-core
+        run: ./gradlew.bat --no-daemon build compileGametestJava
+      - name: Stage core
+        run: ./scripts/stage-core.ps1
+      - uses: dtolnay/rust-toolchain@stable
+      - name: Rust tests
+        run: cargo test --locked --manifest-path apps/launcher/src-tauri/Cargo.toml
+      - name: Build launcher without packaging
+        run: pnpm desktop:build --no-bundle
+      - uses: actions/upload-artifact@v4
+        id: launcher
+        with:
+          name: unsigned-launcher
+          path: apps/launcher/src-tauri/target/release/votex-launcher.exe
+          if-no-files-found: error
+          retention-days: 7
+      - name: Prepare bundle resources
+        run: |
+          New-Item -ItemType Directory -Path bundle-inputs/resources -Force | Out-Null
+          Copy-Item apps/launcher/src-tauri/resources/votex-client-core-*.jar bundle-inputs/resources/
+          Copy-Item apps/launcher/dist bundle-inputs/dist -Recurse
+      - uses: actions/upload-artifact@v4
+        with:
+          name: bundle-inputs
+          path: bundle-inputs/
+          if-no-files-found: error
+          retention-days: 7
+
+  sign-launcher:
+    needs: build
+    if: github.ref_type == 'tag'
+    runs-on: windows-latest
+    timeout-minutes: 90
+    steps:
+      - name: Check signing access
+        env:
+          SIGNPATH_API_TOKEN: ${{ secrets.SIGNPATH_API_TOKEN }}
+          SIGNPATH_ORGANIZATION_ID: ${{ secrets.SIGNPATH_ORGANIZATION_ID }}
+          SIGNPATH_CERTIFICATE_THUMBPRINT: ${{ vars.SIGNPATH_CERTIFICATE_THUMBPRINT }}
+        run: |
+          if ([string]::IsNullOrWhiteSpace($env:SIGNPATH_API_TOKEN) -or [string]::IsNullOrWhiteSpace($env:SIGNPATH_ORGANIZATION_ID)) {
+            throw 'An approved SignPath project and configured signing credentials are required.'
+          }
+          if ($env:SIGNPATH_CERTIFICATE_THUMBPRINT -notmatch '^[0-9a-fA-F]{40}$') {
+            throw 'Configure the approved SignPath signing certificate thumbprint before signing.'
+          }
+      - uses: SignPath/github-action-submit-signing-request@v1
+        with:
+          api-token: ${{ secrets.SIGNPATH_API_TOKEN }}
+          organization-id: ${{ secrets.SIGNPATH_ORGANIZATION_ID }}
+          project-slug: ${{ vars.SIGNPATH_PROJECT_SLUG || 'votex-client' }}
+          signing-policy-slug: ${{ vars.SIGNPATH_SIGNING_POLICY_SLUG || 'release-signing' }}
+          artifact-configuration-slug: ${{ vars.SIGNPATH_LAUNCHER_CONFIGURATION_SLUG || 'windows-launcher' }}
+          github-artifact-id: ${{ needs.build.outputs.launcher-artifact-id }}
+          parameters: |
+            version: "${{ needs.build.outputs.version }}"
+          wait-for-completion: true
+          wait-for-completion-timeout-in-seconds: 3600
+          output-artifact-directory: signed-launcher
+      - name: Verify signed launcher
+        env:
+          VOTEX_RELEASE_VERSION: ${{ needs.build.outputs.version }}
+          SIGNPATH_CERTIFICATE_THUMBPRINT: ${{ vars.SIGNPATH_CERTIFICATE_THUMBPRINT }}
+        run: |
+          if ($env:SIGNPATH_CERTIFICATE_THUMBPRINT -notmatch '^[0-9a-fA-F]{40}$') {
+            throw 'Configure the approved SignPath signing certificate thumbprint before signing.'
+          }
+          $files = @(Get-ChildItem signed-launcher -Recurse -Filter votex-launcher.exe)
+          if ($files.Count -ne 1) { throw 'Expected exactly one signed launcher.' }
+          $signature = Get-AuthenticodeSignature -LiteralPath $files[0].FullName
+          if ($signature.Status -ne 'Valid' -or -not $signature.TimeStamperCertificate) {
+            throw 'Launcher must have a valid timestamped Authenticode signature.'
+          }
+          if ($signature.SignerCertificate.Subject -eq $signature.SignerCertificate.Issuer) {
+            throw 'Self-signed certificates do not establish public publisher trust.'
+          }
+          if ($signature.SignerCertificate.Thumbprint -ne $env:SIGNPATH_CERTIFICATE_THUMBPRINT) {
+            throw 'Launcher was not signed by the configured approved SignPath identity.'
+          }
+          if ($files[0].VersionInfo.ProductVersion -ne $env:VOTEX_RELEASE_VERSION) {
+            throw 'Launcher version does not match the release.'
+          }
+      - uses: actions/upload-artifact@v4
+        with:
+          name: signed-launcher
+          path: signed-launcher/**/votex-launcher.exe
+          if-no-files-found: error
+          retention-days: 7
+
+  bundle:
+    needs: [build, sign-launcher]
+    runs-on: windows-latest
+    outputs:
+      installer-artifact-id: ${{ steps.installer.outputs.artifact-id }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: pnpm/action-setup@v4
+        with:
+          version: 10
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+          cache: pnpm
+      - run: pnpm install --frozen-lockfile
+      - uses: dtolnay/rust-toolchain@stable
+      - uses: actions/download-artifact@v4
+        with:
+          name: bundle-inputs
+          path: bundle-inputs
+      - uses: actions/download-artifact@v4
+        with:
+          name: signed-launcher
+          path: signed-launcher
+      - name: Stage signed launcher and resources
+        run: |
+          $files = @(Get-ChildItem signed-launcher -Recurse -Filter votex-launcher.exe)
+          if ($files.Count -ne 1) { throw 'Expected exactly one signed launcher.' }
+          New-Item -ItemType Directory apps/launcher/src-tauri/target/release -Force | Out-Null
+          New-Item -ItemType Directory apps/launcher/src-tauri/resources -Force | Out-Null
+          Copy-Item $files[0].FullName apps/launcher/src-tauri/target/release/votex-launcher.exe
+          Copy-Item bundle-inputs/resources/*.jar apps/launcher/src-tauri/resources/
+          Copy-Item bundle-inputs/dist apps/launcher/dist -Recurse
+      - name: Package without rebuilding the signed launcher
+        working-directory: apps/launcher
+        run: pnpm exec tauri bundle --bundles nsis --no-binary-patching
+      - uses: actions/upload-artifact@v4
+        id: installer
+        with:
+          name: unsigned-installer
+          path: apps/launcher/src-tauri/target/release/bundle/nsis/*.exe
+          if-no-files-found: error
+          retention-days: 7
+
+  sign-installer:
+    needs: [build, bundle]
+    runs-on: windows-latest
+    timeout-minutes: 90
+    steps:
+      - uses: actions/download-artifact@v4
+        with:
+          name: signed-launcher
+          path: signed-launcher
+      - uses: SignPath/github-action-submit-signing-request@v1
+        with:
+          api-token: ${{ secrets.SIGNPATH_API_TOKEN }}
+          organization-id: ${{ secrets.SIGNPATH_ORGANIZATION_ID }}
+          project-slug: ${{ vars.SIGNPATH_PROJECT_SLUG || 'votex-client' }}
+          signing-policy-slug: ${{ vars.SIGNPATH_SIGNING_POLICY_SLUG || 'release-signing' }}
+          artifact-configuration-slug: ${{ vars.SIGNPATH_INSTALLER_CONFIGURATION_SLUG || 'windows-installer' }}
+          github-artifact-id: ${{ needs.bundle.outputs.installer-artifact-id }}
+          parameters: |
+            version: "${{ needs.build.outputs.version }}"
+          wait-for-completion: true
+          wait-for-completion-timeout-in-seconds: 3600
+          output-artifact-directory: signed
+      - name: Verify installer and embedded launcher signatures
+        env:
+          VOTEX_RELEASE_VERSION: ${{ needs.build.outputs.version }}
+          SIGNPATH_CERTIFICATE_THUMBPRINT: ${{ vars.SIGNPATH_CERTIFICATE_THUMBPRINT }}
+        run: |
+          $ErrorActionPreference = 'Stop'
+          $installers = @(Get-ChildItem signed -Recurse -Filter "Votex Client_$env:VOTEX_RELEASE_VERSION`_x64-setup.exe")
+          if ($installers.Count -ne 1) { throw 'Expected exactly one version-matched installer.' }
+          $installer = $installers[0]
+          $signature = Get-AuthenticodeSignature -LiteralPath $installer.FullName
+          if ($signature.Status -ne 'Valid' -or -not $signature.TimeStamperCertificate) {
+            throw 'Installer must have a valid timestamped Authenticode signature.'
+          }
+          if ($signature.SignerCertificate.Subject -eq $signature.SignerCertificate.Issuer) {
+            throw 'Self-signed certificates do not establish public publisher trust.'
+          }
+          if ($signature.SignerCertificate.Thumbprint -ne $env:SIGNPATH_CERTIFICATE_THUMBPRINT) {
+            throw 'Installer was not signed by the configured approved SignPath identity.'
+          }
+          $extractDir = Join-Path $env:RUNNER_TEMP 'votex-signed-installer'
+          & 7z.exe x $installer.FullName "-o$extractDir" -y
+          if ($LASTEXITCODE -ne 0) { throw 'Installer extraction failed.' }
+          $launchers = @(Get-ChildItem -LiteralPath $extractDir -Recurse -Filter votex-launcher.exe)
+          if ($launchers.Count -ne 1) { throw 'Expected exactly one embedded launcher.' }
+          $launcher = $launchers[0]
+          $launcherSignature = Get-AuthenticodeSignature -LiteralPath $launcher.FullName
+          if ($launcherSignature.Status -ne 'Valid' -or -not $launcherSignature.TimeStamperCertificate) {
+            throw 'Embedded launcher must have a valid timestamped Authenticode signature.'
+          }
+          if ($launcherSignature.SignerCertificate.Thumbprint -ne $signature.SignerCertificate.Thumbprint) {
+            throw 'Launcher and installer must be signed by the same approved identity.'
+          }
+          if ($launcher.VersionInfo.ProductVersion -ne $env:VOTEX_RELEASE_VERSION) {
+            throw 'Embedded launcher version does not match the release.'
+          }
+          $approvedLaunchers = @(Get-ChildItem signed-launcher -Recurse -Filter votex-launcher.exe)
+          if ($approvedLaunchers.Count -ne 1) { throw 'Expected exactly one approved signed launcher.' }
+          $approvedHash = (Get-FileHash -LiteralPath $approvedLaunchers[0].FullName -Algorithm SHA256).Hash
+          if ((Get-FileHash -LiteralPath $launcher.FullName -Algorithm SHA256).Hash -ne $approvedHash) {
+            throw 'Packaging changed or replaced the approved signed launcher.'
+          }
+          @($installer, $launcher) | ForEach-Object {
+            "{0}  {1}" -f (Get-FileHash -LiteralPath $_.FullName -Algorithm SHA256).Hash.ToLower(), $_.Name
+          } | Set-Content -Encoding ascii SHA256-SIGNED.txt
+          Get-Content SHA256-SIGNED.txt
+      - uses: actions/upload-artifact@v4
+        with:
+          name: signed-installer
+          path: |
+            signed/**/*_x64-setup.exe
+            SHA256-SIGNED.txt
+          if-no-files-found: error
+          retention-days: 30
+
+  release-draft:
+    needs: [build, sign-installer]
+    runs-on: windows-latest
+    permissions:
+      contents: write
+      actions: read
+    steps:
+      - uses: actions/download-artifact@v4
+        with:
+          name: signed-installer
+          path: release
+      - name: Create draft pending installation and Smart App Control testing
+        env:
+          GH_TOKEN: ${{ github.token }}
+          VOTEX_RELEASE_VERSION: ${{ needs.build.outputs.version }}
+        run: |
+          $assets = @(Get-ChildItem release -Recurse -Filter '*_x64-setup.exe' | ForEach-Object FullName)
+          $hashes = Get-ChildItem release -Recurse -Filter SHA256-SIGNED.txt | Select-Object -ExpandProperty FullName
+          gh release create "v$env:VOTEX_RELEASE_VERSION" @assets $hashes --repo $env:GITHUB_REPOSITORY --verify-tag --draft --title "Votex Client $env:VOTEX_RELEASE_VERSION Beta" --notes 'Signed candidate. Installation, launcher UI, uninstall and Smart App Control tests are required before publication.'
+          if ($LASTEXITCODE -ne 0) { throw 'Release draft creation failed.' }

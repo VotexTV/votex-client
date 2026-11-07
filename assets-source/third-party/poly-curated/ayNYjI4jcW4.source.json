@@ -1,0 +1,46 @@
+{
+  "Title": "Sheriff Hat",
+  "Description": "#headgear #accessory #official #county",
+  "UploadDate": "2017-10-11T23:48:20.745Z",
+  "ResourceID": "3764d1e8-22c1-4c79-93b1-407e2c820a52",
+  "PublicID": "ayNYjI4jcW4",
+  "Likes": 5,
+  "CommentCount": 0,
+  "Tris": 588,
+  "Views": "1.47k",
+  "Downloads": "1.07k",
+  "Creator": {
+    "Username": "Poly by Google",
+    "DPURL": "https://static.poly.pizza/dp%2Fpolygoogle.jpg",
+    "Socials": {}
+  },
+  "Category": "Objects",
+  "Tags": [
+    "headgear",
+    "accessory",
+    "official",
+    "county"
+  ],
+  "Orbit": {
+    "phi": "1.31884",
+    "radius": "110%",
+    "theta": "0.87089"
+  },
+  "Background": {
+    "one": "#039be5",
+    "two": "hsl(200deg, 97%, 15%)",
+    "type": "Radial"
+  },
+  "Visibility": "Public",
+  "Type": "obj",
+  "Licence": "CC-BY 3.0",
+  "Animated": false,
+  "sourceUrl": "https://poly.pizza/m/ayNYjI4jcW4",
+  "downloadUrl": "https://static.poly.pizza/3764d1e8-22c1-4c79-93b1-407e2c820a52.glb",
+  "sha256": "2051afb2615d36978c88bb5b0fdcd479c2900ea4e0663c8bd373c495c82b4fc1",
+  "sourcePageSha256": "aeb81da412ffe1d9d7c88e439d3c1cfa874b0d081d6a8b9812b3db52e8ebf489",
+  "retrieved": "2026-10-21T21:14:17.382Z",
+  "sourcePageRetrieved": "2026-10-21T21:14:16.774Z",
+  "verifiedAt": "2026-10-22T11:21:06.136Z",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/"
+}

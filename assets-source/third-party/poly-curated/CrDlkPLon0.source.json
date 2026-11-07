@@ -1,0 +1,48 @@
+{
+  "Title": "Yellow Tang",
+  "UploadDate": "2022-06-20T13:20:18.182Z",
+  "ResourceID": "ace51e9d-d61b-4477-834a-8e6d0361c6a6",
+  "PublicID": "CrDlkPLon0",
+  "Likes": 3,
+  "CommentCount": 0,
+  "Tris": 1342,
+  "Views": 370,
+  "Downloads": "2.07k",
+  "Creator": {
+    "Username": "Quaternius",
+    "DPURL": "https://static.poly.pizza/dp%2Ff63b655a-051c-4c4b-8dcc-3b346a39ece0.jpg",
+    "Socials": {
+      "Twitter": "quaternius",
+      "Pateron": "quaternius",
+      "Website": "https://quaternius.com/"
+    }
+  },
+  "Category": "Animals",
+  "Tags": [
+    "Sea Life",
+    "Animal",
+    "Fish"
+  ],
+  "Orbit": {
+    "phi": "1.29325",
+    "radius": "100%",
+    "theta": "0.86610"
+  },
+  "Background": {
+    "one": "#039be5",
+    "two": "hsl(200deg, 97%, 15%)",
+    "type": "Radial"
+  },
+  "Visibility": "Public",
+  "Type": "FBX",
+  "Licence": "CC0 1.0",
+  "Animated": true,
+  "sourceUrl": "https://poly.pizza/m/CrDlkPLon0",
+  "downloadUrl": "https://static.poly.pizza/ace51e9d-d61b-4477-834a-8e6d0361c6a6.glb",
+  "sha256": "c5724eae43799510667e24d2f32508363cb52e5f57853880257e148bfaaadbcf",
+  "sourcePageSha256": "6526a0abe796e102ef80f9ca65b8384d14e2d9e03c6d7eb40e64b612eba0a71d",
+  "retrieved": "2026-10-22T11:01:32.973Z",
+  "sourcePageRetrieved": "2026-10-22T11:01:32.527Z",
+  "verifiedAt": "2026-10-22T11:21:05.924Z",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+}

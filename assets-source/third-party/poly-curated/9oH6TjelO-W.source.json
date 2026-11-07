@@ -1,0 +1,44 @@
+{
+  "Title": "Antlers",
+  "Description": "#deer #horns",
+  "UploadDate": "2017-10-23T15:36:53.963Z",
+  "ResourceID": "5c3c13da-a024-489c-8330-cef4afc6d475",
+  "PublicID": "9oH6TjelO-W",
+  "Likes": 3,
+  "CommentCount": 0,
+  "Tris": 672,
+  "Views": "1.08k",
+  "Downloads": 153,
+  "Creator": {
+    "Username": "Poly by Google",
+    "DPURL": "https://static.poly.pizza/dp%2Fpolygoogle.jpg",
+    "Socials": {}
+  },
+  "Category": "Animals",
+  "Tags": [
+    "deer",
+    "horns"
+  ],
+  "Orbit": {
+    "phi": "1.31884",
+    "radius": "110%",
+    "theta": "0.87089"
+  },
+  "Background": {
+    "one": "#e53935",
+    "two": "hsl(1deg, 77%, 15%)",
+    "type": "Radial"
+  },
+  "Visibility": "Public",
+  "Type": "obj",
+  "Licence": "CC-BY 3.0",
+  "Animated": false,
+  "sourceUrl": "https://poly.pizza/m/9oH6TjelO-W",
+  "downloadUrl": "https://static.poly.pizza/5c3c13da-a024-489c-8330-cef4afc6d475.glb",
+  "sha256": "5cf80072c6f952b48bf353748aae31ee8a636d6aac2c667147aa48b2cdf47466",
+  "sourcePageSha256": "57cadd91dda2fcd4e85eb1d31ca278b9668aefa4364f5866cf3f06922b39d5b2",
+  "retrieved": "2026-10-22T11:05:57.333Z",
+  "sourcePageRetrieved": "2026-10-22T11:05:56.992Z",
+  "verifiedAt": "2026-10-22T11:21:06.159Z",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/"
+}

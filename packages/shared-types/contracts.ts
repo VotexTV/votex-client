@@ -1,0 +1,8 @@
+/** Extension contracts. Unimplemented renderers must advertise availability='planned'. */
+export type Availability='available'|'configuration-required'|'planned';
+export interface InternalModule {id:string;name:string;description:string;category:'HUD'|'LootBrain'|'Cosmetic'|'Performance';enabled:boolean;settings:Record<string,boolean|number|string>;keybind:string;runtimeToggle:boolean;availability:Availability}
+export interface EmoteAdapter {id:string;name:string;availability:Availability;play():Promise<void>;stop():void}
+export interface CosmeticDefinition {id:string;name:string;category:'cape'|'wings'|'hat'|'backpack'|'pet'|'aura'|'trail'|'accessory';preview:{skinPreset?:string;asset?:string};renderer:string;enabled:boolean;animation?:string;quality:'minimal'|'balanced'|'cinematic';availability:Availability}
+export interface ShaderSelection {schemaVersion:1;projectId?:string;versionId?:string;filename?:string;quality:'off'|'low'|'balanced'|'high';provider:'iris'|'unconfigured'}
+export interface SharedDesign {schemaVersion:1;accent:string;text:string;muted:string;tint:string;transparency:number;radius:number;wobble:number;reducedMotion:boolean;secondary?:string;hover?:boolean;speed?:number;stiffness?:number;damping?:number;blur?:number;glow?:number;reflection?:number;shadow?:number;proximity?:number;lift?:number;tilt?:number;glassEffect?:boolean;glowEffect?:boolean;reflectionEffect?:boolean;proximityEffect?:boolean;wobbleEffect?:boolean}
+export interface LocalConfigTransport {readTheme(instanceId:string):Promise<SharedDesign>;writeTheme(instanceId:string,theme:SharedDesign):Promise<void>}

@@ -1,0 +1,48 @@
+{
+  "Title": "Sandal",
+  "Description": "#footwear #clothes",
+  "UploadDate": "2017-10-23T03:05:00.352Z",
+  "ResourceID": "6c7b4ee4-33d6-4482-a849-f91351a4a5e8",
+  "PublicID": "4_4lQugjiRa",
+  "Likes": 2,
+  "CommentCount": 0,
+  "Tris": 388,
+  "Views": 607,
+  "Downloads": 123,
+  "Creator": {
+    "Username": "jeremy",
+    "DPURL": "https://static.poly.pizza/dp%2Fa5e02278-d16e-4cbc-a709-114f417fe8ef.jpg",
+    "Socials": {
+      "Twitter": "astackofpaper",
+      "Instagram": "jedelblut",
+      "Website": "https://jeremy.toys"
+    }
+  },
+  "Category": "Objects",
+  "Tags": [
+    "footwear",
+    "clothes"
+  ],
+  "Orbit": {
+    "phi": "1.31884",
+    "radius": "110%",
+    "theta": "0.87089"
+  },
+  "Background": {
+    "one": "#ffb300",
+    "two": "hsl(42deg, 100%, 15%)",
+    "type": "Radial"
+  },
+  "Visibility": "Public",
+  "Type": "obj",
+  "Licence": "CC-BY 3.0",
+  "Animated": false,
+  "sourceUrl": "https://poly.pizza/m/4_4lQugjiRa",
+  "downloadUrl": "https://static.poly.pizza/6c7b4ee4-33d6-4482-a849-f91351a4a5e8.glb",
+  "sha256": "4228fd6faee70e74a9167e2bc703d146c4aa90d66b94d7fe818aff6615cfc1cf",
+  "sourcePageSha256": "bac5a08e51950c142e9a6cc836e2191f0325b324da4574d34c576ca634f7b39b",
+  "retrieved": "2026-10-22T11:06:29.314Z",
+  "sourcePageRetrieved": "2026-10-22T11:06:29.072Z",
+  "verifiedAt": "2026-10-22T11:21:06.172Z",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/"
+}

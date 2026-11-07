@@ -1,0 +1,48 @@
+{
+  "Title": "Piranha",
+  "UploadDate": "2022-06-20T13:20:14.141Z",
+  "ResourceID": "400a5d85-02c8-4178-8c91-ed7e25722477",
+  "PublicID": "F7bCnF1BFf",
+  "Likes": 4,
+  "CommentCount": 0,
+  "Tris": 1676,
+  "Views": 463,
+  "Downloads": "2.1k",
+  "Creator": {
+    "Username": "Quaternius",
+    "DPURL": "https://static.poly.pizza/dp%2Ff63b655a-051c-4c4b-8dcc-3b346a39ece0.jpg",
+    "Socials": {
+      "Twitter": "quaternius",
+      "Pateron": "quaternius",
+      "Website": "https://quaternius.com/"
+    }
+  },
+  "Category": "Animals",
+  "Tags": [
+    "Fish",
+    "Underwater",
+    "Teeth"
+  ],
+  "Orbit": {
+    "phi": "1.29325",
+    "radius": "100%",
+    "theta": "0.86610"
+  },
+  "Background": {
+    "one": "#039be5",
+    "two": "hsl(200deg, 97%, 15%)",
+    "type": "Radial"
+  },
+  "Visibility": "Public",
+  "Type": "FBX",
+  "Licence": "CC0 1.0",
+  "Animated": true,
+  "sourceUrl": "https://poly.pizza/m/F7bCnF1BFf",
+  "downloadUrl": "https://static.poly.pizza/400a5d85-02c8-4178-8c91-ed7e25722477.glb",
+  "sha256": "bca92fec1795ca802faa66c381d897e03005b738b7337f9e7b1d7c1d02551bce",
+  "sourcePageSha256": "427733b4b11e273c0e659b5fc97cd9b16b8fac425b62886475c6ec6a0e454d97",
+  "retrieved": "2026-10-22T11:02:15.399Z",
+  "sourcePageRetrieved": "2026-10-22T11:02:15.157Z",
+  "verifiedAt": "2026-10-22T11:21:05.958Z",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+}

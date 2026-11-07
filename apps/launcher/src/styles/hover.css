@@ -1,0 +1,32 @@
+/* A stable wrapper owns the hover hit plane; a button has one visual transform. */
+.button-wrap { position: relative; }
+.button-wrap > .btn.luminous-card {
+  --button-over: 0;
+  transform: perspective(1000px)
+    translateY(calc(var(--button-over) * var(--button-lift, .5px) * -1))
+    rotateX(calc(var(--near, 0) * var(--tilt-x, 0) * var(--tilt, 0deg)))
+    rotateY(calc(var(--near, 0) * var(--tilt-y, 0) * var(--tilt, 0deg) * -1));
+}
+html[data-hover="true"][data-reduced="false"] .button-wrap:not(.disabled):hover > .btn { --button-over: 1; }
+button, .button-wrap > .btn.luminous-card, button.luminous-target {
+  transition-property: background-color, border-color, box-shadow, color, transform, opacity;
+  transition-duration: var(--hover-duration, 220ms);
+  transition-timing-function: cubic-bezier(.2,.75,.25,1);
+}
+button.luminous-target { position: relative; isolation: isolate; }
+button.luminous-target::after {
+  content: ""; position: absolute; inset: 0; border-radius: inherit;
+  pointer-events: none; z-index: -1;
+  background: radial-gradient(260px circle at var(--light-x, 50%) var(--light-y, 50%), color-mix(in srgb, var(--secondary) 18%, transparent), transparent 75%);
+  opacity: var(--near, 0);
+  transition: opacity var(--hover-duration, 220ms) ease-out;
+}
+html[data-hover="false"] button.luminous-target::after { opacity: 0; }
+html[data-reduced="true"] .button-wrap > .btn.luminous-card { transform: none; }
+.icon-button:active { transform: scale(var(--press-scale, 1)); }
+html[data-reduced="true"] .account-button,
+html[data-reduced="true"] .icon-button { transform: none !important; }
+html[data-reduced="true"] *::after { animation: none !important; transition: none !important; }
+@media (prefers-reduced-motion: reduce) {
+  .button-wrap > .btn.luminous-card, .account-button, .icon-button { transform: none !important; }
+}

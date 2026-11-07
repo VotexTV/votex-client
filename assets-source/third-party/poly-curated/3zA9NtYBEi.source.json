@@ -1,0 +1,48 @@
+{
+  "Title": "Spear",
+  "UploadDate": "2024-03-17T09:37:31.749Z",
+  "ResourceID": "6a63e2ad-5260-4ace-9245-7bfffdfd9695",
+  "PublicID": "3zA9NtYBEi",
+  "Likes": 2,
+  "CommentCount": 0,
+  "Tris": 3200,
+  "Views": 354,
+  "Downloads": "1.48k",
+  "Creator": {
+    "Username": "Quaternius",
+    "DPURL": "https://static.poly.pizza/dp%2Ff63b655a-051c-4c4b-8dcc-3b346a39ece0.jpg",
+    "Socials": {
+      "Twitter": "quaternius",
+      "Pateron": "quaternius",
+      "Website": "https://quaternius.com/"
+    }
+  },
+  "Category": "Weapons",
+  "Tags": [
+    "Spear",
+    "Weapon",
+    "Fantasy"
+  ],
+  "Orbit": {
+    "phi": "1.08574",
+    "radius": "100%",
+    "theta": "0.69370"
+  },
+  "Background": {
+    "one": "#8e24aa",
+    "two": "hsl(287deg, 65%, 15%)",
+    "type": "Radial"
+  },
+  "Visibility": "Public",
+  "Type": "FBX",
+  "Licence": "CC0 1.0",
+  "Animated": false,
+  "sourceUrl": "https://poly.pizza/m/3zA9NtYBEi",
+  "downloadUrl": "https://static.poly.pizza/6a63e2ad-5260-4ace-9245-7bfffdfd9695.glb",
+  "sha256": "849dd95db71ce13e52c2ecd53c118012b45a6edf8b8f019f9f2ebb51bfa27bb1",
+  "sourcePageSha256": "9ec08a506b41c950ba2c5e59abb3a26aec9a36006cf7d2b4661a7b8b7f0b1879",
+  "retrieved": "2026-10-22T11:03:56.226Z",
+  "sourcePageRetrieved": "2026-10-22T11:03:55.780Z",
+  "verifiedAt": "2026-10-22T11:21:06.058Z",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+}

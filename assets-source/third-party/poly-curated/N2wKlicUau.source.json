@@ -1,0 +1,46 @@
+{
+  "Title": "Backpack",
+  "Description": "a dog may be mans best friend, but the backpack is an adventurers best friend.",
+  "UploadDate": "2026-08-07T19:07:48.239Z",
+  "ResourceID": "66067e54-2e28-4ea4-bf35-6b1e594cc34c",
+  "PublicID": "N2wKlicUau",
+  "Likes": 0,
+  "CommentCount": 0,
+  "Tris": 894,
+  "Views": 92,
+  "Downloads": 11,
+  "Creator": {
+    "Username": "J-Toastie",
+    "DPURL": "https://static.poly.pizza/dp%2F2a18493e-a521-40ff-8c30-f7cfcdb513dd.jpg",
+    "Socials": {}
+  },
+  "Category": "Objects",
+  "Tags": [
+    "Backpack",
+    "Storage",
+    "Adventure",
+    "Bag"
+  ],
+  "Orbit": {
+    "phi": "1.32985",
+    "radius": "1.6659513317643215",
+    "theta": "-19.43173"
+  },
+  "Background": {
+    "one": "#00acc1",
+    "two": "hsl(187deg, 100%, 15%)",
+    "type": "Radial"
+  },
+  "Visibility": "Public",
+  "Type": "FBX",
+  "Licence": "CC-BY 3.0",
+  "Animated": false,
+  "sourceUrl": "https://poly.pizza/m/N2wKlicUau",
+  "downloadUrl": "https://static.poly.pizza/66067e54-2e28-4ea4-bf35-6b1e594cc34c.glb",
+  "sha256": "3889f3aa9d1ccd2875b68c09dc05eb46e30a0ee5e5d9953e776c175b01f6d60a",
+  "sourcePageSha256": "21535262f522c77836e2bd1df1865b87b64cc7e4e3d7ebf0e8eb99c84f18b3a2",
+  "retrieved": "2026-10-22T11:04:55.720Z",
+  "sourcePageRetrieved": "2026-10-22T11:04:55.490Z",
+  "verifiedAt": "2026-10-22T11:21:06.112Z",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/"
+}

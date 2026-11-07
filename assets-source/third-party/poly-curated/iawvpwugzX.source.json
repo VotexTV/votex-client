@@ -1,0 +1,48 @@
+{
+  "Title": "Humphead",
+  "UploadDate": "2022-06-20T13:20:15.171Z",
+  "ResourceID": "ad753166-5036-4943-9f48-fc69c1e2b587",
+  "PublicID": "iawvpwugzX",
+  "Likes": 1,
+  "CommentCount": 0,
+  "Tris": 1410,
+  "Views": 204,
+  "Downloads": "2.02k",
+  "Creator": {
+    "Username": "Quaternius",
+    "DPURL": "https://static.poly.pizza/dp%2Ff63b655a-051c-4c4b-8dcc-3b346a39ece0.jpg",
+    "Socials": {
+      "Twitter": "quaternius",
+      "Pateron": "quaternius",
+      "Website": "https://quaternius.com/"
+    }
+  },
+  "Category": "Animals",
+  "Tags": [
+    "Animal",
+    "Sea Life",
+    "Fish"
+  ],
+  "Orbit": {
+    "phi": "1.29325",
+    "radius": "100%",
+    "theta": "0.86610"
+  },
+  "Background": {
+    "one": "#039be5",
+    "two": "hsl(200deg, 97%, 15%)",
+    "type": "Radial"
+  },
+  "Visibility": "Public",
+  "Type": "FBX",
+  "Licence": "CC0 1.0",
+  "Animated": true,
+  "sourceUrl": "https://poly.pizza/m/iawvpwugzX",
+  "downloadUrl": "https://static.poly.pizza/ad753166-5036-4943-9f48-fc69c1e2b587.glb",
+  "sha256": "1a9c5d1df3c6627a6da00e5b16c739212f0d2650c164fdc1c1c690aab47ff76b",
+  "sourcePageSha256": "213f8d539f7c64f3b40166ec75b8ae6b9a9f405f00d78f980e08ff408cfbcf6f",
+  "retrieved": "2026-10-22T11:02:05.315Z",
+  "sourcePageRetrieved": "2026-10-22T11:02:04.919Z",
+  "verifiedAt": "2026-10-22T11:21:05.950Z",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+}

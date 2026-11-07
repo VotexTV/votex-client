@@ -1,0 +1,45 @@
+{
+  "Title": "Top hat",
+  "Description": "#adornment #headgear #fancy",
+  "UploadDate": "2017-10-22T15:15:10.114Z",
+  "ResourceID": "8b57048e-81b3-49cb-b6d9-6b23ace1a92c",
+  "PublicID": "1PP65IsuNwv",
+  "Likes": 9,
+  "CommentCount": 0,
+  "Tris": 240,
+  "Views": "2.23k",
+  "Downloads": "1.34k",
+  "Creator": {
+    "Username": "Poly by Google",
+    "DPURL": "https://static.poly.pizza/dp%2Fpolygoogle.jpg",
+    "Socials": {}
+  },
+  "Category": "Other",
+  "Tags": [
+    "adornment",
+    "headgear",
+    "fancy"
+  ],
+  "Orbit": {
+    "phi": "1.31884",
+    "radius": "110%",
+    "theta": "0.87089"
+  },
+  "Background": {
+    "one": "#546e7a",
+    "two": "hsl(199deg, 18%, 15%)",
+    "type": "Radial"
+  },
+  "Visibility": "Public",
+  "Type": "obj",
+  "Licence": "CC-BY 3.0",
+  "Animated": false,
+  "sourceUrl": "https://poly.pizza/m/1PP65IsuNwv",
+  "downloadUrl": "https://static.poly.pizza/8b57048e-81b3-49cb-b6d9-6b23ace1a92c.glb",
+  "sha256": "c9ac54a78c05e59dad3f19a1d03cd9ec267baa7165de902913729832daf792e7",
+  "sourcePageSha256": "11c81dca584d3561b13dc8d99b60098c7392a11701a7846424948176997e1c2a",
+  "retrieved": "2026-10-22T11:05:17.816Z",
+  "sourcePageRetrieved": "2026-10-22T11:05:17.616Z",
+  "verifiedAt": "2026-10-22T11:21:06.131Z",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/"
+}

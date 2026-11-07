@@ -1,0 +1,45 @@
+{
+  "Title": "Top Hat / Magician's Hat",
+  "Description": "A simple hat that a magician and/or Abraham Lincoln would wear.",
+  "UploadDate": "2017-07-30T12:57:56.997Z",
+  "ResourceID": "44995fa8-7b97-40dd-9b06-e4b6184ab9c3",
+  "PublicID": "5D_ieYZ0HUp",
+  "Likes": 0,
+  "CommentCount": 0,
+  "Tris": 156,
+  "Views": "4.09k",
+  "Downloads": 123,
+  "Creator": {
+    "Username": "Olivia Wynn",
+    "DPURL": "",
+    "Socials": {}
+  },
+  "Category": "Objects",
+  "Tags": [
+    "topper",
+    "astaire",
+    "crown"
+  ],
+  "Orbit": {
+    "phi": "1.41725",
+    "radius": "110%",
+    "theta": "3.70005"
+  },
+  "Background": {
+    "one": "#1e88e5",
+    "two": "hsl(208deg, 79%, 15%)",
+    "type": "Radial"
+  },
+  "Visibility": "Public",
+  "Type": "obj",
+  "Licence": "CC-BY 3.0",
+  "Animated": false,
+  "sourceUrl": "https://poly.pizza/m/5D_ieYZ0HUp",
+  "downloadUrl": "https://static.poly.pizza/44995fa8-7b97-40dd-9b06-e4b6184ab9c3.glb",
+  "sha256": "36ec3c8ffcbf9fa3ac012c080f7d9999c2cf934c124538088f8430b8c60558b8",
+  "sourcePageSha256": "f5a82660aba65f928b7d1b5003998202f3b9ee026621f2d5a28e1a36a7db53dd",
+  "retrieved": "2026-10-22T11:06:34.163Z",
+  "sourcePageRetrieved": "2026-10-22T11:06:33.955Z",
+  "verifiedAt": "2026-10-22T11:21:06.176Z",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/"
+}

@@ -1,0 +1,18 @@
+# Fresh private server. Keep online authentication and the explicit player allowlist enabled.
+server-ip=127.0.0.1
+server-port=25565
+online-mode=true
+white-list=true
+enforce-whitelist=true
+enable-rcon=false
+enable-query=false
+prevent-proxy-connections=false
+max-players=20
+motd=Votex · Deine gemeinsame Welt
+level-name=world
+gamemode=survival
+difficulty=normal
+spawn-protection=16
+allow-flight=false
+view-distance=10
+simulation-distance=10

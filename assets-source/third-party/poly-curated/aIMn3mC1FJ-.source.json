@@ -1,0 +1,46 @@
+{
+  "Title": "Flip flops",
+  "Description": "#shoes #footwear #beach #sandals",
+  "UploadDate": "2017-10-19T22:58:18.068Z",
+  "ResourceID": "40ee4f61-9bb1-40e1-af59-8b2547b0e575",
+  "PublicID": "aIMn3mC1FJ-",
+  "Likes": 3,
+  "CommentCount": 0,
+  "Tris": 2032,
+  "Views": 910,
+  "Downloads": 340,
+  "Creator": {
+    "Username": "Poly by Google",
+    "DPURL": "https://static.poly.pizza/dp%2Fpolygoogle.jpg",
+    "Socials": {}
+  },
+  "Category": "Objects",
+  "Tags": [
+    "shoes",
+    "footwear",
+    "beach",
+    "sandals"
+  ],
+  "Orbit": {
+    "phi": "1.31884",
+    "radius": "110%",
+    "theta": "0.87089"
+  },
+  "Background": {
+    "one": "#e53935",
+    "two": "hsl(1deg, 77%, 15%)",
+    "type": "Radial"
+  },
+  "Visibility": "Public",
+  "Type": "obj",
+  "Licence": "CC-BY 3.0",
+  "Animated": false,
+  "sourceUrl": "https://poly.pizza/m/aIMn3mC1FJ-",
+  "downloadUrl": "https://static.poly.pizza/40ee4f61-9bb1-40e1-af59-8b2547b0e575.glb",
+  "sha256": "a2a7e6d59d6aba30ebff334d26b2a3628e05b3661f514af633f342b83d426e6f",
+  "sourcePageSha256": "5692e0ac9c20b50c0dcf6298afad8d3d6cc217fa1d7a72c62f1aadd323f0ab61",
+  "retrieved": "2026-10-21T21:14:19.034Z",
+  "sourcePageRetrieved": "2026-10-21T21:14:18.800Z",
+  "verifiedAt": "2026-10-22T11:21:06.169Z",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/"
+}

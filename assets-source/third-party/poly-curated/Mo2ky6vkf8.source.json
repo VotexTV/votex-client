@@ -1,0 +1,49 @@
+{
+  "Title": "Demon",
+  "UploadDate": "2022-10-23T01:01:41.806Z",
+  "ResourceID": "c2e39eb4-4b8e-4d31-b014-d637bf4e15c6",
+  "PublicID": "Mo2ky6vkf8",
+  "Likes": 9,
+  "CommentCount": 0,
+  "Tris": 3712,
+  "Views": "2.41k",
+  "Downloads": "4.23k",
+  "Creator": {
+    "Username": "Quaternius",
+    "DPURL": "https://static.poly.pizza/dp%2Ff63b655a-051c-4c4b-8dcc-3b346a39ece0.jpg",
+    "Socials": {
+      "Twitter": "quaternius",
+      "Pateron": "quaternius",
+      "Website": "https://quaternius.com/"
+    }
+  },
+  "Category": "Animals",
+  "Tags": [
+    "Sea Life",
+    "Animal",
+    "Seafood",
+    "Monster"
+  ],
+  "Orbit": {
+    "phi": "1.37207",
+    "radius": "100%",
+    "theta": "-0.03153"
+  },
+  "Background": {
+    "one": "#5e35b1",
+    "two": "hsl(260deg, 54%, 15%)",
+    "type": "Radial"
+  },
+  "Visibility": "Public",
+  "Type": "FBX",
+  "Licence": "CC0 1.0",
+  "Animated": true,
+  "sourceUrl": "https://poly.pizza/m/Mo2ky6vkf8",
+  "downloadUrl": "https://static.poly.pizza/c2e39eb4-4b8e-4d31-b014-d637bf4e15c6.glb",
+  "sha256": "9b235359e2e28a8000a92de055ab9c8a9ed123da279461d452357dbbc30de117",
+  "sourcePageSha256": "8e541a8d6b033540340290df65352f72fd3b4e594be75db067abc9c70b227773",
+  "retrieved": "2026-10-21T21:14:05.439Z",
+  "sourcePageRetrieved": "2026-10-21T21:14:05.382Z",
+  "verifiedAt": "2026-10-22T11:21:05.884Z",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+}

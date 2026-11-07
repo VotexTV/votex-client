@@ -1,0 +1,45 @@
+{
+  "Title": "Rubber boot",
+  "Description": "#footwear #galosh #rainboot",
+  "UploadDate": "2017-10-21T14:37:53.922Z",
+  "ResourceID": "326df145-e069-4b5c-b36e-8e57008e9999",
+  "PublicID": "eFxqLZsis1O",
+  "Likes": 0,
+  "CommentCount": 0,
+  "Tris": 698,
+  "Views": 453,
+  "Downloads": 143,
+  "Creator": {
+    "Username": "Poly by Google",
+    "DPURL": "https://static.poly.pizza/dp%2Fpolygoogle.jpg",
+    "Socials": {}
+  },
+  "Category": "Objects",
+  "Tags": [
+    "footwear",
+    "galosh",
+    "rainboot"
+  ],
+  "Orbit": {
+    "phi": "1.31884",
+    "radius": "110%",
+    "theta": "0.87089"
+  },
+  "Background": {
+    "one": "#d81b60",
+    "two": "hsl(338deg, 78%, 15%)",
+    "type": "Radial"
+  },
+  "Visibility": "Public",
+  "Type": "obj",
+  "Licence": "CC-BY 3.0",
+  "Animated": false,
+  "sourceUrl": "https://poly.pizza/m/eFxqLZsis1O",
+  "downloadUrl": "https://static.poly.pizza/326df145-e069-4b5c-b36e-8e57008e9999.glb",
+  "sha256": "d9727e42e91a8097ac2f56ec54f5f9fc518a6cc7f1a79ae33fa7ead5d689801e",
+  "sourcePageSha256": "b7147a0b9d9919c384e1d9f5546f09128a1bf936a20e40d21282a94a2769bab3",
+  "retrieved": "2026-10-22T11:05:40.959Z",
+  "sourcePageRetrieved": "2026-10-22T11:05:40.696Z",
+  "verifiedAt": "2026-10-22T11:21:06.156Z",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/"
+}

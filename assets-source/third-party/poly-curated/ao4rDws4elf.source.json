@@ -1,0 +1,46 @@
+{
+  "Title": "Headphones",
+  "Description": "#earphones #headset #microphone ",
+  "UploadDate": "2017-09-29T01:45:39.258Z",
+  "ResourceID": "80a87cd4-9418-4c99-9a7c-cf79f33d2c85",
+  "PublicID": "ao4rDws4elf",
+  "Likes": 1,
+  "CommentCount": 0,
+  "Tris": 1106,
+  "Views": 881,
+  "Downloads": 129,
+  "Creator": {
+    "Username": "Poly by Google",
+    "DPURL": "https://static.poly.pizza/dp%2Fpolygoogle.jpg",
+    "Socials": {}
+  },
+  "Category": "Other",
+  "Tags": [
+    "earphones",
+    "headset",
+    "microphone",
+    ""
+  ],
+  "Orbit": {
+    "phi": "1.31884",
+    "radius": "110%",
+    "theta": "0.87089"
+  },
+  "Background": {
+    "one": "#6d4c41",
+    "two": "hsl(15deg, 25%, 15%)",
+    "type": "Radial"
+  },
+  "Visibility": "Public",
+  "Type": "obj",
+  "Licence": "CC-BY 3.0",
+  "Animated": false,
+  "sourceUrl": "https://poly.pizza/m/ao4rDws4elf",
+  "downloadUrl": "https://static.poly.pizza/80a87cd4-9418-4c99-9a7c-cf79f33d2c85.glb",
+  "sha256": "f9361de8d656c44b7dc5283d518c36f8d64cedf32025d5ee06dffcee8e8125e2",
+  "sourcePageSha256": "c1938d23a39cd2f20050c93f2ea148145ac6d472acdbf090ffb4adce6343323f",
+  "retrieved": "2026-10-22T11:05:33.348Z",
+  "sourcePageRetrieved": "2026-10-22T11:05:33.121Z",
+  "verifiedAt": "2026-10-22T11:21:06.147Z",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/"
+}

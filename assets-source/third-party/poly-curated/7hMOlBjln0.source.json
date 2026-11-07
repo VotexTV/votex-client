@@ -1,0 +1,49 @@
+{
+  "Title": "Swordfish",
+  "UploadDate": "2022-06-20T13:20:12.985Z",
+  "ResourceID": "4400228c-a051-4f95-9b59-1293d0754ddd",
+  "PublicID": "7hMOlBjln0",
+  "Likes": 2,
+  "CommentCount": 0,
+  "Tris": 1384,
+  "Views": 569,
+  "Downloads": "2.3k",
+  "Creator": {
+    "Username": "Quaternius",
+    "DPURL": "https://static.poly.pizza/dp%2Ff63b655a-051c-4c4b-8dcc-3b346a39ece0.jpg",
+    "Socials": {
+      "Twitter": "quaternius",
+      "Pateron": "quaternius",
+      "Website": "https://quaternius.com/"
+    }
+  },
+  "Category": "Animals",
+  "Tags": [
+    "Sea Life",
+    "Animal",
+    "Fish",
+    "Airplane"
+  ],
+  "Orbit": {
+    "phi": "1.29325",
+    "radius": "100%",
+    "theta": "0.86610"
+  },
+  "Background": {
+    "one": "#039be5",
+    "two": "hsl(200deg, 97%, 15%)",
+    "type": "Radial"
+  },
+  "Visibility": "Public",
+  "Type": "FBX",
+  "Licence": "CC0 1.0",
+  "Animated": true,
+  "sourceUrl": "https://poly.pizza/m/7hMOlBjln0",
+  "downloadUrl": "https://static.poly.pizza/4400228c-a051-4f95-9b59-1293d0754ddd.glb",
+  "sha256": "db7771638680c54c012fda0de84e2ab264bcb5a50e06d8b811ffcc30b75c19fa",
+  "sourcePageSha256": "d356dce1de8cfdbe029b95f7b109ab2775270e42115d27626c6f423e62ed732c",
+  "retrieved": "2026-10-22T11:02:25.859Z",
+  "sourcePageRetrieved": "2026-10-22T11:02:25.577Z",
+  "verifiedAt": "2026-10-22T11:21:05.967Z",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+}

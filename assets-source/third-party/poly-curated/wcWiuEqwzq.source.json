@@ -1,0 +1,49 @@
+{
+  "Title": "Husky",
+  "UploadDate": "2021-09-07T03:27:55.422Z",
+  "ResourceID": "611d25c7-430f-4bb5-ab2c-d8f5f3cb9712",
+  "PublicID": "wcWiuEqwzq",
+  "Likes": 14,
+  "CommentCount": 1,
+  "Tris": 1822,
+  "Views": "4.57k",
+  "Downloads": "5.8k",
+  "Creator": {
+    "Username": "Quaternius",
+    "DPURL": "https://static.poly.pizza/dp%2Ff63b655a-051c-4c4b-8dcc-3b346a39ece0.jpg",
+    "Socials": {
+      "Twitter": "quaternius",
+      "Pateron": "quaternius",
+      "Website": "https://quaternius.com/"
+    }
+  },
+  "Category": "Animals",
+  "Tags": [
+    "Wolf",
+    "Animal",
+    "Coyote",
+    "Dog"
+  ],
+  "Orbit": {
+    "phi": "1.15921",
+    "radius": "100%",
+    "theta": "0.79624"
+  },
+  "Background": {
+    "one": "#039be5",
+    "two": "hsl(200deg, 97%, 15%)",
+    "type": "Radial"
+  },
+  "Visibility": "Public",
+  "Type": "FBX",
+  "Licence": "CC0 1.0",
+  "Animated": true,
+  "sourceUrl": "https://poly.pizza/m/wcWiuEqwzq",
+  "downloadUrl": "https://static.poly.pizza/611d25c7-430f-4bb5-ab2c-d8f5f3cb9712.glb",
+  "sha256": "a1e107ec4c2c62ce8cad86f750a7f6f9f2065c691dc6f88fce39667d3f4877eb",
+  "sourcePageSha256": "23eaab0d8953f4d28a8113d71a219d8114f5e3699a2b3e075cdb2d9ae986731c",
+  "retrieved": "2026-10-22T11:02:32.414Z",
+  "sourcePageRetrieved": "2026-10-22T11:02:32.353Z",
+  "verifiedAt": "2026-10-22T11:21:05.976Z",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+}

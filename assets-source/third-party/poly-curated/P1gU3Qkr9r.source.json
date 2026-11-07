@@ -1,0 +1,49 @@
+{
+  "Title": "Wolf",
+  "UploadDate": "2021-09-07T03:27:52.690Z",
+  "ResourceID": "f1d12388-e39b-4157-b32a-646a1d089fc4",
+  "PublicID": "P1gU3Qkr9r",
+  "Likes": 28,
+  "CommentCount": 1,
+  "Tris": 1928,
+  "Views": "7.67k",
+  "Downloads": "7.04k",
+  "Creator": {
+    "Username": "Quaternius",
+    "DPURL": "https://static.poly.pizza/dp%2Ff63b655a-051c-4c4b-8dcc-3b346a39ece0.jpg",
+    "Socials": {
+      "Twitter": "quaternius",
+      "Pateron": "quaternius",
+      "Website": "https://quaternius.com/"
+    }
+  },
+  "Category": "Animals",
+  "Tags": [
+    "Wolf",
+    "Animal",
+    "Coyote",
+    "Dog"
+  ],
+  "Orbit": {
+    "phi": "1.15921",
+    "radius": "100%",
+    "theta": "0.79624"
+  },
+  "Background": {
+    "one": "#039be5",
+    "two": "hsl(200deg, 97%, 15%)",
+    "type": "Radial"
+  },
+  "Visibility": "Public",
+  "Type": "FBX",
+  "Licence": "CC0 1.0",
+  "Animated": true,
+  "sourceUrl": "https://poly.pizza/m/P1gU3Qkr9r",
+  "downloadUrl": "https://static.poly.pizza/f1d12388-e39b-4157-b32a-646a1d089fc4.glb",
+  "sha256": "16ac96339d06f7def9af20d5d9b27622d61e53580dab43970c9edb1bffbe8f84",
+  "sourcePageSha256": "f7693ec5fea9007ce6ea78fe20fc804ac1d7a93cad757a1fd25a617598a17458",
+  "retrieved": "2026-10-22T11:02:34.021Z",
+  "sourcePageRetrieved": "2026-10-22T11:02:33.925Z",
+  "verifiedAt": "2026-10-22T11:21:05.978Z",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+}

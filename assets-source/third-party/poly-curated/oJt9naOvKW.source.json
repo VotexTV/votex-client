@@ -1,0 +1,48 @@
+{
+  "Title": "Axe",
+  "UploadDate": "2024-03-17T09:37:33.010Z",
+  "ResourceID": "90f28353-f6b0-4531-84ce-573da64fee3a",
+  "PublicID": "oJt9naOvKW",
+  "Likes": 0,
+  "CommentCount": 0,
+  "Tris": 790,
+  "Views": 323,
+  "Downloads": "1.49k",
+  "Creator": {
+    "Username": "Quaternius",
+    "DPURL": "https://static.poly.pizza/dp%2Ff63b655a-051c-4c4b-8dcc-3b346a39ece0.jpg",
+    "Socials": {
+      "Twitter": "quaternius",
+      "Pateron": "quaternius",
+      "Website": "https://quaternius.com/"
+    }
+  },
+  "Category": "Weapons",
+  "Tags": [
+    "Sword",
+    "Sci-Fi",
+    "Blade"
+  ],
+  "Orbit": {
+    "phi": "1.08574",
+    "radius": "100%",
+    "theta": "0.69370"
+  },
+  "Background": {
+    "one": "#8e24aa",
+    "two": "hsl(287deg, 65%, 15%)",
+    "type": "Radial"
+  },
+  "Visibility": "Public",
+  "Type": "FBX",
+  "Licence": "CC0 1.0",
+  "Animated": false,
+  "sourceUrl": "https://poly.pizza/m/oJt9naOvKW",
+  "downloadUrl": "https://static.poly.pizza/90f28353-f6b0-4531-84ce-573da64fee3a.glb",
+  "sha256": "1ee2794b0ff7e9dbb602133e9161878564aef1fe97de6adf2bd29d9c51b3d516",
+  "sourcePageSha256": "4b067c0befbebbc68a1080821257c00c36ca6b89a36f53067e46395c304629c0",
+  "retrieved": "2026-10-22T11:03:54.674Z",
+  "sourcePageRetrieved": "2026-10-22T11:03:54.456Z",
+  "verifiedAt": "2026-10-22T11:21:06.057Z",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+}

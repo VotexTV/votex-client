@@ -1,0 +1,14 @@
+package dev.votex.arcade;
+import org.junit.jupiter.api.Test;
+import static org.junit.jupiter.api.Assertions.*;
+import java.util.*;
+class ArcadeGamesTest {
+ @Test void pongReflectsAtPlayerAndScoresMisses(){var game=new ArcadeGames.Pong();game.wait=0;game.ballX=.08;game.ballY=.5;game.vx=-1;game.vy=0;game.update(.02,.5);assertTrue(game.vx>0);game.ballX=-.04;game.vx=-1;game.update(.01,.1);assertEquals(1,game.aiScore);assertEquals(.5,game.ballX);}
+ @Test void pongSimulationRemainsFiniteAndFinishesAtSeven(){var game=new ArcadeGames.Pong();for(int i=0;i<100000&&!game.over;i++)game.update(.05,.1);assertTrue(game.over);assertTrue(game.playerScore==7||game.aiScore==7);assertTrue(Double.isFinite(game.ballX)&&Double.isFinite(game.ballY));game.reset();assertFalse(game.over);assertEquals(0,game.aiScore);}
+ @Test void ticTacToeAiNeverLosesAgainstDeterministicRandomPlay(){var random=new Random(42);for(int match=0;match<100;match++){var g=new ArcadeGames.TicTacToe();for(int move=0;move<9&&g.winner==0;move++){var free=new ArrayList<Integer>();for(int i=0;i<9;i++)if(g.board[i]==0)free.add(i);g.play(free.get(random.nextInt(free.size())));}assertNotEquals(1,g.winner);assertNotEquals(0,g.winner);}}
+ @Test void localTicTacToeAlternatesAndRecognizesWin(){var g=new ArcadeGames.TicTacToe();g.ai=false;assertTrue(g.play(0));assertFalse(g.play(0));g.play(3);g.play(1);g.play(4);g.play(2);assertEquals(1,g.winner);assertFalse(g.play(8));g.reset();assertEquals(0,g.winner);assertEquals(1,g.turn);}
+ @Test void flappyWaitsForInputAndCountsOnlyPassedPipes(){var g=new ArcadeGames.Flappy();double old=g.bird;g.update(.05);assertEquals(old,g.bird);g.flap();assertTrue(g.started);assertTrue(g.velocity<0);g.bird=.5;g.velocity=0;g.pipes[0]=.14;g.gaps[0]=.5;for(int i=1;i<4;i++)g.pipes[i]=2+i;g.update(.01);assertEquals(1,g.score);g.update(.01);assertEquals(1,g.score);}
+ @Test void flappyDetectsPipeAndWorldBounds(){var g=new ArcadeGames.Flappy();g.started=true;g.bird=.1;g.pipes[0]=.22;g.gaps[0]=.7;g.update(.01);assertTrue(g.over);g.reset();g.started=true;g.bird=.99;g.update(.01);assertTrue(g.over);}
+ @Test void tetrisClearsAdjacentLinesAndPreservesRows(){var g=new ArcadeGames.Tetris();Arrays.fill(g.board[19],1);Arrays.fill(g.board[18],2);g.board[17][2]=3;assertEquals(2,g.clearLines());assertEquals(3,g.board[19][2]);assertTrue(Arrays.stream(g.board[0]).allMatch(v->v==0));}
+ @Test void tetrisWallsRotationGhostAndHardDropStayInBounds(){var g=new ArcadeGames.Tetris();for(int i=0;i<30;i++)g.move(-1);for(int i=0;i<4;i++)assertTrue(g.x+g.cellX(i,g.rotation)>=0);int before=g.rotation;for(int i=0;i<4;i++)g.rotate();assertEquals(before,g.rotation);int ghost=g.ghostY();assertTrue(ghost>=g.y);g.hardDrop();assertTrue(g.score>=0);int blocks=0;for(var row:g.board)for(int value:row)if(value>0)blocks++;assertEquals(4,blocks);for(int i=0;i<500&&!g.over;i++){g.rotate();g.move(i%2==0?-1:1);g.hardDrop();}assertTrue(g.over);g.reset();assertFalse(g.over);assertEquals(0,g.score);}
+}

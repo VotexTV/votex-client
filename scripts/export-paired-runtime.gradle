@@ -1,0 +1,37 @@
+// Export the configured Loom JavaExec invocation without starting Minecraft.
+// gradlew runClientGameTest -I ../../scripts/export-paired-runtime.gradle -PvotexExportRuntime=<absolute-json-path>
+import groovy.json.JsonOutput
+import org.gradle.api.tasks.StopExecutionException
+
+allprojects {
+ afterEvaluate {
+  tasks.matching { it.name == 'runClientGameTest' }.configureEach { task ->
+   doFirst {
+    def requested = project.findProperty('votexExportRuntime')
+    if (!requested) throw new GradleException('Pass -PvotexExportRuntime=<private-work-json>')
+    def output = new File(requested.toString()).canonicalFile
+    if (!output.path.replace('\\','/').contains('/work/ingame-goal/')) throw new GradleException('Runtime export must stay in the private goal work directory')
+    if (output.exists()) throw new GradleException('Runtime export destination must be new')
+    output.parentFile.mkdirs()
+    def classpath = task.classpath.asPath
+    def jvmArgs = task.allJvmArgs.findAll { argument ->
+     if (!argument.startsWith('@')) return true
+     def nested = new File(argument.substring(1)).getText('UTF-8').trim().replace('\r\n','\n')
+     if (nested != '-classpath\n' + classpath) throw new GradleException('Unrecognized nested JVM argfile; export it explicitly before launching')
+     return false
+    }
+    output.setText(JsonOutput.prettyPrint(JsonOutput.toJson([
+     schemaVersion: 1,
+     executable: task.javaLauncher.get().executablePath.asFile.absolutePath,
+     mainClass: task.mainClass.get(),
+     jvmArgs: jvmArgs,
+     classpath: classpath,
+     arguments: task.args,
+     workingDirectory: task.workingDir.absolutePath
+    ])), 'UTF-8')
+    println 'VOTEX_PAIRED_RUNTIME_EXPORTED ' + output.path
+    throw new StopExecutionException('Runtime exported; Minecraft intentionally not started by this invocation')
+   }
+  }
+ }
+}

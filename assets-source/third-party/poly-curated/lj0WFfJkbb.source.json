@@ -1,0 +1,46 @@
+{
+  "Title": "Parrot Fish",
+  "UploadDate": "2022-06-20T13:20:14.260Z",
+  "ResourceID": "74da93ec-df54-4863-b19e-fc67e1ba6d59",
+  "PublicID": "lj0WFfJkbb",
+  "Likes": 6,
+  "CommentCount": 0,
+  "Tris": 1338,
+  "Views": 334,
+  "Downloads": "2.05k",
+  "Creator": {
+    "Username": "Quaternius",
+    "DPURL": "https://static.poly.pizza/dp%2Ff63b655a-051c-4c4b-8dcc-3b346a39ece0.jpg",
+    "Socials": {
+      "Twitter": "quaternius",
+      "Pateron": "quaternius",
+      "Website": "https://quaternius.com/"
+    }
+  },
+  "Category": "Animals",
+  "Tags": [
+    "Outdoors"
+  ],
+  "Orbit": {
+    "phi": "1.29325",
+    "radius": "100%",
+    "theta": "0.86610"
+  },
+  "Background": {
+    "one": "#039be5",
+    "two": "hsl(200deg, 97%, 15%)",
+    "type": "Radial"
+  },
+  "Visibility": "Public",
+  "Type": "FBX",
+  "Licence": "CC0 1.0",
+  "Animated": true,
+  "sourceUrl": "https://poly.pizza/m/lj0WFfJkbb",
+  "downloadUrl": "https://static.poly.pizza/74da93ec-df54-4863-b19e-fc67e1ba6d59.glb",
+  "sha256": "328931f51055a7deb1d44dbb6a16c9973fc83718ff2fa82550a3c0cda8306f76",
+  "sourcePageSha256": "def4f7211005b47c1f969e8a200513c408657731041d41c58b8e9e79b10edb1b",
+  "retrieved": "2026-10-22T11:02:13.848Z",
+  "sourcePageRetrieved": "2026-10-22T11:02:13.446Z",
+  "verifiedAt": "2026-10-22T11:21:05.957Z",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+}

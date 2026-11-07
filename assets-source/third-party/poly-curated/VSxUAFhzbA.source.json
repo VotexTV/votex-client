@@ -1,0 +1,48 @@
+{
+  "Title": "Spaceship",
+  "Description": " ",
+  "UploadDate": "2023-03-13T04:24:05.925Z",
+  "ResourceID": "9dd50f84-345d-418f-bb58-0cb63fd091e6",
+  "PublicID": "VSxUAFhzbA",
+  "Likes": 8,
+  "CommentCount": 0,
+  "Tris": 3376,
+  "Views": "2.33k",
+  "Downloads": "4.35k",
+  "Creator": {
+    "Username": "Quaternius",
+    "DPURL": "https://static.poly.pizza/dp%2Ff63b655a-051c-4c4b-8dcc-3b346a39ece0.jpg",
+    "Socials": {
+      "Twitter": "quaternius",
+      "Pateron": "quaternius",
+      "Website": "https://quaternius.com/"
+    }
+  },
+  "Category": "Transport",
+  "Tags": [
+    "scifi",
+    "spacecraft"
+  ],
+  "Orbit": {
+    "phi": "1.17105",
+    "radius": "15.737823759850878",
+    "theta": "0.48607"
+  },
+  "Background": {
+    "one": "#5e35b1",
+    "two": "hsl(260deg, 54%, 15%)",
+    "type": "Radial"
+  },
+  "Visibility": "Public",
+  "Type": "FBX",
+  "Licence": "CC0 1.0",
+  "Animated": false,
+  "sourceUrl": "https://poly.pizza/m/VSxUAFhzbA",
+  "downloadUrl": "https://static.poly.pizza/9dd50f84-345d-418f-bb58-0cb63fd091e6.glb",
+  "sha256": "2a2e6aee5b25e5575f3ff8650d827a3ba3398739d4cbfb086ef4363995683d18",
+  "sourcePageSha256": "be3e676e6bec55d0e50af78300a27fcd117aaa9498a2fe424b4f234c6fa7a5ab",
+  "retrieved": "2026-10-22T11:03:39.134Z",
+  "sourcePageRetrieved": "2026-10-22T11:03:38.894Z",
+  "verifiedAt": "2026-10-22T11:21:06.040Z",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+}

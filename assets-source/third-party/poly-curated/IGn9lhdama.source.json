@@ -1,0 +1,49 @@
+{
+  "Title": "Cactoro",
+  "UploadDate": "2022-10-23T10:13:54.334Z",
+  "ResourceID": "e88090e2-46af-430b-91e5-ad5520de4939",
+  "PublicID": "IGn9lhdama",
+  "Likes": 4,
+  "CommentCount": 0,
+  "Tris": 5302,
+  "Views": "1.18k",
+  "Downloads": "3.66k",
+  "Creator": {
+    "Username": "Quaternius",
+    "DPURL": "https://static.poly.pizza/dp%2Ff63b655a-051c-4c4b-8dcc-3b346a39ece0.jpg",
+    "Socials": {
+      "Twitter": "quaternius",
+      "Pateron": "quaternius",
+      "Website": "https://quaternius.com/"
+    }
+  },
+  "Category": "People & Characters",
+  "Tags": [
+    "Sombrero",
+    "Hat",
+    "Enemy",
+    "Monster"
+  ],
+  "Orbit": {
+    "phi": "1.30900",
+    "radius": "100%",
+    "theta": "0.00000"
+  },
+  "Background": {
+    "one": "#5e35b1",
+    "two": "hsl(260deg, 54%, 15%)",
+    "type": "Radial"
+  },
+  "Visibility": "Public",
+  "Type": "FBX",
+  "Licence": "CC0 1.0",
+  "Animated": true,
+  "sourceUrl": "https://poly.pizza/m/IGn9lhdama",
+  "downloadUrl": "https://static.poly.pizza/e88090e2-46af-430b-91e5-ad5520de4939.glb",
+  "sha256": "8a332118f7c688c23e3d5d7d6058e9bbf961c8fe4d1ecdf3f4b3d12dbe91dc84",
+  "sourcePageSha256": "be3495f4317e560da9bc8bbc915b95046be4cd091dea30574755fff59b6ef6d1",
+  "retrieved": "2026-10-21T21:14:04.990Z",
+  "sourcePageRetrieved": "2026-10-21T21:14:04.679Z",
+  "verifiedAt": "2026-10-22T11:21:05.871Z",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+}

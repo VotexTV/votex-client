@@ -1,0 +1,44 @@
+{
+  "Title": "Cap",
+  "UploadDate": "2017-11-01T14:42:58.227Z",
+  "ResourceID": "d7425f97-defa-4293-ae40-6eb80dfda7fe",
+  "PublicID": "7V3WmCnNaUo",
+  "Likes": 1,
+  "CommentCount": 0,
+  "Tris": 1392,
+  "Views": "1.02k",
+  "Downloads": 24,
+  "Creator": {
+    "Username": "Michael Fuchs",
+    "DPURL": "",
+    "Socials": {}
+  },
+  "Category": "Objects",
+  "Tags": [
+    "ceiling",
+    "capital",
+    "crest"
+  ],
+  "Orbit": {
+    "phi": "1.31884",
+    "radius": "110%",
+    "theta": "0.87089"
+  },
+  "Background": {
+    "one": "#d81b60",
+    "two": "hsl(338deg, 78%, 15%)",
+    "type": "Radial"
+  },
+  "Visibility": "Public",
+  "Type": "obj",
+  "Licence": "CC-BY 3.0",
+  "Animated": false,
+  "sourceUrl": "https://poly.pizza/m/7V3WmCnNaUo",
+  "downloadUrl": "https://static.poly.pizza/d7425f97-defa-4293-ae40-6eb80dfda7fe.glb",
+  "sha256": "85935df929a284c1e7815babbdd704902ef63df50d102191b81027c99e27a5f4",
+  "sourcePageSha256": "c47e3e9cd1eb42a3adb9510d2892778d71808e2f1888088914268b3991646fe9",
+  "retrieved": "2026-10-21T21:14:16.311Z",
+  "sourcePageRetrieved": "2026-10-21T21:14:15.936Z",
+  "verifiedAt": "2026-10-22T11:21:06.119Z",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/"
+}

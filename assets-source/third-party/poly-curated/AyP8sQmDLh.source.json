@@ -1,0 +1,49 @@
+{
+  "Title": "Pink Slime",
+  "Description": " ",
+  "UploadDate": "2022-10-23T01:01:39.616Z",
+  "ResourceID": "3ddbff73-430c-4ca0-bb25-11211683fbb9",
+  "PublicID": "AyP8sQmDLh",
+  "Likes": 1,
+  "CommentCount": 0,
+  "Tris": 982,
+  "Views": 527,
+  "Downloads": "3.48k",
+  "Creator": {
+    "Username": "Quaternius",
+    "DPURL": "https://static.poly.pizza/dp%2Ff63b655a-051c-4c4b-8dcc-3b346a39ece0.jpg",
+    "Socials": {
+      "Twitter": "quaternius",
+      "Pateron": "quaternius",
+      "Website": "https://quaternius.com/"
+    }
+  },
+  "Category": "Animals",
+  "Tags": [
+    "Slime",
+    "Enemy",
+    "Monster"
+  ],
+  "Orbit": {
+    "phi": "1.37207",
+    "radius": "2.964518729175382",
+    "theta": "-0.03153"
+  },
+  "Background": {
+    "one": "#5e35b1",
+    "two": "hsl(260deg, 54%, 15%)",
+    "type": "Radial"
+  },
+  "Visibility": "Public",
+  "Type": "FBX",
+  "Licence": "CC0 1.0",
+  "Animated": true,
+  "sourceUrl": "https://poly.pizza/m/AyP8sQmDLh",
+  "downloadUrl": "https://static.poly.pizza/3ddbff73-430c-4ca0-bb25-11211683fbb9.glb",
+  "sha256": "34bb111a7931bb957f992e127d71fac321aaeea1bdcc7da56fa5aba55c83d783",
+  "sourcePageSha256": "591e37f16bb37d3cd04f36ad99ee7b9f77f159e10ef098902ba5e2e164c153d7",
+  "retrieved": "2026-10-21T21:14:06.223Z",
+  "sourcePageRetrieved": "2026-10-21T21:14:05.988Z",
+  "verifiedAt": "2026-10-22T11:21:05.892Z",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+}

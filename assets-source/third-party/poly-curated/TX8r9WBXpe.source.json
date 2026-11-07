@@ -1,0 +1,48 @@
+{
+  "Title": "Ghost Skull",
+  "UploadDate": "2022-10-23T01:01:42.456Z",
+  "ResourceID": "0716bf8e-1894-4a90-8d10-34868975a239",
+  "PublicID": "TX8r9WBXpe",
+  "Likes": 16,
+  "CommentCount": 0,
+  "Tris": 2024,
+  "Views": "3.62k",
+  "Downloads": "4.26k",
+  "Creator": {
+    "Username": "Quaternius",
+    "DPURL": "https://static.poly.pizza/dp%2Ff63b655a-051c-4c4b-8dcc-3b346a39ece0.jpg",
+    "Socials": {
+      "Twitter": "quaternius",
+      "Pateron": "quaternius",
+      "Website": "https://quaternius.com/"
+    }
+  },
+  "Category": "Animals",
+  "Tags": [
+    "Animal",
+    "Monster",
+    "Enemy"
+  ],
+  "Orbit": {
+    "phi": "1.37207",
+    "radius": "100%",
+    "theta": "-0.03153"
+  },
+  "Background": {
+    "one": "#5e35b1",
+    "two": "hsl(260deg, 54%, 15%)",
+    "type": "Radial"
+  },
+  "Visibility": "Public",
+  "Type": "FBX",
+  "Licence": "CC0 1.0",
+  "Animated": true,
+  "sourceUrl": "https://poly.pizza/m/TX8r9WBXpe",
+  "downloadUrl": "https://static.poly.pizza/0716bf8e-1894-4a90-8d10-34868975a239.glb",
+  "sha256": "d1e2268fe9621583ff879d6e6e3ace80b0a6a2373ec0139a8139c88fe6e4d942",
+  "sourcePageSha256": "2742a42717ee2abbcbe7a98d666648a1fc96edcf5ce1c0fea1840eb1d10b666b",
+  "retrieved": "2026-10-21T21:14:05.302Z",
+  "sourcePageRetrieved": "2026-10-21T21:14:05.237Z",
+  "verifiedAt": "2026-10-22T11:21:05.881Z",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+}

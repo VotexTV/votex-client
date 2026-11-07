@@ -1,0 +1,47 @@
+{
+  "Title": "Shiba Inu",
+  "UploadDate": "2021-09-07T03:27:49.583Z",
+  "ResourceID": "ba6d0ee3-bcc0-4ef0-9d3c-a3e245b41c77",
+  "PublicID": "y4wdQpg767",
+  "Likes": 26,
+  "CommentCount": 0,
+  "Tris": 1812,
+  "Views": "7.92k",
+  "Downloads": "6.39k",
+  "Creator": {
+    "Username": "Quaternius",
+    "DPURL": "https://static.poly.pizza/dp%2Ff63b655a-051c-4c4b-8dcc-3b346a39ece0.jpg",
+    "Socials": {
+      "Twitter": "quaternius",
+      "Pateron": "quaternius",
+      "Website": "https://quaternius.com/"
+    }
+  },
+  "Category": "Animals",
+  "Tags": [
+    "Animal",
+    "dog"
+  ],
+  "Orbit": {
+    "phi": "1.15921",
+    "radius": "100%",
+    "theta": "0.79624"
+  },
+  "Background": {
+    "one": "#039be5",
+    "two": "hsl(200deg, 97%, 15%)",
+    "type": "Radial"
+  },
+  "Visibility": "Public",
+  "Type": "FBX",
+  "Licence": "CC0 1.0",
+  "Animated": true,
+  "sourceUrl": "https://poly.pizza/m/y4wdQpg767",
+  "downloadUrl": "https://static.poly.pizza/ba6d0ee3-bcc0-4ef0-9d3c-a3e245b41c77.glb",
+  "sha256": "9cbd4f1e12f85024126eab6a2c5706c099196df1a10db74e6c8b67bac3fff54a",
+  "sourcePageSha256": "1f657357a61a85a0007e66411e6ec0df71f068037b1044d37da6697b1bc6c611",
+  "retrieved": "2026-10-22T11:02:35.845Z",
+  "sourcePageRetrieved": "2026-10-22T11:02:35.781Z",
+  "verifiedAt": "2026-10-22T11:21:05.981Z",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+}

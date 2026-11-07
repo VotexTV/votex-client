@@ -1,0 +1,18 @@
+# In-game installation feedback: clear native controls, 25 October 2026
+
+Current source is verified by `work/ingame-goal/notice-native-run-02`. It is not included in the immutable public preview published earlier on25October. The full client objective remains ACTIVE.
+
+The full-regression07 captures exposed installation cards obscuring footer and chat actions in compact windows. Votex's eleven screen classes now select a noninteractive18-logical-unit bottom status ribbon. Gameplay and other screens retain the full card at the top right. Working/ready/error states, truthful byte progress, staging-before-success, timed expiry and reduced-motion behavior are preserved. The ribbon fits title/detail to the available width and reserves known progress percentages; intentional hover offers the full detail tooltip. No screen layout changes when an operation begins. The emote-wheel hint moves above the ribbon.
+
+The first focused native attempt, `notice-native-run-01`, failed correctly: at maximum remembered window size the compact rail's “Zurück zum Spiel” button overlapped the ribbon by one logical unit. The compact two-button footer now has three additional logical units of bottom clearance. That failed run and its log/captures remain retained and are not counted as a pass.
+
+The corrected `notice-native-run-02` exited0, saved all world dimensions, and recorded no source changes during execution. Its159 production classes match Core SHA256 `7c98b20a6c9baefba79bf7a9263786f1ec8391fb1c225d9e23da0e5dc10f40d5`.
+
+Verification:
+
+- Java119 tests:118 passed, zero failures/errors, one existing opt-in skip. Main/client/gametest compilation, JAR and sources JAR pass. The new layout checks cover four physical viewport sizes and GUI scales1–4, bounded placement, footer/popup/HUD/wheel clearances and inverse-coordinate tooltip hit testing.
+- One private integrated-world run exercises actual widget bounds and native visible-edge clicks at768×480/GUI3 and1280×720/GUI2: library footer/selected detail, bottom-corner chat actions, a maximized remembered Mod Menu, both HUD toolbar docks and the emote wheel with reduced motion. Additional compact captures/checks cover Appearance, Arcade, Cape Crop, Voice Setup and Voice Consent. Dismissing consent keeps microphone access denied; the optional Voice mod is absent in this fixture.
+- The actual local ZIP import worker durably stages/queues an original QA shader fixture; success survives closing the library. No loaded shader/JAR is hot-replaced. An invalid ZIP produces an error without queue mutation. Other status-screen combinations use explicitly synthetic QA progress, not a claimed network download.
+- All20 PNGs were inspected across five contact sheets. The critical compact/maximized controls remain visible; long status text truncates with an ellipsis. The native pointer-hover tooltip rendering was not separately captured; its GUI-coordinate hit region is unit-tested. The working-import capture includes an early entrance frame, while the subsequent layout captures are settled frames.
+
+Evidence: `notice-native-run-02/launch-result.json`, `clientGameTest/config/votex/goal-evidence/native-installation-notice-proof.json`, and `contact-review/{index,review}.json`. The total recorded native-client launch tally is61, including failed attempts (59 before these two attempts). Both new private clients exited. No OS automation resumed, user profile/account/clipboard was accessed, microphone opened, Windows policy changed, or public installer overwritten. Clipboard checks use the test-only memory backend. This focused result does not replace final packaged desktop, authenticated/public-service or deferred physical-audio acceptance.

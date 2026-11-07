@@ -1,0 +1,49 @@
+{
+  "Title": "Halo",
+  "Description": "#accessory #angel #heaven #headgear",
+  "UploadDate": "2017-10-22T18:48:51.431Z",
+  "ResourceID": "12c8004c-3f41-4732-9c63-4b3c7f2f2543",
+  "PublicID": "dH-rlE_jGFc",
+  "Likes": 0,
+  "CommentCount": 0,
+  "Tris": 128,
+  "Views": 662,
+  "Downloads": 89,
+  "Creator": {
+    "Username": "jeremy",
+    "DPURL": "https://static.poly.pizza/dp%2Fa5e02278-d16e-4cbc-a709-114f417fe8ef.jpg",
+    "Socials": {
+      "Twitter": "astackofpaper",
+      "Instagram": "jedelblut",
+      "Website": "https://jeremy.toys"
+    }
+  },
+  "Category": "Objects",
+  "Tags": [
+    "Ring",
+    "Octagon",
+    "Shape"
+  ],
+  "Orbit": {
+    "phi": "1.31884",
+    "radius": "110%",
+    "theta": "0.87089"
+  },
+  "Background": {
+    "one": "#ffb300",
+    "two": "hsl(42deg, 100%, 15%)",
+    "type": "Radial"
+  },
+  "Visibility": "Public",
+  "Type": "obj",
+  "Licence": "CC-BY 3.0",
+  "Animated": false,
+  "sourceUrl": "https://poly.pizza/m/dH-rlE_jGFc",
+  "downloadUrl": "https://static.poly.pizza/12c8004c-3f41-4732-9c63-4b3c7f2f2543.glb",
+  "sha256": "9c6aa85e93f9e22835c8584520db28a68f815fe3312999fcbab48e0a925c39d7",
+  "sourcePageSha256": "0ef846450c313bd20d2287530fdd85a8e24a73d10263234d774b7f6200d8ac06",
+  "retrieved": "2026-10-22T11:06:01.566Z",
+  "sourcePageRetrieved": "2026-10-22T11:06:00.970Z",
+  "verifiedAt": "2026-10-22T11:21:06.163Z",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/"
+}

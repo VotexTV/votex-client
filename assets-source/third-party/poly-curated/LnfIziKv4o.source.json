@@ -1,0 +1,47 @@
+{
+  "Title": "Demon",
+  "UploadDate": "2022-10-23T10:13:55.734Z",
+  "ResourceID": "46b52ba4-5d2a-4fc8-85cc-3e980f199141",
+  "PublicID": "LnfIziKv4o",
+  "Likes": 7,
+  "CommentCount": 0,
+  "Tris": 5832,
+  "Views": "2.04k",
+  "Downloads": "3.83k",
+  "Creator": {
+    "Username": "Quaternius",
+    "DPURL": "https://static.poly.pizza/dp%2Ff63b655a-051c-4c4b-8dcc-3b346a39ece0.jpg",
+    "Socials": {
+      "Twitter": "quaternius",
+      "Pateron": "quaternius",
+      "Website": "https://quaternius.com/"
+    }
+  },
+  "Category": "People & Characters",
+  "Tags": [
+    "Devil",
+    "Hell"
+  ],
+  "Orbit": {
+    "phi": "1.30900",
+    "radius": "100%",
+    "theta": "0.00000"
+  },
+  "Background": {
+    "one": "#5e35b1",
+    "two": "hsl(260deg, 54%, 15%)",
+    "type": "Radial"
+  },
+  "Visibility": "Public",
+  "Type": "FBX",
+  "Licence": "CC0 1.0",
+  "Animated": true,
+  "sourceUrl": "https://poly.pizza/m/LnfIziKv4o",
+  "downloadUrl": "https://static.poly.pizza/46b52ba4-5d2a-4fc8-85cc-3e980f199141.glb",
+  "sha256": "7da854e1d43428b89b1afca0feca3f323b869b1d8ed7df74d17354260b607262",
+  "sourcePageSha256": "46c6172ebbbefec1b7ce7a10554dd9880b1de85f5ffe70c2ad88a3621b564d83",
+  "retrieved": "2026-10-21T21:14:04.598Z",
+  "sourcePageRetrieved": "2026-10-21T21:14:04.544Z",
+  "verifiedAt": "2026-10-22T11:21:05.867Z",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+}

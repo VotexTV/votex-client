@@ -1,0 +1,44 @@
+{
+  "Title": "Headphones",
+  "UploadDate": "2017-11-01T13:50:03.666Z",
+  "ResourceID": "5c15e56f-89a9-4379-b40f-4f51eef180b3",
+  "PublicID": "fPJoG2u0gnN",
+  "Likes": 2,
+  "CommentCount": 0,
+  "Tris": 3334,
+  "Views": 953,
+  "Downloads": 60,
+  "Creator": {
+    "Username": "Michael Fuchs",
+    "DPURL": "",
+    "Socials": {}
+  },
+  "Category": "Objects",
+  "Tags": [
+    "earphone",
+    "earpiece",
+    "phone"
+  ],
+  "Orbit": {
+    "phi": "1.31884",
+    "radius": "110%",
+    "theta": "0.87089"
+  },
+  "Background": {
+    "one": "#5e35b1",
+    "two": "hsl(260deg, 54%, 15%)",
+    "type": "Radial"
+  },
+  "Visibility": "Public",
+  "Type": "obj",
+  "Licence": "CC-BY 3.0",
+  "Animated": false,
+  "sourceUrl": "https://poly.pizza/m/fPJoG2u0gnN",
+  "downloadUrl": "https://static.poly.pizza/5c15e56f-89a9-4379-b40f-4f51eef180b3.glb",
+  "sha256": "04d48d9c017ab84365f641616baca6a231590bf25ddd46f481df235350208b4c",
+  "sourcePageSha256": "b6cd0328bb4645eb26c0ce79dd182ee4170fdc2dca527d73841cd1e0a173a814",
+  "retrieved": "2026-10-22T11:05:06.661Z",
+  "sourcePageRetrieved": "2026-10-22T11:05:05.991Z",
+  "verifiedAt": "2026-10-22T11:21:06.124Z",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/"
+}

@@ -1,0 +1,49 @@
+{
+  "Title": "Baseball cap",
+  "Description": "#hat #accessory #headgear",
+  "UploadDate": "2017-10-11T01:38:04.010Z",
+  "ResourceID": "f0df816e-ae99-4796-bcab-5ffa442ca771",
+  "PublicID": "dzfCdDABuiQ",
+  "Likes": 0,
+  "CommentCount": 0,
+  "Tris": 292,
+  "Views": 635,
+  "Downloads": 124,
+  "Creator": {
+    "Username": "jeremy",
+    "DPURL": "https://static.poly.pizza/dp%2Fa5e02278-d16e-4cbc-a709-114f417fe8ef.jpg",
+    "Socials": {
+      "Twitter": "astackofpaper",
+      "Instagram": "jedelblut",
+      "Website": "https://jeremy.toys"
+    }
+  },
+  "Category": "Objects",
+  "Tags": [
+    "hat",
+    "accessory",
+    "headgear"
+  ],
+  "Orbit": {
+    "phi": "1.31884",
+    "radius": "45.63550524444567",
+    "theta": "0.87089"
+  },
+  "Background": {
+    "one": "#00897b",
+    "two": "hsl(174deg, 100%, 15%)",
+    "type": "Radial"
+  },
+  "Visibility": "Public",
+  "Type": "obj",
+  "Licence": "CC-BY 3.0",
+  "Animated": false,
+  "sourceUrl": "https://poly.pizza/m/dzfCdDABuiQ",
+  "downloadUrl": "https://static.poly.pizza/f0df816e-ae99-4796-bcab-5ffa442ca771.glb",
+  "sha256": "7a738ec0af1ccc07d9babebe1597f2534b943fec7137c5b2cde850c411a38624",
+  "sourcePageSha256": "4962af89cbd89b8d13b2f68b3b1a67c431e50566b020eac995758a96a59bc0ce",
+  "retrieved": "2026-10-22T11:06:39.342Z",
+  "sourcePageRetrieved": "2026-10-22T11:06:39.120Z",
+  "verifiedAt": "2026-10-22T11:21:06.179Z",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/"
+}

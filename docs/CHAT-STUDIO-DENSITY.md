@@ -1,0 +1,22 @@
+# Chat Studio density and interaction — 2026-10-24
+
+Chat History and its message context menu now use WorkspaceLayout's physical-pixel density. Body text stays at least14 pixels in the tested envelope rather than shrinking with Minecraft GUI scale. Rounded search/actions, headings, glass backgrounds and bounded context placement match the other native Votex screens. WorkspaceMotion supplies both extraction and inverse pointer coordinates; disabling menu motion keeps input and presentation aligned.
+
+The history owns a clipped, eased list with a draggable custom scroll thumb. Row gaps are not clickable. Fractional wheel input is retained and only scrolls within the list. New messages preserve the currently read original object when the player has scrolled back. The visible snapshot is invalidated on history changes beyond the newest message, fixing stale older deletions. Search includes all original messages hidden by duplicate grouping. Long preview rows are bounded; copying still uses the complete original text.
+
+Context popovers close on an outside click, retain the search query/scroll and return to the unsent chat draft. Reply only prepares /msg. Default-font message presentation gets an explicit sans font in a separate component copy; original message content, identity and signatures are never rewritten. Colors and explicit custom fonts are retained.
+
+## Verified scope
+
+- Java97 tests pass.3 new ChatLayout cases cover physical density at GUI1–4, gap/clipping/fractional hit regions, popup bounds at each corner and scroll-thumb limits.
+- Native chat-density-run-01 exited0 for the responsive controls and live-history fixes. Image review prompted an explicit default-font presentation correction; run01 is not proof of that later correction.
+- Native chat-density-run-02 exited0 after five actual size/GUI cases:768x480 GUI1/2/3,1280x720 GUI2 and1920x1080 GUI3. Native right-click/Ctrl-F, Unicode search, message/name copy dispatch, unsent reply and duplicate grouping were exercised. All14 final screenshots were inspected.
+- The native80-message fixture proves long-preview/full-text copy, dead row gaps, eased fractional scrolling, thumb drag to the oldest messages, retained reading anchor after an arrival and older-message deletion with an unchanged newest message. Popup+parent window resize and outside-close query/draft preservation passed. The presented glyph styles explicitly carry the UI font and both original message colors; an explicit custom font survives presentation.
+- These are synthetic signed-message GUI objects, not a cryptographic signature or authenticated network-chat test. A test-source-set-only KeyboardHandler mixin used a private in-memory clipboard during this dedicated run. The actual native buttons were invoked, but no user clipboard formats were read or replaced; this does not add new OS-clipboard integration proof. Older documented native runs separately exercised the platform clipboard.
+- No network chat, account login, mod download, microphone or recorder was used. Both private clients exited and saved every dimension. The native-launch count after these two runs is30, before any later paired04 clients.
+
+Exact native proof: work/ingame-goal/chat-density-run-02/clientGameTest/config/votex/goal-evidence/native-chat-density-proof.json; source hashes/exit record: that run's launch-result.json. The production Core excludes the private clipboard mixin and every gametest class/resource.
+
+After run02, parent initialization was broadened to also refresh density when the GUI scale changes but GUI-coordinate dimensions happen to stay identical. Native chat-density-run-03 now proves the dedicated1280x720/GUI2 to1920x1080/GUI3 case: both are640x360 GUI coordinates, but the parent history rebuilds with the current physical density and preserves query/draft. Run03 repeats the earlier chat control/style/scroll cases and adds social feedback rendering/lifecycle in the same private client. The added same-coordinate popup screenshot was inspected. Java100 tests now pass. See SOCIAL-FEEDBACK.md for its different synthetic-packet scope.
+
+This source is newer than the immutable Preview2 EXE. It does not replace the user's preview or change live profiles. Paired remote/wall checks passed separately in paired05 (HANDSHAKE-CONTACT.md); overall visual acceptance and previously recorded external/backend gates remain separate work. Full goal stays ACTIVE.

@@ -1,0 +1,47 @@
+{
+  "Title": "Staff",
+  "Description": " ",
+  "UploadDate": "2021-08-17T12:08:11.367Z",
+  "ResourceID": "18031dd6-1a26-4fa1-bd09-53c45bd31880",
+  "PublicID": "PnGRvO4Lwd",
+  "Likes": 4,
+  "CommentCount": 0,
+  "Tris": 220,
+  "Views": 883,
+  "Downloads": 523,
+  "Creator": {
+    "Username": "Quaternius",
+    "DPURL": "https://static.poly.pizza/dp%2Ff63b655a-051c-4c4b-8dcc-3b346a39ece0.jpg",
+    "Socials": {
+      "Twitter": "quaternius",
+      "Pateron": "quaternius",
+      "Website": "https://quaternius.com/"
+    }
+  },
+  "Category": "Weapons",
+  "Tags": [
+    "magic"
+  ],
+  "Orbit": {
+    "phi": "1.16620",
+    "radius": "3.6897804890484958",
+    "theta": "1.22118"
+  },
+  "Background": {
+    "one": "#5e35b1",
+    "two": "hsl(260deg, 54%, 15%)",
+    "type": "Radial"
+  },
+  "Visibility": "Public",
+  "Type": "FBX",
+  "Licence": "CC0 1.0",
+  "Animated": false,
+  "sourceUrl": "https://poly.pizza/m/PnGRvO4Lwd",
+  "downloadUrl": "https://static.poly.pizza/18031dd6-1a26-4fa1-bd09-53c45bd31880.glb",
+  "sha256": "8c0dbd0bc20dc586163124c745b10852a6f215b646084dc74955e92f77824401",
+  "sourcePageSha256": "eca89fd6eef3c3b1eeda6ff5898d996bdd59d5bbbcdf98a25f8d223da10271d8",
+  "retrieved": "2026-10-21T21:14:14.219Z",
+  "sourcePageRetrieved": "2026-10-21T21:14:13.930Z",
+  "verifiedAt": "2026-10-22T11:21:06.075Z",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+}

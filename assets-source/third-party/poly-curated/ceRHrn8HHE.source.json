@@ -1,0 +1,46 @@
+{
+  "Title": "Yeti",
+  "UploadDate": "2022-10-23T10:13:57.353Z",
+  "ResourceID": "40a831b3-686a-4af8-b189-a13b38a3c26a",
+  "PublicID": "ceRHrn8HHE",
+  "Likes": 1,
+  "CommentCount": 0,
+  "Tris": 4310,
+  "Views": 910,
+  "Downloads": "3.55k",
+  "Creator": {
+    "Username": "Quaternius",
+    "DPURL": "https://static.poly.pizza/dp%2Ff63b655a-051c-4c4b-8dcc-3b346a39ece0.jpg",
+    "Socials": {
+      "Twitter": "quaternius",
+      "Pateron": "quaternius",
+      "Website": "https://quaternius.com/"
+    }
+  },
+  "Category": "Objects",
+  "Tags": [
+    "Robot"
+  ],
+  "Orbit": {
+    "phi": "1.30900",
+    "radius": "100%",
+    "theta": "0.00000"
+  },
+  "Background": {
+    "one": "#5e35b1",
+    "two": "hsl(260deg, 54%, 15%)",
+    "type": "Radial"
+  },
+  "Visibility": "Public",
+  "Type": "FBX",
+  "Licence": "CC0 1.0",
+  "Animated": true,
+  "sourceUrl": "https://poly.pizza/m/ceRHrn8HHE",
+  "downloadUrl": "https://static.poly.pizza/40a831b3-686a-4af8-b189-a13b38a3c26a.glb",
+  "sha256": "789fcdd3d32a1bf6ceaa0e30f9ac5d8d2c52d15fa0181d4d1d980a1b2a2ac869",
+  "sourcePageSha256": "4fa6244119e0b72d935d49ba0fd8925d7b3718326222b9d133c2f8bf12dc6345",
+  "retrieved": "2026-10-21T21:14:04.782Z",
+  "sourcePageRetrieved": "2026-10-21T21:14:04.715Z",
+  "verifiedAt": "2026-10-22T11:21:05.864Z",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+}

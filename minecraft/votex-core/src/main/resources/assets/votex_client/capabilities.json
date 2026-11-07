@@ -1,0 +1,6 @@
+{
+  "schemaVersion": 1,
+  "voiceStartMicConsentGuard": 1,
+  "voiceStartMicConsentGuardImplemented": 1,
+  "voicechatVersion": "2.6.24+26.2"
+}

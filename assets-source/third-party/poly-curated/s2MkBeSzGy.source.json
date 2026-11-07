@@ -1,0 +1,48 @@
+{
+  "Title": "Butterfly Fish",
+  "UploadDate": "2022-06-20T13:20:17.146Z",
+  "ResourceID": "180f002b-9a9c-4ec8-9460-7aca6f05a6e7",
+  "PublicID": "s2MkBeSzGy",
+  "Likes": 7,
+  "CommentCount": 0,
+  "Tris": 1374,
+  "Views": 654,
+  "Downloads": "2.44k",
+  "Creator": {
+    "Username": "Quaternius",
+    "DPURL": "https://static.poly.pizza/dp%2Ff63b655a-051c-4c4b-8dcc-3b346a39ece0.jpg",
+    "Socials": {
+      "Twitter": "quaternius",
+      "Pateron": "quaternius",
+      "Website": "https://quaternius.com/"
+    }
+  },
+  "Category": "Animals",
+  "Tags": [
+    "Sea Life",
+    "Animal",
+    "Fish"
+  ],
+  "Orbit": {
+    "phi": "1.29325",
+    "radius": "100%",
+    "theta": "0.86610"
+  },
+  "Background": {
+    "one": "#039be5",
+    "two": "hsl(200deg, 97%, 15%)",
+    "type": "Radial"
+  },
+  "Visibility": "Public",
+  "Type": "FBX",
+  "Licence": "CC0 1.0",
+  "Animated": true,
+  "sourceUrl": "https://poly.pizza/m/s2MkBeSzGy",
+  "downloadUrl": "https://static.poly.pizza/180f002b-9a9c-4ec8-9460-7aca6f05a6e7.glb",
+  "sha256": "d43e7f55ae3fff23dd48c09661382836b1498f773c561f486d9a0277d0590853",
+  "sourcePageSha256": "3d62e6ef0ca4259918497a80b8e678f87caebafdf604242823f65a069d983d4b",
+  "retrieved": "2026-10-22T11:01:50.192Z",
+  "sourcePageRetrieved": "2026-10-22T11:01:49.723Z",
+  "verifiedAt": "2026-10-22T11:21:05.938Z",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+}

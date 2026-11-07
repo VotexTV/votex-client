@@ -1,0 +1,47 @@
+{
+  "Title": "Parasaurolophus",
+  "UploadDate": "2021-08-18T11:39:42.543Z",
+  "ResourceID": "47b9d0bd-cddb-49be-b072-12201def24a9",
+  "PublicID": "KeeQrrouRK",
+  "Likes": 11,
+  "CommentCount": 0,
+  "Tris": 1340,
+  "Views": 924,
+  "Downloads": "2.27k",
+  "Creator": {
+    "Username": "Quaternius",
+    "DPURL": "https://static.poly.pizza/dp%2Ff63b655a-051c-4c4b-8dcc-3b346a39ece0.jpg",
+    "Socials": {
+      "Twitter": "quaternius",
+      "Pateron": "quaternius",
+      "Website": "https://quaternius.com/"
+    }
+  },
+  "Category": "Animals",
+  "Tags": [
+    "Animal",
+    "Dinosaur"
+  ],
+  "Orbit": {
+    "phi": "1.34053",
+    "radius": "100%",
+    "theta": "0.95391"
+  },
+  "Background": {
+    "one": "#5e35b1",
+    "two": "hsl(260deg, 54%, 15%)",
+    "type": "Radial"
+  },
+  "Visibility": "Public",
+  "Type": "FBX",
+  "Licence": "CC0 1.0",
+  "Animated": false,
+  "sourceUrl": "https://poly.pizza/m/KeeQrrouRK",
+  "downloadUrl": "https://static.poly.pizza/47b9d0bd-cddb-49be-b072-12201def24a9.glb",
+  "sha256": "163d80abed38e380f7e799d0d040c77fdd86abad7da50cd8292f3f8a98ffbbd7",
+  "sourcePageSha256": "379138f35be6c30bf1291c673a701c3ff844e305483510266ad58993ba5d06fa",
+  "retrieved": "2026-10-22T11:03:03.149Z",
+  "sourcePageRetrieved": "2026-10-22T11:03:02.918Z",
+  "verifiedAt": "2026-10-22T11:21:06.010Z",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+}

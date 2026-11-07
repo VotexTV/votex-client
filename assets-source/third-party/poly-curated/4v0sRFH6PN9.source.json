@@ -1,0 +1,45 @@
+{
+  "Title": "Graduation cap",
+  "Description": "#grad #hat #cap",
+  "UploadDate": "2017-10-23T15:46:04.791Z",
+  "ResourceID": "9f23cae1-ba56-4795-86c1-fa6837a6f38c",
+  "PublicID": "4v0sRFH6PN9",
+  "Likes": 7,
+  "CommentCount": 0,
+  "Tris": 112,
+  "Views": "1.38k",
+  "Downloads": 224,
+  "Creator": {
+    "Username": "Poly by Google",
+    "DPURL": "https://static.poly.pizza/dp%2Fpolygoogle.jpg",
+    "Socials": {}
+  },
+  "Category": "Objects",
+  "Tags": [
+    "grad",
+    "hat",
+    "cap"
+  ],
+  "Orbit": {
+    "phi": "1.31884",
+    "radius": "110%",
+    "theta": "0.87089"
+  },
+  "Background": {
+    "one": "#00acc1",
+    "two": "hsl(187deg, 100%, 15%)",
+    "type": "Radial"
+  },
+  "Visibility": "Public",
+  "Type": "obj",
+  "Licence": "CC-BY 3.0",
+  "Animated": false,
+  "sourceUrl": "https://poly.pizza/m/4v0sRFH6PN9",
+  "downloadUrl": "https://static.poly.pizza/9f23cae1-ba56-4795-86c1-fa6837a6f38c.glb",
+  "sha256": "e1edc4cc3c6ef1da12ab6c9dd4a9656445988d5a32a2f8a1eb0c47d8f78e19c1",
+  "sourcePageSha256": "eacb470e5b5fad3204a1b4263925c08457523c5165b7261ee8790a5a8aee93e9",
+  "retrieved": "2026-10-22T11:05:07.776Z",
+  "sourcePageRetrieved": "2026-10-22T11:05:07.545Z",
+  "verifiedAt": "2026-10-22T11:21:06.125Z",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/"
+}

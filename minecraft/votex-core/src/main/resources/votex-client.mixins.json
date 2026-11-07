@@ -1,0 +1,31 @@
+{
+  "required": true,
+  "package": "dev.votex.client.mixin",
+  "compatibilityLevel": "JAVA_25",
+  "client": [
+    "LivingRendererAccessor",
+    "AvatarRendererMixin",
+    "LocalSkinMixin",
+    "AvatarRenderStateMixin",
+    "AvatarPreviewMixin",
+    "PlayerModelMixin",
+    "FirstPersonEmoteMixin",
+    "CapeLayerMixin",
+    "PerformanceMixin",
+    "ChatComponentAccessor",
+    "ChatComponentMixin",
+    "ChatScreenMixin",
+    "ItemEntityStateMixin",
+    "ItemEntityRendererMixin",
+    "FontAccessor",
+    "UiGlyphSamplingMixin",
+    "UiSurfaceSamplingMixin",
+    "MenuBlurMixin",
+    "GlassGuiRendererMixin",
+    "GlassMouseMixin",
+    "HudVisibilityMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

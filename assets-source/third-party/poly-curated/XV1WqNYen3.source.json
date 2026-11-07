@@ -1,0 +1,44 @@
+{
+  "Title": "Slippers",
+  "UploadDate": "2024-09-06T02:53:29.791Z",
+  "ResourceID": "69d4f7cf-6eb6-42bb-8477-761d2dd9ce24",
+  "PublicID": "XV1WqNYen3",
+  "Likes": 0,
+  "CommentCount": 0,
+  "Tris": 360,
+  "Views": 237,
+  "Downloads": 383,
+  "Creator": {
+    "Username": "Isa Lousberg",
+    "DPURL": "",
+    "Socials": {}
+  },
+  "Category": "Objects",
+  "Tags": [
+    "Footwear",
+    "House Shoes",
+    "Comfort"
+  ],
+  "Orbit": {
+    "phi": "1.14953",
+    "radius": "100%",
+    "theta": "-0.55018"
+  },
+  "Background": {
+    "one": "#5e35b1",
+    "two": "hsl(260deg, 54%, 15%)",
+    "type": "Radial"
+  },
+  "Visibility": "Public",
+  "Type": "FBX",
+  "Licence": "CC0 1.0",
+  "Animated": false,
+  "sourceUrl": "https://poly.pizza/m/XV1WqNYen3",
+  "downloadUrl": "https://static.poly.pizza/69d4f7cf-6eb6-42bb-8477-761d2dd9ce24.glb",
+  "sha256": "6689b31205b03684c3f247f5fdc2aaf7993e2ed60a15a1cc0b0e2bffb5bc3a8d",
+  "sourcePageSha256": "d3ab2a8b601e3a234d740e3dadad1672793e9d3c48aefb7f90ee197e1857355f",
+  "retrieved": "2026-10-22T11:06:27.517Z",
+  "sourcePageRetrieved": "2026-10-22T11:06:27.276Z",
+  "verifiedAt": "2026-10-22T11:21:06.171Z",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+}

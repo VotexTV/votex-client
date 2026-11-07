@@ -1,0 +1,44 @@
+{
+  "Title": "Adventurers Hat",
+  "UploadDate": "2017-11-01T14:40:54.915Z",
+  "ResourceID": "6eb355f7-e199-480a-b2ae-788803d77b56",
+  "PublicID": "fBVNVcL33fk",
+  "Likes": 2,
+  "CommentCount": 0,
+  "Tris": 1960,
+  "Views": "1.26k",
+  "Downloads": 547,
+  "Creator": {
+    "Username": "Michael Fuchs",
+    "DPURL": "",
+    "Socials": {}
+  },
+  "Category": "Objects",
+  "Tags": [
+    "carpetbagger",
+    "argonaut",
+    "errantry"
+  ],
+  "Orbit": {
+    "phi": "1.31884",
+    "radius": "110%",
+    "theta": "0.87089"
+  },
+  "Background": {
+    "one": "#e53935",
+    "two": "hsl(1deg, 77%, 15%)",
+    "type": "Radial"
+  },
+  "Visibility": "Public",
+  "Type": "obj",
+  "Licence": "CC-BY 3.0",
+  "Animated": false,
+  "sourceUrl": "https://poly.pizza/m/fBVNVcL33fk",
+  "downloadUrl": "https://static.poly.pizza/6eb355f7-e199-480a-b2ae-788803d77b56.glb",
+  "sha256": "6526a5fef34d70c27b09ff5e46d97eb0328be753ed1cc0b5bac246bb15c69ee2",
+  "sourcePageSha256": "2781c164945ccafa14b64ea5713f5dcf98690bd68278084a6eb136f55742c511",
+  "retrieved": "2026-10-21T21:14:16.210Z",
+  "sourcePageRetrieved": "2026-10-21T21:14:15.810Z",
+  "verifiedAt": "2026-10-22T11:21:06.121Z",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/"
+}

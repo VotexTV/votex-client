@@ -1,0 +1,46 @@
+{
+  "Title": "Flatfish",
+  "UploadDate": "2022-06-20T13:20:15.830Z",
+  "ResourceID": "57b1100f-2b41-4154-b0b2-704bd7186b16",
+  "PublicID": "X5EjEA6fMF",
+  "Likes": 3,
+  "CommentCount": 0,
+  "Tris": 1638,
+  "Views": 472,
+  "Downloads": "2.07k",
+  "Creator": {
+    "Username": "Quaternius",
+    "DPURL": "https://static.poly.pizza/dp%2Ff63b655a-051c-4c4b-8dcc-3b346a39ece0.jpg",
+    "Socials": {
+      "Twitter": "quaternius",
+      "Pateron": "quaternius",
+      "Website": "https://quaternius.com/"
+    }
+  },
+  "Category": "Animals",
+  "Tags": [
+    "Fish"
+  ],
+  "Orbit": {
+    "phi": "1.29325",
+    "radius": "100%",
+    "theta": "0.86610"
+  },
+  "Background": {
+    "one": "#039be5",
+    "two": "hsl(200deg, 97%, 15%)",
+    "type": "Radial"
+  },
+  "Visibility": "Public",
+  "Type": "FBX",
+  "Licence": "CC0 1.0",
+  "Animated": true,
+  "sourceUrl": "https://poly.pizza/m/X5EjEA6fMF",
+  "downloadUrl": "https://static.poly.pizza/57b1100f-2b41-4154-b0b2-704bd7186b16.glb",
+  "sha256": "56e85614f9a28b06455e875f43d9317e506465882bf724ac4e84d9fbdcd1c443",
+  "sourcePageSha256": "02c6759b7886ce121a14c37ad2c536ed877227d02c3e32eedaa7b8db7fc2aefa",
+  "retrieved": "2026-10-22T11:01:58.348Z",
+  "sourcePageRetrieved": "2026-10-22T11:01:58.096Z",
+  "verifiedAt": "2026-10-22T11:21:05.945Z",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+}

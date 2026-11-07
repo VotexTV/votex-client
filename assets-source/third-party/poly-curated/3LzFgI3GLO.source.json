@@ -1,0 +1,49 @@
+{
+  "Title": "Dolphin",
+  "UploadDate": "2021-08-17T12:40:45.325Z",
+  "ResourceID": "fcea284f-cafc-4be1-a701-2a0fd811ad5c",
+  "PublicID": "3LzFgI3GLO",
+  "Likes": 5,
+  "CommentCount": 0,
+  "Tris": 440,
+  "Views": 989,
+  "Downloads": "1.95k",
+  "Creator": {
+    "Username": "Quaternius",
+    "DPURL": "https://static.poly.pizza/dp%2Ff63b655a-051c-4c4b-8dcc-3b346a39ece0.jpg",
+    "Socials": {
+      "Twitter": "quaternius",
+      "Pateron": "quaternius",
+      "Website": "https://quaternius.com/"
+    }
+  },
+  "Category": "Animals",
+  "Tags": [
+    "Shark",
+    "Sea Life",
+    "Animal",
+    "Fish"
+  ],
+  "Orbit": {
+    "phi": "1.18286",
+    "radius": "100%",
+    "theta": "1.03274"
+  },
+  "Background": {
+    "one": "#039be5",
+    "two": "hsl(200deg, 97%, 15%)",
+    "type": "Radial"
+  },
+  "Visibility": "Public",
+  "Type": "FBX",
+  "Licence": "CC0 1.0",
+  "Animated": false,
+  "sourceUrl": "https://poly.pizza/m/3LzFgI3GLO",
+  "downloadUrl": "https://static.poly.pizza/fcea284f-cafc-4be1-a701-2a0fd811ad5c.glb",
+  "sha256": "3c8bdc0440b5585c15c753a6b6a07f57a80ce3f33f58333c804069c714dd9993",
+  "sourcePageSha256": "0ee11e708916d38b1cfef0a6a493d88e5112b5e4e2fc77f3a40998a2812dea17",
+  "retrieved": "2026-10-22T11:03:22.302Z",
+  "sourcePageRetrieved": "2026-10-22T11:03:21.930Z",
+  "verifiedAt": "2026-10-22T11:21:06.026Z",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+}

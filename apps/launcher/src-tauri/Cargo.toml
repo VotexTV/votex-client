@@ -1,0 +1,31 @@
+[package]
+name = "votex-launcher"
+version = "5.7.0"
+edition = "2021"
+license = "MIT"
+
+[build-dependencies]
+tauri-build = { version = "2", features = [] }
+
+[dependencies]
+tauri = { version = "2", features = [] }
+serde = { version = "1", features = ["derive"] }
+serde_json = "1"
+reqwest = { version = "0.12", default-features = false, features = ["json", "rustls-tls", "stream"] }
+tokio = { version = "1", features = ["full"] }
+sha1 = "0.10"
+sha2 = "0.10"
+md-5 = "0.10"
+hex = "0.4"
+uuid = { version = "1", features = ["v4"] }
+chrono = { version = "0.4", features = ["serde"] }
+zip = { version = "2", default-features = false, features = ["deflate"] }
+keyring = { version = "3", features = ["windows-native"] }
+base64 = "0.22"
+ring = "0.17"
+open = "5"
+futures-util = "0.3"
+walkdir = "2"
+
+[dev-dependencies]
+tempfile = "3"

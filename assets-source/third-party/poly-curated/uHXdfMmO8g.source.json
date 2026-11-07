@@ -1,0 +1,46 @@
+{
+  "Title": "Axe Double",
+  "UploadDate": "2021-08-26T12:55:45.667Z",
+  "ResourceID": "0c2955b1-c314-42d3-bae0-175cc4cb0423",
+  "PublicID": "uHXdfMmO8g",
+  "Likes": 2,
+  "CommentCount": 0,
+  "Tris": 0,
+  "Views": 599,
+  "Downloads": "2.67k",
+  "Creator": {
+    "Username": "Quaternius",
+    "DPURL": "https://static.poly.pizza/dp%2Ff63b655a-051c-4c4b-8dcc-3b346a39ece0.jpg",
+    "Socials": {
+      "Twitter": "quaternius",
+      "Pateron": "quaternius",
+      "Website": "https://quaternius.com/"
+    }
+  },
+  "Category": "Weapons",
+  "Tags": [
+    "Axe"
+  ],
+  "Orbit": {
+    "phi": "1.41937",
+    "radius": "100%",
+    "theta": "-0.02365"
+  },
+  "Background": {
+    "one": "#546e7a",
+    "two": "hsl(199deg, 18%, 15%)",
+    "type": "Radial"
+  },
+  "Visibility": "Public",
+  "Type": "FBX",
+  "Licence": "CC0 1.0",
+  "Animated": false,
+  "sourceUrl": "https://poly.pizza/m/uHXdfMmO8g",
+  "downloadUrl": "https://static.poly.pizza/0c2955b1-c314-42d3-bae0-175cc4cb0423.glb",
+  "sha256": "f403f3940042ac2579b88c032d5a3b3efc5d9c55b6a8586d9538bd4a6e525af2",
+  "sourcePageSha256": "b5a765ea248837a1f032f81cfc136300f5b29e9226c1ff5aa2ab8c1c3729ddd5",
+  "retrieved": "2026-10-22T11:04:06.413Z",
+  "sourcePageRetrieved": "2026-10-22T11:04:06.169Z",
+  "verifiedAt": "2026-10-22T11:21:06.069Z",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+}

@@ -1,0 +1,50 @@
+{
+  "Title": "Orc",
+  "UploadDate": "2022-10-23T10:13:56.869Z",
+  "ResourceID": "52a479b3-a635-4a23-92cb-6697eaa5eed5",
+  "PublicID": "5vO2YJsPEf",
+  "Likes": 6,
+  "CommentCount": 0,
+  "Tris": 4312,
+  "Views": "1.62k",
+  "Downloads": "3.74k",
+  "Creator": {
+    "Username": "Quaternius",
+    "DPURL": "https://static.poly.pizza/dp%2Ff63b655a-051c-4c4b-8dcc-3b346a39ece0.jpg",
+    "Socials": {
+      "Twitter": "quaternius",
+      "Pateron": "quaternius",
+      "Website": "https://quaternius.com/"
+    }
+  },
+  "Category": "Objects",
+  "Tags": [
+    "Green",
+    "Enemy",
+    "NPC",
+    "Goblin",
+    "Monster"
+  ],
+  "Orbit": {
+    "phi": "1.30900",
+    "radius": "100%",
+    "theta": "0.00000"
+  },
+  "Background": {
+    "one": "#5e35b1",
+    "two": "hsl(260deg, 54%, 15%)",
+    "type": "Radial"
+  },
+  "Visibility": "Public",
+  "Type": "FBX",
+  "Licence": "CC0 1.0",
+  "Animated": true,
+  "sourceUrl": "https://poly.pizza/m/5vO2YJsPEf",
+  "downloadUrl": "https://static.poly.pizza/52a479b3-a635-4a23-92cb-6697eaa5eed5.glb",
+  "sha256": "fb5d9da18e16fd3bd6f066692576845d411acf19536d46c7598f5d701b6db19f",
+  "sourcePageSha256": "560ee5c639f2e50e25c73c42ca97795de3b056ba5943d12dc697a7c93c82e6ef",
+  "retrieved": "2026-10-21T21:14:04.538Z",
+  "sourcePageRetrieved": "2026-10-21T21:14:04.464Z",
+  "verifiedAt": "2026-10-22T11:21:05.866Z",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+}

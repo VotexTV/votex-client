@@ -1,0 +1,48 @@
+{
+  "Title": "Top Hat",
+  "Description": "Only a true Gentleman can wear this hat ",
+  "UploadDate": "2022-12-24T19:01:34.860Z",
+  "ResourceID": "24be4e99-1577-4490-8f2f-991b42ee9679",
+  "PublicID": "a6B0wtVteV",
+  "Likes": 4,
+  "CommentCount": 0,
+  "Tris": 156,
+  "Views": 314,
+  "Downloads": 585,
+  "Creator": {
+    "Username": "J-Toastie",
+    "DPURL": "https://static.poly.pizza/dp%2F2a18493e-a521-40ff-8c30-f7cfcdb513dd.jpg",
+    "Socials": {}
+  },
+  "Category": "Other",
+  "Tags": [
+    "Top",
+    "Hat",
+    "Accessory",
+    "Cosmetic",
+    "Gentleman",
+    "Clothing"
+  ],
+  "Orbit": {
+    "phi": "1.21972",
+    "radius": "100%",
+    "theta": "-4.86584"
+  },
+  "Background": {
+    "one": "#5e35b1",
+    "two": "hsl(260deg, 54%, 15%)",
+    "type": "Radial"
+  },
+  "Visibility": "Public",
+  "Type": "OBJ",
+  "Licence": "CC-BY 3.0",
+  "Animated": false,
+  "sourceUrl": "https://poly.pizza/m/a6B0wtVteV",
+  "downloadUrl": "https://static.poly.pizza/24be4e99-1577-4490-8f2f-991b42ee9679.glb",
+  "sha256": "ef8539badc1bb900019a33fc81a19a3e773d5676d696b8ccd928a2e809259ff6",
+  "sourcePageSha256": "ee53085c03643120620d8d2e750f9e79231d774b97550ad695ef02d3dd7815c8",
+  "retrieved": "2026-10-22T11:04:43.891Z",
+  "sourcePageRetrieved": "2026-10-22T11:04:43.675Z",
+  "verifiedAt": "2026-10-22T11:21:06.103Z",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/"
+}

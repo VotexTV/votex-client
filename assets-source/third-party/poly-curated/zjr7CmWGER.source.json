@@ -1,0 +1,49 @@
+{
+  "Title": "Hywirl",
+  "UploadDate": "2022-10-23T01:01:40.865Z",
+  "ResourceID": "6500a805-0588-4823-bb8d-2f8ffdf338ab",
+  "PublicID": "zjr7CmWGER",
+  "Likes": 4,
+  "CommentCount": 0,
+  "Tris": 2560,
+  "Views": 601,
+  "Downloads": "3.51k",
+  "Creator": {
+    "Username": "Quaternius",
+    "DPURL": "https://static.poly.pizza/dp%2Ff63b655a-051c-4c4b-8dcc-3b346a39ece0.jpg",
+    "Socials": {
+      "Twitter": "quaternius",
+      "Pateron": "quaternius",
+      "Website": "https://quaternius.com/"
+    }
+  },
+  "Category": "Animals",
+  "Tags": [
+    "Animal",
+    "Purple",
+    "Pokemon",
+    "Monster"
+  ],
+  "Orbit": {
+    "phi": "1.37207",
+    "radius": "100%",
+    "theta": "-0.03153"
+  },
+  "Background": {
+    "one": "#5e35b1",
+    "two": "hsl(260deg, 54%, 15%)",
+    "type": "Radial"
+  },
+  "Visibility": "Public",
+  "Type": "FBX",
+  "Licence": "CC0 1.0",
+  "Animated": true,
+  "sourceUrl": "https://poly.pizza/m/zjr7CmWGER",
+  "downloadUrl": "https://static.poly.pizza/6500a805-0588-4823-bb8d-2f8ffdf338ab.glb",
+  "sha256": "90b8f9f252999e71c1bd4bfa76bb219c577a1ecfb10294ca0eb41f903a60d8bd",
+  "sourcePageSha256": "35b95d8b4a831f363a8b56abc951ec8492cef8639e6225fa83e7b0b901380fb4",
+  "retrieved": "2026-10-21T21:14:05.766Z",
+  "sourcePageRetrieved": "2026-10-21T21:14:05.469Z",
+  "verifiedAt": "2026-10-22T11:21:05.885Z",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+}

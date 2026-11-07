@@ -1,0 +1,44 @@
+{
+  "Title": "Top Hat",
+  "UploadDate": "2017-06-02T18:16:14.262Z",
+  "ResourceID": "856aa68f-a361-41a3-b00e-3726393481bf",
+  "PublicID": "cKVNEpmNy36",
+  "Likes": 1,
+  "CommentCount": 0,
+  "Tris": 424,
+  "Views": 805,
+  "Downloads": 36,
+  "Creator": {
+    "Username": "Jarlan Perez",
+    "DPURL": "",
+    "Socials": {}
+  },
+  "Category": "Objects",
+  "Tags": [
+    "stovepipe",
+    "beaver",
+    "topper"
+  ],
+  "Orbit": {
+    "phi": "1.41725",
+    "radius": "110%",
+    "theta": "3.70005"
+  },
+  "Background": {
+    "one": "#757575",
+    "two": "hsl(0deg, 0%, 15%)",
+    "type": "Radial"
+  },
+  "Visibility": "Public",
+  "Type": "obj",
+  "Licence": "CC-BY 3.0",
+  "Animated": false,
+  "sourceUrl": "https://poly.pizza/m/cKVNEpmNy36",
+  "downloadUrl": "https://static.poly.pizza/856aa68f-a361-41a3-b00e-3726393481bf.glb",
+  "sha256": "4390b06104823bca6193591ae0a74ad95966937c9baa80e22e6e45b59cff699a",
+  "sourcePageSha256": "0ff1537dada91c7cd22fbfc60757e5e514f02ff66e7182624bb3b194490fb0d2",
+  "retrieved": "2026-10-22T11:06:41.011Z",
+  "sourcePageRetrieved": "2026-10-22T11:06:40.788Z",
+  "verifiedAt": "2026-10-22T11:21:06.180Z",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/"
+}

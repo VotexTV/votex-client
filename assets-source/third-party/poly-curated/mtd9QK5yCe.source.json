@@ -1,0 +1,46 @@
+{
+  "Title": "Armored Catfish",
+  "UploadDate": "2022-06-20T13:20:17.774Z",
+  "ResourceID": "d42c2675-dba1-4d73-8a66-f924bb3bdbbf",
+  "PublicID": "mtd9QK5yCe",
+  "Likes": 2,
+  "CommentCount": 0,
+  "Tris": 1466,
+  "Views": 251,
+  "Downloads": "2.03k",
+  "Creator": {
+    "Username": "Quaternius",
+    "DPURL": "https://static.poly.pizza/dp%2Ff63b655a-051c-4c4b-8dcc-3b346a39ece0.jpg",
+    "Socials": {
+      "Twitter": "quaternius",
+      "Pateron": "quaternius",
+      "Website": "https://quaternius.com/"
+    }
+  },
+  "Category": "Animals",
+  "Tags": [
+    "Fish"
+  ],
+  "Orbit": {
+    "phi": "1.29325",
+    "radius": "100%",
+    "theta": "0.86610"
+  },
+  "Background": {
+    "one": "#039be5",
+    "two": "hsl(200deg, 97%, 15%)",
+    "type": "Radial"
+  },
+  "Visibility": "Public",
+  "Type": "FBX",
+  "Licence": "CC0 1.0",
+  "Animated": true,
+  "sourceUrl": "https://poly.pizza/m/mtd9QK5yCe",
+  "downloadUrl": "https://static.poly.pizza/d42c2675-dba1-4d73-8a66-f924bb3bdbbf.glb",
+  "sha256": "a4a03f5f7a8c55523217902f6fd966df0e2a0fd043e5262e0489a80fe2f3d8fc",
+  "sourcePageSha256": "a81ce4a43e9b3ec1c368bc44bef568bcd7b96848393061381cc8c2c337826625",
+  "retrieved": "2026-10-22T11:01:39.713Z",
+  "sourcePageRetrieved": "2026-10-22T11:01:39.339Z",
+  "verifiedAt": "2026-10-22T11:21:05.930Z",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+}

@@ -1,0 +1,48 @@
+{
+  "Title": "Yeti",
+  "UploadDate": "2022-10-23T01:01:42.515Z",
+  "ResourceID": "085b078d-b72a-4d8e-a030-000d36c58447",
+  "PublicID": "S1E7idPFhe",
+  "Likes": 3,
+  "CommentCount": 0,
+  "Tris": 2088,
+  "Views": 701,
+  "Downloads": "3.52k",
+  "Creator": {
+    "Username": "Quaternius",
+    "DPURL": "https://static.poly.pizza/dp%2Ff63b655a-051c-4c4b-8dcc-3b346a39ece0.jpg",
+    "Socials": {
+      "Twitter": "quaternius",
+      "Pateron": "quaternius",
+      "Website": "https://quaternius.com/"
+    }
+  },
+  "Category": "Animals",
+  "Tags": [
+    "Mouth",
+    "Lip",
+    "Monster"
+  ],
+  "Orbit": {
+    "phi": "1.37207",
+    "radius": "100%",
+    "theta": "-0.03153"
+  },
+  "Background": {
+    "one": "#5e35b1",
+    "two": "hsl(260deg, 54%, 15%)",
+    "type": "Radial"
+  },
+  "Visibility": "Public",
+  "Type": "FBX",
+  "Licence": "CC0 1.0",
+  "Animated": true,
+  "sourceUrl": "https://poly.pizza/m/S1E7idPFhe",
+  "downloadUrl": "https://static.poly.pizza/085b078d-b72a-4d8e-a030-000d36c58447.glb",
+  "sha256": "20aaa4fc5fc3b9fe30b6109f88061f2d6f49e03b26a51ebee08f50bd1c26caaf",
+  "sourcePageSha256": "41bd3612eda2201016d4f0f8d2fbbc3b9fe63b8537814ccc86d93d49cdb3c873",
+  "retrieved": "2026-10-21T21:14:05.168Z",
+  "sourcePageRetrieved": "2026-10-21T21:14:05.112Z",
+  "verifiedAt": "2026-10-22T11:21:05.878Z",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+}

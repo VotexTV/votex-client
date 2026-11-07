@@ -1,0 +1,48 @@
+{
+  "Title": "Wasp",
+  "UploadDate": "2021-08-19T13:01:07.258Z",
+  "ResourceID": "71cadefd-8e65-423a-9a95-3cdf7e012586",
+  "PublicID": "3aQgc75sUR",
+  "Likes": 9,
+  "CommentCount": 0,
+  "Tris": 0,
+  "Views": "1.03k",
+  "Downloads": "1.55k",
+  "Creator": {
+    "Username": "Quaternius",
+    "DPURL": "https://static.poly.pizza/dp%2Ff63b655a-051c-4c4b-8dcc-3b346a39ece0.jpg",
+    "Socials": {
+      "Twitter": "quaternius",
+      "Pateron": "quaternius",
+      "Website": "https://quaternius.com/"
+    }
+  },
+  "Category": "Animals",
+  "Tags": [
+    "Wasp",
+    "Insect",
+    "Animal"
+  ],
+  "Orbit": {
+    "phi": "1.16709",
+    "radius": "100%",
+    "theta": "0.81989"
+  },
+  "Background": {
+    "one": "#5e35b1",
+    "two": "hsl(260deg, 54%, 15%)",
+    "type": "Radial"
+  },
+  "Visibility": "Public",
+  "Type": "FBX",
+  "Licence": "CC0 1.0",
+  "Animated": true,
+  "sourceUrl": "https://poly.pizza/m/3aQgc75sUR",
+  "downloadUrl": "https://static.poly.pizza/71cadefd-8e65-423a-9a95-3cdf7e012586.glb",
+  "sha256": "050fe9f39c61f62c00691303fa44f85cbd6548d385f27d95011fa9936d2b48a3",
+  "sourcePageSha256": "d59e1b8f7d3f5a7960d9f4108e8159190724089a8912cba1f26bd20a3f2bae65",
+  "retrieved": "2026-10-22T11:02:51.788Z",
+  "sourcePageRetrieved": "2026-10-22T11:02:51.005Z",
+  "verifiedAt": "2026-10-22T11:21:06.000Z",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+}

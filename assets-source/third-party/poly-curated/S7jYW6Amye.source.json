@@ -1,0 +1,48 @@
+{
+  "Title": "Blue Demon",
+  "UploadDate": "2022-10-23T10:14:00.440Z",
+  "ResourceID": "6fbb8914-bd11-45e1-a906-51ace2ca5d2d",
+  "PublicID": "S7jYW6Amye",
+  "Likes": 11,
+  "CommentCount": 0,
+  "Tris": 4456,
+  "Views": "2.48k",
+  "Downloads": "3.88k",
+  "Creator": {
+    "Username": "Quaternius",
+    "DPURL": "https://static.poly.pizza/dp%2Ff63b655a-051c-4c4b-8dcc-3b346a39ece0.jpg",
+    "Socials": {
+      "Twitter": "quaternius",
+      "Pateron": "quaternius",
+      "Website": "https://quaternius.com/"
+    }
+  },
+  "Category": "People & Characters",
+  "Tags": [
+    "Orc",
+    "Goblin",
+    "Monster"
+  ],
+  "Orbit": {
+    "phi": "1.30900",
+    "radius": "100%",
+    "theta": "0.00000"
+  },
+  "Background": {
+    "one": "#5e35b1",
+    "two": "hsl(260deg, 54%, 15%)",
+    "type": "Radial"
+  },
+  "Visibility": "Public",
+  "Type": "FBX",
+  "Licence": "CC0 1.0",
+  "Animated": true,
+  "sourceUrl": "https://poly.pizza/m/S7jYW6Amye",
+  "downloadUrl": "https://static.poly.pizza/6fbb8914-bd11-45e1-a906-51ace2ca5d2d.glb",
+  "sha256": "6a8e743deba6f43f0f9b1e702016b04ddba1d3bf73b7101d2c86d64ae526f87c",
+  "sourcePageSha256": "eaad1d8fbd0297e1cad2fccf961188d766691a1fe1ed1c44913d7b4a21860ae6",
+  "retrieved": "2026-10-21T21:14:04.252Z",
+  "sourcePageRetrieved": "2026-10-21T21:14:03.977Z",
+  "verifiedAt": "2026-10-22T11:21:05.854Z",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+}

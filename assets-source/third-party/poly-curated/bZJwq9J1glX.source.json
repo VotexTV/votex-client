@@ -1,0 +1,46 @@
+{
+  "Title": "Antler",
+  "Description": "#antler #horn #deer #branch",
+  "UploadDate": "2017-09-28T20:00:37.752Z",
+  "ResourceID": "76c899dd-41a2-4896-ae06-685199c883b0",
+  "PublicID": "bZJwq9J1glX",
+  "Likes": 0,
+  "CommentCount": 0,
+  "Tris": 424,
+  "Views": "1.87k",
+  "Downloads": 69,
+  "Creator": {
+    "Username": "Poly by Google",
+    "DPURL": "https://static.poly.pizza/dp%2Fpolygoogle.jpg",
+    "Socials": {}
+  },
+  "Category": "Objects",
+  "Tags": [
+    "antler",
+    "horn",
+    "deer",
+    "branch"
+  ],
+  "Orbit": {
+    "phi": "1.31884",
+    "radius": "110%",
+    "theta": "0.87089"
+  },
+  "Background": {
+    "one": "#00acc1",
+    "two": "hsl(187deg, 100%, 15%)",
+    "type": "Radial"
+  },
+  "Visibility": "Public",
+  "Type": "obj",
+  "Licence": "CC-BY 3.0",
+  "Animated": false,
+  "sourceUrl": "https://poly.pizza/m/bZJwq9J1glX",
+  "downloadUrl": "https://static.poly.pizza/76c899dd-41a2-4896-ae06-685199c883b0.glb",
+  "sha256": "8f540e803f3821dbb2a44ffa2ac26c4e3101602cd20a389682521fdbcde70422",
+  "sourcePageSha256": "19f5c284d98157ea0a58305c639ea75b70a2b6993d3ab89b39959d15ceab55dd",
+  "retrieved": "2026-10-22T11:05:57.788Z",
+  "sourcePageRetrieved": "2026-10-22T11:05:57.558Z",
+  "verifiedAt": "2026-10-22T11:21:06.160Z",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/"
+}

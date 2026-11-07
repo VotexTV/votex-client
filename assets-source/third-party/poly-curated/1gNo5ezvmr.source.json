@@ -1,0 +1,49 @@
+{
+  "Title": "Robot Enemy",
+  "Description": " ",
+  "UploadDate": "2022-08-28T11:14:00.408Z",
+  "ResourceID": "9c45ab2b-c46a-4319-bc2a-88d6dbbc8e42",
+  "PublicID": "1gNo5ezvmr",
+  "Likes": 9,
+  "CommentCount": 0,
+  "Tris": 4380,
+  "Views": "1.98k",
+  "Downloads": "1.86k",
+  "Creator": {
+    "Username": "Quaternius",
+    "DPURL": "https://static.poly.pizza/dp%2Ff63b655a-051c-4c4b-8dcc-3b346a39ece0.jpg",
+    "Socials": {
+      "Twitter": "quaternius",
+      "Pateron": "quaternius",
+      "Website": "https://quaternius.com/"
+    }
+  },
+  "Category": "Objects",
+  "Tags": [
+    "NPC",
+    "Enemy",
+    "Robot"
+  ],
+  "Orbit": {
+    "phi": "1.31687",
+    "radius": "1.907608237042058",
+    "theta": "-0.20472"
+  },
+  "Background": {
+    "one": "#5e35b1",
+    "two": "hsl(260deg, 54%, 15%)",
+    "type": "Radial"
+  },
+  "Visibility": "Public",
+  "Type": "FBX",
+  "Licence": "CC0 1.0",
+  "Animated": true,
+  "sourceUrl": "https://poly.pizza/m/1gNo5ezvmr",
+  "downloadUrl": "https://static.poly.pizza/9c45ab2b-c46a-4319-bc2a-88d6dbbc8e42.glb",
+  "sha256": "d5d1de1481560415c9006dd1989c2dd09ee1b59955c43bcd8d331445a5e69cb7",
+  "sourcePageSha256": "a93704dddb38ab264a137f9e5df50b144473c5e409773f0603e6b729b823b425",
+  "retrieved": "2026-10-21T21:14:12.256Z",
+  "sourcePageRetrieved": "2026-10-21T21:14:11.773Z",
+  "verifiedAt": "2026-10-22T11:21:06.044Z",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+}

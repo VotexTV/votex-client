@@ -1,0 +1,48 @@
+{
+  "Title": "Shark",
+  "UploadDate": "2022-06-20T13:20:13.610Z",
+  "ResourceID": "fdcb48e0-c02a-431d-a648-6a3b11e54f82",
+  "PublicID": "sZR8AMLMz5",
+  "Likes": 2,
+  "CommentCount": 0,
+  "Tris": 1310,
+  "Views": 874,
+  "Downloads": "2.57k",
+  "Creator": {
+    "Username": "Quaternius",
+    "DPURL": "https://static.poly.pizza/dp%2Ff63b655a-051c-4c4b-8dcc-3b346a39ece0.jpg",
+    "Socials": {
+      "Twitter": "quaternius",
+      "Pateron": "quaternius",
+      "Website": "https://quaternius.com/"
+    }
+  },
+  "Category": "Animals",
+  "Tags": [
+    "Fish",
+    "Animal",
+    "Sea Life"
+  ],
+  "Orbit": {
+    "phi": "1.29325",
+    "radius": "100%",
+    "theta": "0.86610"
+  },
+  "Background": {
+    "one": "#039be5",
+    "two": "hsl(200deg, 97%, 15%)",
+    "type": "Radial"
+  },
+  "Visibility": "Public",
+  "Type": "FBX",
+  "Licence": "CC0 1.0",
+  "Animated": true,
+  "sourceUrl": "https://poly.pizza/m/sZR8AMLMz5",
+  "downloadUrl": "https://static.poly.pizza/fdcb48e0-c02a-431d-a648-6a3b11e54f82.glb",
+  "sha256": "c6a8b6e3baefd2a8e324e11c449366ca14d1be152c65643d2347baf50e243ba6",
+  "sourcePageSha256": "7b48d5e185f95834e0f6acd69fa22abe365584817f583751bcf00518a0d68824",
+  "retrieved": "2026-10-22T11:02:22.323Z",
+  "sourcePageRetrieved": "2026-10-22T11:02:21.969Z",
+  "verifiedAt": "2026-10-22T11:21:05.964Z",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+}

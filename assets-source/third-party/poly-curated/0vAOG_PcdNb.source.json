@@ -1,0 +1,50 @@
+{
+  "Title": "Propeller hat",
+  "Description": "#silly #headware #accessory #cap",
+  "UploadDate": "2017-10-22T15:10:29.568Z",
+  "ResourceID": "7d709758-dc90-4a70-998f-07ec25ad7997",
+  "PublicID": "0vAOG_PcdNb",
+  "Likes": 4,
+  "CommentCount": 0,
+  "Tris": 608,
+  "Views": "1.88k",
+  "Downloads": 871,
+  "Creator": {
+    "Username": "jeremy",
+    "DPURL": "https://static.poly.pizza/dp%2Fa5e02278-d16e-4cbc-a709-114f417fe8ef.jpg",
+    "Socials": {
+      "Twitter": "astackofpaper",
+      "Instagram": "jedelblut",
+      "Website": "https://jeremy.toys"
+    }
+  },
+  "Category": "Objects",
+  "Tags": [
+    "silly",
+    "headware",
+    "accessory",
+    "cap"
+  ],
+  "Orbit": {
+    "phi": "1.31884",
+    "radius": "14.725367989502653",
+    "theta": "0.87089"
+  },
+  "Background": {
+    "one": "#5e35b1",
+    "two": "hsl(260deg, 54%, 15%)",
+    "type": "Radial"
+  },
+  "Visibility": "Public",
+  "Type": "obj",
+  "Licence": "CC-BY 3.0",
+  "Animated": false,
+  "sourceUrl": "https://poly.pizza/m/0vAOG_PcdNb",
+  "downloadUrl": "https://static.poly.pizza/7d709758-dc90-4a70-998f-07ec25ad7997.glb",
+  "sha256": "5d5f5c3a4baa36f4e4067c5a2bd257bef0e4112b3562e77e83b4f1fe1ca70fb8",
+  "sourcePageSha256": "a5da3e1b5bb83adba7bd95c32395b109129df336a2301aa622f1de0749d5796e",
+  "retrieved": "2026-10-22T11:06:35.919Z",
+  "sourcePageRetrieved": "2026-10-22T11:06:35.708Z",
+  "verifiedAt": "2026-10-22T11:21:06.177Z",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/"
+}

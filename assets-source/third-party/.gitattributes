@@ -1,0 +1,3 @@
+# Provenance manifests hash the original fixture bytes.
+kenney-curated/** -text -whitespace
+poly-curated/** -text -whitespace

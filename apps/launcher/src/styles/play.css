@@ -1,0 +1,461 @@
+/* Play is a quiet, full-height character showcase. */
+.app-shell[data-page="play"] .page-content {
+  padding: 0;
+  overflow: hidden;
+  display: flex;
+}
+.app-shell[data-page="play"] .page-enter {
+  width: 100%;
+  height: 100%;
+  min-height: 0;
+  display: flex;
+}
+.app-shell[data-page="play"] .topbar {
+  height: 52px;
+  background: transparent;
+  border-bottom: 0;
+}
+.app-shell[data-page="play"] .breadcrumb,
+.app-shell[data-page="play"] .active-instance,
+.app-shell[data-page="play"] .quick-search-trigger {
+  visibility: hidden;
+}
+.play-stage {
+  position: relative;
+  isolation: isolate;
+  width: 100%;
+  flex: 1;
+  min-height: 0;
+  overflow: hidden;
+  background:
+    radial-gradient(
+      ellipse at 50% 44%,
+      color-mix(in srgb, var(--accent) 6%, transparent),
+      transparent 62%
+    ),
+    color-mix(in srgb, var(--bg) 94%, #020911);
+}
+.play-motion-switch {
+  position: absolute;
+  z-index: 3;
+  top: 17px;
+  right: 26px;
+}
+.play-motion-switch .toggle-row {
+  gap: 12px;
+  padding: 0;
+  border: 0;
+  font-size: 11px;
+  color: var(--muted);
+}
+.play-character {
+  position: absolute;
+  left: 50%;
+  top: 46%;
+  transform: translate(-50%, -50%);
+  width: min(440px, 75%);
+  height: 78%;
+  min-height: 200px;
+  max-height: 640px;
+  z-index: 1;
+}
+.play-character .skin-stage {
+  width: 100%;
+  height: 100%;
+  background: none;
+  border: 0;
+  border-radius: 0;
+}
+.play-character .studio-ground {
+  display: none;
+}
+.play-character canvas {
+  width: 100% !important;
+  height: 100% !important;
+  cursor: grab;
+}
+.play-character canvas:active {
+  cursor: grabbing;
+}
+.play-cube-field {
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  perspective: 900px;
+  overflow: hidden;
+}
+.play-cube-drift {
+  position: absolute;
+  left: var(--cube-x);
+  top: var(--cube-y);
+  width: var(--cube-size);
+  height: var(--cube-size);
+  opacity: var(--cube-alpha);
+  animation: play-cube-drift var(--cube-time) ease-in-out var(--cube-delay)
+    infinite alternate;
+  animation-play-state: paused;
+}
+.play-cube {
+  width: 100%;
+  height: 100%;
+  transform-style: preserve-3d;
+  transform: rotateX(24deg) rotateY(32deg) rotateZ(8deg);
+  animation: play-cube-turn calc(var(--cube-time) * 1.8) linear
+    var(--cube-delay) infinite;
+  animation-play-state: paused;
+}
+.play-cube i {
+  position: absolute;
+  inset: 0;
+  border: 1px solid color-mix(in srgb, var(--accent) 88%, var(--secondary));
+  background: color-mix(in srgb, var(--accent) 8%, transparent);
+}
+.play-cube i:nth-child(1) {
+  transform: translateZ(calc(var(--cube-size) / 2));
+}
+.play-cube i:nth-child(2) {
+  transform: rotateY(180deg) translateZ(calc(var(--cube-size) / 2));
+}
+.play-cube i:nth-child(3) {
+  transform: rotateY(90deg) translateZ(calc(var(--cube-size) / 2));
+}
+.play-cube i:nth-child(4) {
+  transform: rotateY(-90deg) translateZ(calc(var(--cube-size) / 2));
+}
+.play-cube i:nth-child(5) {
+  transform: rotateX(90deg) translateZ(calc(var(--cube-size) / 2));
+}
+.play-cube i:nth-child(6) {
+  transform: rotateX(-90deg) translateZ(calc(var(--cube-size) / 2));
+}
+.play-stage[data-motion="true"] .play-cube-drift,
+.play-stage[data-motion="true"] .play-cube {
+  animation-play-state: running;
+}
+html[data-hidden="true"] .play-cube-drift,
+html[data-hidden="true"] .play-cube,
+html[data-reduced="true"] .play-cube-drift,
+html[data-reduced="true"] .play-cube {
+  animation-play-state: paused !important;
+}
+@keyframes play-cube-drift {
+  from {
+    transform: translate3d(-8px, 10px, 0);
+  }
+  to {
+    transform: translate3d(18px, -30px, 0);
+  }
+}
+@keyframes play-cube-turn {
+  from {
+    transform: rotateX(24deg) rotateY(32deg) rotateZ(8deg);
+  }
+  to {
+    transform: rotateX(204deg) rotateY(392deg) rotateZ(188deg);
+  }
+}
+.play-launch-dock {
+  position: absolute;
+  z-index: 3;
+  bottom: clamp(35px, 13%, 120px);
+  left: 50%;
+  transform: translateX(-50%);
+  width: min(370px, calc(100% - 40px));
+  text-align: center;
+}
+.play-target-switch {
+  display: flex;
+  justify-content: center;
+  gap: 5px;
+  margin-bottom: 13px;
+}
+.play-target-switch button {
+  padding: 5px 13px;
+  border-radius: 99px;
+  background: transparent;
+  color: var(--muted);
+  font-size: 10px;
+  transition:
+    background 220ms,
+    color 220ms;
+}
+.play-target-switch button[aria-pressed="true"] {
+  background: color-mix(in srgb, var(--accent) 13%, transparent);
+  color: var(--text);
+}
+.play-launch-group {
+  display: flex;
+  min-height: 68px;
+  border: 1px solid color-mix(in srgb, var(--accent) 58%, transparent);
+  border-radius: var(--radius);
+  box-shadow:
+    0 5px 30px #0004,
+    0 0 28px color-mix(in srgb, var(--accent) 6%, transparent);
+  background: color-mix(in srgb, var(--bg) 72%, var(--accent));
+  backdrop-filter: blur(var(--blur));
+  overflow: hidden;
+}
+.play-launch-primary {
+  display: flex;
+  flex: 1;
+  gap: 19px;
+  align-items: center;
+  justify-content: center;
+  min-width: 0;
+  padding: 12px 18px;
+  background: transparent;
+  color: var(--text);
+}
+.play-launch-primary:hover:not(:disabled),
+.play-launch-picker:hover:not(:disabled) {
+  background: color-mix(in srgb, var(--accent) 20%, transparent);
+  color: var(--text);
+}
+.play-launch-primary:disabled {
+  opacity: 0.55;
+  cursor: default;
+}
+.play-launch-primary span {
+  display: grid;
+  gap: 5px;
+  min-width: 0;
+  text-align: center;
+}
+.play-launch-primary strong {
+  font-size: 18px;
+  font-weight: 650;
+  letter-spacing: 1px;
+}
+.play-launch-primary small {
+  max-width: 230px;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  color: var(--muted);
+  font-size: 11px;
+}
+.play-launch-picker {
+  width: 57px;
+  flex-shrink: 0;
+  display: grid;
+  place-items: center;
+  border-left: 1px solid color-mix(in srgb, var(--accent) 35%, transparent);
+  background: transparent;
+  color: var(--text);
+}
+.play-launch-detail {
+  font-size: 10px;
+  color: var(--muted);
+  margin: 11px 0 0;
+  overflow-wrap: anywhere;
+}
+.play-options {
+  position: absolute;
+  z-index: 12;
+  bottom: calc(100% + 12px);
+  width: 100%;
+  padding: 16px;
+  border: 1px solid var(--hairline);
+  border-radius: var(--radius);
+  background: color-mix(in srgb, var(--bg) 94%, var(--accent));
+  box-shadow: 0 16px 70px #0007;
+  text-align: left;
+  animation: play-options-in 260ms cubic-bezier(0.16, 1, 0.3, 1);
+  transform-origin: 50% 100%;
+}
+.play-options header {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 12px;
+  margin-bottom: 12px;
+}
+.play-options header button {
+  margin-left: auto;
+  color: var(--muted);
+  background: none;
+  font-size: 20px;
+}
+.play-options label {
+  display: grid;
+  gap: 6px;
+  margin: 10px 0;
+  color: var(--muted);
+  font-size: 10px;
+}
+.play-runtime-card {
+  display: grid;
+  gap: 8px;
+  margin-top: 12px;
+  padding: 12px;
+  border: 1px solid color-mix(in srgb, var(--accent) 28%, var(--hairline));
+  border-radius: calc(var(--radius) * 0.85);
+  background:
+    radial-gradient(
+      ellipse at 5% 0%,
+      color-mix(in srgb, var(--accent) 13%, transparent),
+      transparent 68%
+    ),
+    color-mix(
+      in srgb,
+      var(--tint) calc(var(--glass-opacity) * 100%),
+      transparent
+    );
+  box-shadow: inset 0 1px 0 color-mix(in srgb, white 8%, transparent);
+  backdrop-filter: blur(calc(var(--blur) * 0.7));
+}
+.play-runtime-card > strong {
+  color: var(--text);
+  font-size: 11px;
+  font-weight: 650;
+}
+.play-runtime-engine {
+  padding: 9px 11px;
+  border: 1px solid color-mix(in srgb, var(--accent) 36%, var(--hairline));
+  border-radius: 999px;
+  background: color-mix(in srgb, var(--accent) 10%, var(--tint));
+  color: var(--text);
+  font-size: 11px;
+}
+.play-runtime-card p,
+.play-runtime-card small {
+  margin: 0;
+  color: var(--muted);
+  font-size: 10px;
+  line-height: 1.55;
+}
+.play-runtime-card .play-runtime-warning {
+  color: color-mix(in srgb, #ffcb72 78%, var(--text));
+}
+.play-runtime-actions {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 8px 12px;
+}
+.play-runtime-actions .btn {
+  min-height: 32px;
+  padding: 7px 10px;
+  border-radius: 999px;
+  font-size: 10px;
+}
+.play-runtime-actions a {
+  color: var(--accent);
+  font-size: 9px;
+  text-decoration: none;
+}
+.play-runtime-actions a:hover {
+  text-decoration: underline;
+}
+.play-options input {
+  width: 100%;
+  min-width: 0;
+  padding: 10px 12px;
+  border-radius: var(--radius);
+}
+.play-options .select-trigger {
+  width: 100%;
+}
+.play-launch-progress {
+  position: absolute;
+  top: calc(100% + 35px);
+  width: 100%;
+  font-size: 10px;
+  color: var(--muted);
+  display: grid;
+  gap: 8px;
+}
+.play-launch-progress progress {
+  width: 100%;
+  height: 3px;
+  accent-color: var(--accent);
+}
+@keyframes play-options-in {
+  from {
+    opacity: 0;
+    transform: translateY(8px) scale(0.96);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+  }
+}
+@media (prefers-reduced-motion: reduce) {
+  .play-cube-drift,
+  .play-cube {
+    animation: none;
+  }
+  .play-options {
+    animation: none;
+  }
+}
+@container workspace (max-width:600px) {
+  .play-motion-switch {
+    right: 16px;
+    top: 10px;
+  }
+  .play-character {
+    width: 90%;
+    height: 80%;
+  }
+  .play-launch-dock {
+    bottom: 10%;
+  }
+  .play-launch-primary strong {
+    font-size: 16px;
+  }
+}
+.app-shell[data-short="true"] .play-launch-dock {
+  bottom: 36px;
+}
+.app-shell[data-short="true"] .play-character {
+  top: 43%;
+  height: 88%;
+}
+.skin-stage > canvas[hidden] {
+  display: none !important;
+}
+.skin-fallback {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 14px;
+  color: var(--text);
+  background: transparent;
+}
+.skin-fallback > span {
+  padding: 5px 11px;
+  background: #07101b99;
+  border-radius: 5px;
+  font-weight: 600;
+  font-size: 16px;
+}
+.skin-fallback > canvas {
+  height: 65% !important;
+  width: auto !important;
+  image-rendering: pixelated;
+  background: transparent;
+}
+.skin-fallback > small {
+  font-size: 9px;
+  color: var(--muted);
+}
+html[data-reduced="true"] .play-options {
+  animation: none;
+}
+.app-shell[data-page="play"] .scale-reset {
+  visibility: hidden;
+}
+.play-options {
+  max-height: max(160px, calc(var(--viewport-height) - 300px));
+  overflow: auto;
+  overscroll-behavior: contain;
+}
+.play-launch-primary:focus-visible,
+.play-launch-picker:focus-visible,
+.play-target-switch button:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: -4px;
+}

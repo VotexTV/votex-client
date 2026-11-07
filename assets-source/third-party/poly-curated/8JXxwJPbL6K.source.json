@@ -1,0 +1,43 @@
+{
+  "Title": "Bunny ears",
+  "Description": "#bunny\n#ears\n",
+  "UploadDate": "2017-10-22T19:07:59.034Z",
+  "ResourceID": "d56f8a17-d846-4b8d-9528-fb40a5993cfa",
+  "PublicID": "8JXxwJPbL6K",
+  "Likes": 2,
+  "CommentCount": 0,
+  "Tris": 471,
+  "Views": 829,
+  "Downloads": 291,
+  "Creator": {
+    "Username": "Poly by Google",
+    "DPURL": "https://static.poly.pizza/dp%2Fpolygoogle.jpg",
+    "Socials": {}
+  },
+  "Category": "Objects",
+  "Tags": [
+    "bunny\nears\n"
+  ],
+  "Orbit": {
+    "phi": "1.56505",
+    "radius": "314.60737716119894",
+    "theta": "-0.02038"
+  },
+  "Background": {
+    "one": "#757575",
+    "two": "hsl(0deg, 0%, 15%)",
+    "type": "Radial"
+  },
+  "Visibility": "Public",
+  "Type": "obj",
+  "Licence": "CC-BY 3.0",
+  "Animated": false,
+  "sourceUrl": "https://poly.pizza/m/8JXxwJPbL6K",
+  "downloadUrl": "https://static.poly.pizza/d56f8a17-d846-4b8d-9528-fb40a5993cfa.glb",
+  "sha256": "91417bf7bd8c7437b30b6dd85cef44edaa782cf9576aa2dad810ce0c9aef58cd",
+  "sourcePageSha256": "028d6cce885c0b6531ccd39d3a360606735674f60b5da674d1ffd79cca414607",
+  "retrieved": "2026-10-22T11:05:40.470Z",
+  "sourcePageRetrieved": "2026-10-22T11:05:40.250Z",
+  "verifiedAt": "2026-10-22T11:21:06.149Z",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/"
+}

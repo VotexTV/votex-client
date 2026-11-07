@@ -1,0 +1,46 @@
+{
+  "Title": "Shield Celtic Golden",
+  "UploadDate": "2021-08-30T11:01:39.861Z",
+  "ResourceID": "3543f36f-1135-4ece-9c4e-666ce413b330",
+  "PublicID": "neNWPt8WAx",
+  "Likes": 3,
+  "CommentCount": 0,
+  "Tris": 0,
+  "Views": 485,
+  "Downloads": "2.82k",
+  "Creator": {
+    "Username": "Quaternius",
+    "DPURL": "https://static.poly.pizza/dp%2Ff63b655a-051c-4c4b-8dcc-3b346a39ece0.jpg",
+    "Socials": {
+      "Twitter": "quaternius",
+      "Pateron": "quaternius",
+      "Website": "https://quaternius.com/"
+    }
+  },
+  "Category": "Weapons",
+  "Tags": [
+    "Armor"
+  ],
+  "Orbit": {
+    "phi": "1.29323",
+    "radius": "100%",
+    "theta": "-0.03942"
+  },
+  "Background": {
+    "one": "#546e7a",
+    "two": "hsl(199deg, 18%, 15%)",
+    "type": "Radial"
+  },
+  "Visibility": "Public",
+  "Type": "FBX",
+  "Licence": "CC0 1.0",
+  "Animated": false,
+  "sourceUrl": "https://poly.pizza/m/neNWPt8WAx",
+  "downloadUrl": "https://static.poly.pizza/3543f36f-1135-4ece-9c4e-666ce413b330.glb",
+  "sha256": "189ae922fd481230b35042676a6b4a081fc078fc2ddebcf0b0094374b87af236",
+  "sourcePageSha256": "5b02960e1b84d2258b0af61ee30982c1a97ce1668c3774be0c620e55804c7cfe",
+  "retrieved": "2026-10-22T11:04:14.907Z",
+  "sourcePageRetrieved": "2026-10-22T11:04:14.691Z",
+  "verifiedAt": "2026-10-22T11:21:06.078Z",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+}

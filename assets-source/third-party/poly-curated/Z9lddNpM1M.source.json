@@ -1,0 +1,47 @@
+{
+  "Title": "Glub Evolved",
+  "UploadDate": "2022-10-23T01:01:43.121Z",
+  "ResourceID": "27590c4e-41ee-41b5-aaaa-581de0031605",
+  "PublicID": "Z9lddNpM1M",
+  "Likes": 1,
+  "CommentCount": 0,
+  "Tris": 2372,
+  "Views": 496,
+  "Downloads": "3.49k",
+  "Creator": {
+    "Username": "Quaternius",
+    "DPURL": "https://static.poly.pizza/dp%2Ff63b655a-051c-4c4b-8dcc-3b346a39ece0.jpg",
+    "Socials": {
+      "Twitter": "quaternius",
+      "Pateron": "quaternius",
+      "Website": "https://quaternius.com/"
+    }
+  },
+  "Category": "Animals",
+  "Tags": [
+    "enemy",
+    "Monster"
+  ],
+  "Orbit": {
+    "phi": "1.37207",
+    "radius": "100%",
+    "theta": "-0.03153"
+  },
+  "Background": {
+    "one": "#5e35b1",
+    "two": "hsl(260deg, 54%, 15%)",
+    "type": "Radial"
+  },
+  "Visibility": "Public",
+  "Type": "FBX",
+  "Licence": "CC0 1.0",
+  "Animated": true,
+  "sourceUrl": "https://poly.pizza/m/Z9lddNpM1M",
+  "downloadUrl": "https://static.poly.pizza/27590c4e-41ee-41b5-aaaa-581de0031605.glb",
+  "sha256": "cc85f0fe7fa65b9fcbe35fddfc38f28ba564b20533a520b42f2bbb339903a878",
+  "sourcePageSha256": "70f25f6dfb34a55c0f915d6c0616fdaff5d225e942ee98f6da82b069ce6ae1e0",
+  "retrieved": "2026-10-21T21:14:04.918Z",
+  "sourcePageRetrieved": "2026-10-21T21:14:04.860Z",
+  "verifiedAt": "2026-10-22T11:21:05.872Z",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+}

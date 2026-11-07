@@ -1,0 +1,61 @@
+{
+  "$schema": "https://schema.tauri.app/config/2",
+  "productName": "Votex Client",
+  "version": "5.7.0",
+  "identifier": "dev.votex.client",
+  "build": {
+    "beforeDevCommand": {
+      "script": "node node_modules/vite/bin/vite.js --config apps/launcher/vite.config.ts",
+      "cwd": "../../.."
+    },
+    "devUrl": "http://127.0.0.1:1420",
+    "beforeBuildCommand": {
+      "script": "node scripts/build-frontend.mjs",
+      "cwd": "../../.."
+    },
+    "frontendDist": "../dist"
+  },
+  "app": {
+    "windows": [
+      {
+        "label": "main",
+        "title": "Votex Client",
+        "width": 1280,
+        "height": 800,
+        "minWidth": 800,
+        "minHeight": 560,
+        "decorations": false,
+        "dragDropEnabled": false,
+        "backgroundColor": "#080B14"
+      }
+    ],
+    "security": {
+      "csp": "default-src 'self'; script-src 'self'; style-src 'self' 'unsafe-inline'; img-src 'self' data: blob: https://cdn.modrinth.com https://textures.minecraft.net https://media.forgecdn.net https://mediafilez.forgecdn.net; connect-src 'self' ipc: http://ipc.localhost http://127.0.0.1:1420 ws://127.0.0.1:1420; font-src 'self'; media-src 'self' blob: data:; object-src 'none'; frame-src 'none'; base-uri 'self'"
+    }
+  },
+  "bundle": {
+    "useLocalToolsDir": true,
+    "icon": [
+      "icons/icon.ico",
+      "icons/icon.png"
+    ],
+    "resources": [
+      "resources/votex-client-core-0.4.1.jar"
+    ],
+    "active": true,
+    "targets": [
+      "nsis"
+    ],
+    "shortDescription": "Votex Minecraft Launcher Preview",
+    "category": "Game",
+    "windows": {
+      "nsis": {
+        "displayLanguageSelector": true,
+        "languages": [
+          "English",
+          "German"
+        ]
+      }
+    }
+  }
+}
